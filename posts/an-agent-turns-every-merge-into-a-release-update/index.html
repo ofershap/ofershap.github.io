@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>An agent turns every merge into a release update</title>
+<meta name="description" content="I added an agent to our CI pipeline that explains every production merge in plain language and posts the update to Slack.">
+<link rel="canonical" href="https://ofershap.github.io/posts/an-agent-turns-every-merge-into-a-release-update/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="An agent turns every merge into a release update">
+<meta property="og:description" content="I added an agent to our CI pipeline that explains every production merge in plain language and posts the update to Slack.">
+<meta property="og:url" content="https://ofershap.github.io/posts/an-agent-turns-every-merge-into-a-release-update/">
+<meta property="og:image" content="https://ofershap.github.io/posts/an-agent-turns-every-merge-into-a-release-update/image-0.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="An agent turns every merge into a release update">
+<meta name="twitter:description" content="I added an agent to our CI pipeline that explains every production merge in plain language and posts the update to Slack.">
+<meta name="twitter:image" content="https://ofershap.github.io/posts/an-agent-turns-every-merge-into-a-release-update/image-0.webp">
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="/style.css">
+<!-- seo:start -->
+<link rel="alternate" type="application/rss+xml" title="Ofer Shapira" href="https://ofershap.github.io/feed.xml">
+<link rel="alternate" type="text/markdown" href="https://ofershap.github.io/posts/an-agent-turns-every-merge-into-a-release-update/index.md">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"An agent turns every merge into a release update","description":"I added an agent to our CI pipeline that explains every production merge in plain language and posts the update to Slack.","datePublished":"2026-06-29","dateModified":"2026-06-29","inLanguage":"en","mainEntityOfPage":{"@type":"WebPage","@id":"https://ofershap.github.io/posts/an-agent-turns-every-merge-into-a-release-update/"},"author":{"@type":"Person","name":"Ofer Shapira","url":"https://ofershap.github.io/","sameAs":["https://github.com/ofershap","https://www.linkedin.com/in/ofershap/","https://gitshow.dev/ofershap","https://x.com/ofershap"]},"publisher":{"@type":"Person","name":"Ofer Shapira","url":"https://ofershap.github.io/","sameAs":["https://github.com/ofershap","https://www.linkedin.com/in/ofershap/","https://gitshow.dev/ofershap","https://x.com/ofershap"]},"url":"https://ofershap.github.io/posts/an-agent-turns-every-merge-into-a-release-update/","image":["https://ofershap.github.io/posts/an-agent-turns-every-merge-into-a-release-update/image-0.webp"]}</script>
+<!-- seo:end -->
+</head>
+<body>
+<header>
+  <span class="site-name"><a href="/">Ofer Shapira</a></span>
+  <nav>
+    <a href="https://github.com/ofershap">GitHub</a>
+    <a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a>
+  </nav>
+</header>
+<main>
+  <h1>An agent turns every merge into a release update</h1>
+  <p class="byline">June 29, 2026 &middot; 1 min read</p>
+  <p class="post-source">Originally posted on <a href="https://www.linkedin.com/posts/ofershap_%D7%9E%D7%90%D7%96-%D7%A9%D7%A2%D7%A9%D7%99%D7%AA%D7%99-%D7%90%D7%AA-%D7%96%D7%94-%D7%94%D7%A4%D7%A8%D7%95%D7%93%D7%A7%D7%98-%D7%95%D7%94%D7%AA%D7%9E%D7%99%D7%9B%D7%94-%D7%9C%D7%90-%D7%A4%D7%A0%D7%95-%D7%90%D7%9C%D7%99-activity-7477348241332830209-D4JJ">LinkedIn</a>, June 29, 2026.</p>
+
+<p>Since I added this, the product and support teams have stopped asking me for updates.</p>
+
+<p>One of the most painful gaps in any engineering organization is the difference between what developers merge into production and what everyone else knows. Product, support, marketing, and the help center all need to know what shipped and when. They depend on a developer stopping their work to explain it in language they understand.</p>
+
+<p>Communicating the work is a big expectation to place on engineers. To put it mildly, not everyone has that skill.</p>
+
+<p>I found a simple way to close the gap. I added a cloud agent to our CI pipeline that runs automatically whenever code is merged into master. It reads the merged code and the PR description, translates them into clear language from a product perspective, and posts the result to a dedicated Slack channel. If the developer attached a Loom video, that is included too.</p>
+
+<p>It works better than I expected. Every message gives a simple, accurate explanation of the feature, often better than I could describe what went into production myself.</p>
+
+<p>We are already a large group, with dozens of features shipping every day. This channel keeps everyone in sync without anyone stopping to write an update. The help center stays current. Support turns the updates into answers and videos. Marketing uses them for the newsletter and other content. Product can try features behind a feature flag as soon as the update appears.</p>
+
+<p>The number of messages asking, “Has this shipped yet?” has dropped to zero. That saves developer time and gives end users better, more current information. It all comes from one simple agent in the build pipeline doing one job: translating code into human language without missing anything or getting tired.</p>
+
+<figure>
+    <img src="image-0.webp" alt="Illustration for “An agent turns every merge into a release update”">
+  </figure>
+
+  <footer>
+    <div class="links">
+      <a href="https://github.com/ofershap">GitHub</a>
+      <a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a>
+      <a href="https://gitshow.dev/ofershap">GitShow</a>
+    </div>
+    <p class="copyright">&copy; 2026 Ofer Shapira</p>
+  </footer>
+</main>
+</body>
+</html>

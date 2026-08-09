@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Managing Cursor through rules and context windows</title>
+<meta name="description" content="Cursor rules reduce assumptions, hallucinations, and mistakes, but they lose influence as the context window fills up.">
+<link rel="canonical" href="https://ofershap.github.io/posts/managing-cursor-through-rules-and-context-windows/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Managing Cursor through rules and context windows">
+<meta property="og:description" content="Cursor rules reduce assumptions, hallucinations, and mistakes, but they lose influence as the context window fills up.">
+<meta property="og:url" content="https://ofershap.github.io/posts/managing-cursor-through-rules-and-context-windows/">
+<meta property="og:image" content="https://ofershap.github.io/posts/managing-cursor-through-rules-and-context-windows/image-0.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Managing Cursor through rules and context windows">
+<meta name="twitter:description" content="Cursor rules reduce assumptions, hallucinations, and mistakes, but they lose influence as the context window fills up.">
+<meta name="twitter:image" content="https://ofershap.github.io/posts/managing-cursor-through-rules-and-context-windows/image-0.webp">
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="/style.css">
+<!-- seo:start -->
+<link rel="alternate" type="application/rss+xml" title="Ofer Shapira" href="https://ofershap.github.io/feed.xml">
+<link rel="alternate" type="text/markdown" href="https://ofershap.github.io/posts/managing-cursor-through-rules-and-context-windows/index.md">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"Managing Cursor through rules and context windows","description":"Cursor rules reduce assumptions, hallucinations, and mistakes, but they lose influence as the context window fills up.","datePublished":"2025-08-11","dateModified":"2025-08-11","inLanguage":"en","mainEntityOfPage":{"@type":"WebPage","@id":"https://ofershap.github.io/posts/managing-cursor-through-rules-and-context-windows/"},"author":{"@type":"Person","name":"Ofer Shapira","url":"https://ofershap.github.io/","sameAs":["https://github.com/ofershap","https://www.linkedin.com/in/ofershap/","https://gitshow.dev/ofershap","https://x.com/ofershap"]},"publisher":{"@type":"Person","name":"Ofer Shapira","url":"https://ofershap.github.io/","sameAs":["https://github.com/ofershap","https://www.linkedin.com/in/ofershap/","https://gitshow.dev/ofershap","https://x.com/ofershap"]},"url":"https://ofershap.github.io/posts/managing-cursor-through-rules-and-context-windows/","image":["https://ofershap.github.io/posts/managing-cursor-through-rules-and-context-windows/image-0.webp"]}</script>
+<!-- seo:end -->
+</head>
+<body>
+<header>
+  <span class="site-name"><a href="/">Ofer Shapira</a></span>
+  <nav>
+    <a href="https://github.com/ofershap">GitHub</a>
+    <a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a>
+  </nav>
+</header>
+<main>
+  <h1>Managing Cursor through rules and context windows</h1>
+  <p class="byline">August 11, 2025 &middot; 2 min read</p>
+  <p class="post-source">Originally posted on <a href="https://www.linkedin.com/posts/ofershap_%D7%9E%D7%93%D7%A8%D7%99%D7%9A-cursor-%D7%9C%D7%9E%D7%AA%D7%A7%D7%93%D7%9E%D7%99%D7%9D-context-window-is-activity-7360565724680978433-4Ew5">LinkedIn</a>, August 11, 2025.</p>
+
+<p>The context window is the new game we play with Cursor. To make it work properly, I created a set of cursor rules that load automatically at the start of every conversation. I wrote them in a martial arts tone so they would be short and token-efficient, since they are added to every conversation in always apply mode, and so Cursor would treat them as basic assumptions rather than requests.</p>
+
+<p>The rules tell it, among other things:</p>
+
+<ul>
+<li>Do not agree with me automatically.</li>
+<li>Check the code before every response.</li>
+<li>Do not change code unless necessary.</li>
+<li>Follow additional project-specific instructions.</li>
+</ul>
+
+<p>I noticed that as a work session gets longer and the context window fills up, Cursor forgets the rules. It simply stops following them, even though they appear at the beginning of the conversation. The only way to bring them back is to say: “read the rules”.</p>
+
+<p>The effect is striking. Cursor stops making assumptions and hallucinating, makes fewer mistakes, and starts following existing patterns. This is especially useful when I tell it to study the code or context before responding.</p>
+
+<p>I also added explicit instructions about what not to do:</p>
+
+<ul>
+<li>Do not add code comments unless I ask, in line with the team’s coding standard.</li>
+<li>Do not run <code>npm run</code>, because we use hot reload.</li>
+<li>Do not write documentation without being asked. There is probably a system prompt pushing it to do that.</li>
+</ul>
+
+<p>I added instructions for how to do certain things as well. These came from failed attempts where, after several iterations, we found the right approach and I captured it in a sentence inside the rules file:</p>
+
+<ul>
+<li>How to call GitHub and retrieve comments from a PR.</li>
+<li>How to use CURL when there is no MCP for a specific tool.</li>
+<li>How we write tests in the project.</li>
+</ul>
+
+<p>LLM-based programming now has 3 layers:</p>
+
+<ul>
+<li>The model layer: which model you use.</li>
+<li>The agent layer: which development tool you use.</li>
+<li>The rules layer: how you adapt it to your own needs.</li>
+</ul>
+
+<p>The third layer is what turns Cursor from an apprentice developer making educated guesses because it lacks enough context into a more attentive developer.</p>
+
+<figure>
+    <img src="image-0.webp" alt="Illustration for “Managing Cursor through rules and context windows”">
+  </figure>
+
+  <footer>
+    <div class="links">
+      <a href="https://github.com/ofershap">GitHub</a>
+      <a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a>
+      <a href="https://gitshow.dev/ofershap">GitShow</a>
+    </div>
+    <p class="copyright">&copy; 2026 Ofer Shapira</p>
+  </footer>
+</main>
+</body>
+</html>

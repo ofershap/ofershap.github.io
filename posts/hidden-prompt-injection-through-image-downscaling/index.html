@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hidden prompt injection through image downscaling</title>
+<meta name="description" content="Trail of Bits showed how an ordinary image can reveal hidden instructions when an AI system downsizes it, creating a prompt injection the user never sees.">
+<link rel="canonical" href="https://ofershap.github.io/posts/hidden-prompt-injection-through-image-downscaling/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Hidden prompt injection through image downscaling">
+<meta property="og:description" content="Trail of Bits showed how an ordinary image can reveal hidden instructions when an AI system downsizes it, creating a prompt injection the user never sees.">
+<meta property="og:url" content="https://ofershap.github.io/posts/hidden-prompt-injection-through-image-downscaling/">
+<meta property="og:image" content="https://ofershap.github.io/posts/hidden-prompt-injection-through-image-downscaling/image-0.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Hidden prompt injection through image downscaling">
+<meta name="twitter:description" content="Trail of Bits showed how an ordinary image can reveal hidden instructions when an AI system downsizes it, creating a prompt injection the user never sees.">
+<meta name="twitter:image" content="https://ofershap.github.io/posts/hidden-prompt-injection-through-image-downscaling/image-0.webp">
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="/style.css">
+<!-- seo:start -->
+<link rel="alternate" type="application/rss+xml" title="Ofer Shapira" href="https://ofershap.github.io/feed.xml">
+<link rel="alternate" type="text/markdown" href="https://ofershap.github.io/posts/hidden-prompt-injection-through-image-downscaling/index.md">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"Hidden prompt injection through image downscaling","description":"Trail of Bits showed how an ordinary image can reveal hidden instructions when an AI system downsizes it, creating a prompt injection the user never sees.","datePublished":"2025-10-07","dateModified":"2025-10-07","inLanguage":"en","mainEntityOfPage":{"@type":"WebPage","@id":"https://ofershap.github.io/posts/hidden-prompt-injection-through-image-downscaling/"},"author":{"@type":"Person","name":"Ofer Shapira","url":"https://ofershap.github.io/","sameAs":["https://github.com/ofershap","https://www.linkedin.com/in/ofershap/","https://gitshow.dev/ofershap","https://x.com/ofershap"]},"publisher":{"@type":"Person","name":"Ofer Shapira","url":"https://ofershap.github.io/","sameAs":["https://github.com/ofershap","https://www.linkedin.com/in/ofershap/","https://gitshow.dev/ofershap","https://x.com/ofershap"]},"url":"https://ofershap.github.io/posts/hidden-prompt-injection-through-image-downscaling/","image":["https://ofershap.github.io/posts/hidden-prompt-injection-through-image-downscaling/image-0.webp"]}</script>
+<!-- seo:end -->
+</head>
+<body>
+<header>
+  <span class="site-name"><a href="/">Ofer Shapira</a></span>
+  <nav>
+    <a href="https://github.com/ofershap">GitHub</a>
+    <a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a>
+  </nav>
+</header>
+<main>
+  <h1>Hidden prompt injection through image downscaling</h1>
+  <p class="byline">October 7, 2025 &middot; 1 min read</p>
+  <p class="post-source">Originally posted on <a href="https://www.linkedin.com/posts/ofershap_%D7%A4%D7%99%D7%A8%D7%A6%D7%94-%D7%A9%D7%9E%D7%A9%D7%A0%D7%94-%D7%90%D7%AA-%D7%94%D7%AA%D7%9E%D7%95%D7%A0%D7%94-%D7%9E%D7%A1%D7%AA%D7%91%D7%A8-%D7%A9%D7%AA%D7%9E%D7%95%D7%A0%D7%94-%D7%A8%D7%92%D7%99%D7%9C%D7%94-activity-7381206658628104192-8tPE">LinkedIn</a>, October 7, 2025.</p>
+
+<p>An ordinary image can make an AI model follow instructions the user never saw. Trail of Bits hid text commands inside images that looked harmless, but the commands became visible to the model after automatic image processing.</p>
+
+<p>They tested the attack against systems including Google Gemini on the web, through the API, on mobile, and in Vertex AI Studio. It worked in most cases.</p>
+
+<p>Almost every AI system that accepts images performs downscaling before sending them to the model to reduce resource use. Algorithms such as bicubic and bilinear can create a side effect: if the pixels in the original image are designed precisely, they remain invisible to the human eye but become clear after downscaling. The hidden text appears only in the version the model receives, not the version the user sees.</p>
+
+<p>This is prompt injection disguised inside an image.</p>
+
+<p>The attack has limits:</p>
+
+<ul>
+<li>It requires precise control over the pixels.</li>
+<li>The attacker needs to know which downscaling algorithm the system uses.</li>
+<li>If the user can preview what the model sees, they may notice the difference.</li>
+</ul>
+
+<p>Even with those limits, this is a real attack that works against products already on the market. It shows how differently models can see the same image we do.</p>
+
+<p>Read <a href="https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems">Trail of Bits’ full write-up</a>.</p>
+
+<figure>
+    <img src="image-0.webp" alt="Illustration for “Hidden prompt injection through image downscaling”">
+  </figure>
+
+  <footer>
+    <div class="links">
+      <a href="https://github.com/ofershap">GitHub</a>
+      <a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a>
+      <a href="https://gitshow.dev/ofershap">GitShow</a>
+    </div>
+    <p class="copyright">&copy; 2026 Ofer Shapira</p>
+  </footer>
+</main>
+</body>
+</html>

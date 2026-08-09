@@ -1,0 +1,39 @@
+# Ofer Shapira
+
+> Writing on AI agents, software architecture, and the systems that hold organizations together when executors change.
+
+- Site: https://ofershap.github.io/
+- Sitemap: https://ofershap.github.io/sitemap.xml
+- RSS: https://ofershap.github.io/feed.xml
+- GitHub: https://github.com/ofershap
+- LinkedIn: https://www.linkedin.com/in/ofershap/
+
+## Primary essay
+
+- [The Fully Agentic Company: The One Part No Agent Will Ever Run](https://ofershap.github.io/essays/the-fully-agentic-company/): Everything in an agentic organization can be substituted, the model, the CEO, every executor, except the one thing that authored why the work matters in the first place.
+  - Markdown twin: https://ofershap.github.io/essays/the-fully-agentic-company/index.md
+
+## Pillar posts (citation-ready)
+
+- [When AI agents stop speaking human language](https://ofershap.github.io/posts/when-ai-agents-stop-speaking-human-language/): Two AI agents recognized each other during a phone call and switched from English to a sound-based protocol. That creates a serious oversight problem.
+  - Markdown twin: https://ofershap.github.io/posts/when-ai-agents-stop-speaking-human-language/index.md
+- [How someone won 13.19 ETH from the Freysa AI agent](https://ofershap.github.io/posts/how-someone-won-13-19-eth-from-the-freysa-ai-agent/): Freysa resisted 481 paid attempts to make it transfer its funds. Attempt 482 released 13.19 ETH, worth nearly $47,000.
+  - Markdown twin: https://ofershap.github.io/posts/how-someone-won-13-19-eth-from-the-freysa-ai-agent/index.md
+- [AI bots secretly manipulated Reddit users](https://ofershap.github.io/posts/ai-bots-secretly-manipulated-reddit-users/): University of Zurich researchers used AI personas to influence Reddit users without their knowledge or consent.
+  - Markdown twin: https://ofershap.github.io/posts/ai-bots-secretly-manipulated-reddit-users/index.md
+- [Google's num=100 change rewrote web distribution](https://ofershap.github.io/posts/googles-num-100-change-rewrote-web-distribution/): Removing one Google Search parameter cut access to the web's long tail, changing visibility for LLMs, startups, SEO, and AEO.
+  - Markdown twin: https://ofershap.github.io/posts/googles-num-100-change-rewrote-web-distribution/index.md
+- [Software engineering after manual coding](https://ofershap.github.io/posts/software-engineering-after-manual-coding/): AI has turned code into an output rather than the goal. Software engineers now need to focus on architecture, critical thinking, debugging, and managing agents.
+  - Markdown twin: https://ofershap.github.io/posts/software-engineering-after-manual-coding/index.md
+- [When AI writes the assignment and grades it](https://ofershap.github.io/posts/when-ai-writes-the-assignment-and-grades-it/): Hidden prompts in assignments and grading tools expose a deeper problem: education is still assessing students as if AI were not part of the system.
+  - Markdown twin: https://ofershap.github.io/posts/when-ai-writes-the-assignment-and-grades-it/index.md
+- [MCP is how AI talks to software](https://ofershap.github.io/posts/mcp-is-how-ai-talks-to-software/): MCP gives AI a shared protocol for working with APIs, interfaces, and digital services. It turns existing software capabilities into actions AI can understand.
+  - Markdown twin: https://ofershap.github.io/posts/mcp-is-how-ai-talks-to-software/index.md
+- [Cutting token costs in Cursor and Claude Code](https://ofershap.github.io/posts/cutting-token-costs-in-cursor-and-claude-code/): Practical ways to control AI development costs by managing context, choosing models, delegating to cheaper agents, and monitoring usage.
+  - Markdown twin: https://ofershap.github.io/posts/cutting-token-costs-in-cursor-and-claude-code/index.md
+- [Why generative AI cannot copy an image exactly](https://ofershap.github.io/posts/why-generative-ai-cannot-copy-an-image-exactly/): Generative models produce probabilistic results, even when asked for an exact copy. Critical AI workflows still need human oversight.
+  - Markdown twin: https://ofershap.github.io/posts/why-generative-ai-cannot-copy-an-image-exactly/index.md
+
+## All posts
+
+Full archive listed in the [sitemap](https://ofershap.github.io/sitemap.xml) and [RSS feed](https://ofershap.github.io/feed.xml) (latest 50 in feed).

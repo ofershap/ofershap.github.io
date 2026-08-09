@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Using AI to analyze my team&#x27;s pull requests</title>
+<meta name="description" content="Cursor and Claude Code turn pull request history into a management and incident investigation tool.">
+<link rel="canonical" href="https://ofershap.github.io/posts/using-ai-to-analyze-my-teams-pull-requests/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Using AI to analyze my team&#x27;s pull requests">
+<meta property="og:description" content="Cursor and Claude Code turn pull request history into a management and incident investigation tool.">
+<meta property="og:url" content="https://ofershap.github.io/posts/using-ai-to-analyze-my-teams-pull-requests/">
+<meta property="og:image" content="https://ofershap.github.io/posts/using-ai-to-analyze-my-teams-pull-requests/image-0.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Using AI to analyze my team&#x27;s pull requests">
+<meta name="twitter:description" content="Cursor and Claude Code turn pull request history into a management and incident investigation tool.">
+<meta name="twitter:image" content="https://ofershap.github.io/posts/using-ai-to-analyze-my-teams-pull-requests/image-0.webp">
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="/style.css">
+<!-- seo:start -->
+<link rel="alternate" type="application/rss+xml" title="Ofer Shapira" href="https://ofershap.github.io/feed.xml">
+<link rel="alternate" type="text/markdown" href="https://ofershap.github.io/posts/using-ai-to-analyze-my-teams-pull-requests/index.md">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"Using AI to analyze my team's pull requests","description":"Cursor and Claude Code turn pull request history into a management and incident investigation tool.","datePublished":"2026-06-21","dateModified":"2026-06-21","inLanguage":"en","mainEntityOfPage":{"@type":"WebPage","@id":"https://ofershap.github.io/posts/using-ai-to-analyze-my-teams-pull-requests/"},"author":{"@type":"Person","name":"Ofer Shapira","url":"https://ofershap.github.io/","sameAs":["https://github.com/ofershap","https://www.linkedin.com/in/ofershap/","https://gitshow.dev/ofershap","https://x.com/ofershap"]},"publisher":{"@type":"Person","name":"Ofer Shapira","url":"https://ofershap.github.io/","sameAs":["https://github.com/ofershap","https://www.linkedin.com/in/ofershap/","https://gitshow.dev/ofershap","https://x.com/ofershap"]},"url":"https://ofershap.github.io/posts/using-ai-to-analyze-my-teams-pull-requests/","image":["https://ofershap.github.io/posts/using-ai-to-analyze-my-teams-pull-requests/image-0.webp"]}</script>
+<!-- seo:end -->
+</head>
+<body>
+<header>
+  <span class="site-name"><a href="/">Ofer Shapira</a></span>
+  <nav>
+    <a href="https://github.com/ofershap">GitHub</a>
+    <a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a>
+  </nav>
+</header>
+<main>
+  <h1>Using AI to analyze my team&#x27;s pull requests</h1>
+  <p class="byline">June 21, 2026 &middot; 1 min read</p>
+  <p class="post-source">Originally posted on <a href="https://www.linkedin.com/posts/ofershap_%D7%91%D7%AA%D7%95%D7%A8-%D7%A8%D7%90%D7%A9-%D7%A6%D7%95%D7%95%D7%AA-%D7%A4%D7%99%D7%AA%D7%95%D7%97-%D7%90%D7%97%D7%93-%D7%94%D7%93%D7%91%D7%A8%D7%99%D7%9D-%D7%94%D7%99%D7%95%D7%AA%D7%A8-%D7%A9%D7%99%D7%9E%D7%95%D7%A9%D7%99%D7%99%D7%9D-activity-7474342688310472705-v1mV">LinkedIn</a>, June 21, 2026.</p>
+
+<p>As an engineering team lead, one of the most useful things I do now is analyze my team&#x27;s Pull Requests with AI.</p>
+
+<p>I ask Cursor or Claude Code, connected to our repository through GitHub CLI, to analyze the PRs. It runs commands such as <code>gh pr list</code> with search filters and returns concrete findings. I can ask it to analyze the last sprint or quarter, show who worked most in a specific part of the codebase, identify bottlenecks, compare review activity, and find whose changes introduced more bugs.</p>
+
+<p>I also use it to investigate incidents. It can look for the Smoking gun behind a production incident or an increase in Errors found by our Observability tools. This gives me a clear picture of what each person did, where they contributed, and where they got stuck. It makes me a more precise, evidence-based manager.</p>
+
+<p>I keep making the same argument: we are moving from being data-driven to AI-driven. Data analysis and drawing conclusions used to take hours or days. That work was mostly reserved for analysts and primarily served product teams. Now, anyone can analyze the data closest to their job with almost no effort and get clear, useful findings.</p>
+
+<p>A recent incident led me to write this. I saw a production problem in real time and asked the model to locate it in the GCP logs. I then asked it to review every PR from the previous two weeks and identify the exact change that caused the problem. Without AI, finding that Smoking gun would have taken hours and involved at least one developer, probably more.</p>
+
+<p>When a team lead can ask a question in natural language and get an answer within seconds, they have a management tool that did not exist before. The mindset shift is to treat AI as an analysis and research tool, not just a code completion tool. That is how it helps us become super-managers.</p>
+
+<figure>
+    <img src="image-0.webp" alt="Illustration for “Using AI to analyze my team&#x27;s pull requests”">
+  </figure>
+
+  <footer>
+    <div class="links">
+      <a href="https://github.com/ofershap">GitHub</a>
+      <a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a>
+      <a href="https://gitshow.dev/ofershap">GitShow</a>
+    </div>
+    <p class="copyright">&copy; 2026 Ofer Shapira</p>
+  </footer>
+</main>
+</body>
+</html>

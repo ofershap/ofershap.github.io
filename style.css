@@ -169,3 +169,129 @@
   color: #444;
   margin: 0;
 }
+
+/* imported-post styles */
+  h2 {
+    font-size: 1.35rem;
+    line-height: 1.35;
+    margin: 2.25rem 0 0.85rem;
+    font-weight: 700;
+  }
+  h2.year {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #999;
+    margin: 3rem 0 1.25rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 1px solid #eee;
+  }
+  .post-list li.year-group {
+    margin: 0;
+    list-style: none;
+  }
+  .post-list li.year-group:first-child h2.year {
+    margin-top: 0;
+  }
+  main ul:not(.schema):not(.post-list),
+  main ol {
+    font-size: 1.15rem;
+    line-height: 1.7;
+    margin: 0 0 1.35rem;
+    padding-left: 1.4rem;
+  }
+  main ul:not(.schema):not(.post-list) li,
+  main ol li {
+    margin: 0 0 0.45rem;
+  }
+  blockquote {
+    margin: 0 0 1.35rem;
+    padding: 0.15rem 0 0.15rem 1.1rem;
+    border-left: 3px solid #ddd;
+    color: #444;
+  }
+  blockquote p {
+    margin: 0 0 0.75rem;
+  }
+  blockquote p:last-child {
+    margin-bottom: 0;
+  }
+  code {
+    font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+    font-size: 0.9em;
+    background: #f4f3ee;
+    padding: 0.1em 0.35em;
+    border-radius: 3px;
+  }
+  pre {
+    font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+    font-size: 0.9rem;
+    line-height: 1.55;
+    background: #f4f3ee;
+    border-radius: 4px;
+    padding: 1rem 1.1rem;
+    overflow-x: auto;
+    margin: 0 0 1.35rem;
+  }
+  pre code {
+    background: none;
+    padding: 0;
+    font-size: inherit;
+  }
+  .post-source {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-size: 0.85rem;
+    color: #767676;
+    margin: -2.2rem 0 3rem;
+  }
+  .post-source a {
+    color: #767676;
+    text-decoration-color: #ccc;
+  }
+  .post-source a:hover {
+    color: #1a1a1a;
+    text-decoration-color: #1a1a1a;
+  }
+  @media (max-width: 500px) {
+    main ul:not(.schema):not(.post-list),
+    main ol { font-size: 1.05rem; }
+  }
+
+/* faq styles */
+/* faq styles */
+  .faq {
+    margin: 3rem 0 0;
+    padding-top: 1.5rem;
+    border-top: 1px solid #eee;
+  }
+  .faq h2 {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-size: 0.85rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #999;
+    margin: 0 0 1.25rem;
+  }
+  .faq dl {
+    margin: 0;
+  }
+  .faq dt {
+    font-size: 1.15rem;
+    font-weight: 700;
+    line-height: 1.4;
+    margin: 0 0 0.4rem;
+  }
+  .faq dd {
+    font-size: 1.1rem;
+    line-height: 1.65;
+    margin: 0 0 1.5rem;
+    color: #333;
+  }
+  .lede-def {
+    font-size: 1.15rem;
+    line-height: 1.7;
+    margin: 0 0 1.35rem;
+  }

@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>An agent that tracks dependency changes</title>
+<meta name="description" content="We built an agent that monitors the libraries and models our team depends on, then posts a weekly update in Slack.">
+<link rel="canonical" href="https://ofershap.github.io/posts/an-agent-that-tracks-dependency-changes/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="An agent that tracks dependency changes">
+<meta property="og:description" content="We built an agent that monitors the libraries and models our team depends on, then posts a weekly update in Slack.">
+<meta property="og:url" content="https://ofershap.github.io/posts/an-agent-that-tracks-dependency-changes/">
+<meta property="og:image" content="https://ofershap.github.io/posts/an-agent-that-tracks-dependency-changes/image-0.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="An agent that tracks dependency changes">
+<meta name="twitter:description" content="We built an agent that monitors the libraries and models our team depends on, then posts a weekly update in Slack.">
+<meta name="twitter:image" content="https://ofershap.github.io/posts/an-agent-that-tracks-dependency-changes/image-0.webp">
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="/style.css">
+<!-- seo:start -->
+<link rel="alternate" type="application/rss+xml" title="Ofer Shapira" href="https://ofershap.github.io/feed.xml">
+<link rel="alternate" type="text/markdown" href="https://ofershap.github.io/posts/an-agent-that-tracks-dependency-changes/index.md">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"An agent that tracks dependency changes","description":"We built an agent that monitors the libraries and models our team depends on, then posts a weekly update in Slack.","datePublished":"2026-07-07","dateModified":"2026-07-07","inLanguage":"en","mainEntityOfPage":{"@type":"WebPage","@id":"https://ofershap.github.io/posts/an-agent-that-tracks-dependency-changes/"},"author":{"@type":"Person","name":"Ofer Shapira","url":"https://ofershap.github.io/","sameAs":["https://github.com/ofershap","https://www.linkedin.com/in/ofershap/","https://gitshow.dev/ofershap","https://x.com/ofershap"]},"publisher":{"@type":"Person","name":"Ofer Shapira","url":"https://ofershap.github.io/","sameAs":["https://github.com/ofershap","https://www.linkedin.com/in/ofershap/","https://gitshow.dev/ofershap","https://x.com/ofershap"]},"url":"https://ofershap.github.io/posts/an-agent-that-tracks-dependency-changes/","image":["https://ofershap.github.io/posts/an-agent-that-tracks-dependency-changes/image-0.webp"]}</script>
+<!-- seo:end -->
+</head>
+<body>
+<header>
+  <span class="site-name"><a href="/">Ofer Shapira</a></span>
+  <nav>
+    <a href="https://github.com/ofershap">GitHub</a>
+    <a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a>
+  </nav>
+</header>
+<main>
+  <h1>An agent that tracks dependency changes</h1>
+  <p class="byline">July 7, 2026 &middot; 1 min read</p>
+  <p class="post-source">Originally posted on <a href="https://www.linkedin.com/posts/ofershap_%D7%9B%D7%9E%D7%A2%D7%98-%D7%A9%D7%91%D7%A8%D7%A0%D7%95-%D7%90%D7%AA-%D7%94%D7%A4%D7%A8%D7%95%D7%93%D7%A7%D7%A9%D7%9F-%D7%91%D7%92%D7%9C%D7%9C-%D7%A2%D7%93%D7%9B%D7%95%D7%9F-%D7%A9%D7%90%D7%A3-%D7%90%D7%97%D7%93-activity-7480132837128523776-T0Kf">LinkedIn</a>, July 7, 2026.</p>
+
+<p>We almost broke production because of an update no one on our team had noticed. Vercel AI SDK, one of the libraries we depend on, released a version with breaking changes. When we tried to implement a solution that existed only in the newer version, we realized the problem went far beyond upgrading our code.</p>
+
+<p>This happens with every library and SDK. Models suddenly stop being supported, while new AI features ship so frequently that we miss some of them.</p>
+
+<p>Instead of only upgrading the version and fixing the resulting breakage, Ori Shavit, a developer on our team, built an automation. Once a week, on Sundays, it sends a Slack message covering everything that changed in the libraries and models our team depends on: what was added, what is no longer supported, and which announcements need our attention.</p>
+
+<p>That is how we caught a model that will stop being supported in December and created a task to handle it soon. It also keeps us current on new features that can improve the project.</p>
+
+<p>Delegating update tracking to an agent is a good example of using AI in engineering teams for more than code completion. It can also keep the team synchronized and informed.</p>
+
+<figure>
+    <img src="image-0.webp" alt="Illustration for “An agent that tracks dependency changes”">
+  </figure>
+
+  <footer>
+    <div class="links">
+      <a href="https://github.com/ofershap">GitHub</a>
+      <a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a>
+      <a href="https://gitshow.dev/ofershap">GitShow</a>
+    </div>
+    <p class="copyright">&copy; 2026 Ofer Shapira</p>
+  </footer>
+</main>
+</body>
+</html>

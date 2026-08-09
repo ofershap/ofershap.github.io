@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>POML treats prompts as modular code</title>
+<meta name="description" content="Microsoft&#x27;s POML adds hierarchy, templates, variables, conditions, and loops to prompts while reducing duplication and wasted tokens.">
+<link rel="canonical" href="https://ofershap.github.io/posts/poml-treats-prompts-as-modular-code/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="POML treats prompts as modular code">
+<meta property="og:description" content="Microsoft&#x27;s POML adds hierarchy, templates, variables, conditions, and loops to prompts while reducing duplication and wasted tokens.">
+<meta property="og:url" content="https://ofershap.github.io/posts/poml-treats-prompts-as-modular-code/">
+<meta property="og:image" content="https://ofershap.github.io/posts/poml-treats-prompts-as-modular-code/image-0.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="POML treats prompts as modular code">
+<meta name="twitter:description" content="Microsoft&#x27;s POML adds hierarchy, templates, variables, conditions, and loops to prompts while reducing duplication and wasted tokens.">
+<meta name="twitter:image" content="https://ofershap.github.io/posts/poml-treats-prompts-as-modular-code/image-0.webp">
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="/style.css">
+<!-- seo:start -->
+<link rel="alternate" type="application/rss+xml" title="Ofer Shapira" href="https://ofershap.github.io/feed.xml">
+<link rel="alternate" type="text/markdown" href="https://ofershap.github.io/posts/poml-treats-prompts-as-modular-code/index.md">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"POML treats prompts as modular code","description":"Microsoft's POML adds hierarchy, templates, variables, conditions, and loops to prompts while reducing duplication and wasted tokens.","datePublished":"2025-09-07","dateModified":"2025-09-07","inLanguage":"en","mainEntityOfPage":{"@type":"WebPage","@id":"https://ofershap.github.io/posts/poml-treats-prompts-as-modular-code/"},"author":{"@type":"Person","name":"Ofer Shapira","url":"https://ofershap.github.io/","sameAs":["https://github.com/ofershap","https://www.linkedin.com/in/ofershap/","https://gitshow.dev/ofershap","https://x.com/ofershap"]},"publisher":{"@type":"Person","name":"Ofer Shapira","url":"https://ofershap.github.io/","sameAs":["https://github.com/ofershap","https://www.linkedin.com/in/ofershap/","https://gitshow.dev/ofershap","https://x.com/ofershap"]},"url":"https://ofershap.github.io/posts/poml-treats-prompts-as-modular-code/","image":["https://ofershap.github.io/posts/poml-treats-prompts-as-modular-code/image-0.webp"]}</script>
+<!-- seo:end -->
+</head>
+<body>
+<header>
+  <span class="site-name"><a href="/">Ofer Shapira</a></span>
+  <nav>
+    <a href="https://github.com/ofershap">GitHub</a>
+    <a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a>
+  </nav>
+</header>
+<main>
+  <h1>POML treats prompts as modular code</h1>
+  <p class="byline">September 7, 2025 &middot; 1 min read</p>
+  <p class="post-source">Originally posted on <a href="https://www.linkedin.com/posts/ofershap_%D7%AA%D7%AA%D7%97%D7%99%D7%9C%D7%95-%D7%9C%D7%93%D7%91%D7%A8-llm%D7%99%D7%AA-%D7%A2%D7%93-%D7%A2%D7%9B%D7%A9%D7%99%D7%95-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%A4%D7%A8%D7%95%D7%9E%D7%A4%D7%98%D7%99%D7%9D-activity-7370342571354697728-XUvc">LinkedIn</a>, September 7, 2025.</p>
+
+<p>Microsoft has released POML, Prompt Orchestration Markup Language, a more efficient and organized way to write prompts.</p>
+
+<p>Until now, engineers building systems against an AI API had no truly effective format for prompts. Markdown organizes text, but it has no real logical hierarchy. JSON describes structure, but it is full of unnecessary characters and is hard to read and write by hand.</p>
+
+<p>Both formats make complex, dynamic, maintainable prompts difficult to build. Every small change becomes cumbersome, and copying a prompt creates duplication and spreads logic across the codebase.</p>
+
+<p>As models get stronger, our instructions need to become more precise. We need a language that treats prompts not as text, but as modular code.</p>
+
+<p>POML is an “open” markup language that brings structure, hierarchy, and scale to prompt engineering. Instead of maintaining unstructured text, we can work with tags, templates, variables, and styles. In a way, we are going back to the XML era, before JSON.</p>
+
+<p>In practice:</p>
+
+<ul>
+<li>Elements such as <code>&lt;role&gt;</code>, <code>&lt;task&gt;</code>, and <code>&lt;example&gt;</code> define logical parts of a prompt.</li>
+<li><code>&lt;document&gt;</code>, <code>&lt;table&gt;</code>, and <code>&lt;image&gt;</code> pull in external information without encoding it manually.</li>
+<li><code>&lt;stylesheet&gt;</code> separates presentation from logic, much like CSS.</li>
+<li><code>&lt;let&gt;</code>, <code>if</code>, and <code>for</code> add variables, conditions, and loops for dynamic templates.</li>
+<li>A dedicated VS Code extension already provides autocomplete, previews, and diagnostics.</li>
+</ul>
+
+<p>The result is consistent prompt management, less duplication, and more flexibility when making changes. More importantly, it cuts wasted tokens and makes performance easier to improve. When the format itself becomes smarter and the full LLM chain can be optimized, it saves resources and money.</p>
+
+<p>Microsoft&#x27;s <a href="https://microsoft.github.io/poml/latest/language/quickstart">POML documentation and project page</a> explains how to get started.</p>
+
+<figure>
+    <img src="image-0.webp" alt="Illustration for “POML treats prompts as modular code”">
+  </figure>
+
+  <footer>
+    <div class="links">
+      <a href="https://github.com/ofershap">GitHub</a>
+      <a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a>
+      <a href="https://gitshow.dev/ofershap">GitShow</a>
+    </div>
+    <p class="copyright">&copy; 2026 Ofer Shapira</p>
+  </footer>
+</main>
+</body>
+</html>

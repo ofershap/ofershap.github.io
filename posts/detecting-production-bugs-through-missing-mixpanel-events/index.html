@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Detecting production bugs through missing Mixpanel events</title>
+<meta name="description" content="Some production bugs create no errors at all. I added a daily Mixpanel scan that detects them by watching for missing events and unusual spikes.">
+<link rel="canonical" href="https://ofershap.github.io/posts/detecting-production-bugs-through-missing-mixpanel-events/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Detecting production bugs through missing Mixpanel events">
+<meta property="og:description" content="Some production bugs create no errors at all. I added a daily Mixpanel scan that detects them by watching for missing events and unusual spikes.">
+<meta property="og:url" content="https://ofershap.github.io/posts/detecting-production-bugs-through-missing-mixpanel-events/">
+<meta property="og:image" content="https://ofershap.github.io/posts/detecting-production-bugs-through-missing-mixpanel-events/image-0.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Detecting production bugs through missing Mixpanel events">
+<meta name="twitter:description" content="Some production bugs create no errors at all. I added a daily Mixpanel scan that detects them by watching for missing events and unusual spikes.">
+<meta name="twitter:image" content="https://ofershap.github.io/posts/detecting-production-bugs-through-missing-mixpanel-events/image-0.webp">
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="/style.css">
+<!-- seo:start -->
+<link rel="alternate" type="application/rss+xml" title="Ofer Shapira" href="https://ofershap.github.io/feed.xml">
+<link rel="alternate" type="text/markdown" href="https://ofershap.github.io/posts/detecting-production-bugs-through-missing-mixpanel-events/index.md">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"Detecting production bugs through missing Mixpanel events","description":"Some production bugs create no errors at all. I added a daily Mixpanel scan that detects them by watching for missing events and unusual spikes.","datePublished":"2026-07-02","dateModified":"2026-07-02","inLanguage":"en","mainEntityOfPage":{"@type":"WebPage","@id":"https://ofershap.github.io/posts/detecting-production-bugs-through-missing-mixpanel-events/"},"author":{"@type":"Person","name":"Ofer Shapira","url":"https://ofershap.github.io/","sameAs":["https://github.com/ofershap","https://www.linkedin.com/in/ofershap/","https://gitshow.dev/ofershap","https://x.com/ofershap"]},"publisher":{"@type":"Person","name":"Ofer Shapira","url":"https://ofershap.github.io/","sameAs":["https://github.com/ofershap","https://www.linkedin.com/in/ofershap/","https://gitshow.dev/ofershap","https://x.com/ofershap"]},"url":"https://ofershap.github.io/posts/detecting-production-bugs-through-missing-mixpanel-events/","image":["https://ofershap.github.io/posts/detecting-production-bugs-through-missing-mixpanel-events/image-0.webp"]}</script>
+<!-- seo:end -->
+</head>
+<body>
+<header>
+  <span class="site-name"><a href="/">Ofer Shapira</a></span>
+  <nav>
+    <a href="https://github.com/ofershap">GitHub</a>
+    <a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a>
+  </nav>
+</header>
+<main>
+  <h1>Detecting production bugs through missing Mixpanel events</h1>
+  <p class="byline">July 2, 2026 &middot; 1 min read</p>
+  <p class="post-source">Originally posted on <a href="https://www.linkedin.com/posts/ofershap_%D7%90%D7%99%D7%96%D7%94-%D7%A4%D7%93%D7%99%D7%97%D7%94-%D7%AA%D7%94%D7%99%D7%9C%D7%94-%D7%9E%D7%A0%D7%94%D7%9C%D7%AA-%D7%94%D7%9E%D7%95%D7%A6%D7%A8-%D7%94%D7%AA%D7%95%D7%AA%D7%97%D7%99%D7%AA-activity-7478355878308397056-_lmb">LinkedIn</a>, July 2, 2026.</p>
+
+<p>Tehila Adika, an excellent product manager from another team, found a bug in one of our buttons. It had been <code>Disabled</code> for weeks, and nobody had noticed. A bug had been in production for days without triggering a single alert.</p>
+
+<p>These bugs work in the opposite way from the ones we usually monitor. If a tree falls in a forest and nobody hears it, did it make a sound? The same question applies to bugs caused by “dead code.”</p>
+
+<p>When a button is <code>Disabled</code> for everyone, the system does not report an error. Instead, it goes quiet. You can detect that silence by looking for a drop in events.</p>
+
+<p>I added a daily Mixpanel scan for cases with “zero daily events.” The scheduled script looks for anomalies and drops in events. I also added checks for spikes in the opposite kind of events: errors reported to Mixpanel. When it finds either, it posts to a dedicated monitoring channel.</p>
+
+<p>If there are no drops, errors, or other problems, the script stays silent, just like the falling tree.</p>
+
+<p>Bugs reported by customers are the worst kind. We could have caught them before they reached dozens of customers. They damage trust and create noise from support all the way to the developer who has to fix them in a cold sweat.</p>
+
+<p>Every user report is an opportunity to improve the system’s alerting, even when the right alert works in the opposite direction from the usual <code>threshold</code> of <code>errors</code>.</p>
+
+<p>Thanks to Tehila Adika for the inspiration.</p>
+
+<figure>
+    <img src="image-0.webp" alt="Illustration for “Detecting production bugs through missing Mixpanel events”">
+  </figure>
+
+  <footer>
+    <div class="links">
+      <a href="https://github.com/ofershap">GitHub</a>
+      <a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a>
+      <a href="https://gitshow.dev/ofershap">GitShow</a>
+    </div>
+    <p class="copyright">&copy; 2026 Ofer Shapira</p>
+  </footer>
+</main>
+</body>
+</html>

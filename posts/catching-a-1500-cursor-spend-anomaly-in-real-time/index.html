@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Catching a $1,500 Cursor spend anomaly in real time</title>
+<meta name="description" content="A developer spent $1,500 on Cursor in one day without anyone noticing. I built an open-source tool to catch usage anomalies and report them in Slack.">
+<link rel="canonical" href="https://ofershap.github.io/posts/catching-a-1500-cursor-spend-anomaly-in-real-time/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Catching a $1,500 Cursor spend anomaly in real time">
+<meta property="og:description" content="A developer spent $1,500 on Cursor in one day without anyone noticing. I built an open-source tool to catch usage anomalies and report them in Slack.">
+<meta property="og:url" content="https://ofershap.github.io/posts/catching-a-1500-cursor-spend-anomaly-in-real-time/">
+<meta property="og:image" content="https://ofershap.github.io/posts/catching-a-1500-cursor-spend-anomaly-in-real-time/image-0.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Catching a $1,500 Cursor spend anomaly in real time">
+<meta name="twitter:description" content="A developer spent $1,500 on Cursor in one day without anyone noticing. I built an open-source tool to catch usage anomalies and report them in Slack.">
+<meta name="twitter:image" content="https://ofershap.github.io/posts/catching-a-1500-cursor-spend-anomaly-in-real-time/image-0.webp">
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="/style.css">
+<!-- seo:start -->
+<link rel="alternate" type="application/rss+xml" title="Ofer Shapira" href="https://ofershap.github.io/feed.xml">
+<link rel="alternate" type="text/markdown" href="https://ofershap.github.io/posts/catching-a-1500-cursor-spend-anomaly-in-real-time/index.md">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"Catching a $1,500 Cursor spend anomaly in real time","description":"A developer spent $1,500 on Cursor in one day without anyone noticing. I built an open-source tool to catch usage anomalies and report them in Slack.","datePublished":"2026-03-05","dateModified":"2026-03-05","inLanguage":"en","mainEntityOfPage":{"@type":"WebPage","@id":"https://ofershap.github.io/posts/catching-a-1500-cursor-spend-anomaly-in-real-time/"},"author":{"@type":"Person","name":"Ofer Shapira","url":"https://ofershap.github.io/","sameAs":["https://github.com/ofershap","https://www.linkedin.com/in/ofershap/","https://gitshow.dev/ofershap","https://x.com/ofershap"]},"publisher":{"@type":"Person","name":"Ofer Shapira","url":"https://ofershap.github.io/","sameAs":["https://github.com/ofershap","https://www.linkedin.com/in/ofershap/","https://gitshow.dev/ofershap","https://x.com/ofershap"]},"url":"https://ofershap.github.io/posts/catching-a-1500-cursor-spend-anomaly-in-real-time/","image":["https://ofershap.github.io/posts/catching-a-1500-cursor-spend-anomaly-in-real-time/image-0.webp"]}</script>
+<!-- seo:end -->
+</head>
+<body>
+<header>
+  <span class="site-name"><a href="/">Ofer Shapira</a></span>
+  <nav>
+    <a href="https://github.com/ofershap">GitHub</a>
+    <a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a>
+  </nav>
+</header>
+<main>
+  <h1>Catching a $1,500 Cursor spend anomaly in real time</h1>
+  <p class="byline">March 5, 2026 &middot; 1 min read</p>
+  <p class="post-source">Originally posted on <a href="https://www.linkedin.com/posts/ofershap_%D7%94%D7%9E%D7%A4%D7%AA%D7%97-%D7%94%D7%96%D7%94-%D7%A9%D7%A8%D7%A3-1500-%D7%91%D7%99%D7%95%D7%9D-%D7%90%D7%97%D7%93-%D7%91%D7%9C%D7%99-%D7%9C%D7%93%D7%A2%D7%AA-%D7%90%D7%AA-activity-7435246819657342976-0jYE">LinkedIn</a>, March 5, 2026.</p>
+
+<p>A developer spent $1,500 in a single day without realizing it. Worse, nobody else knew either.</p>
+
+<p>We use Cursor through a shared Enterprise account, with one budget that every developer draws from. Keeping that budget under control is a challenge many companies now face.</p>
+
+<p>The number of available models also keeps growing, which makes it hard to tell which model is better and which is cheaper. The developer innocently chose a model that sounded less expensive because its name included “Fast.” In practice, it cost 10 times more than the others.</p>
+
+<p>That was an expensive lesson. I decided to build a tool that monitors Cursor usage, detects anomalies and budget overruns in real time, and reports them in Slack.</p>
+
+<p>Beyond monitoring, it shows adoption across the organization, identifies empty seats where we are paying for unused subscriptions, helps developers improve their usage, compares teams, and shows the real costs of the models being used.</p>
+
+<p>The tool helped us decide which models to block, understand which ones cost more or less, and teach the engineering department how to use Cursor more effectively.</p>
+
+<p>I built it as open source so anyone dealing with the same problem can deploy it. <a href="https://github.com/ofershap/cursor-usage-tracker">The repository is available here</a>.</p>
+
+<figure>
+    <img src="image-0.webp" alt="Illustration for “Catching a $1,500 Cursor spend anomaly in real time”">
+  </figure>
+
+  <footer>
+    <div class="links">
+      <a href="https://github.com/ofershap">GitHub</a>
+      <a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a>
+      <a href="https://gitshow.dev/ofershap">GitShow</a>
+    </div>
+    <p class="copyright">&copy; 2026 Ofer Shapira</p>
+  </footer>
+</main>
+</body>
+</html>

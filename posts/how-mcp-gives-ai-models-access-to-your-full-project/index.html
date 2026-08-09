@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How MCP gives AI models access to your full project</title>
+<meta name="description" content="Model Context Protocol lets AI models retrieve current, relevant context from code, internal documents, and external APIs.">
+<link rel="canonical" href="https://ofershap.github.io/posts/how-mcp-gives-ai-models-access-to-your-full-project/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="How MCP gives AI models access to your full project">
+<meta property="og:description" content="Model Context Protocol lets AI models retrieve current, relevant context from code, internal documents, and external APIs.">
+<meta property="og:url" content="https://ofershap.github.io/posts/how-mcp-gives-ai-models-access-to-your-full-project/">
+<meta property="og:image" content="https://ofershap.github.io/posts/how-mcp-gives-ai-models-access-to-your-full-project/image-0.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="How MCP gives AI models access to your full project">
+<meta name="twitter:description" content="Model Context Protocol lets AI models retrieve current, relevant context from code, internal documents, and external APIs.">
+<meta name="twitter:image" content="https://ofershap.github.io/posts/how-mcp-gives-ai-models-access-to-your-full-project/image-0.webp">
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="/style.css">
+<!-- seo:start -->
+<link rel="alternate" type="application/rss+xml" title="Ofer Shapira" href="https://ofershap.github.io/feed.xml">
+<link rel="alternate" type="text/markdown" href="https://ofershap.github.io/posts/how-mcp-gives-ai-models-access-to-your-full-project/index.md">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":"How MCP gives AI models access to your full project","description":"Model Context Protocol lets AI models retrieve current, relevant context from code, internal documents, and external APIs.","datePublished":"2025-02-15","dateModified":"2025-02-15","inLanguage":"en","mainEntityOfPage":{"@type":"WebPage","@id":"https://ofershap.github.io/posts/how-mcp-gives-ai-models-access-to-your-full-project/"},"author":{"@type":"Person","name":"Ofer Shapira","url":"https://ofershap.github.io/","sameAs":["https://github.com/ofershap","https://www.linkedin.com/in/ofershap/","https://gitshow.dev/ofershap","https://x.com/ofershap"]},"publisher":{"@type":"Person","name":"Ofer Shapira","url":"https://ofershap.github.io/","sameAs":["https://github.com/ofershap","https://www.linkedin.com/in/ofershap/","https://gitshow.dev/ofershap","https://x.com/ofershap"]},"url":"https://ofershap.github.io/posts/how-mcp-gives-ai-models-access-to-your-full-project/","image":["https://ofershap.github.io/posts/how-mcp-gives-ai-models-access-to-your-full-project/image-0.webp"]}</script>
+<!-- seo:end -->
+</head>
+<body>
+<header>
+  <span class="site-name"><a href="/">Ofer Shapira</a></span>
+  <nav>
+    <a href="https://github.com/ofershap">GitHub</a>
+    <a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a>
+  </nav>
+</header>
+<main>
+  <h1>How MCP gives AI models access to your full project</h1>
+  <p class="byline">February 15, 2025 &middot; 1 min read</p>
+  <p class="post-source">Originally posted on <a href="https://www.linkedin.com/posts/ofershap_%D7%90%D7%99%D7%9A-%D7%9C%D7%92%D7%A8%D7%95%D7%9D-%D7%9C-ai-%D7%9C%D7%94%D7%91%D7%99%D7%9F-%D7%90%D7%AA-%D7%9B%D7%9C-%D7%94%D7%A7%D7%95%D7%93-%D7%90%D7%95-%D7%9E%D7%90%D7%92%D7%A8-%D7%94%D7%9E%D7%99%D7%93%D7%A2-activity-7296540008415391745-Z6O6">LinkedIn</a>, February 15, 2025.</p>
+
+<p>Models like Claude do not see the full context of a project. They can analyze a single file, but understanding an entire codebase or knowledge repository is a different task.</p>
+
+<p>Until now, the common solutions were manually copying and pasting code or using vector stores with Vector Search to find relevant information. Model Context Protocol (MCP) offers another approach. It lets models access external information dynamically and under controlled conditions.</p>
+
+<h2>How MCP works</h2>
+
+<p>Instead of giving the model static context, MCP acts as an intermediary between the model and external information:</p>
+
+<ol>
+<li>The model identifies that it needs more information, such as when it receives a question about a specific function.</li>
+<li>It sends a request to an MCP server connected to sources such as GitHub, internal documents, or an external API.</li>
+<li>The server returns only the relevant information, without flooding the model with unnecessary details.</li>
+</ol>
+
+<p>The model gets live access to current information instead of relying only on what was loaded into the initial prompt.</p>
+
+<h2>Real uses for MCP</h2>
+
+<ul>
+<li>Integrating with existing code projects. Instead of pasting code manually, MCP can retrieve relevant files and expose dependencies across the project. If I ask, &quot;What does the <code>process_data()</code> function do?&quot;, MCP can identify that it depends on <code>utils.py</code>, retrieve that file, and give the model enough context to explain the full logic.</li>
+<li>Creating smarter Pull Requests. When changing a third-party library, MCP can help determine how the change will affect the entire codebase and generate a PR automatically.</li>
+<li>Connecting internal documents. MCP can retrieve current information directly from API documents or internal documentation instead of relying on outdated or incomplete material.</li>
+</ul>
+
+<p>MCP is becoming a standard. GitHub already has libraries that collect MCP tools, and Claude now officially supports the protocol. It is a significant step toward making work with AI models smarter and more efficient.</p>
+
+<figure>
+    <img src="image-0.webp" alt="Illustration for “How MCP gives AI models access to your full project”">
+  </figure>
+
+  <footer>
+    <div class="links">
+      <a href="https://github.com/ofershap">GitHub</a>
+      <a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a>
+      <a href="https://gitshow.dev/ofershap">GitShow</a>
+    </div>
+    <p class="copyright">&copy; 2026 Ofer Shapira</p>
+  </footer>
+</main>
+</body>
+</html>

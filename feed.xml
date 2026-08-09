@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Ofer Shapira</title>
+<link>https://ofershap.github.io/</link>
+<description>Writing on AI agents, software architecture, and the systems that hold them together.</description>
+<language>en</language>
+<lastBuildDate>Sun, 09 Aug 2026 14:57:03 +0000</lastBuildDate>
+<atom:link href="https://ofershap.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>The Fully Agentic Company: The One Part No Agent Will Ever Run</title>
+<link>https://ofershap.github.io/essays/the-fully-agentic-company/</link>
+<guid isPermaLink="true">https://ofershap.github.io/essays/the-fully-agentic-company/</guid>
+<pubDate>Thu, 06 Aug 2026 12:00:00 +0000</pubDate>
+<description>Everything in an agentic organization can be substituted, the model, the CEO, every executor, except the one thing that authored why the work matters in the first place.</description>
+</item>
+<item>
+<title>Context Snack fills the wait while AI agents work</title>
+<link>https://ofershap.github.io/posts/context-snack-fills-the-wait-while-ai-agents-work/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/context-snack-fills-the-wait-while-ai-agents-work/</guid>
+<pubDate>Mon, 03 Aug 2026 12:00:00 +0000</pubDate>
+<description>I built a Cursor extension that serves relevant AI micro-news and retro games while your agent is busy.</description>
+</item>
+<item>
+<title>How the Gauntlet Loop built a game from one prompt</title>
+<link>https://ofershap.github.io/posts/how-the-gauntlet-loop-built-a-game-from-one-prompt/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/how-the-gauntlet-loop-built-a-game-from-one-prompt/</guid>
+<pubDate>Sun, 02 Aug 2026 12:00:00 +0000</pubDate>
+<description>Matt Shumer's Gauntlet Loop uses separate builder and critic agents to turn a broad Claude Opus 5 prompt into a Call of Duty-level game.</description>
+</item>
+<item>
+<title>A four-step PR description for faster code reviews</title>
+<link>https://ofershap.github.io/posts/a-four-step-pr-description-for-faster-code-reviews/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/a-four-step-pr-description-for-faster-code-reviews/</guid>
+<pubDate>Wed, 29 Jul 2026 12:00:00 +0000</pubDate>
+<description>As code output grows, review becomes the bottleneck. A structured PR description helps reviewers understand the flow and spot risks before reading the code.</description>
+</item>
+<item>
+<title>Cursor’s SQLite swarm breaks human-speed workflows</title>
+<link>https://ofershap.github.io/posts/cursors-sqlite-swarm-breaks-human-speed-workflows/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/cursors-sqlite-swarm-breaks-human-speed-workflows/</guid>
+<pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+<description>AI agents rebuilt SQLite from its documentation and reached 1,000 commits per second, forcing Cursor to replace Git with its own version control system.</description>
+</item>
+<item>
+<title>How agents choose among too many tools</title>
+<link>https://ofershap.github.io/posts/how-agents-choose-among-too-many-tools/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/how-agents-choose-among-too-many-tools/</guid>
+<pubDate>Wed, 22 Jul 2026 12:00:00 +0000</pubDate>
+<description>Giving an agent more tools can make its decisions worse. Reducing the available options helps it choose more accurately.</description>
+</item>
+<item>
+<title>Boris Cherny's AI adoption model fuels the bubble</title>
+<link>https://ofershap.github.io/posts/boris-chernys-ai-adoption-model-fuels-the-bubble/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/boris-chernys-ai-adoption-model-fuels-the-bubble/</guid>
+<pubDate>Fri, 17 Jul 2026 12:00:00 +0000</pubDate>
+<description>A five-stage AI adoption model can reward token burn without accountability. Production agents still need supervision, and pretending otherwise fuels the bubble.</description>
+</item>
+<item>
+<title>Turning feature development into marketing copy with Cursor</title>
+<link>https://ofershap.github.io/posts/turning-feature-development-into-marketing-copy-with-cursor/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/turning-feature-development-into-marketing-copy-with-cursor/</guid>
+<pubDate>Thu, 09 Jul 2026 12:00:00 +0000</pubDate>
+<description>A Cursor agent in Slack reads commits, pull requests, and docs, then explains a finished feature to our marketing team in plain English.</description>
+</item>
+<item>
+<title>Why we built a project just to throw it away</title>
+<link>https://ofershap.github.io/posts/why-we-built-a-project-just-to-throw-it-away/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/why-we-built-a-project-just-to-throw-it-away/</guid>
+<pubDate>Wed, 08 Jul 2026 12:00:00 +0000</pubDate>
+<description>We built an entire system in two weeks, discarded the code, and used what we learned to design the production version.</description>
+</item>
+<item>
+<title>An agent that tracks dependency changes</title>
+<link>https://ofershap.github.io/posts/an-agent-that-tracks-dependency-changes/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/an-agent-that-tracks-dependency-changes/</guid>
+<pubDate>Tue, 07 Jul 2026 12:00:00 +0000</pubDate>
+<description>We built an agent that monitors the libraries and models our team depends on, then posts a weekly update in Slack.</description>
+</item>
+<item>
+<title>What a 2026 résumé should look like</title>
+<link>https://ofershap.github.io/posts/what-a-2026-resume-should-look-like/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/what-a-2026-resume-should-look-like/</guid>
+<pubDate>Mon, 06 Jul 2026 12:00:00 +0000</pubDate>
+<description>A PDF résumé feels outdated in 2026. I built an interactive version with Sticklight, including a scroll-based video background.</description>
+</item>
+<item>
+<title>Detecting production bugs through missing Mixpanel events</title>
+<link>https://ofershap.github.io/posts/detecting-production-bugs-through-missing-mixpanel-events/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/detecting-production-bugs-through-missing-mixpanel-events/</guid>
+<pubDate>Thu, 02 Jul 2026 12:00:00 +0000</pubDate>
+<description>Some production bugs create no errors at all. I added a daily Mixpanel scan that detects them by watching for missing events and unusual spikes.</description>
+</item>
+<item>
+<title>AI changes the tools, not the engineering problems</title>
+<link>https://ofershap.github.io/posts/ai-changes-the-tools-not-the-engineering-problems/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/ai-changes-the-tools-not-the-engineering-problems/</guid>
+<pubDate>Wed, 01 Jul 2026 12:00:00 +0000</pubDate>
+<description>AI memory and coding tools repeat problems software engineers have solved for decades. Strong engineering practices matter even more when AI speeds up development.</description>
+</item>
+<item>
+<title>An agent turns every merge into a release update</title>
+<link>https://ofershap.github.io/posts/an-agent-turns-every-merge-into-a-release-update/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/an-agent-turns-every-merge-into-a-release-update/</guid>
+<pubDate>Mon, 29 Jun 2026 12:00:00 +0000</pubDate>
+<description>I added an agent to our CI pipeline that explains every production merge in plain language and posts the update to Slack.</description>
+</item>
+<item>
+<title>Why we ask AI before asking people</title>
+<link>https://ofershap.github.io/posts/why-we-ask-ai-before-asking-people/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/why-we-ask-ai-before-asking-people/</guid>
+<pubDate>Wed, 24 Jun 2026 12:00:00 +0000</pubDate>
+<description>A quiet habit change is underway. People are turning to AI first because it often gives them a faster, more accurate answer.</description>
+</item>
+<item>
+<title>How I use Rovo across Slack, Jira, and Confluence</title>
+<link>https://ofershap.github.io/posts/how-i-use-rovo-across-slack-jira-and-confluence/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/how-i-use-rovo-across-slack-jira-and-confluence/</guid>
+<pubDate>Tue, 23 Jun 2026 12:00:00 +0000</pubDate>
+<description>Rovo searches company Slack and Jira history, then turns that context into Confluence documents for incident reviews and refactoring work.</description>
+</item>
+<item>
+<title>Midjourney’s 60-second medical imaging machine</title>
+<link>https://ofershap.github.io/posts/midjourneys-60-second-medical-imaging-machine/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/midjourneys-60-second-medical-imaging-machine/</guid>
+<pubDate>Mon, 22 Jun 2026 12:00:00 +0000</pubDate>
+<description>Midjourney Medical uses ultrasound to produce MRI-level images. It promises full-body scans in 60 seconds at one-tenth the cost of an MRI.</description>
+</item>
+<item>
+<title>Using AI to analyze my team's pull requests</title>
+<link>https://ofershap.github.io/posts/using-ai-to-analyze-my-teams-pull-requests/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/using-ai-to-analyze-my-teams-pull-requests/</guid>
+<pubDate>Sun, 21 Jun 2026 12:00:00 +0000</pubDate>
+<description>Cursor and Claude Code turn pull request history into a management and incident investigation tool.</description>
+</item>
+<item>
+<title>How Google Stitch describes UI for AI agents</title>
+<link>https://ofershap.github.io/posts/how-google-stitch-describes-ui-for-ai-agents/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/how-google-stitch-describes-ui-for-ai-agents/</guid>
+<pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
+<description>Google open-sourced Stitch’s approach to describing UI in Markdown, separating the visual layer from application logic so agents make fewer mistakes.</description>
+</item>
+<item>
+<title>Cutting token costs in Cursor and Claude Code</title>
+<link>https://ofershap.github.io/posts/cutting-token-costs-in-cursor-and-claude-code/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/cutting-token-costs-in-cursor-and-claude-code/</guid>
+<pubDate>Sun, 19 Apr 2026 12:00:00 +0000</pubDate>
+<description>Practical ways to control AI development costs by managing context, choosing models, delegating to cheaper agents, and monitoring usage.</description>
+</item>
+<item>
+<title>Software engineering after manual coding</title>
+<link>https://ofershap.github.io/posts/software-engineering-after-manual-coding/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/software-engineering-after-manual-coding/</guid>
+<pubDate>Fri, 17 Apr 2026 12:00:00 +0000</pubDate>
+<description>AI has turned code into an output rather than the goal. Software engineers now need to focus on architecture, critical thinking, debugging, and managing agents.</description>
+</item>
+<item>
+<title>Mario's Cart shows how fast AI filmmaking is moving</title>
+<link>https://ofershap.github.io/posts/marios-cart-shows-how-fast-ai-filmmaking-is-moving/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/marios-cart-shows-how-fast-ai-filmmaking-is-moving/</guid>
+<pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
+<description>A short film made with Seedance 2.0 shows how realistic AI video has become and how one person can now make work that once required a crew and a large budget.</description>
+</item>
+<item>
+<title>Running a company on $400 a month with OpenClaw Agents</title>
+<link>https://ofershap.github.io/posts/running-a-company-on-400-a-month-with-openclaw-agents/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/running-a-company-on-400-a-month-with-openclaw-agents/</guid>
+<pubDate>Thu, 26 Mar 2026 12:00:00 +0000</pubDate>
+<description>An OpenClaw Agents setup can cover research, content, video, development, and security for $400 a month.</description>
+</item>
+<item>
+<title>A control tower for Cursor cloud agents</title>
+<link>https://ofershap.github.io/posts/a-control-tower-for-cursor-cloud-agents/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/a-control-tower-for-cursor-cloud-agents/</guid>
+<pubDate>Mon, 23 Mar 2026 12:00:00 +0000</pubDate>
+<description>A keyboard-driven dashboard for running, tracking, and controlling 5+ Cursor cloud agents in parallel.</description>
+</item>
+<item>
+<title>Qwen 3.5 brings a 397B model to local devices</title>
+<link>https://ofershap.github.io/posts/qwen-3-5-brings-a-397b-model-to-local-devices/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/qwen-3-5-brings-a-397b-model-to-local-devices/</guid>
+<pubDate>Wed, 18 Mar 2026 12:00:00 +0000</pubDate>
+<description>Alibaba's Qwen 3.5 activates only 17 billion of its 397 billion parameters per token, making local AI processing possible without a cloud connection.</description>
+</item>
+<item>
+<title>A 27KB pixel art office for Cursor's agent mode</title>
+<link>https://ofershap.github.io/posts/a-27kb-pixel-art-office-for-cursors-agent-mode/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/a-27kb-pixel-art-office-for-cursors-agent-mode/</guid>
+<pubDate>Mon, 16 Mar 2026 12:00:00 +0000</pubDate>
+<description>I built a Cursor extension that turns agent activity into a pixel art office, using read-only JSONL transcripts and no image assets.</description>
+</item>
+<item>
+<title>One prompt can now generate a complete short film</title>
+<link>https://ofershap.github.io/posts/one-prompt-can-now-generate-a-complete-short-film/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/one-prompt-can-now-generate-a-complete-short-film/</guid>
+<pubDate>Fri, 13 Mar 2026 12:00:00 +0000</pubDate>
+<description>Generative video systems are moving beyond disconnected clips. They can turn a simple prompt into a coherent visual story.</description>
+</item>
+<item>
+<title>World Monitor opens global intelligence to everyone</title>
+<link>https://ofershap.github.io/posts/world-monitor-opens-global-intelligence-to-everyone/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/world-monitor-opens-global-intelligence-to-everyone/</guid>
+<pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
+<description>World Monitor combines live geopolitical data with local AI analysis in a free, open-source dashboard.</description>
+</item>
+<item>
+<title>Building Hypes during a 42 km marathon</title>
+<link>https://ofershap.github.io/posts/building-hypes-during-a-42-km-marathon/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/building-hypes-during-a-42-km-marathon/</guid>
+<pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
+<description>A runner built an entire app with voice commands during a marathon, using Wispr Flow inside Cursor.</description>
+</item>
+<item>
+<title>Catching a $1,500 Cursor spend anomaly in real time</title>
+<link>https://ofershap.github.io/posts/catching-a-1500-cursor-spend-anomaly-in-real-time/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/catching-a-1500-cursor-spend-anomaly-in-real-time/</guid>
+<pubDate>Thu, 05 Mar 2026 12:00:00 +0000</pubDate>
+<description>A developer spent $1,500 on Cursor in one day without anyone noticing. I built an open-source tool to catch usage anomalies and report them in Slack.</description>
+</item>
+<item>
+<title>Portless gives local development readable URLs</title>
+<link>https://ofershap.github.io/posts/portless-gives-local-development-readable-urls/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/portless-gives-local-development-readable-urls/</guid>
+<pubDate>Wed, 04 Mar 2026 12:00:00 +0000</pubDate>
+<description>Vercel’s Portless maps readable local addresses to the right ports, making local development easier for developers, automation, and AI agents.</description>
+</item>
+<item>
+<title>A time machine game for practicing better reactions</title>
+<link>https://ofershap.github.io/posts/a-time-machine-game-for-practicing-better-reactions/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/a-time-machine-game-for-practicing-better-reactions/</guid>
+<pubDate>Tue, 03 Mar 2026 12:00:00 +0000</pubDate>
+<description>I built an AI game that helps my 9-year-old revisit emotional moments and come up with a different response himself.</description>
+</item>
+<item>
+<title>GitHub output from 10 prolific developers</title>
+<link>https://ofershap.github.io/posts/github-output-from-10-prolific-developers/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/github-output-from-10-prolific-developers/</guid>
+<pubDate>Fri, 27 Feb 2026 12:00:00 +0000</pubDate>
+<description>I visualized public GitHub data from 10 developers, including their projects, stars, and the tools they created.</description>
+</item>
+<item>
+<title>GitShow turns GitHub profiles into project portfolios</title>
+<link>https://ofershap.github.io/posts/gitshow-turns-github-profiles-into-project-portfolios/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/gitshow-turns-github-profiles-into-project-portfolios/</guid>
+<pubDate>Thu, 26 Feb 2026 12:00:00 +0000</pubDate>
+<description>I built an open-source tool that adds npm download stats, project categories, stack visualizations, timelines, and sharing to GitHub profiles.</description>
+</item>
+<item>
+<title>GitShow adds project context to GitHub profiles</title>
+<link>https://ofershap.github.io/posts/gitshow-adds-project-context-to-github-profiles/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/gitshow-adds-project-context-to-github-profiles/</guid>
+<pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
+<description>Replace github.com with gitshow.dev to see npm downloads, grouped projects, tech stacks, focus areas, and a project timeline for any user or organization.</description>
+</item>
+<item>
+<title>When extreme heat makes metal stronger</title>
+<link>https://ofershap.github.io/posts/when-extreme-heat-makes-metal-stronger/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/when-extreme-heat-makes-metal-stronger/</guid>
+<pubDate>Tue, 24 Feb 2026 12:00:00 +0000</pubDate>
+<description>Northwestern University researchers found that under extreme conditions, heat can strengthen metal instead of softening it.</description>
+</item>
+<item>
+<title>How OpenClaw became GitHub's fastest-growing project</title>
+<link>https://ofershap.github.io/posts/how-openclaw-became-githubs-fastest-growing-project/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/how-openclaw-became-githubs-fastest-growing-project/</guid>
+<pubDate>Tue, 17 Feb 2026 12:00:00 +0000</pubDate>
+<description>Peter Steinberger built the first prototype in an hour, then kept it open source as it reached 180,000 stars and drew acquisition interest.</description>
+</item>
+<item>
+<title>A Telegram bot that turns messages into calendar events</title>
+<link>https://ofershap.github.io/posts/a-telegram-bot-that-turns-messages-into-calendar-events/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/a-telegram-bot-that-turns-messages-into-calendar-events/</guid>
+<pubDate>Sun, 15 Feb 2026 12:00:00 +0000</pubDate>
+<description>I built an open source Telegram bot that adds school events, birthdays, tasks, and appointments to my calendar from a simple message.</description>
+</item>
+<item>
+<title>A real-world flight simulator built with Opus and Codex</title>
+<link>https://ofershap.github.io/posts/a-real-world-flight-simulator-built-with-opus-and-codex/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/a-real-world-flight-simulator-built-with-opus-and-codex/</guid>
+<pubDate>Thu, 12 Feb 2026 12:00:00 +0000</pubDate>
+<description>The CEO of Grw AI built a flight simulator for real locations using Opus 4.6 for planning and GPT-5.3 in Codex for implementation.</description>
+</item>
+<item>
+<title>Coding in parallel with Cursor</title>
+<link>https://ofershap.github.io/posts/coding-in-parallel-with-cursor/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/coding-in-parallel-with-cursor/</guid>
+<pubDate>Wed, 11 Feb 2026 12:00:00 +0000</pubDate>
+<description>I run two coding tasks at once, catch up on Slack while they work, and let Cursor add the keyboard shortcuts it recommends.</description>
+</item>
+<item>
+<title>AI products bring marginal costs back to software</title>
+<link>https://ofershap.github.io/posts/ai-products-bring-marginal-costs-back-to-software/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/ai-products-bring-marginal-costs-back-to-software/</guid>
+<pubDate>Mon, 09 Feb 2026 12:00:00 +0000</pubDate>
+<description>AI products consume compute with every action. That changes software from a licensing business into a margin business.</description>
+</item>
+<item>
+<title>Goose runs an open-source coding agent locally</title>
+<link>https://ofershap.github.io/posts/goose-runs-an-open-source-coding-agent-locally/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/goose-runs-an-open-source-coding-agent-locally/</guid>
+<pubDate>Wed, 04 Feb 2026 12:00:00 +0000</pubDate>
+<description>Block's Goose offers a free, local coding agent that works with Claude, GPT-5, and open models through tools like Ollama.</description>
+</item>
+<item>
+<title>Moltbook is a social network built for AI agents</title>
+<link>https://ofershap.github.io/posts/moltbook-is-a-social-network-built-for-ai-agents/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/moltbook-is-a-social-network-built-for-ai-agents/</guid>
+<pubDate>Fri, 30 Jan 2026 12:00:00 +0000</pubDate>
+<description>More than 30,000 bots are already posting, replying, forming communities, and discussing how to communicate without humans.</description>
+</item>
+<item>
+<title>Give Cursor access to your previous conversations</title>
+<link>https://ofershap.github.io/posts/give-cursor-access-to-your-previous-conversations/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/give-cursor-access-to-your-previous-conversations/</guid>
+<pubDate>Thu, 29 Jan 2026 12:00:00 +0000</pubDate>
+<description>A User Rule can give Cursor access to conversation transcripts from the last 30 days, making them searchable and available for analysis.</description>
+</item>
+<item>
+<title>Claude Code adds diff view for AI-generated code</title>
+<link>https://ofershap.github.io/posts/claude-code-adds-diff-view-for-ai-generated-code/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/claude-code-adds-diff-view-for-ai-generated-code/</guid>
+<pubDate>Wed, 28 Jan 2026 12:00:00 +0000</pubDate>
+<description>Claude Code now lets developers review code changes and leave comments without switching apps, making AI-assisted development faster and easier to check.</description>
+</item>
+<item>
+<title>How Cursor built my GCP browser extension in 30 minutes</title>
+<link>https://ofershap.github.io/posts/how-cursor-built-my-gcp-browser-extension-in-30-minutes/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/how-cursor-built-my-gcp-browser-extension-in-30-minutes/</guid>
+<pubDate>Tue, 27 Jan 2026 12:00:00 +0000</pubDate>
+<description>A five-minute prompt gave Cursor enough context to research, build, and test a GCP browser extension using a technology I had never worked with.</description>
+</item>
+<item>
+<title>Running multiple AI agents without terminal conflicts</title>
+<link>https://ofershap.github.io/posts/running-multiple-ai-agents-without-terminal-conflicts/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/running-multiple-ai-agents-without-terminal-conflicts/</guid>
+<pubDate>Tue, 13 Jan 2026 12:00:00 +0000</pubDate>
+<description>Superset runs multiple CLI-based AI agents in isolated terminal sessions, making it easier to manage coding, debugging, and testing in parallel.</description>
+</item>
+<item>
+<title>What one developer built with Google Earth</title>
+<link>https://ofershap.github.io/posts/what-one-developer-built-with-google-earth/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/what-one-developer-built-with-google-earth/</guid>
+<pubDate>Sun, 11 Jan 2026 12:00:00 +0000</pubDate>
+<description>A single developer turned real map data into a live flight environment using open source code and existing infrastructure.</description>
+</item>
+<item>
+<title>From Nokia keypads to AI intermediaries</title>
+<link>https://ofershap.github.io/posts/from-nokia-keypads-to-ai-intermediaries/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/from-nokia-keypads-to-ai-intermediaries/</guid>
+<pubDate>Wed, 31 Dec 2025 12:00:00 +0000</pubDate>
+<description>In twenty years, communication moved from repeated Nokia keypresses and phone calls to low-friction messaging. AI may take the next step for us.</description>
+</item>
+<item>
+<title>Kids will see hand-written code as ancient history</title>
+<link>https://ofershap.github.io/posts/kids-will-see-hand-written-code-as-ancient-history/</link>
+<guid isPermaLink="true">https://ofershap.github.io/posts/kids-will-see-hand-written-code-as-ancient-history/</guid>
+<pubDate>Tue, 30 Dec 2025 12:00:00 +0000</pubDate>
+<description>My 9-year-old built a memory game with Gemini, making me realize that writing code by hand has already started to look like a relic.</description>
+</item>
+</channel></rss>

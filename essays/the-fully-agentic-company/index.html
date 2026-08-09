@@ -18,6 +18,12 @@
 <meta name="twitter:image" content="https://ofershap.github.io/essays/the-fully-agentic-company/og-image.png">
 <link rel="icon" href="data:,">
 <link rel="stylesheet" href="/style.css">
+<!-- seo:start -->
+<link rel="canonical" href="https://ofershap.github.io/essays/the-fully-agentic-company/">
+<link rel="alternate" type="application/rss+xml" title="Ofer Shapira" href="https://ofershap.github.io/feed.xml">
+<link rel="alternate" type="text/markdown" href="https://ofershap.github.io/essays/the-fully-agentic-company/index.md">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@context":"https://schema.org","@type":"BlogPosting","headline":"The Fully Agentic Company: The One Part No Agent Will Ever Run","description":"Everything in an agentic organization can be substituted, the model, the CEO, every executor, except the one thing that authored why the work matters in the first place.","datePublished":"2026-08-06","dateModified":"2026-08-06","inLanguage":"en","mainEntityOfPage":{"@type":"WebPage","@id":"https://ofershap.github.io/essays/the-fully-agentic-company/"},"author":{"@type":"Person","name":"Ofer Shapira","url":"https://ofershap.github.io/","sameAs":["https://github.com/ofershap","https://www.linkedin.com/in/ofershap/","https://gitshow.dev/ofershap","https://x.com/ofershap"]},"publisher":{"@type":"Person","name":"Ofer Shapira","url":"https://ofershap.github.io/","sameAs":["https://github.com/ofershap","https://www.linkedin.com/in/ofershap/","https://gitshow.dev/ofershap","https://x.com/ofershap"]},"url":"https://ofershap.github.io/essays/the-fully-agentic-company/","image":["https://ofershap.github.io/essays/the-fully-agentic-company/og-image.png"]},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is a commitment object in an agentic company?","acceptedAnswer":{"@type":"Answer","text":"A durable specification of outcome, verifier, boundary, authority, budget, deadline, failure behavior, and amendment owner — precise enough that swapping the executor does not change what counts as done."}},{"@type":"Question","name":"What is the one part no agent will ever run?","acceptedAnswer":{"@type":"Answer","text":"Authorship of the founding commitments: why the company exists and which outcomes are worth pursuing. Agents can execute and even occupy CEO-like runtime roles; they cannot substitute the source of those obligations without starting a different company."}},{"@type":"Question","name":"How is this different from building an 'OS for agents'?","acceptedAnswer":{"@type":"Answer","text":"Desktop and process isolation solve the wrong problem. The failure mode is organizational: no shared definition of done, no named authority, no budget, and no record of why the work existed across handoffs."}}]}]}</script>
+<!-- seo:end -->
 </head>
 <body>
 <header>
@@ -31,6 +37,8 @@
   <h1>The Fully Agentic Company: The One Part No Agent Will Ever Run</h1>
   <p class="subtitle">An agent can run the company. It cannot be the reason the company exists.</p>
   <p class="byline">August 6, 2026 &middot; 18 min read</p>
+
+<p class="lede-def"><strong>A fully agentic company</strong> is an organization where almost every executor — models, services, and humans in the loop — can be substituted, except the authored commitments that say why the work matters.</p>
 
   <p>Every company running agents hits the same failure, whether it has ten people or ten thousand. Delegate a real piece of work and watch what happens at the first handoff: the agent does most of the job, then a human finishes it, or a second agent picks it up, or the same job runs again next month against a newer model. The harness survives that handoff fine: rules files, skills, memory, whatever scaffolding the team built. What doesn't survive is anything about this specific piece of work. What counted as done, who was allowed to sign off, what it was allowed to spend, what should happen if it failed twice. That lived in someone's head, or in a Slack thread, and nobody wrote it down anywhere the next runner could read.</p>
 
@@ -136,6 +144,18 @@
 
   <p>Here is one thing I am willing to be wrong about in public. By the end of 2028, at least one engineering organization widely read on Hacker News will publish an internal standard where the default handoff from leadership to execution is a commitment object (outcome, verifier, boundary, authority, budget, deadline, failure behavior, amendment owner) with amendments logged the way production config changes are logged today, and where prompt libraries or chat threads are explicitly documented as non-authoritative scaffolding around that object. You will be able to point to their write-up and see the schema, not just a culture post about "AI transformation." If instead the industry is still primarily shipping tasks disguised as prompts, with acceptance renegotiated in every new thread and no named amendment owner when scope slips, then this essay mistook a useful thought experiment for a direction the market will actually take. Treat the rest of it as architecture fiction.</p>
 
+
+<section class="faq">
+  <h2>FAQ</h2>
+  <dl>
+    <dt>What is a commitment object in an agentic company?</dt>
+    <dd>A durable specification of outcome, verifier, boundary, authority, budget, deadline, failure behavior, and amendment owner — precise enough that swapping the executor does not change what counts as done.</dd>
+    <dt>What is the one part no agent will ever run?</dt>
+    <dd>Authorship of the founding commitments: why the company exists and which outcomes are worth pursuing. Agents can execute and even occupy CEO-like runtime roles; they cannot substitute the source of those obligations without starting a different company.</dd>
+    <dt>How is this different from building an &#x27;OS for agents&#x27;?</dt>
+    <dd>Desktop and process isolation solve the wrong problem. The failure mode is organizational: no shared definition of done, no named authority, no budget, and no record of why the work existed across handoffs.</dd>
+  </dl>
+</section>
 
   <footer>
     <div class="links">
