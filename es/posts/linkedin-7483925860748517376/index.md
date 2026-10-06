@@ -1,0 +1,10 @@
+# Opinión impopular: Boris Cherny, de Anthropic, me molesta. Publicó una guía que mapea la adopción de la IA en las organizaciones en cinco etapas, de la 0 a la 4. Qué fácil es compartir una guía sobre cómo quemar la mayor cantidad posible de tokens, con cero responsabilidad por el resultado, cuando hablas desde la torre de marfil de un CEO de una empresa que cobra por cada token. A mis ojos es un antipatrón de cómo trabajar, y pasará tiempo hasta que lleguemos a un punto en el que se pueda dar autonomía absoluta a los agentes para escribir código de producción sin supervisión.
+
+Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
+
+Opinión impopular: Boris Cherny, de Anthropic, me molesta. Publicó una guía que mapea la adopción de la IA en las organizaciones en cinco etapas, de la 0 a la 4. Qué fácil es compartir una guía sobre cómo quemar la mayor cantidad posible de tokens, con cero responsabilidad por el resultado, cuando hablas desde la torre de marfil de un CEO de una empresa que cobra por cada token. A mis ojos es un antipatrón de cómo trabajar, y pasará tiempo hasta que lleguemos a un punto en el que se pueda dar autonomía absoluta a los agentes para escribir código de producción sin supervisión.
+Son justamente estas cosas las que alimentan una burbuja mientras los desarrolladores sobre el terreno gritan que el rey va desnudo y ningún inversor escucha. Porque qué hay más sexy que niveles de automatización para ai slop
+
+Original: https://ofershap.github.io/posts/boris-chernys-ai-adoption-model-fuels-the-bubble/
+Source: https://www.linkedin.com/posts/ofershap_%D7%9E%D7%94%D7%A0%D7%93%D7%A1-%D7%90%D7%97%D7%93-%D7%A2%D7%95%D7%A9%D7%94-%D7%A4%D7%99-10-%D7%A2%D7%9D-%D7%A7%D7%9C%D7%95%D7%93-%D7%95%D7%9B%D7%9C-%D7%A9%D7%90%D7%A8-%D7%94%D7%97%D7%91%D7%A8%D7%94-activity-7483925860748517376-SDtw
+Published: 2026-07-17T19:49:29.821000+03:00

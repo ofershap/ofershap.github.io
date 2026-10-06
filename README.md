@@ -29,3 +29,11 @@ For each confirmed LinkedIn publication, add one idempotent source record with t
 ## Search and AI discovery
 
 Use semantic HTML, original text, clear author/source attribution, stable canonical URLs, article structured data, a sitemap and RSS. Markdown twins provide a readable alternative. `llms.txt` is a convenience, not a promise of ranking or citations. Search engines and answer engines decide what to index and cite.
+
+## Multilingual experiment
+
+100 selected published posts are available in English, Arabic, Spanish and Simplified Chinese. The translations are machine-generated and not reviewed by human translators. Historical claims are preserved, not endorsed as current facts. Each translation keeps the original publication date and source URL, and links back to the archived original. Translation source JSON contains no performance metrics.
+
+Run `python3 build_archive.py` to rebuild originals, identity/discovery files and translations. After rebuilding, run `python3 test_archive.py` and inspect mobile/RTL pages. Existing English archive URLs remain unchanged.
+
+Measure impressions by country and language in Search Console/Bing one month after deployment, once those services are connected and have data. Do not promise indexing or AI citations.
