@@ -20067,6 +20067,31 @@ Published: 2026-09-20T09:06:19.231000+03:00
 
 ---
 
+Canonical URL: https://ofershap.github.io/posts/linkedin-7513110130796843008/
+
+# מישהו פנה אליי לפני חודש. הוא השקיע בבניית מערכת שלמה לכתיבת פוסטים בלינקדאין, ורצה למכור את השירות ללקוחות.
+
+מישהו פנה אליי לפני חודש. הוא השקיע בבניית מערכת שלמה לכתיבת פוסטים בלינקדאין, ורצה למכור את השירות ללקוחות.
+
+היום אני והסוכן שלי עושים את העבודה הזאת כאן. אין סביב זה עסק. אני לא משלם על מערכת, ומבחינתי התוצאה כבר טובה יותר.
+
+זה לא נגדו. גם אליי פונים כל הזמן עם רעיונות, וגם לי היו רעיונות כאלה.
+
+אני פשוט מרגיש שהם הפסיקו להגיע. לא כי נגמרו הרעיונות - נגמר הערך שלהם, ואיתו הטעם. כשכל אחד יכול להגיע לביצוע, צריך למצוא משהו אחר ששווה לשלם עליו.
+
+Original source: https://www.linkedin.com/feed/update/urn:li:share:7513110129643544576/
+Published: 2026-10-06T08:37:00+03:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)
+
+
+---
+
 Canonical URL: https://ofershap.github.io/posts/lovable-built-super-tic-tac-toe-from-one-question/
 
 # Lovable built Super Tic Tac Toe from one question

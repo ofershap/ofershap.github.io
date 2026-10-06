@@ -8998,5 +8998,17 @@
     "document_url": "",
     "existing": false,
     "sha256": "9a82083384e7799adce20bef5f8064df686985a81cd4bc84d4463681bd4af70d"
+  },
+  {
+    "id": "7513110130796843008",
+    "source": "https://www.linkedin.com/feed/update/urn:li:share:7513110129643544576/",
+    "published_at": "2026-10-06T08:37:00+03:00",
+    "date_provenance": "Buffer Sent exact publication timestamp, verified October6 2026; LinkedIn activity7513110130796843008 observed in live analytics URL.",
+    "text": "מישהו פנה אליי לפני חודש. הוא השקיע בבניית מערכת שלמה לכתיבת פוסטים בלינקדאין, ורצה למכור את השירות ללקוחות.\n\nהיום אני והסוכן שלי עושים את העבודה הזאת כאן. אין סביב זה עסק. אני לא משלם על מערכת, ומבחינתי התוצאה כבר טובה יותר.\n\nזה לא נגדו. גם אליי פונים כל הזמן עם רעיונות, וגם לי היו רעיונות כאלה.\n\nאני פשוט מרגיש שהם הפסיקו להגיע. לא כי נגמרו הרעיונות - נגמר הערך שלהם, ואיתו הטעם. כשכל אחד יכול להגיע לביצוע, צריך למצוא משהו אחר ששווה לשלם עליו.",
+    "images": "https://buffer-media-uploads.s3.amazonaws.com/607af40e2d708ee793ba1df6/6abd0763c1dcf082bbae7dc9",
+    "video_url": "",
+    "document_url": "",
+    "existing": false,
+    "sha256": "419d4cd517cac9308c9fd7ec38c21f874d51f054cb66e9a6b7819d63a353437f"
   }
 ]
