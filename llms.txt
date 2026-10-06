@@ -1,12 +1,92 @@
 # Ofer Shapira
 
-> Writing on AI agents, software architecture, and the systems that hold organizations together when executors change.
+> First-hand writing on AI engineering, agents, software architecture and leading engineering teams.
 
 - Site: https://ofershap.github.io/
 - Sitemap: https://ofershap.github.io/sitemap.xml
 - RSS: https://ofershap.github.io/feed.xml
 - GitHub: https://github.com/ofershap
 - LinkedIn: https://www.linkedin.com/in/ofershap/
+
+## Recent original-language posts
+
+- [מה קורה כשהבוט של Instinct יוצר לעצמו פרויקט open source?](https://ofershap.github.io/posts/linkedin-7507319211346731008/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7507319211346731008/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_github-ofershappr-rulebook-compile-your-activity-7507319211346731008-yudF
+- [זוכרים את המשחק הזה? ראיתי את הפוסט הזה בפייסבוק: https://lnkd.in/dPXWYfn9](https://ofershap.github.io/posts/linkedin-7507016125633818625/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7507016125633818625/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%96%D7%95%D7%9B%D7%A8%D7%99%D7%9D-%D7%90%D7%AA-%D7%94%D7%9E%D7%A9%D7%97%D7%A7-%D7%94%D7%96%D7%94-%D7%A8%D7%90%D7%99%D7%AA%D7%99-%D7%90%D7%AA-%D7%94%D7%A4%D7%95%D7%A1%D7%98-%D7%94%D7%96%D7%94-%D7%91%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7-activity-7507016125633818625-9hmE
+- [‏הודעת WhatsApp שהופכת לפגישות ביומן עם ג'מיני בזמן שהטסלה מסיעה אותי אוטונומית](https://ofershap.github.io/posts/linkedin-7506659453430120448/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7506659453430120448/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%94%D7%95%D7%93%D7%A2%D7%AA-whatsapp-%D7%A9%D7%94%D7%95%D7%A4%D7%9B%D7%AA-%D7%9C%D7%A4%D7%92%D7%99%D7%A9%D7%95%D7%AA-%D7%91%D7%99%D7%95%D7%9E%D7%9F-%D7%A2%D7%9D-%D7%92%D7%9E%D7%99%D7%A0%D7%99-activity-7506659453430120448-_sMD
+- [במשך כמעט שנה הייתי צריך כל פעם לכבות ולהדליק מחדש את המדפסת כדי שהיא תדפיס לי דפים! אחרי הדפסה ראשונה והמתנה של כמה דקות היא הפסי](https://ofershap.github.io/posts/linkedin-7506259752545370114/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7506259752545370114/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%91%D7%9E%D7%A9%D7%9A-%D7%9B%D7%9E%D7%A2%D7%98-%D7%A9%D7%A0%D7%94-%D7%94%D7%99%D7%99%D7%AA%D7%99-%D7%A6%D7%A8%D7%99%D7%9A-%D7%9B%D7%9C-%D7%A4%D7%A2%D7%9D-%D7%9C%D7%9B%D7%91%D7%95%D7%AA-%D7%95%D7%9C%D7%94%D7%93%D7%9C%D7%99%D7%A7-activity-7506259752545370114-MGaz
+- [נוזף בחבר צוות](https://ofershap.github.io/posts/linkedin-7505903005477634048/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7505903005477634048/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%A0%D7%95%D7%96%D7%A3-%D7%91%D7%97%D7%91%D7%A8-%D7%A6%D7%95%D7%95%D7%AA-activity-7505903005477634048-9WdA
+- [הרגע הכי מוזר בהקלטת שיחה למטרת תמלול הוא הרגע שבו לוחצים על ה-Record. תחושה מוזרה של אמונה עיוורת בתהליך שיביא באמת ערך במחיר של ](https://ofershap.github.io/posts/linkedin-7505854570305126401/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7505854570305126401/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%94%D7%A8%D7%92%D7%A2-%D7%94%D7%9B%D7%99-%D7%9E%D7%95%D7%96%D7%A8-%D7%91%D7%94%D7%A7%D7%9C%D7%98%D7%AA-%D7%A9%D7%99%D7%97%D7%94-%D7%9C%D7%9E%D7%98%D7%A8%D7%AA-%D7%AA%D7%9E%D7%9C%D7%95%D7%9C-%D7%94%D7%95%D7%90-activity-7505854570305126401-xZ9_
+- [דל״פ: אני שמח מהצעד של אילון מאסק לקנות את Cursor ולצרף אותו לאוסף האיקסים שלו.](https://ofershap.github.io/posts/linkedin-7505499994809081857/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7505499994809081857/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%93%D7%9C%D7%A4-%D7%90%D7%A0%D7%99-%D7%A9%D7%9E%D7%97-%D7%9E%D7%94%D7%A6%D7%A2%D7%93-%D7%A9%D7%9C-%D7%90%D7%99%D7%9C%D7%95%D7%9F-%D7%9E%D7%90%D7%A1%D7%A7-%D7%9C%D7%A7%D7%A0%D7%95%D7%AA-%D7%90%D7%AA-activity-7505499994809081857-ef62
+- [סוכני ייעוץ לעומת סוכני קוד:](https://ofershap.github.io/posts/linkedin-7505146413157228544/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7505146413157228544/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%A1%D7%95%D7%9B%D7%A0%D7%99-%D7%99%D7%99%D7%A2%D7%95%D7%A5-%D7%9C%D7%A2%D7%95%D7%9E%D7%AA-%D7%A1%D7%95%D7%9B%D7%A0%D7%99-%D7%A7%D7%95%D7%93-%D7%99%D7%A9-coding-agents-activity-7505146413157228544-5x0y
+- [דרושים: עובדי חלל](https://ofershap.github.io/posts/linkedin-7503698448047710208/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7503698448047710208/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%93%D7%A8%D7%95%D7%A9%D7%99%D7%9D-%D7%A2%D7%95%D7%91%D7%93%D7%99-%D7%97%D7%9C%D7%9C-activity-7503698448047710208-O_J6
+- [זוכרים שיצרתם קבצי קונטקסט בפרויקט? זה היה כיתה א׳ של פיתוח עם אייג׳נטים... יצא לכם לבקר בקבצים האלה מאז? לוודא שהם עדיין נכונים? ](https://ofershap.github.io/posts/linkedin-7502999614728519681/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7502999614728519681/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%96%D7%95%D7%9B%D7%A8%D7%99%D7%9D-%D7%A9%D7%99%D7%A6%D7%A8%D7%AA%D7%9D-%D7%A7%D7%91%D7%A6%D7%99-%D7%A7%D7%95%D7%A0%D7%98%D7%A7%D7%A1%D7%98-%D7%91%D7%A4%D7%A8%D7%95%D7%99%D7%A7%D7%98-%D7%96%D7%94-%D7%94%D7%99%D7%94-activity-7502999614728519681-FWNs
+- [שמתם לב שהאינטרנט הפך להיות שפת התיאור של AI?](https://ofershap.github.io/posts/linkedin-7502676315364433920/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7502676315364433920/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%A9%D7%9E%D7%AA%D7%9D-%D7%9C%D7%91-%D7%A9%D7%94%D7%90%D7%99%D7%A0%D7%98%D7%A8%D7%A0%D7%98-%D7%94%D7%A4%D7%9A-%D7%9C%D7%94%D7%99%D7%95%D7%AA-%D7%A9%D7%A4%D7%AA-%D7%94%D7%AA%D7%99%D7%90%D7%95%D7%A8-%D7%A9%D7%9C-activity-7502676315364433920-maws
+- [קבלו אמ;לק בעברית: הצוות של Lovable פרסמו בלוג פוסט טכני על איך הם העבירו את כל הפלטפורמה שלהם לעבוד באמצעות... Lovable! הם בנו מח](https://ofershap.github.io/posts/linkedin-7500903183968477184/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7500903183968477184/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_how-we-migrated-lovabledev-away-from-nextjs-activity-7500903183968477184-nJJP
+- [באייפון אין כפתור Restart בתפריט הכיבוי.](https://ofershap.github.io/posts/linkedin-7500781053377445888/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7500781053377445888/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%91%D7%90%D7%99%D7%99%D7%A4%D7%95%D7%9F-%D7%90%D7%99%D7%9F-%D7%9B%D7%A4%D7%AA%D7%95%D7%A8-restart-%D7%91%D7%AA%D7%A4%D7%A8%D7%99%D7%98-%D7%94%D7%9B%D7%99%D7%91%D7%95%D7%99-activity-7500781053377445888-mzLg
+- [הידעתם שמתקיימת ממש עכשיו תחרות WebMCP של OpenAI?](https://ofershap.github.io/posts/linkedin-7500498936995086337/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7500498936995086337/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%94%D7%99%D7%93%D7%A2%D7%AA%D7%9D-%D7%A9%D7%9E%D7%AA%D7%A7%D7%99%D7%99%D7%9E%D7%AA-%D7%9E%D7%9E%D7%A9-%D7%A2%D7%9B%D7%A9%D7%99%D7%95-%D7%AA%D7%97%D7%A8%D7%95%D7%AA-webmcp-%D7%A9%D7%9C-activity-7500498936995086337-YRMi
+- [הנה דוגמא לאיך להשתמש בצורה נבונה ב-Subagents. תראו את הפרומפט שלי.](https://ofershap.github.io/posts/linkedin-7499700269589630976/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7499700269589630976/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%94%D7%A0%D7%94-%D7%93%D7%95%D7%92%D7%9E%D7%90-%D7%9C%D7%90%D7%99%D7%9A-%D7%9C%D7%94%D7%A9%D7%AA%D7%9E%D7%A9-%D7%91%D7%A6%D7%95%D7%A8%D7%94-%D7%A0%D7%91%D7%95%D7%A0%D7%94-%D7%91-subagents-activity-7499700269589630976-6vh2
+- [חברות תתעוררו! השינוי הכי גדול ש AI מכניס לחברות הוא לא בטכנולוגי אלא התפיסתי.](https://ofershap.github.io/posts/linkedin-7498649604507443201/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7498649604507443201/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%97%D7%91%D7%A8%D7%95%D7%AA-%D7%AA%D7%AA%D7%A2%D7%95%D7%A8%D7%A8%D7%95-%D7%94%D7%A9%D7%99%D7%A0%D7%95%D7%99-%D7%94%D7%9B%D7%99-%D7%92%D7%93%D7%95%D7%9C-%D7%A9-ai-%D7%9E%D7%9B%D7%A0%D7%99%D7%A1-activity-7498649604507443201-x1he
+- [טיפ זהב לכל מי שיוצר תכניות עם cavas של קרסור](https://ofershap.github.io/posts/linkedin-7498252325862567936/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7498252325862567936/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%9E%D7%94-%D7%96%D7%94-%D7%90%D7%99%D7%9A-%D7%A2%D7%A9%D7%99%D7%AA-%D7%90%D7%AA-%D7%96%D7%94-%D7%94%D7%95%D7%90-%D7%A9%D7%90%D7%9C-%D7%90%D7%95%D7%AA%D7%99-%D7%A2%D7%9D-activity-7498252325862567936-Z1tx
+- [איך כולנו עובדים היום? זה מצחיק (או עצוב) אבל בגדול זה: ask agent → hope ](https://ofershap.github.io/posts/linkedin-7498244426281148416/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7498244426281148416/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%90%D7%99%D7%9A-%D7%9B%D7%95%D7%9C%D7%A0%D7%95-%D7%A2%D7%95%D7%91%D7%93%D7%99%D7%9D-%D7%94%D7%99%D7%95%D7%9D-%D7%96%D7%94-%D7%9E%D7%A6%D7%97%D7%99%D7%A7-%D7%90%D7%95-%D7%A2%D7%A6%D7%95%D7%91-activity-7498244426281148416-XmRj
+- [זהירות אייג׳נט לפניך! האתגר החדש שכולנו מתמודדים איתו: כשאנחנו נותנים לאיש מקצוע לעשות משהו עבורנו בלי שאנחנו רואים ומנסים בעצמנו ](https://ofershap.github.io/posts/linkedin-7497889846062014464/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7497889846062014464/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%96%D7%94%D7%99%D7%A8%D7%95%D7%AA-%D7%90%D7%99%D7%99%D7%92%D7%A0%D7%98-%D7%9C%D7%A4%D7%A0%D7%99%D7%9A-%D7%94%D7%90%D7%AA%D7%92%D7%A8-%D7%94%D7%97%D7%93%D7%A9-%D7%A9%D7%9B%D7%95%D7%9C%D7%A0%D7%95-%D7%9E%D7%AA%D7%9E%D7%95%D7%93%D7%93%D7%99%D7%9D-activity-7497889846062014464-trIf
+- [אנחנו בדרך ל"באג 2030" (בסגנון באג 2000) וכמעט אף אחד לא מדבר על זה!](https://ofershap.github.io/posts/linkedin-7497536260585168898/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7497536260585168898/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%90%D7%A0%D7%97%D7%A0%D7%95-%D7%91%D7%93%D7%A8%D7%9A-%D7%9C%D7%91%D7%90%D7%92-2030-%D7%91%D7%A1%D7%92%D7%A0%D7%95%D7%9F-%D7%91%D7%90%D7%92-2000-activity-7497536260585168898-gE7N
+- [אם הגעתם למצב שאתם מסתכלים על הקוד כשאתם עושים Review לפני שאתם יודעים מה אתם הולכים לראות - אתם עובדים קשה לחינם. ](https://ofershap.github.io/posts/linkedin-7497163554815381504/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7497163554815381504/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%90%D7%9D-%D7%94%D7%92%D7%A2%D7%AA%D7%9D-%D7%9C%D7%9E%D7%A6%D7%91-%D7%A9%D7%90%D7%AA%D7%9D-%D7%9E%D7%A1%D7%AA%D7%9B%D7%9C%D7%99%D7%9D-%D7%A2%D7%9C-%D7%94%D7%A7%D7%95%D7%93-%D7%9B%D7%A9%D7%90%D7%AA%D7%9D-activity-7497163554815381504-IIiB
+- [לגדל סוכנים. כמו שפעם היה לנו טמגוצ׳י וכל אחד גידל אותו, היום יש לנו אייג׳נטים שכל אחד מטפח ובונה אותו סביב החיים שלו. וכל אייג׳נט](https://ofershap.github.io/posts/linkedin-7496112887812423680/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7496112887812423680/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%9C%D7%92%D7%93%D7%9C-%D7%A1%D7%95%D7%9B%D7%A0%D7%99%D7%9D-%D7%9B%D7%9E%D7%95-%D7%A9%D7%A4%D7%A2%D7%9D-%D7%94%D7%99%D7%94-%D7%9C%D7%A0%D7%95-%D7%98%D7%9E%D7%92%D7%95%D7%A6%D7%99-%D7%95%D7%9B%D7%9C-activity-7496112887812423680-d4dS
+- [ניסיתם לעשות Pair Prompting? בדומה ל Pair programming, אתם לא מאמינים כמה זה משפר את היכולת של שני הצדדים. אחד כותב והשני נותן פיד](https://ofershap.github.io/posts/linkedin-7495707727046852608/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7495707727046852608/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%A0%D7%99%D7%A1%D7%99%D7%AA%D7%9D-%D7%9C%D7%A2%D7%A9%D7%95%D7%AA-pair-prompting-%D7%91%D7%93%D7%95%D7%9E%D7%94-%D7%9C-pair-activity-7495707727046852608-PbWO
+- [טיפ מעולה בסגנון cave man אבל יותר פרקטי](https://ofershap.github.io/posts/linkedin-7495693413976207360/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7495693413976207360/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%9C%D7%90%D7%97%D7%A8%D7%95%D7%A0%D7%94-%D7%92%D7%99%D7%9C%D7%99%D7%AA%D7%99-%D7%90%D7%AA-b2-%D7%95%D7%9E%D7%90%D7%96-%D7%90%D7%A0%D7%99-%D7%9C%D7%90-%D7%9E%D7%A4%D7%A1%D7%99%D7%A7-%D7%9C%D7%94%D7%A9%D7%AA%D7%9E%D7%A9-activity-7495693413976207360-9pWT
+- [איך אתם דואגים שהקובץ .env שלכם יהיה תמיד עדכני ושכל הצוות יהיה מסונכרן עליו?](https://ofershap.github.io/posts/linkedin-7495353124623278080/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7495353124623278080/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%90%D7%99%D7%9A-%D7%90%D7%AA%D7%9D-%D7%93%D7%95%D7%90%D7%92%D7%99%D7%9D-%D7%A9%D7%94%D7%A7%D7%95%D7%91%D7%A5-env-%D7%A9%D7%9C%D7%9B%D7%9D-%D7%99%D7%94%D7%99%D7%94-%D7%AA%D7%9E%D7%99%D7%93-activity-7495353124623278080-oV7i
+
+## Existing essays and selected translations
 
 ## Primary essay
 
@@ -37,3 +117,4 @@
 ## All posts
 
 Full archive listed in the [sitemap](https://ofershap.github.io/sitemap.xml) and [RSS feed](https://ofershap.github.io/feed.xml) (latest 50 in feed).
+

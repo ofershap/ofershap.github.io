@@ -303,3 +303,14 @@
     line-height: 1.7;
     margin: 0 0 1.35rem;
   }
+
+/* Archive refresh: keep the site's quiet editorial identity. */
+.skip-link{position:absolute;left:1rem;top:-5rem;background:#fff;padding:.8rem;z-index:2}.skip-link:focus{top:1rem}
+.archive-intro{padding:0 0 2.8rem;border-bottom:1px solid #e5e3db}.eyebrow{font-family:system-ui,sans-serif;font-size:.75rem;letter-spacing:.12em;text-transform:uppercase;color:#5e716a;margin:0 0 1.25rem}
+.archive-intro h1{font-size:clamp(2.4rem,6vw,3.8rem);line-height:1.08;letter-spacing:-.045em;margin-bottom:1.2rem}.archive-lede{font-size:1.15rem;max-width:580px;color:#555;line-height:1.65}.archive-links{display:flex;gap:1.4rem;font-family:system-ui,sans-serif;font-size:.85rem}.archive-links a{color:#405f52;text-decoration-thickness:1px}
+.archive-tools{padding:2rem 0 0;font-family:system-ui,sans-serif}.archive-tools label{display:block;font-size:.85rem;font-weight:600;margin-bottom:.6rem}.archive-tools input{box-sizing:border-box;width:100%;border:1px solid #d7d8d2;border-radius:6px;padding:.85rem 1rem;background:#fff;color:#1a1a1a;font:inherit;font-size:.95rem}.archive-tools input:focus{outline:2px solid #627c70;outline-offset:2px}.archive-tools p{font-family:system-ui,sans-serif;font-size:.8rem;color:#666;margin:.6rem 0 1.5rem}
+[hidden]{display:none!important}img{max-width:100%;height:auto}a:focus-visible,button:focus-visible{outline:2px solid #627c70;outline-offset:4px}.post-list a.post-title{overflow-wrap:anywhere}
+@media(max-width:500px){header{gap:1rem;flex-wrap:wrap}main{padding-top:2rem}.archive-intro{padding-bottom:2rem}.archive-intro h1{font-size:2.65rem}.archive-lede{font-size:1.05rem}.archive-links{flex-wrap:wrap}.archive-tools{padding-top:1.5rem}}
+html[lang=he] main{direction:rtl;font-family:Arial,system-ui,sans-serif}html[lang=he] h1{overflow-wrap:anywhere}html[lang=he] .post-source{margin:0 0 2rem}html[lang=he] p{unicode-bidi:plaintext}html[lang=he] footer{direction:ltr}
+
+html[lang=he] .byline{margin:0 0 .75rem}html[lang=he] .post-source{margin:0 0 2rem}html[lang=he] h1{font-size:1.7rem;line-height:1.45}html[lang=he] header{direction:ltr}
