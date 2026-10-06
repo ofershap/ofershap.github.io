@@ -6,3 +6,10 @@
 
 Original source: https://www.linkedin.com/posts/ofershap_startupjourney-startupstories-startupstory-activity-6680736947951955968-NafW
 Published: 2020-06-22T10:43:30.482000+03:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

@@ -16,3 +16,10 @@
 
 Original source: https://www.linkedin.com/posts/ofershap_how-we-built-the-first-ai-generated-genomes-activity-7383033706309132288-DT_-
 Published: 2025-10-12T10:00:05.717000+03:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

@@ -20,3 +20,10 @@
 
 Original source: https://www.linkedin.com/posts/ofershap_generative-ai-accelerator-activity-7345500531991150593-d1sU
 Published: 2025-06-30T20:16:39.627000+03:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

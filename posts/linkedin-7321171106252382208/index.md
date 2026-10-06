@@ -38,3 +38,10 @@ A2A מייצר תשתית לרשת של מומחים דיגיטליים שכל �
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%9E%D7%94-%D7%96%D7%94-%D7%94%D7%A4%D7%A8%D7%95%D7%98%D7%95%D7%A7%D7%95%D7%9C-%D7%94%D7%97%D7%93%D7%A9-agent-2-agent-%D7%A2%D7%95%D7%93-%D7%9C%D7%90-activity-7321171106252382208-fQUl
 Published: 2025-04-24T17:00:12.512000+03:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

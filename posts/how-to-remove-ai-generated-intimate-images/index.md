@@ -9,3 +9,10 @@ If someone used AI or Photoshop to turn your photo into a nude image, submit bot
 If the image has gone viral, notify the platform’s cybersecurity team immediately and act at once.
 
 Original source: https://www.linkedin.com/posts/ofershap_awareness-deepfakes-activity-7096049941281685504-QnVw
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

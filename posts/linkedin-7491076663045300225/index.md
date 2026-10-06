@@ -8,3 +8,10 @@
 
 Original source: https://www.linkedin.com/posts/ofershap_github-ajrcredata-analysis-skills-composable-activity-7491076663045300225-GnZC
 Published: 2026-08-06T13:24:13.944000+03:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

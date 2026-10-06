@@ -14,3 +14,10 @@ https://lnkd.in/drxKUc4G
 
 Original source: https://www.linkedin.com/posts/ofershap_i-use-cursors-agent-mode-all-day-at-some-activity-7440082527836561410-HJlG
 Published: 2026-03-18T19:11:44.685000+02:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

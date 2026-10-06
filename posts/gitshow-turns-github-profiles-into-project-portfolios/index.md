@@ -23,3 +23,10 @@ It works for both personal profiles and organizations. gitshow.dev/sindresorhus 
 The source code is open .
 
 Original source: https://www.linkedin.com/posts/ofershap_opensource-github-developertools-activity-7432710108402356225-i_LT
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

@@ -6,3 +6,10 @@ https://lnkd.in/dcMahij8
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%AA%D7%91%D7%95%D7%A8-%D7%A4%D7%99%D7%AA%D7%97%D7%94-%D7%9E%D7%97%D7%A9%D7%91-%D7%A7%D7%95%D7%95%D7%A0%D7%98%D7%99-%D7%91%D7%92%D7%95%D7%93%D7%9C-%D7%A9%D7%9C-%D7%A9%D7%A8%D7%AA-techtime-activity-7024503621111156736-iWow
 Published: 2023-01-27T00:29:32.239000+02:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

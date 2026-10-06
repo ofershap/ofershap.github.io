@@ -17,3 +17,10 @@ We trust them because they sound confident, precise, and convincing, sometimes m
 I still went to throw some salt over my shoulder.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%94%D7%99%D7%90-%D7%94%D7%AA%D7%92%D7%A8%D7%A9%D7%94-%D7%9E%D7%91%D7%A2%D7%9C%D7%94-%D7%9B%D7%99-chat-gpt-%D7%90%D7%9E%D7%A8-%D7%9C%D7%94-%D7%A9%D7%94%D7%95%D7%90-activity-7334111325398220800-TQqw
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

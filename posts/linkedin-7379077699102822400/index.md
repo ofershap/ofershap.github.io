@@ -17,3 +17,10 @@ Flow נחשב כיום לאחד הכלים המתקדמים ביותר ביצי�
 
 Original source: https://www.linkedin.com/posts/ofershap_flow-activity-7379077699102822400-SG8E
 Published: 2025-10-01T12:00:20.100000+03:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

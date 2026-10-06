@@ -29,3 +29,10 @@ It did not change his life. It gave him a personal assistant that could examine 
 Read the original LiveMint article .
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%A0%D7%AA%D7%AA%D7%99-%D7%9C-chatgpt-%D7%9C%D7%A0%D7%94%D7%9C-%D7%9C%D7%99-%D7%90%D7%AA-%D7%94%D7%9B%D7%A1%D7%A3-%D7%91%D7%9E%D7%A9%D7%9A-%D7%97%D7%95%D7%93%D7%A9-activity-7346066366497468417-e1O0
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

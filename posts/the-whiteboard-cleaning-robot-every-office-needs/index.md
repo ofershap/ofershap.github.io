@@ -15,3 +15,10 @@ For anyone leading technical teams, looking for a product idea, or thinking abou
 You can find more on the HTX Studio channel .
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%9E%D7%A7%D7%A8%D7%94-%D7%A7%D7%9C%D7%90%D7%A1%D7%99-%D7%A9%D7%9C-shut-up-and-take-my-money-activity-7367073574995582976-e0jr
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

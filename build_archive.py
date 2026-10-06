@@ -67,4 +67,7 @@ def build():
   rss.append('<item><title>'+E(re.sub('<.*?>','',title))+'</title><link>'+BASE+u+'</link><guid isPermaLink="true">'+BASE+u+'</guid><pubDate>'+format_datetime(dt)+'</pubDate></item>')
  rss.append('</channel></rss>');(ROOT/'feed.xml').write_text('\n'.join(rss))
  print('Generated',created,'original-language pages;',len(pages),'article pages;',len(items),'homepage entries')
-if __name__=='__main__':build()
+if __name__=='__main__':
+ build()
+ import subprocess,sys
+ subprocess.run([sys.executable,str(ROOT/'build_discovery.py')],check=True)

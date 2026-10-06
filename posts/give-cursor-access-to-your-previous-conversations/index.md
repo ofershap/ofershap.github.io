@@ -13,3 +13,10 @@ You can then ask Cursor questions about past conversations, have it analyze them
 Cursor stores these conversations for 30 days, so this only gives it access to the last 30 days.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%A7%D7%91%D7%9C%D7%95-%D7%90%D7%AA-%D7%96%D7%94-%D7%9E%D7%A6%D7%90%D7%AA%D7%99-%D7%94%D7%90%D7%A7-%D7%9E%D7%98%D7%95%D7%A8%D7%A3-%D7%91-cursor-activity-7422643887799840768-253c
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

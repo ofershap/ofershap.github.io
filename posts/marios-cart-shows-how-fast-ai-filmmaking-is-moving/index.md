@@ -11,3 +11,10 @@ What makes it even more impressive is that it was made with Seedance 2.0, a new 
 Projects like this show how quickly filmmaking is changing. With AI video models, creating a short film no longer requires a large crew or a huge budget. One person with a creative idea and the right prompts can now bring an entire film to life.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%A1%D7%A8%D7%98%D7%95%D7%9F-%D7%A7%D7%A6%D7%A8-%D7%95%D7%9E%D7%A2%D7%95%D7%9C%D7%94-%D7%A9%D7%90%D7%AA%D7%9D-%D7%A6%D7%A8%D7%99%D7%9B%D7%99%D7%9D-%D7%9C%D7%A8%D7%90%D7%95%D7%AA-%D7%94%D7%A1%D7%A8%D7%98%D7%95%D7%9F-activity-7447155540608241665-v2xh
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

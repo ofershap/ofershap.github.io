@@ -29,3 +29,10 @@ The world where product wants something yesterday and engineering delivers it to
 The shift is already underway. Organizations that are not preparing for a world where development is no longer the bottleneck will face it soon. I can already see that developers who have adopted Cursor produce code at twice the rate, or more, of those who still work “manually.”
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%94%D7%91%D7%A7%D7%9C%D7%95%D7%92-%D7%A8%D7%99%D7%A7-%D7%9E%D7%94-%D7%A2%D7%95%D7%A9%D7%99%D7%9D-%D7%94%D7%9E%D7%A4%D7%AA%D7%97-%D7%A0%D7%99%D7%92%D7%A9-%D7%95%D7%90%D7%9E%D7%A8-activity-7310632014599102464-3Gqu
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

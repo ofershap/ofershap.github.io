@@ -28,3 +28,10 @@
 
 Original source: https://www.linkedin.com/posts/ofershap_achacpacwackabracuacsacgacracladgacpadg-aiethics-activity-7335938430490587136-N08j
 Published: 2025-06-04T11:00:16.974000+03:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

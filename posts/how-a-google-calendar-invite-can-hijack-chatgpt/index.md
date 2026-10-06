@@ -21,3 +21,10 @@ The real question is not only what the AI can do, but exactly what you have expo
 Until AI systems can prevent sensitive information from being exposed this way, be careful when connecting them to sensitive systems.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9-%D7%91chatgpt-%D7%96%D7%99%D7%9E%D7%95%D7%9F-%D7%AA%D7%9E%D7%99%D7%9D-%D7%91%D7%99%D7%95%D7%9E%D7%9F-%D7%A9%D7%9C%D7%9A-%D7%99%D7%9B%D7%95%D7%9C-activity-7388107123932606464-Sjrw
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

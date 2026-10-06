@@ -4,3 +4,10 @@
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%94%D7%94%D7%9B%D7%A8%D7%96%D7%94-%D7%A9%D7%9C-openai-%D7%94%D7%A9%D7%91%D7%95%D7%A2-%D7%9E%D7%A2%D7%A0%D7%99%D7%A7%D7%94-%D7%94%D7%A6%D7%A6%D7%94-%D7%9C%D7%A2%D7%99%D7%93%D7%9F-activity-7288963130779467778-ROAA
 Published: 2025-01-25T18:57:12.764000+02:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

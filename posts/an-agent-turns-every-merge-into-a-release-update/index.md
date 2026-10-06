@@ -19,3 +19,10 @@ We are already a large group, with dozens of features shipping every day. This c
 The number of messages asking, “Has this shipped yet?” has dropped to zero. That saves developer time and gives end users better, more current information. It all comes from one simple agent in the build pipeline doing one job: translating code into human language without missing anything or getting tired.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%9E%D7%90%D7%96-%D7%A9%D7%A2%D7%A9%D7%99%D7%AA%D7%99-%D7%90%D7%AA-%D7%96%D7%94-%D7%94%D7%A4%D7%A8%D7%95%D7%93%D7%A7%D7%98-%D7%95%D7%94%D7%AA%D7%9E%D7%99%D7%9B%D7%94-%D7%9C%D7%90-%D7%A4%D7%A0%D7%95-%D7%90%D7%9C%D7%99-activity-7477348241332830209-D4JJ
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

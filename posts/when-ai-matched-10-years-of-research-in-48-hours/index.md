@@ -15,3 +15,10 @@ These tools are not broadly available yet. Tools such as AlphaFold are available
 This points to scientists becoming more like strategists while AI handles more of the experiments and conclusions. I see the same shift in software development as AI-based development tools become more popular.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%A2%D7%A9%D7%95%D7%A8-%D7%A9%D7%9C-%D7%9E%D7%97%D7%A7%D7%A8-%D7%9E%D7%95%D7%9C-48-%D7%A9%D7%A2%D7%95%D7%AA-%D7%A9%D7%9C-%D7%91%D7%99%D7%A0%D7%94-%D7%9E%D7%9C%D7%90%D7%9B%D7%95%D7%AA%D7%99%D7%AA-activity-7308751724071051264-wJWJ
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

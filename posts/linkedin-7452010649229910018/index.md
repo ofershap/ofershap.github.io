@@ -11,3 +11,10 @@
 
 Original source: https://www.linkedin.com/posts/ofershap_opensource-jobsearch-buildinpublic-activity-7452010649229910018-v-rR
 Published: 2026-04-20T18:09:50.439000+03:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

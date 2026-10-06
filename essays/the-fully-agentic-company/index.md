@@ -19,3 +19,10 @@ Authorship of the founding commitments: why the company exists and which outcome
 ### How is this different from building an 'OS for agents'?
 
 Desktop and process isolation solve the wrong problem. The failure mode is organizational: no shared definition of done, no named authority, no budget, and no record of why the work existed across handoffs.
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

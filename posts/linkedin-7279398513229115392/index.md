@@ -8,3 +8,10 @@
 
 Original source: https://www.linkedin.com/posts/ofershap_acgacpacvabracjachadeabrackacyaclacuacjabrachadaacwacpabrackadeadcaclacv-activity-7279398513229115392-U9ZV
 Published: 2024-12-30T09:30:50.238000+02:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

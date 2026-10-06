@@ -17,3 +17,10 @@ We have entered a new era. As the people who hold the full context, our role is 
 A workshop like this is ultimately less about what Cursor can do and more about what it takes to adopt an LLM-based development tool as part of technological progress and the AI shift, rather than treating it as another technical add-on. Staying relevant requires going through this process. It cannot be skipped.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%94%D7%A9%D7%91%D7%95%D7%A2-%D7%A1%D7%99%D7%99%D7%9E%D7%A0%D7%95-%D7%9C%D7%94%D7%A2%D7%91%D7%99%D7%A8-%D7%A1%D7%93%D7%A0%D7%AA-cursor-%D7%91%D7%AA-5-%D7%9E%D7%A4%D7%92%D7%A9%D7%99%D7%9D-activity-7355114746502668289-p7NR
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

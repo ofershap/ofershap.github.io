@@ -21,3 +21,10 @@ An agent reviewing its own work tends to be forgiving. It remembers why it made 
 Within a day of Shumer publishing the prompt, people used it to build space games, kart racing games, and more shooters at an extraordinary level of quality. Shumer says he uses this approach in almost every project he works on, not only games. He shared the details in his tweet and his article .
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%9C%D7%90-%D7%A0%D7%AA%D7%A4%D7%A1-%D7%91%D7%97%D7%95%D7%A8-%D7%91%D7%A9%D7%9D-%D7%9E%D7%90%D7%98-%D7%A9%D7%95%D7%9E%D7%A8-%D7%A4%D7%A8%D7%A1%D7%9D-%D7%95%D7%99%D7%93%D7%90%D7%95-%D7%A9%D7%9C-activity-7489553411802198016-kmG2
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

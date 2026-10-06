@@ -16,3 +16,10 @@
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%98%D7%95%D7%91-%D7%96%D7%94-%D7%9E%D7%92%D7%A0%D7%99%D7%91-shut-up-and-take-my-mone-activity-7395755032224206848-WPiB
 Published: 2025-11-16T11:30:06.166000+02:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

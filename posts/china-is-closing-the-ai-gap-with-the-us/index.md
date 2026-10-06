@@ -15,3 +15,10 @@ China is not just competing. It is changing how the competition works, and that 
 Chinese leadership in AI could affect innovation, the economy, and security in Israel and across the West, while reshaping technology markets. Interesting times, as they say.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%94%D7%9E%D7%99%D7%A8%D7%95%D7%A5-%D7%9C-ai-%D7%A1%D7%99%D7%9F-%D7%9E%D7%A6%D7%9E%D7%A6%D7%9E%D7%AA-%D7%90%D7%AA-%D7%94%D7%A4%D7%A2%D7%A8-%D7%91%D7%A2%D7%A0%D7%A7-%D7%90%D7%A8%D7%94-activity-7280131033667096576-myv7
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

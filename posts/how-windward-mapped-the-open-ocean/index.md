@@ -13,3 +13,10 @@ I was so impressed by their elegant solution to such a critical problem that I t
 I did not get the job, and a lot has happened since. Windward eventually made a huge exit, selling to an American fund for no less than NIS 1 billion. Almost ironically, it happened largely under the radar of the Israeli media.
 
 Original source: https://www.linkedin.com/posts/ofershap_acnacjadfacwacladg-acgaddacmacpaco-aciacgaclaclackacpadfadeacgacsacpadg-activity-7281580211547033600-LbnQ
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

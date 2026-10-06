@@ -4,3 +4,10 @@
 
 Original source: https://www.linkedin.com/posts/ofershap_via-jobopportunity-careergrowth-activity-7081345794359930880-N-aj
 Published: 2023-07-02T22:00:02.418000+03:00
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

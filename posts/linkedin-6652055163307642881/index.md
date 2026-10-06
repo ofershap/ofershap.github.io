@@ -5,3 +5,10 @@ Virtual summit for SaaS owners, who's coming? :)
 
 Original source: https://www.linkedin.com/posts/ofershap_saastr-summit-bridging-the-gap-activity-6652055163307642881-OOPi
 Published: 2020-04-04T07:12:20.141000+03:00
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

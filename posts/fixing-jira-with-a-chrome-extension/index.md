@@ -9,3 +9,10 @@ I built Ride With Jira, a Chrome extension that fixes the small but frustrating 
 The extension is already widely used across our company. You can see all the features and install Ride With Jira for free .
 
 Original source: https://www.linkedin.com/posts/ofershap_ive-built-a-chrome-extension-to-fix-jira-activity-7150215559115087872-5T_h
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

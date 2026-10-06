@@ -23,3 +23,10 @@ Many major AI researchers are now working in similar labs. What stands out to me
 Science once produced global celebrities such as Albert Einstein and Marie Curie, both Nobel Prize winners. Then came the era of entrepreneurs like Steve Jobs, Mark Zuckerberg, and Elon Musk. Now that AI is moving faster than the market, researchers seem to be taking the wheel again.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%90%D7%AA%D7%9D-%D7%99%D7%95%D7%A9%D7%91%D7%99%D7%9D-%D7%91%D7%9F-24-%D7%A7%D7%99%D7%91%D7%9C-%D7%94%D7%A9%D7%91%D7%95%D7%A2-%D7%94%D7%A6%D7%A2%D7%AA-%D7%A2%D7%91%D7%95%D7%93%D7%94-%D7%A2%D7%9D-activity-7358940506787057664-5lPV
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

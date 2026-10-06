@@ -21,3 +21,10 @@ https://github.com/copilot
 
 Original source: https://www.linkedin.com/posts/ofershap_ai-githubcopilot-adgacracwacladg-activity-7275397544283680768-eFSa
 Published: 2024-12-19T08:32:24.907000+02:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

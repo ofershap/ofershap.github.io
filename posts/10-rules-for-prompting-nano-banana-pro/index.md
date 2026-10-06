@@ -81,3 +81,10 @@ You can find more examples in Google’s original post .
 I have also started using Nano Banana Pro regularly to create infographics for my writing. I add the instruction: “Arrange the images from right to left, as Hebrew is read.” This produces the infographic sequence in the correct direction for Hebrew readers.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%9E%D7%93%D7%A8%D7%99%D7%9A-10-%D7%9B%D7%9C%D7%9C%D7%99-%D7%96%D7%94%D7%91-%D7%9C%D7%9B%D7%AA%D7%99%D7%91%D7%AA-%D7%A4%D7%A8%D7%95%D7%9E%D7%A4%D7%98-%D7%9C-nano-banana-activity-7401342273394970624-VBhO
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

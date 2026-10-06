@@ -35,3 +35,10 @@ That is the irony. The thing we chase frustrates those who have not achieved it,
 I look at my son building purposeless worlds out of blocks and realize they may not be so purposeless after all. Maybe real meaning begins when there is no obvious goal.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%94%D7%91%D7%9F-%D7%A9%D7%9C%D7%99-%D7%91%D7%9F-8-%D7%9E%D7%A9%D7%97%D7%A7-%D7%9E%D7%99%D7%99%D7%A0%D7%A7%D7%A8%D7%90%D7%A4%D7%98-%D7%9C%D7%A7%D7%97-%D7%9C%D7%99-%D7%96%D7%9E%D7%9F-activity-7338082539548332033-bqdQ
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

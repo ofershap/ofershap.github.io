@@ -31,3 +31,10 @@ The model gets live access to current information instead of relying only on wha
 MCP is becoming a standard. GitHub already has libraries that collect MCP tools, and Claude now officially supports the protocol. It is a significant step toward making work with AI models smarter and more efficient.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%90%D7%99%D7%9A-%D7%9C%D7%92%D7%A8%D7%95%D7%9D-%D7%9C-ai-%D7%9C%D7%94%D7%91%D7%99%D7%9F-%D7%90%D7%AA-%D7%9B%D7%9C-%D7%94%D7%A7%D7%95%D7%93-%D7%90%D7%95-%D7%9E%D7%90%D7%92%D7%A8-%D7%94%D7%9E%D7%99%D7%93%D7%A2-activity-7296540008415391745-Z6O6
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

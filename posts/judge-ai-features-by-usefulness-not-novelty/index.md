@@ -23,3 +23,10 @@ The question is not what a tool can do. It is what it can do for me .
 If it does not save time, make work easier, or solve a real pain point, it may be cool, but it is still useless. That does not diminish the unprecedented technical achievement behind it.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%92%D7%9C-%D7%94%D7%94%D7%9B%D7%A8%D7%96%D7%95%D7%AA-%D7%91-ai-%D7%A0%D7%94%D7%99%D7%94-%D7%A6%D7%95%D7%A0%D7%90%D7%9E%D7%99-%D7%9B%D7%9C-%D7%99%D7%95%D7%9D-%D7%99%D7%95%D7%A6%D7%90-activity-7322507416158330881-S0hF
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

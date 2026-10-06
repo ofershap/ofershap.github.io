@@ -21,3 +21,10 @@ The numbers reflect that shift. 42% of consumers see modern logos as more trustw
 Brands are not alone. Smart founders apply the same principle to their personal brands, making them easy to recognize, authentic, and, most importantly, memorable.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%9C%D7%9E%D7%94-%D7%9B%D7%9C-%D7%94%D7%9C%D7%95%D7%92%D7%95%D7%90%D7%99%D7%9D-%D7%A2%D7%9D-%D7%94%D7%96%D7%9E%D7%9F-%D7%A0%D7%A8%D7%90%D7%99%D7%9D-%D7%90%D7%95%D7%AA%D7%95-%D7%93%D7%91%D7%A8-%D7%9C%D7%90-activity-7274875242999599104-vV66
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

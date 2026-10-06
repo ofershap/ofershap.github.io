@@ -25,3 +25,10 @@ On a Mac, replace Ctrl with Cmd (⌘) in the shortcuts above.
 One more shortcut that many people miss: use Shift + Enter to start a new line without sending the message.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9%D7%99%D7%9D-%D7%91-chatgpt-%D7%91%D7%90%D7%95%D7%A4%D7%9F-%D7%99%D7%95%D7%9E%D7%99%D7%95%D7%9E%D7%99-%D7%90%D7%96-%D7%9B%D7%93%D7%90%D7%99-activity-7326863637954879489-BIzp
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

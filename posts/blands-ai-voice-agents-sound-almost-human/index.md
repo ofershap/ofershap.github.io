@@ -19,3 +19,10 @@ You can enter your phone number on Bland's website and have the AI call you. For
 After the funding round, the first thing Bland did was buy a car shaped like a giant phone and use it to film a company ad.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%A9%D7%95%D7%97%D7%97%D7%AA%D7%99-%D7%94%D7%99%D7%95%D7%9D-%D7%A2%D7%9D-%D7%A0%D7%A6%D7%99%D7%92%D7%AA-ai-%D7%95%D7%96%D7%94-%D7%A0%D7%A9%D7%9E%D7%A2-%D7%98%D7%95%D7%91-activity-7295392456852803585-mXy6
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

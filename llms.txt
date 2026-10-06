@@ -8,6 +8,11 @@
 - GitHub: https://github.com/ofershap
 - LinkedIn: https://www.linkedin.com/in/ofershap/
 
+## About and full text
+
+- [About Ofer and this blog](https://ofershap.github.io/for-ai/)
+- [Full text archive](https://ofershap.github.io/llms-full.txt)
+
 ## Recent original-language posts
 
 - [מה קורה כשהבוט של Instinct יוצר לעצמו פרויקט open source?](https://ofershap.github.io/posts/linkedin-7507319211346731008/)

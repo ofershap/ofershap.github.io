@@ -15,3 +15,10 @@ Then we started again, this time with a plan based on what we had actually encou
 Other teams starting new projects at our company later adopted this “throw away code” practice. When starting a new project, the fastest way to prove feasibility is to build a thin path through every part of the system. Doing it in the shortest possible time exposes the challenges you would otherwise discover over the following months. It saves valuable time, gets you to a high-quality product faster, and the effect compounds.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%96%D7%A8%D7%A7%D7%A0%D7%95-%D7%90%D7%AA-%D7%9B%D7%9C-%D7%94%D7%A7%D7%95%D7%93-%D7%A9%D7%9C%D7%A0%D7%95-%D7%9C%D7%A4%D7%97-%D7%90%D7%97%D7%A8%D7%99-%D7%A9%D7%91%D7%95%D7%A2-%D7%A9%D7%9C%D7%9D-activity-7480487424113008640-DeIZ
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

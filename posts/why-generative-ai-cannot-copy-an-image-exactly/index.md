@@ -26,3 +26,10 @@ No. The post treats exact-copy failure as inherent to probabilistic generation, 
 
 Discussion in the cited Reddit thread warns that repeated generative copy passes drift further from the source, sometimes toward surreal visuals.
 
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

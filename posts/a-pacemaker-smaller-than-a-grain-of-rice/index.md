@@ -25,3 +25,10 @@ Researchers are also testing ways to combine the pacemaker with medical implants
 This is already in development and has been tested in animals. It could save lives while sparing millions of people unnecessary pain and risk.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%90%D7%99%D7%9A-%D7%A7%D7%95%D7%A6%D7%91-%D7%9C%D7%91-%D7%A7%D7%98%D7%9F-%D7%9E%D7%92%D7%A8%D7%92%D7%A8-%D7%90%D7%95%D7%A8%D7%96-%D7%94%D7%95%D7%9C%D7%9A-%D7%9C%D7%A9%D7%A0%D7%95%D7%AA-%D7%90%D7%AA-activity-7314903527368069120-c5GJ
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

@@ -13,3 +13,10 @@ I built the site with Sticklight by Elementor , and originally created the video
 There are also many talented former Elementor employees now looking for their next role across engineering, design, marketing, and other fields. They are exceptional people. If you have a relevant opening, send it my way and I will make the connection.
 
 Original source: https://www.linkedin.com/posts/ofershap_ofer-shapira-ai-engineering-lead-activity-7479787665895247872-lL8D
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

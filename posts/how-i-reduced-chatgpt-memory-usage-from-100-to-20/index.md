@@ -47,3 +47,10 @@ That was enough for it to refill the memory.
 Hitting a limit did not mean I had to stop. Clearing and rebuilding the memory gave me a cleaner, more accurate version while preserving the context I wanted ChatGPT to retain.
 
 Original source: https://www.linkedin.com/posts/ofershap_ai-chatgpt-memoryfull-activity-7287121729745809408-MB_z
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

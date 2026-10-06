@@ -6,3 +6,10 @@
 
 Original source: https://www.linkedin.com/posts/ofershap_yes-ai-is-going-to-replace-you-and-i-know-activity-7431224878814502912-za-x
 Published: 2026-02-22T08:34:36.591000+02:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

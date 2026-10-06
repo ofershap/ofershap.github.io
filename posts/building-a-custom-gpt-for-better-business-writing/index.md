@@ -25,3 +25,10 @@ The right side is the PREVIEW. Use it to test the GPT and evaluate the quality o
 When you are done, click Create in the top corner. You will return to the regular CHAT GPT screen, where the new Custom GPT appears near the top of the left menu, below the ChatGPT logo.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%90%D7%9D-%D7%90%D7%AA%D7%9D-%D7%A2%D7%93%D7%99%D7%99%D7%9F-%D7%9C%D7%90-%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9%D7%99%D7%9D-%D7%91-custom-gpt-%D7%A2%D7%A6%D7%A8%D7%95-activity-7292466986012364801-45wP
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

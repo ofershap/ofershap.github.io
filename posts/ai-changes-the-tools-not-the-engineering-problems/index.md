@@ -25,3 +25,10 @@ The practices that form the basis of good software development have not changed.
 The technology changes. The bugs remain. Back to work.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%9E%D7%94-%D7%90%D7%AA%D7%94-%D7%90%D7%9E%D7%99%D7%AA%D7%99-%D7%A2%D7%9C-%D7%96%D7%94-%D7%93%D7%99%D7%91%D7%A8%D7%A0%D7%95-%D7%9C%D7%A4%D7%A0%D7%99-10-%D7%A9%D7%A0%D7%99%D7%9D-activity-7477950706319208448-Pxzd
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

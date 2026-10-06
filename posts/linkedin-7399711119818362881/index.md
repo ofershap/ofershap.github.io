@@ -18,3 +18,10 @@
 
 Original source: https://www.linkedin.com/posts/ofershap_how-was-i-supposed-to-know-lyrics-activity-7399711119818362881-PIrc
 Published: 2025-11-27T09:30:10.949000+02:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

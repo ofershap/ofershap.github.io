@@ -23,3 +23,10 @@ A few years later, the circle closed further when Garry became a YC partner. In 
 The place he had once dreamed about and wanted to impress was now under his leadership. As Garry put it: “If you give first, you'll be surprised by what you get back. What you put out into the world will come back to you dozens of times over.”
 
 Original source: https://www.linkedin.com/posts/ofershap_ycombinator-inspiration-activity-7312364283156226049-ITAB
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

@@ -15,3 +15,10 @@ The whole thing is 27KB. Every sprite is drawn pixel by pixel in TypeScript, wit
 There's also a plugin API for adding custom furniture or new backgrounds. It's available as a Cursor extension and as an open-source project .
 
 Original source: https://www.linkedin.com/posts/ofershap_i-use-cursors-agent-mode-all-day-at-some-activity-7439312614574174208-OIqS
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

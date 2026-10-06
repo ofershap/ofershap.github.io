@@ -18,3 +18,10 @@ Roman Serkinskiy, מפתח (תותח) אצלנו, ביקש מהמודל לאמת
 
 Original source: https://www.linkedin.com/posts/ofershap_the-hidden-psychology-inside-every-prompt-activity-7488502740634218496-6eXP
 Published: 2026-07-30T10:56:23.020000+03:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

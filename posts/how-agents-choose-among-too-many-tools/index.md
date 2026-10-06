@@ -13,3 +13,10 @@ Fast-forward to 2026. Our agent needs to choose its favorite jam. The fewer opti
 The hard part is deciding how to narrow those options. How do we separate the tools it uses regularly from the ones it rarely needs? That is not a simple problem. Fortunately, we have Roman.
 
 Original source: https://www.linkedin.com/posts/ofershap_43-tools-walk-into-a-context-window-activity-7485560857167433728-0Fib
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

@@ -26,3 +26,10 @@ Zach Yadegari
 
 Original source: https://www.linkedin.com/posts/ofershap_acpacmacuacladg-achacpacwackacuacsacgacracladgacpadg-activity-7276867782334369792-74ws
 Published: 2024-12-23T09:54:36.974000+02:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

@@ -21,3 +21,10 @@ Decart already generates millions of dollars in revenue from enterprise customer
 This is not another gaming platform. It is a different way to generate interactive software, and Decart is currently the Israeli startup closest to putting Israel on the global GenAI map.
 
 Original source: https://www.linkedin.com/posts/ofershap_ai-generativeai-israelistartups-activity-7328683081823875072-lD6d
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

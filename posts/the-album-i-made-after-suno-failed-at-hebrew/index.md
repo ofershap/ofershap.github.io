@@ -13,3 +13,10 @@ The album actually started as an attempt to create songs in Hebrew with SUNO. I 
 The album is now available on all major streaming platforms, including Spotify . It works especially well as background music while working.
 
 Original source: https://www.linkedin.com/posts/ofershap_acsackaddadgabracsacladeactabracgacpadaacxaclact-activity-7286812524522434561-Bxd2
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

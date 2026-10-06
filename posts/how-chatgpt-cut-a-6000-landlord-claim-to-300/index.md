@@ -15,3 +15,10 @@ Contracts are written in professional language, and landlords often operate from
 The original post shows how ChatGPT can help an ordinary person push back against bureaucratic bullying. That is a welcome change.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%91%D7%A2%D7%9C%D7%99-%D7%94%D7%93%D7%99%D7%A8%D7%94-%D7%93%D7%A8%D7%A9%D7%95-%D7%9E%D7%9E%D7%A0%D7%94-6000-%D7%93%D7%95%D7%9C%D7%A8-%D7%A2%D7%9C-%D7%A0%D7%96%D7%A7%D7%99%D7%9D-activity-7384132187031523328-PdNz
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

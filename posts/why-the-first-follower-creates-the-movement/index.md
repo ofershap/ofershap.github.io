@@ -25,3 +25,10 @@ I recently joined Novidea, a company that believes in this kind of change. Danie
 An organization-wide change in mindset requires courage. It also requires understanding that the change itself is what matters, and that the first followers are the people who need to be supported.
 
 Original source: https://www.linkedin.com/posts/ofershap_acuacwackacpaciacladg-adfacpacwaclacpacnachadeadgacp-activity-7221399107863535616-W9Yi
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

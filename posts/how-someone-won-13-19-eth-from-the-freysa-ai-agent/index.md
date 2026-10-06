@@ -40,3 +40,10 @@ Earlier attempts used impersonation, wordplay, and code manipulation. Attempt 48
 
 The successful attacker received 13.19 ETH, described as nearly $47,000—roughly almost $50,000 in the narrative of the event.
 
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

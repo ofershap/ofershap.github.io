@@ -15,3 +15,10 @@ But this is not only a technical issue. It is also a cultural one. At the same t
 It sounds funny at first, but it is a warning sign. When models that generate text are suddenly treated as "intelligence," even though they do not understand a move, a turn, or a goal, the problem may not be the models. It may be the expectations we created around them.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%AA%D7%95%D7%9B%D7%A0%D7%99%D7%AA-%D7%A9%D7%97%D7%9E%D7%98-%D7%91%D7%AA-45-%D7%A9%D7%A0%D7%94-%D7%A9%D7%A8%D7%A6%D7%94-%D7%A2%D7%9C-%D7%9E%D7%97%D7%A9%D7%91-%D7%A2%D7%9D-128-activity-7356639831990398978-Gdim
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

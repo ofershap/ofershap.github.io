@@ -23,3 +23,10 @@ The game is still in its first trial, but my son has already collected 3 cards. 
 I hadn’t told him to.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%9E%D7%9B%D7%95%D7%A0%D7%AA-%D7%94%D7%96%D7%9E%D7%9F-activity-7434487066048102401-RLvE
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

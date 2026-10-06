@@ -15,3 +15,10 @@ As both a parent and a technologist, this raises several red flags for me. Do ch
 I don’t know exactly what I think about this yet, but I know one thing. We are entering an era in which AI pretends to be a friend and talks to our children. It’s time we treated it accordingly.
 
 Original source: https://www.linkedin.com/posts/ofershap_ai-gaming-fortnite-activity-7339173441352130560-EoBN
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

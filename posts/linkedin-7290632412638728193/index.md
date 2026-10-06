@@ -47,3 +47,10 @@ DeepSeek היא לא חברה ענקית ולא גוף ממשלתי – אלא �
 
 Original source: https://www.linkedin.com/posts/ofershap_ai-deepseek-artificialintelligence-activity-7290632412638728193--AY0
 Published: 2025-01-30T09:30:20.573000+02:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

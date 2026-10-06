@@ -33,3 +33,10 @@ Canva also offers Magic Design , which creates AI presentations in minutes.
 Microsoft 365 Copilot and Google Gemini inside Google slides also offer AI tools for presentations, but they are clunky and lag behind the newer products.
 
 Original source: https://www.linkedin.com/posts/ofershap_ai-acuadcaciacladg-acnacjadfacwacladg-activity-7311280947616780288-T-EC
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

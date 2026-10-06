@@ -7,3 +7,10 @@
 
 Original source: https://www.linkedin.com/posts/ofershap_the-billion-dollar-build-activity-7449444644175917056-F6k1
 Published: 2026-04-13T16:13:27.160000+03:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

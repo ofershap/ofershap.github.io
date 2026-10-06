@@ -19,3 +19,10 @@ The most striking part is the AI. It reads over 100 news sources, classifies thr
 There are no paid subscriptions. You can even run the AI locally through Ollama, so no data leaves your computer. The open-source repository is available here . Eli deserves huge credit for building and releasing it.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%9E%D7%9E%D7%A9%D7%9C%D7%95%D7%AA-%D7%9E%D7%A9%D7%9C%D7%9E%D7%95%D7%AA-%D7%9E%D7%99%D7%9C%D7%99%D7%95%D7%A0%D7%99%D7%9D-%D7%A2%D7%9C-%D7%9B%D7%9C%D7%99%D7%9D-%D7%9B%D7%9E%D7%95-osint-activity-7437783536952033282-ZPYZ
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

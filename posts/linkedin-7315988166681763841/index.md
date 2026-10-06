@@ -15,3 +15,10 @@ https://lnkd.in/drEEw7t4
 
 Original source: https://www.linkedin.com/posts/ofershap_ai-voicesynthesis-outetts-activity-7315988166681763841-zks3
 Published: 2025-04-10T09:45:03.424000+03:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

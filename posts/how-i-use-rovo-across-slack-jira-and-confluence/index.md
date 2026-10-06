@@ -17,3 +17,10 @@ In another case, someone started refactoring a specific area of the system. I as
 Creating Confluence documents is still a little clunky, and every change requires creating a new document. Atlassian being Atlassian, UX is not their strength. But Rovo provides enormous value, and I have started making it part of my day-to-day work.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%AA%D7%92%D7%99%D7%93%D7%95-%D7%90%D7%AA%D7%9D-%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9%D7%99%D7%9D-%D7%91-rovo-%D7%A9%D7%9C-jira-%D7%90%D7%98%D7%9C%D7%A1%D7%99%D7%90%D7%9F-activity-7475059406406062080-x0i0
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

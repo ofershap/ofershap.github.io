@@ -15,3 +15,10 @@ https://lnkd.in/d-z7jXKE
 
 Original source: https://www.linkedin.com/posts/ofershap_the-hidden-psychology-inside-every-prompt-activity-7488232005730627584-DaDw
 Published: 2026-07-29T17:00:34.789000+03:00
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

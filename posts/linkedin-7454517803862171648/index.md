@@ -16,3 +16,10 @@ https://lnkd.in/dtV4TwEf
 
 Original source: https://www.linkedin.com/posts/ofershap_google-vids-ai-powered-video-creator-and-activity-7454517803862171648-n2Sj
 Published: 2026-04-27T16:12:22.684000+03:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

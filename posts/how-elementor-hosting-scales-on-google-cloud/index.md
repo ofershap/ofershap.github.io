@@ -25,3 +25,10 @@ Google Cloud was not just a service provider. Its people worked as part of the t
 Elementor already serves more than 18 million websites, or 12% of the internet. With this infrastructure, the company is ready for much more. Google Cloud published the full article about how the team built it .
 
 Original source: https://www.linkedin.com/posts/ofershap_elementor-googlecloud-cloudinfra-activity-7338550635308474370--V-U
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

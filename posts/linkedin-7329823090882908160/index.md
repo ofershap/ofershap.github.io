@@ -25,3 +25,10 @@ Legal, BI, CX, Finance...
 
 Original source: https://www.linkedin.com/posts/ofershap_wearehiring-techjobs-elementor-activity-7329823090882908160-rXLm
 Published: 2025-05-18T14:00:06.394000+03:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

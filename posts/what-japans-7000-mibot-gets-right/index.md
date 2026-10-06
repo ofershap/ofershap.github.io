@@ -21,3 +21,10 @@ It is working. The Mibot has more orders than Toyota had for EVs in Japan over t
 In Israel, the answer may not be another SUV on the road. It may simply be less.
 
 Original source: https://www.linkedin.com/posts/ofershap_acnacjadfacwacladg-adeacrachabracnadfacuacsacp-activity-7342850158876839937-3uiC
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

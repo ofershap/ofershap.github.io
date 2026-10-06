@@ -25,3 +25,10 @@ The output is remarkably good. Explaining text is exactly what AI does well, and
 Developers spend less time explaining. Marketing spends less time figuring out what was built. We have fewer sync meetings, work more efficiently, and everyone benefits. It is a win-win situation.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%94%D7%AA%D7%95%D7%A6%D7%90%D7%94-%D7%90%D7%A6%D7%9C%D7%A0%D7%95-%D7%99%D7%95%D7%A6%D7%90%D7%AA-%D7%91%D7%A8%D7%9E%D7%94-%D7%A9%D7%95%D7%9E%D7%98%D7%AA-%D7%9C%D7%A1%D7%AA-%D7%A4%D7%99%D7%AA%D7%97%D7%AA%D7%9D-activity-7480892601303367681-T6Y5
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

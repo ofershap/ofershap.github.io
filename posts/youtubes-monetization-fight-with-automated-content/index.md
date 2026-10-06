@@ -15,3 +15,10 @@ I don’t see this as a fight between creators and AI. It is a fight between pla
 The problem is that the same tools are already part of human creative work. They are used not only to fake content, but also to polish, speed up, test, and assist. The line between “original content” and “generic content” is already almost impossible to define. YouTube may find that it cannot reliably tell them apart and will have to change the rules again, this time in favor of the machine.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%9E%D7%9C%D7%97%D7%9E%D7%AA-%D7%94%D7%99%D7%95%D7%98%D7%99%D7%95%D7%91-%D7%94%D7%95%D7%90-%D7%91%D7%A0%D7%94-%D7%A2%D7%A8%D7%95%D7%A5-%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%98%D7%99-%D7%A9%D7%99%D7%99%D7%A6%D7%A8-activity-7350048842471374848-po1V
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

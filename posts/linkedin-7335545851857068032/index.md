@@ -17,3 +17,10 @@
 
 Original source: https://www.linkedin.com/posts/ofershap_ai-animaltech-agritech-activity-7335545851857068032-vjRK
 Published: 2025-06-03T09:00:18.934000+03:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

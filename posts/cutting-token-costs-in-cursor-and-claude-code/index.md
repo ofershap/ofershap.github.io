@@ -51,3 +51,10 @@ Carrying entire conversation history inflates token use. New chats per topic avo
 
 Run a more expensive model as a supervisor that delegates work to cheaper subagents, so most tokens spend on lower-cost models while keeping quality checks on hard steps.
 
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

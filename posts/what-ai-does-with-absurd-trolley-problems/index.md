@@ -27,3 +27,10 @@ It also introduces fully abstract scenarios involving probability, a time machin
 The 20-minute video is not trying to provide answers. It tests our moral assumptions and shows how fragile, context-dependent, and sometimes impossible to resolve both human and AI morality can be.
 
 Original source: https://www.linkedin.com/posts/ofershap_ai-decides-on-absurd-trolley-problems-activity-7333839545387356160-uYVn
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

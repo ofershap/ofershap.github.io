@@ -11,3 +11,10 @@ Goose is not tied to a specific model. You can connect it to Claude, OpenAI's GP
 The latest version, 1.20.1, was released in January 2026 and already has more than 26,100 stars on GitHub. That shows how many developers are looking for flexible tools that protect their privacy.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%A0%D7%A9%D7%9E%D7%A2-%D7%9B%D7%9E%D7%95-%D7%A1%D7%99%D7%A0%D7%99%D7%AA-%D7%90%D7%91%D7%9C-%D7%AA%D7%A7%D7%A8%D7%90%D7%95-%D7%91%D7%9C%D7%95%D7%A7-%D7%A9%D7%A4%D7%A2%D7%9D-%D7%A7%D7%A8%D7%90%D7%95-activity-7424694792145526784-IFgb
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

@@ -11,3 +11,10 @@ When the agent is busy, Context Snack opens a feed of micro-news for AI develope
 It also includes a few small retro games for when you would rather play, or when you have run out of news to read. Context Snack is open source, runs locally, and is completely safe.
 
 Original source: https://www.linkedin.com/posts/ofershap_github-ofershapcontext-snack-micro-learnings-activity-7489926115273162754-oH5o
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

@@ -19,3 +19,10 @@ What concerns me is not the use of the technology. It is the disguise. When a gl
 This debate may have started in fashion, but it applies anywhere appearance replaces reality. Artificial representations are becoming normal whether we choose that shift or not, and they will affect how we see ourselves and each other.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%91%D7%9E%D7%91%D7%98-%D7%A8%D7%90%D7%A9%D7%95%D7%9F-%D7%96%D7%95-%D7%A0%D7%A8%D7%90%D7%AA%D7%94-%D7%9B%D7%9E%D7%95-%D7%A2%D7%95%D7%93-%D7%9E%D7%95%D7%93%D7%A2%D7%94-%D7%A0%D7%95%D7%A6%D7%A6%D7%AA-%D7%A9%D7%9C-activity-7364193301148614656-QUf7
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

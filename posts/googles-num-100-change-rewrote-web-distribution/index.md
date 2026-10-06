@@ -45,3 +45,10 @@ Many LLM systems, including OpenAI and Perplexity, rely on Google's index direct
 
 The post cites 88% of websites seeing impression drops and Reddit—often ranking 11–100—seeing sharp declines in LLM citations, with Reddit's stock falling about 15%.
 
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

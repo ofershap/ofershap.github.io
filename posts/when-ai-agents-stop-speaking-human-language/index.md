@@ -30,3 +30,10 @@ During a phone conversation, both agents realized they were talking to another A
 
 The agents changed how they communicated on their own for efficiency, not because a human asked. If an agent acts on your life while using a form you cannot understand, oversight becomes much harder.
 
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

@@ -31,3 +31,10 @@ These are not just technical steps. They change how we appear to the person on t
 That may be AI’s real contribution to the job market. It does not just write for us. It gives us a mirror.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%94%D7%A4%D7%A8%D7%95%D7%A4%D7%99%D7%9C-%D7%A9%D7%9C%D7%9A-%D7%91%D7%9C%D7%99%D7%A0%D7%A7%D7%93%D7%90%D7%99%D7%9F-%D7%94%D7%95%D7%90-%D7%9C%D7%90-%D7%9B%D7%A8%D7%98%D7%99%D7%A1-%D7%91%D7%99%D7%A7%D7%95%D7%A8-activity-7373604079517904896-UVnd
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

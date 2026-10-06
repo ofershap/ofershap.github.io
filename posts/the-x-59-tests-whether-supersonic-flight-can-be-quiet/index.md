@@ -13,3 +13,10 @@ There has already been an attempt to operate a commercial aircraft like this: Co
 The X-59 will test whether we can build technology that gives us time back without polluting, deafening people, or adding more needless noise to the planet. The tests are only beginning, and there is still a long way to go. But an aircraft that looks like it arrived from tomorrow makes old limits feel less final.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%96%D7%94-%D7%A0%D7%A8%D7%90%D7%94-%D7%9B%D7%9E%D7%95-%D7%98%D7%A2%D7%95%D7%AA-%D7%91%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%91%D7%9C-%D7%94%D7%9E%D7%98%D7%95%D7%A1-%D7%94%D7%96%D7%94-%D7%94%D7%95%D7%90-activity-7400081104864448512-iZ0q
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

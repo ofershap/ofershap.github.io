@@ -49,3 +49,10 @@ The post compares MCP to AI-tool access what HTTP was to the web: a standard int
 
 Models do not inherently know operational commands. MCP teaches what actions exist, how to format them, and what they do so software features become usable agent actions.
 
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

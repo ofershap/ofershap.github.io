@@ -13,3 +13,10 @@ Blue Elephant is now available to download for free . It produces pleasant, high
 The band’s Hebrew name, HaPil HaKachol, is also a play on “the blue pill,” named after the blue medication pill Liron, the band’s lead singer, had to take during his rehabilitation.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%A4%D7%99%D7%9C-%D7%9B%D7%97%D7%95%D7%9C-activity-6700302409048088576-KSjx
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

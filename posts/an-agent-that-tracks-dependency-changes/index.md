@@ -15,3 +15,10 @@ That is how we caught a model that will stop being supported in December and cre
 Delegating update tracking to an agent is a good example of using AI in engineering teams for more than code completion. It can also keep the team synchronized and informed.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%9B%D7%9E%D7%A2%D7%98-%D7%A9%D7%91%D7%A8%D7%A0%D7%95-%D7%90%D7%AA-%D7%94%D7%A4%D7%A8%D7%95%D7%93%D7%A7%D7%A9%D7%9F-%D7%91%D7%92%D7%9C%D7%9C-%D7%A2%D7%93%D7%9B%D7%95%D7%9F-%D7%A9%D7%90%D7%A3-%D7%90%D7%97%D7%93-activity-7480132837128523776-T0Kf
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

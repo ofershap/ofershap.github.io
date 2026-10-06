@@ -11,3 +11,10 @@ They used online tools to calculate the precise locations. The slices were about
 They had to deal with a 12-hour time difference and coordinate the type of bread, but they eventually created a symbol of global cooperation. The project shows how simple ideas can connect people across geographic and cultural borders. It also shows there is no limit to the ridiculous things boys will do.
 
 Original source: https://www.linkedin.com/posts/ofershap_adfacpadgaclaczabradaacyaclacsack-acnacjadfacwacladg-activity-7341721532806619137-CmDs
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

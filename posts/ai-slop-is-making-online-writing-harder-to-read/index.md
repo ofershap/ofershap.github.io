@@ -41,3 +41,10 @@ I am not saying we should stop using it completely. I use it myself. I am saying
 This post was written without AI, except for the experiment.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%A0%D7%94%D7%99%D7%94-%D7%9C%D7%99-%D7%A7%D7%A9%D7%94-%D7%9C%D7%A7%D7%A8%D7%95%D7%90-%D7%AA%D7%95%D7%9B%D7%9F-%D7%91%D7%A8%D7%A9%D7%AA-%D7%94%D7%AA%D7%91%D7%A0%D7%99%D7%AA-%D7%94%D7%96%D7%90%D7%AA-activity-7400802017012736000-gRWK
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

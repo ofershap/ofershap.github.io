@@ -13,3 +13,10 @@ I came across a video from Noma Security where the employees used peer pressure 
 And it worked 😎
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%99%D7%A9-%D7%90%D7%A1%D7%98%D7%A8%D7%98%D7%92%D7%99%D7%99%D7%AA-%D7%A9%D7%99%D7%95%D7%95%D7%A7-%D7%91%D7%A9%D7%9D-abm-account-based-activity-7403331188712660992-QWBu
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

@@ -31,3 +31,10 @@ This is not only about technology. It changes what an interface is, what the too
 We may all return to Chrome soon. But for the first time in years, the browser we open when we start working is an open choice again.
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%A9%D7%A0%D7%99-%D7%A2%D7%A9%D7%95%D7%A8%D7%99%D7%9D-%D7%A9%D7%9C-%D7%A9%D7%9C%D7%99%D7%98%D7%94-%D7%9B%D7%9E%D7%A2%D7%98-%D7%9E%D7%95%D7%97%D7%9C%D7%98%D7%AA-%D7%A9%D7%9C-%D7%93%D7%A4%D7%93%D7%A4%D7%9F-activity-7361645308390400000-3oN6
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

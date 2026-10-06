@@ -16,3 +16,10 @@
 
 Original source: https://www.linkedin.com/posts/ofershap_the-fully-agentic-company-the-one-part-no-activity-7491454854494863361-3F1j
 Published: 2026-08-07T14:27:01.812000+03:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

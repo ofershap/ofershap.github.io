@@ -4,3 +4,10 @@ Our heroes, now and then
 
 Original source: https://www.linkedin.com/posts/ofershap_our-heroes-now-and-then-activity-7139510026024517632-s09J
 Published: 2023-12-10T09:03:55.886000+02:00
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

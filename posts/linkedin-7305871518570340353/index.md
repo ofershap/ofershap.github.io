@@ -11,3 +11,10 @@ Gigi Levy-Weiss Adi Soffer Teeni Startup for Startup #ai #innovation
 
 Original source: https://www.linkedin.com/posts/ofershap_ai-innovation-activity-7305871518570340353-Y_SP
 Published: 2025-03-13T10:45:06.556000+02:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

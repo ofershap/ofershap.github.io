@@ -38,3 +38,10 @@ Responses came from GPT-4o, Claude 3.5, and LLaMA. The bots personalized argumen
 
 Running covert AI persuasion on real people without consent raises research ethics questions about whether platforms and participants should know when influence is machine-generated.
 
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

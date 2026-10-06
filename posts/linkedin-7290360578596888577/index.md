@@ -23,3 +23,10 @@ https://lnkd.in/dH7RvHyb
 
 Original source: https://www.linkedin.com/posts/ofershap_elementor-ai-activity-7290360578596888577-edX_
 Published: 2025-01-29T15:30:10.287000+02:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

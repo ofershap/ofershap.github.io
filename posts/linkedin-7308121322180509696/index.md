@@ -21,3 +21,10 @@ AIBI רחוק מלהיות גאדג'ט זול, והוא עולה קרוב לאל
 
 Original source: https://www.linkedin.com/posts/ofershap_%D7%9E%D7%94-%D7%90%D7%9D-%D7%94%D7%99%D7%94-%D7%9C%D7%9B%D7%9D-%D7%97%D7%91%D7%A8-%D7%A7%D7%98%D7%9F-%D7%A9%D7%AA%D7%9E%D7%99%D7%93-%D7%90%D7%AA%D7%9B%D7%9D-%D7%90%D7%91%D7%9C-%D7%9C%D7%90-activity-7308121322180509696-6uid
 Published: 2025-03-19T15:45:01.536000+02:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)
