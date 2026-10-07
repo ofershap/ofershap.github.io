@@ -10,3 +10,6 @@
 .engagement-status:empty {display:none;}
 
 .author-card,.related-projects{margin-top:3rem;padding-top:1.5rem;border-top:1px solid var(--border,#ddd)}.author-card h2,.related-projects h2{font-size:1.2rem}.author-card p{font-size:.95rem;line-height:1.7}
+
+.engagement-views {font-size:.8rem;color:#666;padding:.6rem .2rem;}
+.engagement-views[hidden] {display:none;}

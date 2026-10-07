@@ -1,1 +1,26 @@
-{"name":"blog-engagement","main":"worker.js","compatibility_date":"2026-10-01","workers_dev":true,"durable_objects":{"bindings":[{"name":"STATS","class_name":"BlogStats"}]},"migrations":[{"tag":"v1","new_sqlite_classes":["BlogStats"]}]}
+{
+  "name": "blog-engagement",
+  "main": "worker.js",
+  "compatibility_date": "2026-10-01",
+  "workers_dev": true,
+  "durable_objects": {
+    "bindings": [
+      {
+        "name": "STATS",
+        "class_name": "BlogStats"
+      }
+    ]
+  },
+  "migrations": [
+    {
+      "tag": "v1",
+      "new_sqlite_classes": [
+        "BlogStats"
+      ]
+    }
+  ],
+  "vars": {
+    "PUBLIC_VIEWS": "true",
+    "PUBLIC_VIEWS_THRESHOLD": "100"
+  }
+}

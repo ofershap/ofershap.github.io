@@ -15,7 +15,9 @@
  let client;
  try {client=localStorage.getItem('blog-client-v1');if(!/^[a-f0-9]{32}$/.test(client||'')){client=Array.from(crypto.getRandomValues(new Uint8Array(16))).map(v=>v.toString(16).padStart(2,'0')).join('');localStorage.setItem('blog-client-v1',client);}}catch{status.textContent=text.need;return;}
  const button=box.querySelector('.engagement-like');let liked=false;
- const show=d=>{liked=d.liked;button.setAttribute('aria-pressed',String(liked));button.querySelector('[aria-hidden]').textContent=liked?'♥':'♡';button.querySelector('.like-count').textContent=new Intl.NumberFormat(document.documentElement.lang).format(d.likes);};
+ const views=document.createElement('span');views.className='engagement-views';views.hidden=true;box.querySelector('.engagement-actions').append(views);
+ const viewLabels={en:'views',he:'צפיות',ar:'مشاهدات',es:'visitas','zh-Hans':'次浏览'};
+ const show=d=>{views.hidden=!(Number.isInteger(d.views)&&d.views>=0);views.textContent=views.hidden?'':new Intl.NumberFormat(document.documentElement.lang).format(d.views)+' '+(viewLabels[box.dataset.lang]||viewLabels.en);liked=d.liked;button.setAttribute('aria-pressed',String(liked));button.querySelector('[aria-hidden]').textContent=liked?'♥':'♡';button.querySelector('.like-count').textContent=new Intl.NumberFormat(document.documentElement.lang).format(d.likes);};
  const send=async(action)=>{const r=await fetch(API,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({key,client,action}),signal:AbortSignal.timeout(8000)});if(!r.ok)throw new Error('stats unavailable');return r.json();};
  button.addEventListener('click',async()=>{button.disabled=true;try{show(await send(liked?'unlike':'like'));status.textContent=liked?text.liked:text.unliked;}catch{status.textContent=text.failed;}finally{button.disabled=false;}});
  // Do not count prerenders, background tabs, automation, or privacy opt-outs.
