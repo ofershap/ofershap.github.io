@@ -69,6 +69,8 @@ def build():
  print('Generated',created,'original-language pages;',len(pages),'article pages;',len(items),'homepage entries')
 if __name__=='__main__':
  build()
+ from build_authored import build as build_authored
+ build_authored()
  import subprocess,sys
  subprocess.run([sys.executable,str(ROOT/'build_discovery.py')],check=True)
  if (ROOT/'translations').exists():subprocess.run([sys.executable,str(ROOT/'build_translations.py')],check=True)

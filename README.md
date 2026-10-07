@@ -41,3 +41,7 @@ Measure impressions by country and language in Search Console/Bing one month aft
 ## Engagement
 
 Article likes, share buttons and private view counts are added by `build_engagement.py`. Views start on 2026-10-07, not at the original publication date. Browser-based estimates are not verified unique people. See `/privacy/` and `engagement-backend/README.md` for limits and deployment. No advertising widgets or marketing posts are added.
+
+## Original service Q&A
+
+Four separately reviewed, authored Hebrew Q&A posts are maintained in `authored-source.json` and rendered by `build_authored.py`. This is not a LinkedIn import. Their original reviewed bodies are preserved byte-exact in each `original.md`, with GEO summaries, FAQs and service links kept separate. Publication dates are actual blog dates. Discovery and engagement builders preserve these pages; engagement controls remain limited to the original archive until the backend allowlist is extended.
