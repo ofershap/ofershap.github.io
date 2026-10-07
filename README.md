@@ -1,6 +1,6 @@
 # Ofer Shapira's writing archive
 
-A static personal writing site hosted on GitHub Pages. No paid service, tracking script, or external build API is required.
+A static personal writing site hosted on GitHub Pages. No paid service or external build API is required. Views and likes use the free engagement backend described below.
 
 ## Content rules
 
@@ -37,3 +37,7 @@ Use semantic HTML, original text, clear author/source attribution, stable canoni
 Run `python3 build_archive.py` to rebuild originals, identity/discovery files and translations. After rebuilding, run `python3 test_archive.py` and inspect mobile/RTL pages. Existing English archive URLs remain unchanged.
 
 Measure impressions by country and language in Search Console/Bing one month after deployment, once those services are connected and have data. Do not promise indexing or AI citations.
+
+## Engagement
+
+Article likes, share buttons and private view counts are added by `build_engagement.py`. Views start on 2026-10-07, not at the original publication date. Browser-based estimates are not verified unique people. See `/privacy/` and `engagement-backend/README.md` for limits and deployment. No advertising widgets or marketing posts are added.
