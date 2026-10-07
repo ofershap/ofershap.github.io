@@ -6,7 +6,9 @@ repos=json.loads((root/'project-links.json').read_text())
 chosen=['pr-rulebook','real-browser-mcp','cursor-usage-tracker','agents-control-tower','cursor-office','gitshow','readme-builder','ai-context-kit','cursor-plan-preview','mcp-server-anydoc']
 count=links=0
 for f in [*root.glob('posts/*/index.html'),*root.glob('essays/*/index.html')]:
- s=f.read_text();s=re.sub(r'<section class="related-projects">.*?</section>','',s,flags=re.S);s=re.sub(r'<aside class="author-card".*?</aside>','',s,flags=re.S);he=bool(re.search(r'<html[^>]*lang="he"',s));a=re.search(r'<article[^>]*>(.*?)</article>',s,re.S)
+ s=f.read_text()
+ if 'data-authored="qa"' in s:continue
+ s=re.sub(r'<section class="related-projects">.*?</section>','',s,flags=re.S);s=re.sub(r'<aside class="author-card".*?</aside>','',s,flags=re.S);he=bool(re.search(r'<html[^>]*lang="he"',s));a=re.search(r'<article[^>]*>(.*?)</article>',s,re.S)
  if not a:a=re.search(r'<main[^>]*>(.*?)</main>',s,re.S)
  if not a:raise ValueError(str(f))
  text=html.unescape(re.sub('<[^>]+>',' ',a[1]));related=[]
