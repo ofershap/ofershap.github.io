@@ -27,6 +27,8 @@ def build():
   if marker in s:s=s.replace(marker,box+marker,1)
   elif '</article>' in s:s=s.replace('</article>',box+'</article>',1)
   else:s=s.replace('<footer',box+'<footer',1)
+  s=s.replace('<link rel="stylesheet" href="/engagement-v1.css">','')
+  s=s.replace('</head>','<link rel="stylesheet" href="/engagement-v1.css"></head>',1)
   s=s.replace('</body>','<script defer src="/engagement.js"></script></body>',1);p.write_text(s)
  # Backend allowlist is derived from actual public originals.
  worker=ROOT/'engagement-backend/worker.js';w=worker.read_text();w=re.sub(r'const allowed = new Set\(.*?\);','const allowed = new Set('+json.dumps(sorted(set(keys)))+');',w,count=1);worker.write_text(w)
