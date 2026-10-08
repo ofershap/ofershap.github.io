@@ -137,3 +137,5 @@ Full archive listed in the [sitemap](https://ofershap.github.io/sitemap.xml) and
 - [איך מתחילים להטמיע AI בעסק קטן בלי לפתח כלום?](https://ofershap.github.io/posts/ai-adoption-small-business/)
 - [הפרויקט שנבנה ב-Cursor, Lovable או Bolt לא עובד. מה עושים?](https://ofershap.github.io/posts/vibe-code-project-rescue/)
 - [איך מטמיעים Cursor בצוות פיתוח?](https://ofershap.github.io/posts/cursor-team-adoption/)
+- [איך הופכים הערות Code Review לכללים ש-Cursor יכול להשתמש בהם?](https://ofershap.github.io/posts/cursor-rules-from-code-review/)
+- [איך בוחרים סדנת AI לעסק קטן שיוצאים ממנה עם תוצר?](https://ofershap.github.io/posts/practical-ai-workshop-small-business/)
