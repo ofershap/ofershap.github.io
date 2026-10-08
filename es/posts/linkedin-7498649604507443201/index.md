@@ -1,7 +1,5 @@
 # ¡Empresas, despierten! El mayor cambio que la IA trae a las empresas no es tecnológico sino conceptual.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¡Empresas, despierten! El mayor cambio que la IA trae a las empresas no es tecnológico sino conceptual.
 Se puede dar a los empleados el mejor modelo, conectarlo con todas las herramientas adecuadas y aun así verlos trabajar casi exactamente igual que antes.
 

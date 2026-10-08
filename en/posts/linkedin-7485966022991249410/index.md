@@ -1,7 +1,5 @@
 # A swarm of AI agents built all of SQLite from scratch just by reading the documentation!
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 A swarm of AI agents built all of SQLite from scratch just by reading the documentation! 
 They ran Cursor in parallel and developed in Rust and did it just by reading the documentation (835 pages). No source code, no existing tests and no internet access!
 

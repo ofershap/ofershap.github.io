@@ -1,7 +1,5 @@
 # What if you could learn SQL while investigating a murder?
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 What if you could learn SQL while investigating a murder?
 🎭🔍 SQLNoir is one of the coolest sites I've come across lately:
  Instead of just reading boring documentation or memorizing commands, you step into the shoes of a private investigator who has to solve a murder mystery... using SQL queries!

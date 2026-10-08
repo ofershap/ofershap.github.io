@@ -1,7 +1,5 @@
 # I just recreated Alley Cat – the legendary game from the 80s! 🫨🐈‍⬛
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 I just recreated Alley Cat – the legendary game from the 80s! 🫨🐈‍⬛
 This week I came across a post where someone took an MS-DOS EXE file, asked Claude to analyze it, and got it to rewrite the whole thing in Python.
 

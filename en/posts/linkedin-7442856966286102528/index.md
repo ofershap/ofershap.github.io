@@ -1,7 +1,5 @@
 # Check this out - OpenClaw Agents - you can run a whole company for $400 a month!
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Check this out - OpenClaw Agents - you can run a whole company for $400 a month! 
 So how does it work in practice: you start with Jarvis, who manages all the Task Routing as needed - from YouTube to Clipper or from Research Report to Scribe. 
 

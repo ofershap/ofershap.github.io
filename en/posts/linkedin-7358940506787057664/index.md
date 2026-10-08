@@ -1,7 +1,5 @@
 # Are you sitting down? A 24-year-old received a job offer this week with a grant of *$250 million!*
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Are you sitting down? A 24-year-old received a job offer this week with a grant of *$250 million!*
 
 Matt Deitke, an AI researcher from Illinois, who at 24 has already changed the way robots understand the world, received a contract from Meta (Facebook) with an offer that is impossible to refuse. 

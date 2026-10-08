@@ -1,7 +1,5 @@
 # This week we finished delivering a 5-session Cursor workshop to all of R&D, with the goal of getting to know Cursor as a work tool that fits in across the entire development cycle.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 This week we finished delivering a 5-session Cursor workshop to all of R&D, with the goal of getting to know Cursor as a work tool that fits in across the entire development cycle.
 
 Throughout the sessions we went together through every stage of the process - from planning and specification, through writing code and tests, to code reviews and delivery. In every session we connected Cursor to the participants' real work: processes, tactics, and tasks drawn from that session's topic.

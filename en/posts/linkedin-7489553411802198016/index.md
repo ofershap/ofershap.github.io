@@ -1,7 +1,5 @@
 # Unbelievable! A guy named Matt Shumer posted a video of a shooter game that looks like Call of Duty, built entirely with one prompt with Claude Opus 5, with no external assets.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Unbelievable! A guy named Matt Shumer posted a video of a shooter game that looks like Call of Duty, built entirely with one prompt with Claude Opus 5, with no external assets.
 
 The video got close to four million views(!) and many people were sure it was fake. Nobody ships a game like that from one prompt. So Shumer did the most obvious thing and published the whole prompt and all of his code. 

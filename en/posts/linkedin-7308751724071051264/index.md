@@ -1,7 +1,5 @@
 # A decade of research versus 48 hours of artificial intelligence - who will win? 🤯🤖
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 A decade of research versus 48 hours of artificial intelligence - who will win? 🤯🤖
 For 10 years, a team of researchers led by Prof. José Penadés from Imperial College London tried to understand how superbugs become resistant to antibiotics.
 

@@ -1,7 +1,5 @@
 # Esta semana terminamos de impartir un taller de Cursor de 5 sesiones a todo el equipo de R&D, con el objetivo de conocer Cursor como una herramienta de trabajo que se integra a lo largo de todo el ciclo de desarrollo.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Esta semana terminamos de impartir un taller de Cursor de 5 sesiones a todo el equipo de R&D, con el objetivo de conocer Cursor como una herramienta de trabajo que se integra a lo largo de todo el ciclo de desarrollo.
 
 A lo largo de las sesiones repasamos juntos cada etapa del proceso: desde la planificación y la especificación, pasando por la escritura de código y las pruebas, hasta las revisiones de código y la entrega. En cada sesión conectamos Cursor con el trabajo real de los participantes: procesos, tácticas y tareas tomadas del tema de esa sesión.

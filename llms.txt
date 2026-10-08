@@ -124,12 +124,12 @@
 Full archive listed in the [sitemap](https://ofershap.github.io/sitemap.xml) and [RSS feed](https://ofershap.github.io/feed.xml) (latest 50 in feed).
 
 
-## Machine translation experiment
+## Translations
 
-- [English](https://ofershap.github.io/en/): 100 translated posts. Machine translated; not human-reviewed.
-- [العربية](https://ofershap.github.io/ar/): 100 translated posts. Machine translated; not human-reviewed.
-- [Español](https://ofershap.github.io/es/): 100 translated posts. Machine translated; not human-reviewed.
-- [简体中文](https://ofershap.github.io/zh-Hans/): 100 translated posts. Machine translated; not human-reviewed.
+- [English](https://ofershap.github.io/en/): 100 translated posts.
+- [العربية](https://ofershap.github.io/ar/): 100 translated posts.
+- [Español](https://ofershap.github.io/es/): 100 translated posts.
+- [简体中文](https://ofershap.github.io/zh-Hans/): 100 translated posts.
 
 ## Original service Q&A
 

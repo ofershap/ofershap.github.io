@@ -1,7 +1,5 @@
 # Quiero más Ofirs en mi equipo. Y no porque sea el desarrollador más rápido, sino por algo que a mis ojos se ha convertido en la cualidad más importante para un empleado en la era de la IA. ¿Y cuál creen ustedes que es la cualidad más importante en los empleados en la era POST IA de hoy?
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Quiero más Ofirs en mi equipo. Y no porque sea el desarrollador más rápido, sino por algo que a mis ojos se ha convertido en la cualidad más importante para un empleado en la era de la IA. ¿Y cuál creen ustedes que es la cualidad más importante en los empleados en la era POST IA de hoy? 
 Creo que la respuesta se ha reducido a una sola cosa: pensar fuera de la caja.
 

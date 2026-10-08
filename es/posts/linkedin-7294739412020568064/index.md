@@ -1,7 +1,5 @@
 # Esa sensación, la de que ya casi está, es una de las más frustrantes y embriagadoras que vivimos en la era de la inteligencia artificial.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Esa sensación, la de que ya casi está, es una de las más frustrantes y embriagadoras que vivimos en la era de la inteligencia artificial.
 
 La ilusión del casi - The AI Mirage

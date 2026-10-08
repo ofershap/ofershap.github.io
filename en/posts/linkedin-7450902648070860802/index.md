@@ -1,7 +1,5 @@
 # Knowing how to write code is no longer relevant.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Knowing how to write code is no longer relevant.
 All the years of investment and what we learned have become marginal; the revolution that happened in an instant less than two years ago - the one that spread and keeps growing and sweeping like a tsunami through the software world - created a new agenda.
 

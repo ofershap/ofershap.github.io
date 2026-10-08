@@ -1,7 +1,5 @@
 # Cursor 进阶指南 - context window is the new game we play
 
-本页为原文的机器翻译，未经人工译者审核。历史信息可能已发生变化。
-
 Cursor 进阶指南 - context window is the new game we play
 
 为了让它正常工作,我给自己创建了一套规则(cursor rules),在每次对话开始时自动加载。我用武术(martial arts)的语气来写,一方面让它们简短、节省 token(因为它们会加入每一次对话 -- always apply 模式),另一方面也明确这些是基本前提,而不是请求。

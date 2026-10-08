@@ -1,7 +1,5 @@
 # ¿Cómo se combate esta situación en la que de repente hay tanto código que hay que revisar y hacerle Review?
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¿Cómo se combate esta situación en la que de repente hay tanto código que hay que revisar y hacerle Review?
 El cuello de botella ha pasado de escribir el código a revisarlo, y gran parte del trabajo del equipo de desarrollo consiste en juzgar lo que se desarrolló y cómo se desarrolló.
 

@@ -1,7 +1,5 @@
 # Dedicado a todos los creadores de vídeos con IA de la red
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Dedicado a todos los creadores de vídeos con IA de la red
 Mucha gente también piensa que hacer una película con IA es una locura de fácil. Y eso es parcialmente cierto. Realmente es más fácil si se compara con el esfuerzo que requiere producir una película tradicional.
 Pero es muy difícil si piensas que es solo "pulsar un botón" y ya tienes un vídeo.

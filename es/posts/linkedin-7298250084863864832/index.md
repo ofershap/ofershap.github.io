@@ -1,7 +1,5 @@
 # La empresa israelí FIVERR da un paso sin precedentes para los freelancers: es una locura🔥
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 La empresa israelí FIVERR da un paso sin precedentes para los freelancers: es una locura🔥
 Conoce Fiverr Go, la nueva función que permite a los freelancers clonarse, ¡con ayuda de la IA!
 

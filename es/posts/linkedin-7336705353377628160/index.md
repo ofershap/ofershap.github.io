@@ -1,7 +1,5 @@
 # Telenovela versión Silicon Valley 😅:
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Telenovela versión Silicon Valley 😅:
 La herramienta de desarrollo Windsurf, de la startup de programación basada en IA (adquirida recientemente por OpenAI por 3 mil millones de dólares), se encontró bajo ataque desde la dirección menos esperada: su competidora Anthropic. Sí, la responsable del modelo Claude, que lidera el mercado en capacidad de comprensión de código y por eso es claramente el preferido en la industria para desarrollar.
 

@@ -1,7 +1,5 @@
 # Silicon Valley telenovela edition 😅:
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Silicon Valley telenovela edition 😅:
 The Windsurf development tool from the AI-based coding startup (recently acquired by OpenAI for $3 billion!) found itself under attack from the least expected direction: its competitor Anthropic. Yes, the one responsible for the Claude model that leads the market in code-understanding ability and is therefore also clearly preferred in the industry for development.
 

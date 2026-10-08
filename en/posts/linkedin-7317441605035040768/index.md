@@ -1,7 +1,5 @@
 # Get this: someone built a platform for creating mobile games - directly from the phone - using artificial intelligence! 💥
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Get this: someone built a platform for creating mobile games - directly from the phone - using artificial intelligence! 💥 
 
 How does it work? 🎮

@@ -1,7 +1,5 @@
 # ¿Qué acaba de pasar aquí? 😱
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¿Qué acaba de pasar aquí? 😱
 
 Esta puede ser una de las cosas más inquietantes que he visto últimamente en el campo de la IA:

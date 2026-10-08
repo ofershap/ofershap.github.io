@@ -1,7 +1,5 @@
 # Unbelievable: they reached 50 million users with a total of 28 employees, and they're profitable! 🤯
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Unbelievable: they reached 50 million users with a total of 28 employees, and they're profitable! 🤯 
 A startup called Gamma that many of us know (a chat for presentations using AI, if you haven't tried it you must) was covered this week by the New York Times, and proves that these days you can build a huge company with a small team.
 

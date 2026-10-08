@@ -1,7 +1,5 @@
 # Proporciones: cada punto son 3,2 millones de personas. 2.500 puntos = 8.100 millones de seres humanos.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Proporciones: cada punto son 3,2 millones de personas. 2.500 puntos = 8.100 millones de seres humanos.
 
 ¿El gris? 6.800 millones de personas que nunca han usado IA.

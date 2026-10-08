@@ -1,7 +1,5 @@
 # We almost broke production because of an update nobody on our side noticed...
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 We almost broke production because of an update nobody on our side noticed...
 One of the libraries we rely on (Vercel AI SDK) released a version with breaking changes, and when we went to implement a solution that existed only in the more advanced version, we realized we had a problem far broader than upgrading the code. It's something that happens with all libraries and SDKs, with models that suddenly stop being supported, and beyond that there are also new features in the AI era (which we're in the middle of) that come out at a high frequency and that we miss.
 

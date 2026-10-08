@@ -1,7 +1,5 @@
 # Amusing: Earth sandwich 🌍 (or, if you like: cross-continental collaboration)
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Amusing: Earth sandwich 🌍 (or, if you like: cross-continental collaboration)
 
 In 2020, Etienne Naude, a student from Auckland, New Zealand, and Angel Sierra, a chef from Spain, together created an "Earth sandwich" by placing slices of bread at exact antipodal points - that is, exactly on opposite sides of the Earth.

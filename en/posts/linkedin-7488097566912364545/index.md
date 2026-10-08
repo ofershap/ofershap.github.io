@@ -1,7 +1,5 @@
 # How do you fight this situation where suddenly there is so much code that has to be gone through and reviewed?
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 How do you fight this situation where suddenly there is so much code that has to be gone through and reviewed?
 The bottleneck has moved from writing the code to reviewing it, and a lot of the dev team's work is judging what was developed and how it was developed.
 

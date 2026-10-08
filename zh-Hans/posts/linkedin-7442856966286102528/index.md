@@ -1,7 +1,5 @@
 # 看看这个 -- OpenClaw Agents -- 每月只需 400 美元就能运营一整家公司!
 
-本页为原文的机器翻译，未经人工译者审核。历史信息可能已发生变化。
-
 看看这个 -- OpenClaw Agents -- 每月只需 400 美元就能运营一整家公司!
 实际是怎么运作的:从 Jarvis 开始,它根据需要管理所有的任务路由(Task Routing)-- 从 YouTube 到 Clipper,或从 Research Report 到 Scribe。 
 

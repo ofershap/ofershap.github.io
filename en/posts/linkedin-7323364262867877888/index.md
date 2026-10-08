@@ -1,7 +1,5 @@
 # This feels like an episode of "Black Mirror" – except it really happened.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 This feels like an episode of "Black Mirror" – except it really happened.
 
 Researchers from the University of Zurich infiltrated 13 fake, AI-based accounts into the popular forum r/ChangeMyView on Reddit. This is a sub-forum where users post personal opinions and invite others to try to convince them to think differently – a forum built on transparency, humanity, and open dialogue. The researchers did not ask the operators for approval and did not inform the users that they were part of an experiment.

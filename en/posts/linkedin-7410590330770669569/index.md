@@ -1,7 +1,5 @@
 # How are things built? Whether it's from your imagination or from reality - every idea you have can be broken down into a technical exploded-view picture with Nano Banana!
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 How are things built? Whether it's from your imagination or from reality - every idea you have can be broken down into a technical exploded-view picture with Nano Banana!
 
 Open Gemini in Nano Banana mode and write the following sentence:

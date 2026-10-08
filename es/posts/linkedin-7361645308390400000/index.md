@@ -1,7 +1,5 @@
 # Dos décadas de dominio casi total del navegador Chrome terminaron de golpe. Sin anuncios dramáticos, sin escándalo regulatorio. Simplemente gracias a una cosa: la IA.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Dos décadas de dominio casi total del navegador Chrome terminaron de golpe. Sin anuncios dramáticos, sin escándalo regulatorio. Simplemente gracias a una cosa: la IA.
 
 De repente, la frontera tecnológica del navegador, la herramienta más básica del trabajo digital, se movió en una nueva dirección: los navegadores agénticos (Agentic Browsers). Navegadores que incluyen asistentes inteligentes que entienden el contexto, se orientan en lo que haces y reaccionan en consecuencia.

@@ -1,7 +1,5 @@
 # Una década de investigación frente a 48 horas de inteligencia artificial: ¿quién ganará? 🤯🤖
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Una década de investigación frente a 48 horas de inteligencia artificial: ¿quién ganará? 🤯🤖
 Durante 10 años, un equipo de investigadores liderado por el prof. José Penadés del Imperial College London intentó entender cómo las superbacterias (Superbugs) se vuelven resistentes a los antibióticos.
 

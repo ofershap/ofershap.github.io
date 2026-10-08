@@ -1,7 +1,5 @@
 # This Israeli built a revolutionary tool all by himself - with no fundraising, no newspaper headlines, and you should get to know him: Eliezer Steinbock
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 This Israeli built a revolutionary tool all by himself - with no fundraising, no newspaper headlines, and you should get to know him: Eliezer Steinbock
 
 We all struggle with the information overload in our email inbox -

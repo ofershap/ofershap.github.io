@@ -1,7 +1,5 @@
 # La interfaz visual de los productos ha cambiado drásticamente en la era de la IA, pero la mayoría seguimos construyendo como si no hubiera pasado nada.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 La interfaz visual de los productos ha cambiado drásticamente en la era de la IA, pero la mayoría seguimos construyendo como si no hubiera pasado nada.
 
 Quiero que sean conscientes de algo que parece natural, casi transparente, pero crítico: algo sobre lo que hay que poner un foco, para que en la próxima interfaz que desarrollen esté presente:

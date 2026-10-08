@@ -1,7 +1,5 @@
 # ¡Un enjambre de agentes de IA construyó todo SQLite desde cero solo leyendo la documentación!
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¡Un enjambre de agentes de IA construyó todo SQLite desde cero solo leyendo la documentación! 
 Ejecutaron Cursor en paralelo, desarrollaron en Rust y lo hicieron solo leyendo los documentos de documentación (835 páginas). ¡Sin código fuente, sin pruebas existentes y sin acceso a internet!
 

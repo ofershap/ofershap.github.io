@@ -1,7 +1,5 @@
 # ¿Cómo están construidas las cosas? Ya sea de tu imaginación o de la realidad, ¡cualquier idea que tengas se puede descomponer en una imagen de vista técnica explosionada con Nano Banana!
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¿Cómo están construidas las cosas? Ya sea de tu imaginación o de la realidad, ¡cualquier idea que tengas se puede descomponer en una imagen de vista técnica explosionada con Nano Banana!
 
 Abre Gemini en modo Nano Banana y escribe la siguiente frase:

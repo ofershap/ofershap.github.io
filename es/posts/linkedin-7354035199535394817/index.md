@@ -1,7 +1,5 @@
 # Hace unos meses incorporamos Cursor al equipo, y desde entonces algo profundo ha cambiado.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Hace unos meses incorporamos Cursor al equipo, y desde entonces algo profundo ha cambiado.
 
 De pronto me di cuenta: ya nadie espera respuestas.

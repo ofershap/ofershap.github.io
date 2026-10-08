@@ -1,7 +1,5 @@
 # We're on our way to "Bug 2030" (in the style of Y2K) and almost nobody is talking about it!
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 We're on our way to "Bug 2030" (in the style of Y2K) and almost nobody is talking about it!
 In 2000 there was hysteria around "Y2K". Everyone thought that computers that hadn't been updated to support dates after 1999 would reset from 99 to 00 and cause widespread failures around the world. 
 

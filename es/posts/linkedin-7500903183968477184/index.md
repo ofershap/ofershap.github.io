@@ -1,7 +1,5 @@
 # Aquí tienes un resumen (TL;DR) en hebreo: el equipo de Lovable publicó un post técnico en su blog sobre cómo trasladaron toda su plataforma para que funcione usando... ¡Lovable! Reconstruyeron todo el proyecto para que funcione sobre su propia infraestructura.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Aquí tienes un resumen (TL;DR) en hebreo: el equipo de Lovable publicó un post técnico en su blog sobre cómo trasladaron toda su plataforma para que funcione usando... ¡Lovable! Reconstruyeron todo el proyecto para que funcione sobre su propia infraestructura. 
 
 El post es largo y está en inglés, pero aquí va su resumen:

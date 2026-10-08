@@ -1,7 +1,5 @@
 # How do you make sure your .env file is always up to date and that the whole team is in sync on it?
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 How do you make sure your .env file is always up to date and that the whole team is in sync on it?
 Our solution was to redefine "what is an env file", and it's not a file that someone holds and updates manually, but a build artifact that is generated on its own every time you run the application.
 

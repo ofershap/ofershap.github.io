@@ -1,7 +1,5 @@
 # Google hizo un pequeño cambio en los resultados de búsqueda, con una enorme repercusión para todos nosotros:
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Google hizo un pequeño cambio en los resultados de búsqueda, con una enorme repercusión para todos nosotros:
 el mes pasado Google eliminó discretamente el parámetro `num=100` de los resultados de búsqueda.  
 

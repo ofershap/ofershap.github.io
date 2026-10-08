@@ -1,7 +1,5 @@
 # Remember yesterday's post about the cheating that AI brings with it to academia?
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Remember yesterday's post about the cheating that AI brings with it to academia?
 So here is the answer: a student at the University of San Francisco School of Law uploads the recording of his latest lecture to Claude. Instead of getting a ready-made summary, the model asks him: how would you build a legal argument? What evidence supports the position you chose? What would the other side do?
 

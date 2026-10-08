@@ -1,7 +1,5 @@
 # Two decades of almost total dominance by the Chrome browser ended all at once. No dramatic announcements, no regulatory scandal. Simply thanks to one thing - AI.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Two decades of almost total dominance by the Chrome browser ended all at once. No dramatic announcements, no regulatory scandal. Simply thanks to one thing - AI.
 
 Suddenly, the technological frontier of the browser, the most basic tool for digital work, moved in a new direction - agentic browsers (Agentic Browsers). Ones that contain smart assistants that understand the context, know their way around what you're doing, and respond accordingly.

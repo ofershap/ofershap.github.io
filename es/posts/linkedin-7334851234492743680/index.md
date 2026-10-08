@@ -1,7 +1,5 @@
 # ¡Es una locura que este sistema operativo haya sido construido y sea ejecutado por IA dentro de nuestro navegador!
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¡Es una locura que este sistema operativo haya sido construido y sea ejecutado por IA dentro de nuestro navegador! 
 ryOS es una especie de "sistema operativo" falso que corre en el navegador y que se ve y se comporta como un ordenador de los años 90, con iconos antiguos, música en un iPod, dibujo en MacPaint, ventanas emergentes y un terminal.
 

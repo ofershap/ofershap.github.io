@@ -1,7 +1,5 @@
 # A cool concept worth knowing - Google open-sourced how they work in Stitch (their design tool). Their idea: to separate the UI layer from the logic layer in such a way that an agent can use it easily and with fewer failures.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 A cool concept worth knowing - Google open-sourced how they work in Stitch (their design tool). Their idea: to separate the UI layer from the logic layer in such a way that an agent can use it easily and with fewer failures. 
 
 How did they do it? 

@@ -1,7 +1,5 @@
 # ¿Cómo trabajamos todos hoy? Es gracioso (o triste), pero básicamente es: ask agent → hope (pregunta al agente → espera)
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¿Cómo trabajamos todos hoy? Es gracioso (o triste), pero básicamente es: ask agent → hope (pregunta al agente → espera)
 No tiene por qué ser así. Uno de los desarrolladores más apreciados (autor de Total TypeScript) convirtió los prompts aleatorios en un proceso de ingeniería repetible, con puntos de control que el agente debe superar.
 

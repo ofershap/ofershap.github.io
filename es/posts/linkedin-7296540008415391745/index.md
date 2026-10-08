@@ -1,7 +1,5 @@
 # ¿Cómo hacer que la IA entienda todo tu código o tu repositorio de datos? Conoce el Model Context Protocol (MCP) ✨
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¿Cómo hacer que la IA entienda todo tu código o tu repositorio de datos? Conoce el Model Context Protocol (MCP) ✨ 
 
 Al trabajar con modelos como Claude, uno de los principales problemas es que no "ven" todo el contexto del proyecto. Pueden analizar un solo archivo, pero entender un proyecto completo es una tarea totalmente distinta. 

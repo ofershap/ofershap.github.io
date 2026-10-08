@@ -1,7 +1,5 @@
 # Governments pay millions for tools like OSINT, but Eli Habib simply built one and open-sourced it - the ultimate global intelligence dashboard, for free 🤯.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Governments pay millions for tools like OSINT, but Eli Habib simply built one and open-sourced it - the ultimate global intelligence dashboard, for free 🤯. 
 
 The tool he developed, World Monitor, is basically a Bloomberg Terminal for geopolitics. Here is what it tracks in real time on a 3D globe: → live military flights and "dark" vessels → active conflict zones and 220+ military bases → undersea cables, nuclear sites and prediction markets 

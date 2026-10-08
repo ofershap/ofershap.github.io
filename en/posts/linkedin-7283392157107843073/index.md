@@ -1,7 +1,5 @@
 # He grew up in Jordan, was rejected from YC four times(!)... and today his side project is worth $1.16 billion! 😮
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 He grew up in Jordan, was rejected from YC four times(!)... and today his side project is worth $1.16 billion! 😮 
 
 Amjad Masad, founder of Replit, is a story about perseverance, vision and innovation. In a fascinating interview he shares the journey he went through – from an internet cafe in Jordan to building one of the most influential platforms in the development world.

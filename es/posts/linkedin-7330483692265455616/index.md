@@ -1,7 +1,5 @@
 # Sentado en un tren sin cobertura, usando un chat de IA 🚆
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Sentado en un tren sin cobertura, usando un chat de IA 🚆
 ¿Cómo lo hago?
 

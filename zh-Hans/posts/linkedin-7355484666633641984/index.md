@@ -1,7 +1,5 @@
 # 所有人都在谈论 background agents,而我构建了一个 foreground agent。
 
-本页为原文的机器翻译，未经人工译者审核。历史信息可能已发生变化。
-
 所有人都在谈论 background agents,而我构建了一个 foreground agent。
 Cursor、ChatGPT 等都提供运行"代码智能体"的选项,它在幕后自主运行。这有几个问题 - 一是看不到实际在执行什么,二是需要 Privacy 授权,三是有额外的成本。
 

@@ -1,7 +1,5 @@
 # Here's a TL;DR in Hebrew: the Lovable team published a technical blog post about how they moved their whole platform to run using... Lovable! They rebuilt the entire project so that it works on their own infrastructure.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Here's a TL;DR in Hebrew: the Lovable team published a technical blog post about how they moved their whole platform to run using... Lovable! They rebuilt the entire project so that it works on their own infrastructure. 
 
 The post is long and in English, but here is its TL;DR:

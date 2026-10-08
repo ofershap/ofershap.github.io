@@ -1,7 +1,5 @@
 # Advanced Cursor guide - context window is the new game we play
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Advanced Cursor guide - context window is the new game we play
 
 To get it to work properly, I created for myself a set of rules (cursor rules) that load automatically at the start of every conversation. I phrased them in a martial arts tone, both so they'd be short and token-efficient (because they join every conversation - always apply mode), and so it's clear these are ground assumptions, not requests.

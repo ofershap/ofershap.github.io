@@ -1,7 +1,5 @@
 # Un consejo estupendo y especialmente útil para usuarios de Cursor:
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Un consejo estupendo y especialmente útil para usuarios de Cursor:
 Convierte tu AI Code Assistant en un socio de verdad, no en un "Yes Man" (un sí a todo):
 si el chat siempre está de acuerdo contigo, no te ayuda realmente a crecer, solo refuerza puntos ciegos en lugar de funcionar como un auténtico compañero de Pair Programming.

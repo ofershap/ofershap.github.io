@@ -1,7 +1,5 @@
 # ¿Están sentados? Un joven de 24 años recibió esta semana una oferta de trabajo con una subvención de *250 millones de dólares*.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¿Están sentados? Un joven de 24 años recibió esta semana una oferta de trabajo con una subvención de *250 millones de dólares*.
 
 Matt Deitke, investigador de IA de Illinois que a los 24 años ya cambió la forma en que los robots entienden el mundo, recibió un contrato de Meta (Facebook) con una oferta imposible de rechazar. 

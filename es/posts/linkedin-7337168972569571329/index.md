@@ -1,7 +1,5 @@
 # ¡No se detiene! ¡Cursor acaba de recaudar 900 millones de dólares con una valoración de 9.900 millones de dólares!
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¡No se detiene! ¡Cursor acaba de recaudar 900 millones de dólares con una valoración de 9.900 millones de dólares!
 La empresa (y el software) se ha convertido en el estándar de la industria, usado por más de la mitad de las empresas de Fortune 500, incluidas NVIDIA, Uber y Adobe.
 

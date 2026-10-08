@@ -1,7 +1,5 @@
 # An excellent short video you have to see! The video is called Mario's Cart and of course it was created entirely with the help of AI.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 An excellent short video you have to see! The video is called Mario's Cart and of course it was created entirely with the help of AI. 
 In the hilarious clip, two characters dressed in red and green (named Mario and Luigi of course) fight each other over shopping carts.
 

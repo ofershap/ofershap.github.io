@@ -1,7 +1,5 @@
 # Atención: alguien construyó una plataforma para crear juegos móviles, directamente desde el teléfono, ¡con inteligencia artificial! 💥
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Atención: alguien construyó una plataforma para crear juegos móviles, directamente desde el teléfono, ¡con inteligencia artificial! 💥 
 
 ¿Cómo funciona? 🎮

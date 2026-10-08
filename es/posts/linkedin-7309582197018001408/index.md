@@ -1,7 +1,5 @@
 # La IA está a punto de cambiar la forma en que todos compramos cosas online. Y no estoy seguro de que la gente entienda lo rápido que está ocurriendo.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 La IA está a punto de cambiar la forma en que todos compramos cosas online. Y no estoy seguro de que la gente entienda lo rápido que está ocurriendo.
 
 Hoy me pasó algo que cambió mi perspectiva.

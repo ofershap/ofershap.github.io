@@ -1,7 +1,5 @@
 # A revolution above water:
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 A revolution above water:
 In Amsterdam, the world's first steel bridge printed with a 3D printer was inaugurated!
 

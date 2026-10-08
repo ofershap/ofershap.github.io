@@ -1,7 +1,5 @@
 # Using ChatGPT? An innocent invitation in your calendar can steal your details, and you're the one who will make it accessible
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Using ChatGPT? An innocent invitation in your calendar can steal your details, and you're the one who will make it accessible
 
 Here's why it's worth being aware:

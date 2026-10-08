@@ -1,7 +1,5 @@
 # Remember that last year a well-known tweeter called Levelsio published a flight simulator he built with vibe coding? Well, get this! The CEO of Grw AI built a flight simulator that lets you fly over real places around the world!
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Remember that last year a well-known tweeter called Levelsio published a flight simulator he built with vibe coding? Well, get this! The CEO of Grw AI built a flight simulator that lets you fly over real places around the world! 
 And no, Israel is not on the list, in case you were wondering
 

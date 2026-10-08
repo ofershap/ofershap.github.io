@@ -1,7 +1,5 @@
 # Using Cursor? Here's a golden tip for you:
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Using Cursor? Here's a golden tip for you:
 When we run commands through the CLI, errors happen. Sometimes they're thrown to the screen, sometimes they hide inside long lines of logs. 
 

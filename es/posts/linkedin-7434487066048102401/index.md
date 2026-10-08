@@ -1,7 +1,5 @@
 # Mi hijo tiene 9 años. Tiene un fuerte sentido de la justicia.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Mi hijo tiene 9 años. Tiene un fuerte sentido de la justicia.
 Cuando algo le parece injusto, reacciona. De inmediato. Sin detenerse.
 

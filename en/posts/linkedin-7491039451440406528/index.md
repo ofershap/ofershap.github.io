@@ -1,7 +1,5 @@
 # Say what you will about Sam Altman, in this tweet he is spot on and represents a whole generation:
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Say what you will about Sam Altman, in this tweet he is spot on and represents a whole generation: 
 "I am filled with gratitude to the people who wrote incredibly complex software, character by character. It's already hard to remember how much effort that really took.
 Thank you for bringing us to this point."

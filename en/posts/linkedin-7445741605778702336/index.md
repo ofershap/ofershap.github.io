@@ -1,7 +1,5 @@
 # Netflix's user experience is brilliant
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Netflix's user experience is brilliant
 In a foreign hotel room I turn on a foreign TV and a Netflix icon appears. I click it, scan the barcode with my phone, one click on a button and I'm logged in to my personal subscription with my viewing history.  For a moment I feel at home again. The 5-year-old girl takes the remote from me and navigates by herself to her show.
 

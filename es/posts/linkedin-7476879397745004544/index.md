@@ -1,7 +1,5 @@
 # Una locura. Un joven de 20 años de Tzur Yitzhak abrió cuentas bancarias a nombre de personas a las que nunca había conocido, pidió tarjetas de crédito a su nombre y retiró dinero de cientos de ciudadanos. Lo sorprendente de esta historia es que en realidad no entró por la fuerza en ningún sistema: simplemente usó IA con su mente creativa para engañar al sistema aprovechando cómo fue diseñado para funcionar.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Una locura. Un joven de 20 años de Tzur Yitzhak abrió cuentas bancarias a nombre de personas a las que nunca había conocido, pidió tarjetas de crédito a su nombre y retiró dinero de cientos de ciudadanos. Lo sorprendente de esta historia es que en realidad no entró por la fuerza en ningún sistema: simplemente usó IA con su mente creativa para engañar al sistema aprovechando cómo fue diseñado para funcionar. 
 
 ¿Cómo ocurrió?

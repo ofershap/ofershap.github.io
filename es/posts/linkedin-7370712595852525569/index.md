@@ -1,7 +1,5 @@
 # ¿Usas Cursor? Aquí tienes un consejo de oro:
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¿Usas Cursor? Aquí tienes un consejo de oro:
 Cuando ejecutamos comandos a través de la CLI, ocurren errores. A veces se lanzan en pantalla, a veces se esconden dentro de largas líneas de logs. 
 

@@ -1,7 +1,5 @@
 # Cuando ChatGPT se convierte en un socio inesperado de un acto de terror 🚨
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Cuando ChatGPT se convierte en un socio inesperado de un acto de terror 🚨
 Hace unos días, un Tesla Cybertruck explotó frente al hotel Trump en Las Vegas, en un incidente que sorprendió al mundo.  Tras una investigación preliminar se reveló un detalle sorprendente: Matthew Livelsberger, un exsoldado de 37 años de Colorado Springs, usó ChatGPT para planificar el acto.  
 

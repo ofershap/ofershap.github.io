@@ -1,7 +1,5 @@
 # ¡Este desarrollador quemó 1500 $ en un solo día sin saberlo en absoluto! Y lo peor: sin que nadie más lo supiera
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¡Este desarrollador quemó 1500 $ en un solo día sin saberlo en absoluto! Y lo peor: sin que nadie más lo supiera
 En la empresa usamos Cursor con una cuenta compartida (una cuenta Enterprise), así que tenemos un presupuesto y una sola manta de la que cada desarrollador tira hacia su lado. Mantenerse dentro del presupuesto es un reto al que hoy se enfrenta todo el mundo.
 

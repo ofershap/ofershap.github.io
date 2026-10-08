@@ -1,7 +1,5 @@
 # ¡Opus 4.5 le ganó al agente humano! 🤯
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¡Opus 4.5 le ganó al agente humano! 🤯  
 Un cliente de una aerolínea pidió cancelar su billete y, según la política de la empresa, el billete no se podía cancelar 
 ¿Qué hizo el modelo (en el que se apoya el chat)? 

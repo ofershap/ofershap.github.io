@@ -1,7 +1,5 @@
 # AI is about to change the way we all buy things online. And I'm not sure people understand how fast it's happening.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 AI is about to change the way we all buy things online. And I'm not sure people understand how fast it's happening.
 
 Today something happened to me that changed my perspective.

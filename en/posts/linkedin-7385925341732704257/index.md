@@ -1,7 +1,5 @@
 # Accenture is laying off 11 thousand employees as part of an AI transformation!
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Accenture is laying off 11 thousand employees as part of an AI transformation!
 
 Accenture cut more than 11 thousand jobs in the past three months as part of an AI-focused reorganization, and made clear that employees who fail to reskill will have to leave. 

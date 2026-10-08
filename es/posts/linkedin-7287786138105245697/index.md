@@ -1,7 +1,5 @@
 # La inteligencia artificial logró diseñar un chip de comunicaciones revolucionario que los ingenieros humanos ni siquiera consiguen descifrar 🥸 📱
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 La inteligencia artificial logró diseñar un chip de comunicaciones revolucionario que los ingenieros humanos ni siquiera consiguen descifrar 🥸 📱
 
 Investigadores de la Universidad de Princeton y del Instituto Indio de Tecnología (IIT) presentaron un avance sorprendente en el mundo del diseño de ingeniería: un programa de inteligencia artificial logró diseñar chips de comunicaciones 6G de forma especialmente eficiente (¡terabytes por segundo!) usando modelos no intuitivos que los humanos sencillamente no logran descifrar. El resultado son chips con un rendimiento sin precedentes, con potencial para revolucionar la industria.

@@ -1,7 +1,5 @@
 # ¿Recuerdan que el año pasado un conocido tuitero llamado Levelsio publicó un simulador de vuelo que construyó con vibe coding? ¡Pues atención! ¡El CEO de Grw AI construyó un simulador de vuelo que permite volar sobre lugares reales de todo el mundo!
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¿Recuerdan que el año pasado un conocido tuitero llamado Levelsio publicó un simulador de vuelo que construyó con vibe coding? ¡Pues atención! ¡El CEO de Grw AI construyó un simulador de vuelo que permite volar sobre lugares reales de todo el mundo! 
 Y no, Israel no está en la lista, por si se lo preguntaban
 

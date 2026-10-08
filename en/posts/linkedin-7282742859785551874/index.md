@@ -1,7 +1,5 @@
 # When ChatGPT becomes an unexpected partner in an act of terror 🚨
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 When ChatGPT becomes an unexpected partner in an act of terror 🚨
 A few days ago, a Tesla Cybertruck exploded outside the Trump hotel in Las Vegas, in an incident that stunned the world.  After a preliminary investigation a surprising detail was revealed: Matthew Livelsberger, a 37-year-old former soldier from Colorado Springs, used ChatGPT to plan the act.  
 

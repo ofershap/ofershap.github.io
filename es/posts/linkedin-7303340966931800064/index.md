@@ -1,7 +1,5 @@
 # ¡Acabo de recrear Alley Cat, el legendario juego de los años 80! 🫨🐈‍⬛
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¡Acabo de recrear Alley Cat, el legendario juego de los años 80! 🫨🐈‍⬛
 Esta semana me encontré con una publicación en la que alguien tomó un archivo EXE de MS-DOS, le pidió a Claude que lo analizara y consiguió que lo reescribiera entero en Python.
 

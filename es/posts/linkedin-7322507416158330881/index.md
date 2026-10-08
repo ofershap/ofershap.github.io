@@ -1,7 +1,5 @@
 # La ola de anuncios de IA se ha convertido en un tsunami.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 La ola de anuncios de IA se ha convertido en un tsunami.
 Cada día sale una función nueva, emocionante, avanzada y a veces también... innecesaria.
 Esta semana vi el anuncio de un nuevo MCP que se conecta con Jira y se crea fácilmente dentro de Docker.

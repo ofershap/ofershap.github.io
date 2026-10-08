@@ -1,7 +1,5 @@
 # What if I told you that I stopped "coding" and I'm still building apps? 🤯💻
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 What if I told you that I stopped "coding" and I'm still building apps? 🤯💻
 I'm not talking about No-Code or Low-Code, but about a complete change of approach.
 

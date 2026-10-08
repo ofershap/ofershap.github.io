@@ -1,7 +1,5 @@
 # Now in Hebrew too: I built an open-source tool that visually upgrades GitHub profiles 😎
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Now in Hebrew too: I built an open-source tool that visually upgrades GitHub profiles 😎
 
 How it works: replace github.com with gitshow.dev in any profile address, for example:

@@ -1,7 +1,5 @@
 # That feeling - that it's almost there - is one of the most frustrating and intoxicating feelings we experience in the age of artificial intelligence.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 That feeling - that it's almost there - is one of the most frustrating and intoxicating feelings we experience in the age of artificial intelligence.
 
 The illusion of almost - The AI Mirage

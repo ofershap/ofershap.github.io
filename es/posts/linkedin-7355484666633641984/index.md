@@ -1,7 +1,5 @@
 # Todos hablan de background agents; yo construí un foreground agent.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Todos hablan de background agents; yo construí un foreground agent.
 Cursor, ChatGPT y otros ofrecen la opción de ejecutar un "agente de código" que corre de forma autónoma entre bastidores. Esto tiene varios problemas: uno es que no se ve lo que realmente se está haciendo, el segundo es que requiere aprobaciones de Privacy, y el tercero es que tiene costes adicionales.
 

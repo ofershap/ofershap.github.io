@@ -1,7 +1,5 @@
 # Esto parece un episodio de "Black Mirror", solo que ocurrió de verdad.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Esto parece un episodio de "Black Mirror", solo que ocurrió de verdad.
 
 Investigadores de la Universidad de Zúrich infiltraron 13 cuentas falsas basadas en inteligencia artificial en el popular foro r/ChangeMyView de Reddit. Es un subforo donde los usuarios publican opiniones personales e invitan a otros a intentar convencerlos de pensar de otra manera: un foro construido sobre la transparencia, la humanidad y el diálogo abierto. Los investigadores no pidieron autorización a los administradores ni informaron a los usuarios de que formaban parte de un experimento.

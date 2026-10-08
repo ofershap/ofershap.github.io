@@ -1,7 +1,5 @@
 # Divertido: sándwich de la Tierra 🌍 (o, si prefieren: colaboración transcontinental)
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Divertido: sándwich de la Tierra 🌍 (o, si prefieren: colaboración transcontinental)
 
 En 2020, Etienne Naude, un estudiante de Auckland, Nueva Zelanda, y Ángel Sierra, un chef de España, crearon juntos un "sándwich de la Tierra" colocando rebanadas de pan en puntos antipodales exactos, es decir, justo en lados opuestos de la Tierra.

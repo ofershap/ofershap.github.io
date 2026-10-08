@@ -1,7 +1,5 @@
 # We threw all our code in the trash!
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 We threw all our code in the trash!
 After a whole week of planning meetings, in which smoke came out of our ears from the number of architecture options we examined, we decided to go with a practice that would ensure we're headed in the right direction. We decided to build the new project end to end in an almost impossibly short time of two weeks, and to know in advance that everything we build over the next two weeks is going in the trash.
 

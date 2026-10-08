@@ -1,7 +1,5 @@
 # Companies, wake up! The biggest change AI brings to companies is not technological but conceptual.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Companies, wake up! The biggest change AI brings to companies is not technological but conceptual.
 You can give employees the best model, connect it to all the right tools, and still see them work almost exactly as before.
 

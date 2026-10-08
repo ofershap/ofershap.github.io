@@ -1,7 +1,5 @@
 # Hoy hablé con una agente de IA, y suena bien 🤯
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Hoy hablé con una agente de IA, y suena bien 🤯 
 Una startup llamada Bland desarrolló tecnología que permite mantener conversaciones telefónicas ultrarrealistas con inteligencia artificial. Batieron un récord y llegaron a una ronda Serie B en el menor tiempo de la historia: ¡65 millones de dólares en solo unos meses!
 

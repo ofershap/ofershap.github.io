@@ -1,7 +1,5 @@
 # Uso el modo agente de Cursor todo el día. En algún momento me di cuenta de que no paraba de mirar la terminal para ver si el agente seguía trabajando o ya había terminado. Así que construí esto: una oficina de pixel art que vive en el panel inferior y reacciona a lo que hace el agente.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Uso el modo agente de Cursor todo el día. En algún momento me di cuenta de que no paraba de mirar la terminal para ver si el agente seguía trabajando o ya había terminado. Así que construí esto: una oficina de pixel art que vive en el panel inferior y reacciona a lo que hace el agente.
 
 El personaje teclea en el escritorio cuando el agente escribe código. Pasea y acaricia al gato cuando está inactivo. Celebra cuando pasa un build. Todos los objetos se pueden pulsar: la lámpara, la ventana, la máquina recreativa, la estantería, el dispensador de agua.

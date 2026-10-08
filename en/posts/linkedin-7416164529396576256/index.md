@@ -1,7 +1,5 @@
 # Instead of throwing the comments from your PRs in the trash - you can feed them back into Cursor! I published an article on Medium about how we closed this loop in our team and how the AI started learning how we really work. Feel free to read it here:
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Instead of throwing the comments from your PRs in the trash - you can feed them back into Cursor! I published an article on Medium about how we closed this loop in our team and how the AI started learning how we really work. Feel free to read it here:
 https://lnkd.in/dKrx3bch
 

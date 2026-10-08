@@ -1,7 +1,5 @@
 # Creció en Jordania, fue rechazado de YC cuatro veces(!)... ¡y hoy su proyecto paralelo vale 1160 millones de dólares! 😮
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Creció en Jordania, fue rechazado de YC cuatro veces(!)... ¡y hoy su proyecto paralelo vale 1160 millones de dólares! 😮 
 
 Amjad Masad, fundador de Replit, es una historia de perseverancia, visión e innovación. En una entrevista fascinante comparte el camino que recorrió: desde un cibercafé en Jordania hasta construir una de las plataformas más influyentes del mundo del desarrollo.

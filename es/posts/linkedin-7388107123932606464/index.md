@@ -1,7 +1,5 @@
 # ¿Usas ChatGPT? Una invitación inocente en tu calendario puede robar tus datos, y serás tú quien le dé acceso
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¿Usas ChatGPT? Una invitación inocente en tu calendario puede robar tus datos, y serás tú quien le dé acceso
 
 Por qué conviene ser consciente:

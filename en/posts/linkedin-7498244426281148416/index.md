@@ -1,7 +1,5 @@
 # How do we all work today? It's funny (or sad) but basically it's: ask agent → hope
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 How do we all work today? It's funny (or sad) but basically it's: ask agent → hope
 It doesn't have to be this way. One of the respected developers (author of Total TypeScript) turned the random prompts into a repeatable engineering process with checkpoints the agent must pass.
 

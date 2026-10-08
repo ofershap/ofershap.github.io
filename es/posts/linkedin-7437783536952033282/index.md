@@ -1,7 +1,5 @@
 # Los gobiernos pagan millones por herramientas como OSINT, pero Eli Habib simplemente construyó una y la liberó como código abierto: el panel de control definitivo de inteligencia global, gratis 🤯.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Los gobiernos pagan millones por herramientas como OSINT, pero Eli Habib simplemente construyó una y la liberó como código abierto: el panel de control definitivo de inteligencia global, gratis 🤯. 
 
 La herramienta que desarrolló, World Monitor, es básicamente un Bloomberg Terminal para la geopolítica. Esto es lo que rastrea en tiempo real sobre un globo 3D: → vuelos militares en vivo y embarcaciones "oscuras" → zonas de conflicto activas y más de 220 bases militares → cables submarinos, sitios nucleares y mercados de predicciones 

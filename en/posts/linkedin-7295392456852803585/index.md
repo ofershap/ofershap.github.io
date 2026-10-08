@@ -1,7 +1,5 @@
 # I talked to an AI agent today - and it sounds good 🤯
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 I talked to an AI agent today - and it sounds good 🤯 
 A startup called Bland developed technology that enables ultra-realistic phone conversations with artificial intelligence. They broke a record and reached a Series B round in the shortest time in history - 65 million dollars within just a few months!
 

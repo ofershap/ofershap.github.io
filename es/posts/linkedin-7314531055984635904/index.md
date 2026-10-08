@@ -1,7 +1,5 @@
 # El MCP del que tanto se oye hablar últimamente: ¿qué significa siquiera?
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 El MCP del que tanto se oye hablar últimamente: ¿qué significa siquiera?
 Para explicarlo como es debido, piensa en cómo empezó internet:
 Hubo que inventar un lenguaje común para que un ordenador pudiera hablar con un servidor remoto. Esa fue la invención del HTTP. Hoy nos resulta transparente: usamos un navegador, visitamos sitios y olvidamos que se basan en una infraestructura mundial acordada, un protocolo, para transferir comunicación e información que permite que esos sitios aparezcan en nuestro ordenador.

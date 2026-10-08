@@ -1,7 +1,5 @@
 # Shopify contrató a 1.000 juniors (graduados universitarios) para puestos de becarios para que *ellos* le enseñen a Shopify cómo trabajar. Entendieron bien, aunque suene confuso... En un vídeo fascinante de su Head of Engineering explica el cambio en el mundo del trabajo y la necesidad de cambiar toda la empresa para la nueva era de la IA
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Shopify contrató a 1.000 juniors (graduados universitarios) para puestos de becarios para que *ellos* le enseñen a Shopify cómo trabajar. Entendieron bien, aunque suene confuso... En un vídeo fascinante de su Head of Engineering explica el cambio en el mundo del trabajo y la necesidad de cambiar toda la empresa para la nueva era de la IA
 
 En el vídeo cuenta que en 2025 y 2026 Shopify empleó a mil becarios, un salto enorme en la contratación, frente a solo 75 becarios en 2024.

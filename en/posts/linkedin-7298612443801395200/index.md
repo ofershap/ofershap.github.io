@@ -1,7 +1,5 @@
 # **"Dad, why is nobody playing with me today?"**
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 **"Dad, why is nobody playing with me today?"**  
 My son came back from kindergarten with a dim look.   
 

@@ -1,7 +1,5 @@
 # Are we about to see an Israeli company on the scale of OpenAI soon?
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Are we about to see an Israeli company on the scale of OpenAI soon?
 With more than a million users within 3 days and a breakthrough in efficient use of AI chips, these two 8200 alumni could bring the good news to Israel - and they are already on their way. 
 

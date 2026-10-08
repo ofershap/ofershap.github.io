@@ -1,7 +1,5 @@
 # Un concepto genial que conviene conocer: Google publicó como código abierto cómo trabajan en Stitch (su herramienta de diseño). Su idea: separar la capa de UI de la capa de lógica de tal manera que un agente pueda usarla fácilmente y con menos fallos.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Un concepto genial que conviene conocer: Google publicó como código abierto cómo trabajan en Stitch (su herramienta de diseño). Su idea: separar la capa de UI de la capa de lógica de tal manera que un agente pueda usarla fácilmente y con menos fallos. 
 
 ¿Cómo lo hicieron? 

@@ -1,7 +1,5 @@
 # A friend reached out and said he upgraded Cursor to a Pro subscription and after a day he had already used 13% of his subscription. So I sat down and wrote the following guide for him and for you:
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 A friend reached out and said he upgraded Cursor to a Pro subscription and after a day he had already used 13% of his subscription. So I sat down and wrote the following guide for him and for you:
 
 * How to save on AI development costs (and save tokens) *

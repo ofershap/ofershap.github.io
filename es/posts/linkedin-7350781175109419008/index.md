@@ -1,7 +1,5 @@
 # ¿Recuerdan la publicación de ayer sobre las trampas que la IA trae consigo a la academia?
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¿Recuerdan la publicación de ayer sobre las trampas que la IA trae consigo a la academia?
 Pues aquí está la respuesta: un estudiante de la Facultad de Derecho de la Universidad de San Francisco sube a Claude la grabación de su última clase. En lugar de recibir un resumen ya hecho, el modelo le pregunta: ¿cómo construirías un argumento jurídico? ¿Qué prueba respalda la postura que elegiste? ¿Qué haría la otra parte?
 

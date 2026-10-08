@@ -1,7 +1,5 @@
 # Saber escribir código ya no es relevante.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Saber escribir código ya no es relevante.
 Todos los años de inversión y lo que aprendimos se han vuelto marginales; la revolución que ocurrió en un instante hace menos de dos años, la que se extendió y sigue creciendo y arrasando como un tsunami el mundo del software, creó una nueva agenda.
 

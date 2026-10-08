@@ -1,7 +1,5 @@
 # Un usuario escribió un prompt: "Duplica esta imagen. No cambies nada."
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Un usuario escribió un prompt: "Duplica esta imagen. No cambies nada."
 Y cada vez la inteligencia artificial conservó una sola cosa: su derecho a no escuchar.
 

@@ -1,7 +1,5 @@
 # Este israelí construyó él solo una herramienta revolucionaria, sin levantar capital y sin titulares en la prensa, y conviene que lo conozcan: Eliezer Steinbock
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Este israelí construyó él solo una herramienta revolucionaria, sin levantar capital y sin titulares en la prensa, y conviene que lo conozcan: Eliezer Steinbock
 
 A todos nos cuesta lidiar con la sobrecarga de información en la bandeja de entrada del correo.
