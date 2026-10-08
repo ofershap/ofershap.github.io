@@ -1,7 +1,5 @@
 # I want more Ofirs on my team. And not because he's the fastest developer, but because of something that in my eyes has become the most important trait for an employee in the AI era. And what do you think is the most important trait in employees in today's POST-AI era?
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 I want more Ofirs on my team. And not because he's the fastest developer, but because of something that in my eyes has become the most important trait for an employee in the AI era. And what do you think is the most important trait in employees in today's POST-AI era? 
 I think the answer has narrowed down to one thing: thinking outside the box.
 

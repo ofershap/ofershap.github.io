@@ -1,7 +1,5 @@
 # ¿Es el fin del camino para PowerPoint? 🚨
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¿Es el fin del camino para PowerPoint? 🚨
 Ya no hace falta perder más horas en diseño ni aprender tutoriales complicados. La IA está aquí para cambiar la forma en que creamos presentaciones, ¡y rápido! ⏱️
 

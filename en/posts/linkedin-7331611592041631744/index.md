@@ -1,7 +1,5 @@
 # That's it, I solved the most annoying thing in ChatGPT!
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 That's it, I solved the most annoying thing in ChatGPT!  
 How? With a browser extension of course!
 

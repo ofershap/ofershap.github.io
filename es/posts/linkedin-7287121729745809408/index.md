@@ -1,7 +1,5 @@
 # ¿Memoria llena? 💾 Esto fue lo que pasó cuando llegué al límite de ChatGPT:
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¿Memoria llena? 💾 Esto fue lo que pasó cuando llegué al límite de ChatGPT:
 
 Un día me pasó esto: "Memory full - 100%."

@@ -1,7 +1,5 @@
 # Opus 4.5 beat the human agent! 🤯
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Opus 4.5 beat the human agent! 🤯  
 An airline customer asked to cancel his flight ticket, and according to the company's policy the ticket could not be cancelled 
 What did the model (that the chat relies on) do? 

@@ -1,7 +1,5 @@
 # ¿Te tatuarías el logo de Domino's para conseguir pizza gratis?
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¿Te tatuarías el logo de Domino's para conseguir pizza gratis?
 Una mañana de 2018, Domino's Pizza hizo algo realmente inesperado.  
 Ofreció **pizza gratis de por vida** (100 pizzas al año durante 100 años) a quien se tatuara su logo.

@@ -1,7 +1,5 @@
 # Alguien acaba de ganar casi 50.000 dólares después de convencer a un agente de inteligencia artificial de que le transfiriera todo su dinero.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Alguien acaba de ganar casi 50.000 dólares después de convencer a un agente de inteligencia artificial de que le transfiriera todo su dinero.
 
 ¿Cómo funcionó?

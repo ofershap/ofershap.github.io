@@ -1,7 +1,5 @@
 # How did Google (unintentionally) build the foundation of ChatGPT? 😯
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 How did Google (unintentionally) build the foundation of ChatGPT? 😯 
 A bit of history: in 2017, a team of researchers at Google published a research paper with a somewhat boring title: "Attention is All You Need".
 

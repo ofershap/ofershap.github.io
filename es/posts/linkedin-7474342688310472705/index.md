@@ -1,7 +1,5 @@
 # Como líder de un equipo de desarrollo, una de las cosas más útiles que hago últimamente es analizar con IA los Pull Requests de mi equipo.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Como líder de un equipo de desarrollo, una de las cosas más útiles que hago últimamente es analizar con IA los Pull Requests de mi equipo. 
 
 Le pido a Cursor o a Claude Code (conectados a nuestro repo mediante la GitHub CLI) que analicen los PR (es decir, ejecuta realmente gh pr list con comandos de búsqueda) y me devuelvan conclusiones como: 

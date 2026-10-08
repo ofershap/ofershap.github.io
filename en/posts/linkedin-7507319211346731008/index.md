@@ -1,7 +1,5 @@
 # What happens when Instinct's bot creates its own open source project?
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 What happens when Instinct's bot creates its own open source project?
 
 Yesterday I asked it to implement an idea that came up during a WhatsApp conversation with it on my phone

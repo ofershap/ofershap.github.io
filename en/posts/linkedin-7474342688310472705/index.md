@@ -1,7 +1,5 @@
 # As a development team lead, one of the most useful things I've been doing lately is analyzing my team's Pull Requests with AI.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 As a development team lead, one of the most useful things I've been doing lately is analyzing my team's Pull Requests with AI. 
 
 I ask Cursor or Claude Code (connected to our repo via the GitHub CLI) to analyze the PRs (that is, it actually runs gh pr list with search commands) and return insights like - 

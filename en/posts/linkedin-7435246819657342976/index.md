@@ -1,7 +1,5 @@
 # This developer burned $1500 in one day without knowing it at all! And worse - without anyone else knowing about it
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 This developer burned $1500 in one day without knowing it at all! And worse - without anyone else knowing about it
 At the company we use Cursor on a shared account (an Enterprise account), so we have one budget and one blanket that every developer pulls toward himself. Keeping to the budget is a challenge everyone faces today.
 

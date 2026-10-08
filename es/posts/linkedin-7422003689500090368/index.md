@@ -1,7 +1,5 @@
 # ¡¡Nunca he desarrollado tan rápido!! (¡Y solo va a más!)
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¡¡Nunca he desarrollado tan rápido!! (¡Y solo va a más!)
 10:00 Cursor abierto sobre una carpeta vacía
 10:05 Terminé de escribir el prompt (sí, le dediqué al menos 5 minutos, ese es el secreto)

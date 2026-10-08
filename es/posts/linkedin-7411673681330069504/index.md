@@ -1,7 +1,5 @@
 # ¿Conocen a alguien que lave la ropa a mano? Colada a mano, ya saben, con tabla de lavar y jabón
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¿Conocen a alguien que lave la ropa a mano? Colada a mano, ya saben, con tabla de lavar y jabón
 Suena ridículo, ¿verdad? Porque quién lava hoy sin lavadora... Así nos miran hoy los niños a los desarrolladores de antes de 2025. De los que realmente escribíamos el código nosotros mismos.
 

@@ -1,7 +1,5 @@
 # Un amigo me escribió y me dijo que había pasado Cursor a una suscripción Pro y después de un día ya había usado el 13 % de su suscripción. Así que me senté a escribir, para él y para ustedes, la siguiente guía:
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Un amigo me escribió y me dijo que había pasado Cursor a una suscripción Pro y después de un día ya había usado el 13 % de su suscripción. Así que me senté a escribir, para él y para ustedes, la siguiente guía:
 
 * Cómo ahorrar costes de desarrollo con IA (y ahorrar tokens) *

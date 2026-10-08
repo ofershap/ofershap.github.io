@@ -1,7 +1,5 @@
 # Qué gusto levantarse por la mañana, lanzar dos ejecuciones paralelas en dos ventanas de Cursor y, mientras trabaja para mí, pasar a leer mensajes en Slack
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Qué gusto levantarse por la mañana, lanzar dos ejecuciones paralelas en dos ventanas de Cursor y, mientras trabaja para mí, pasar a leer mensajes en Slack
 
 Hoy también añadí un nuevo key binding: Pull from master. En lugar de hacer clic con el ratón cada vez, ahora puedo pulsar ctrl+m

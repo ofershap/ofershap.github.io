@@ -1,7 +1,5 @@
 # ¡Empieza a hablar en LLM! 🈯
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¡Empieza a hablar en LLM! 🈯 
 Hasta ahora, la ingeniería de prompts intentaba arreglárselas con un lenguaje que no se construyó para ello. Microsoft ha lanzado ahora una nueva estructura de lenguaje económica, eficiente y organizada.
 

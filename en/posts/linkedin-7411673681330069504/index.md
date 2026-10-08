@@ -1,7 +1,5 @@
 # Do you know anyone who does laundry by hand? Hand laundry, you know, with a washboard and soap
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Do you know anyone who does laundry by hand? Hand laundry, you know, with a washboard and soap
 Sounds ridiculous, right? Because who does laundry these days without a washing machine.. That's how kids today look at us developers from before 2025. The kind who actually wrote the code themselves.
 

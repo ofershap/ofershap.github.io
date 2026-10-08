@@ -1,7 +1,5 @@
 # Get this! I found a crazy hack in Cursor 🤓🤘
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Get this! I found a crazy hack in Cursor 🤓🤘
 You can add a User Rule to Cursor and tell it where your previous conversations are saved, by adding the following Rule:
 ```

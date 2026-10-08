@@ -1,7 +1,5 @@
 # ¡Un cortometraje excelente que tienen que ver! El vídeo se llama Mario's Cart y, por supuesto, fue creado por completo con ayuda de IA.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¡Un cortometraje excelente que tienen que ver! El vídeo se llama Mario's Cart y, por supuesto, fue creado por completo con ayuda de IA. 
 En el desternillante clip, dos personajes vestidos de rojo y verde (llamados Mario y Luigi, por supuesto) se pelean por unos carritos de la compra.
 

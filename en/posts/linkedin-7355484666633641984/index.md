@@ -1,7 +1,5 @@
 # Everyone is talking about background agents, I built a foreground agent.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Everyone is talking about background agents, I built a foreground agent.
 Cursor, ChatGPT and others offer the option of running a "code agent" that runs autonomously behind the scenes. There are a few problems with this - one is that you can't see what is actually being done, the second is that it requires Privacy approvals, and the third is that it has additional costs.
 

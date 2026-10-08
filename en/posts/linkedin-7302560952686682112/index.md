@@ -1,7 +1,5 @@
 # An exit in less than a month – without writing code! 🤯
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 An exit in less than a month – without writing code! 🤯
 
 Imagine you create a silly but addictive game, without knowing how to program, and within less than a month you start earning tens of thousands of dollars, and then someone simply buys spaces in the game from you at crazy prices.

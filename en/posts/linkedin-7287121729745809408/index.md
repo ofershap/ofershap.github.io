@@ -1,7 +1,5 @@
 # Memory Full? 💾 Here’s What Happened When I Hit the ChatGPT Limit:
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Memory Full? 💾 Here’s What Happened When I Hit the ChatGPT Limit:
 
 One day, this happened to me: “Memory full - 100%.”

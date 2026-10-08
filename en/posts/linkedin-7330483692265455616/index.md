@@ -1,7 +1,5 @@
 # Sitting on a train with no reception, and using an AI chat 🚆
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Sitting on a train with no reception, and using an AI chat 🚆
 How do I do it?
 

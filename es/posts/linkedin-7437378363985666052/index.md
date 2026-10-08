@@ -1,7 +1,5 @@
 # ¡Miren qué locura! Este chico (Tayes Niuvor, nombre transliterado del hebreo, grafía sin verificar) logró crear una aplicación completa mientras corría un maratón de 42 km. 😮💥 Usó Wispr Flow dentro de Cursor para desarrollar código con comandos de voz, incluso en mitad de la carrera. Este proyecto, llamado Hypes, es una herramienta de motivación que te apoya justo en los momentos en que quieres rendirte.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¡Miren qué locura! Este chico (Tayes Niuvor, nombre transliterado del hebreo, grafía sin verificar) logró crear una aplicación completa mientras corría un maratón de 42 km. 😮💥 Usó Wispr Flow dentro de Cursor para desarrollar código con comandos de voz, incluso en mitad de la carrera. Este proyecto, llamado Hypes, es una herramienta de motivación que te apoya justo en los momentos en que quieres rendirte. 
 ¿Quién dijo que hay que sentarse a un escritorio para desarrollar software? 
 

@@ -1,7 +1,5 @@
 # A user wrote a prompt: "Duplicate this image. Don't change anything."
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 A user wrote a prompt: "Duplicate this image. Don't change anything."
 And every time the AI preserved only one thing: its right not to listen.
 

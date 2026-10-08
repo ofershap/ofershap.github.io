@@ -1,7 +1,5 @@
 # "What are you real? We talked about that exactly 10 years ago!"
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 "What are you real? We talked about that exactly 10 years ago!"
 
 Suddenly in the middle of a conversation with a friend from the past while we dove deep into a conversation about AI's memory, or more precisely why it "forgets" things in the middle of a conversation. The friend from the past described how the context window works, and I heard "RAM memory management". What goes into the context window is available to the model immediately. What doesn't go in, as far as it's concerned, doesn't exist. Exactly like working memory in regular software.

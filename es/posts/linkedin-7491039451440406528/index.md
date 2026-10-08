@@ -1,7 +1,5 @@
 # Digan lo que digan de Sam Altman, en este tuit da en el clavo y representa a toda una generación:
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Digan lo que digan de Sam Altman, en este tuit da en el clavo y representa a toda una generación: 
 "Estoy lleno de gratitud hacia las personas que escribieron software increíblemente complejo, carácter por carácter. Ya es difícil recordar cuánto esfuerzo requería realmente.
 Gracias por traernos hasta este punto."

@@ -1,7 +1,5 @@
 # What a joy it is to wake up in the morning, start two parallel runs in two Cursor windows, and then while it works for me, go read messages on Slack
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 What a joy it is to wake up in the morning, start two parallel runs in two Cursor windows, and then while it works for me, go read messages on Slack
 
 I also added a new key binding today: Pull from master - instead of clicking with the mouse every time I can now press ctrl+m

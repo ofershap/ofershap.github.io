@@ -1,7 +1,5 @@
 # ¡En la era de la IA no hay excusas para los bugs en producción! 🐞
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¡En la era de la IA no hay excusas para los bugs en producción! 🐞 
 La semana pasada intenté vender un producto en Facebook Marketplace.  
 Al final del proceso apareció un mensaje: si se deben pasar las conversaciones al archivo. Pulsé que sí, y todas las conversaciones se quedaron en la bandeja de entrada (Inbox).  

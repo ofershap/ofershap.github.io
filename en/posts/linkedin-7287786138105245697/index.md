@@ -1,7 +1,5 @@
 # Artificial intelligence managed to design a revolutionary communications chip - that human engineers can't even decipher 🥸 📱
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Artificial intelligence managed to design a revolutionary communications chip - that human engineers can't even decipher 🥸 📱
 
 Researchers from Princeton University and the Indian Institute of Technology (IIT) presented a surprising breakthrough in the world of engineering design: an artificial intelligence program managed to design 6G communications chips in an especially efficient way (terabytes per second!) using non-intuitive models that humans simply can't decipher. The result is chips showing unprecedented performance, with the potential to revolutionize the industry.

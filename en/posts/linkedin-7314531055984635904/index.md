@@ -1,7 +1,5 @@
 # The MCP that everyone's been hearing about lately - what does it even mean?!
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 The MCP that everyone's been hearing about lately - what does it even mean?! 
 To explain it properly: try to think about how the internet started:
 A shared language had to be invented, so that one computer could talk to a remote server. That was the invention of HTTP. Today it's transparent to us, we use browser software and visit sites, and forget that they are based on a globally agreed infrastructure, a protocol, for transferring communication and information that allows those sites to appear on our computer.

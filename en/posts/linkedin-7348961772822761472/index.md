@@ -1,7 +1,5 @@
 # The visual interface of products has changed dramatically in the AI era - but most of us keep building as if nothing happened.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 The visual interface of products has changed dramatically in the AI era - but most of us keep building as if nothing happened.
 
 I want to bring to your awareness something that seems natural, almost transparent, but critical - something that needs a spotlight, so that in the next interface you develop it will be there:

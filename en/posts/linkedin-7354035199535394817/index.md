@@ -1,7 +1,5 @@
 # A few months ago we introduced Cursor into the team - and since then, something deep has changed.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 A few months ago we introduced Cursor into the team - and since then, something deep has changed.
 
 Suddenly I noticed: nobody is waiting for answers anymore.

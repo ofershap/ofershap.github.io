@@ -1,7 +1,5 @@
 # In the AI era there are no excuses for production bugs! 🐞
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 In the AI era there are no excuses for production bugs! 🐞 
 Last week I tried to sell a product on Facebook Marketplace.  
 At the end of the process a message appeared: should the conversations be moved to the archive. I clicked yes - and all the conversations stayed in my Inbox.  

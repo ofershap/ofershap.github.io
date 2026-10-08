@@ -1,7 +1,5 @@
 # I run 5+ Cursor cloud agents in parallel. Keeping track of them was chaos.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 I run 5+ Cursor cloud agents in parallel. Keeping track of them was chaos. 
 So I built a Control Tower! 🗼
 

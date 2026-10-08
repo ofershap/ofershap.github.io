@@ -1,7 +1,5 @@
 # Proportions: each dot is 3.2 million people. 2,500 dots = 8.1 billion human beings.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Proportions: each dot is 3.2 million people. 2,500 dots = 8.1 billion human beings.
 
 The gray? 6.8 billion people who have never used AI.

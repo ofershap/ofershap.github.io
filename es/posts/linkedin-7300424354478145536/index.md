@@ -1,7 +1,5 @@
 # ¿Cómo construyó Google (sin querer) los cimientos de ChatGPT? 😯
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¿Cómo construyó Google (sin querer) los cimientos de ChatGPT? 😯 
 Un poco de historia: en 2017, un equipo de investigadores de Google publicó un artículo de investigación con un título algo aburrido: "Attention is All You Need".
 

@@ -1,7 +1,5 @@
 # ¡Listo, resolví lo más molesto de ChatGPT!
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¡Listo, resolví lo más molesto de ChatGPT!  
 ¿Cómo? ¡Con una extensión de navegador, por supuesto!
 

@@ -1,7 +1,5 @@
 # I've never developed so fast!! (And it's only getting stronger!)
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 I've never developed so fast!! (And it's only getting stronger!)
 10:00 Cursor open on an empty folder
 10:05 Finished writing the prompt (yes, I invested at least 5 minutes in it, that's the secret)

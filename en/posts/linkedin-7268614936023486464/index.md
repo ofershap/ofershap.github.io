@@ -1,7 +1,5 @@
 # Someone just earned almost $50,000 after convincing an artificial intelligence agent to transfer all of its money to him.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Someone just earned almost $50,000 after convincing an artificial intelligence agent to transfer all of its money to him.
 
 How did it work?

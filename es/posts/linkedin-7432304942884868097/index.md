@@ -1,7 +1,5 @@
 # Construí una herramienta de código abierto que da a los perfiles de GitHub una mejora visual.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Construí una herramienta de código abierto que da a los perfiles de GitHub una mejora visual.
 
 Cómo funciona: reemplaza "github.com" por "gitshow.dev" en cualquier URL de perfil.

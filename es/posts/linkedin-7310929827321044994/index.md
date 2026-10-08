@@ -1,7 +1,5 @@
 # ¿Y si pudieras aprender SQL mientras investigas un asesinato?
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¿Y si pudieras aprender SQL mientras investigas un asesinato?
 🎭🔍 SQLNoir es uno de los sitios más geniales con los que me he topado últimamente:
  En lugar de simplemente leer documentación aburrida o memorizar comandos, te pones en la piel de un detective privado que debe resolver un misterio de asesinato... ¡con consultas SQL!

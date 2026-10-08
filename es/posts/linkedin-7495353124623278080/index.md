@@ -1,7 +1,5 @@
 # ¿Cómo se aseguran de que su archivo .env esté siempre actualizado y de que todo el equipo esté sincronizado con él?
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¿Cómo se aseguran de que su archivo .env esté siempre actualizado y de que todo el equipo esté sincronizado con él?
 Nuestra solución fue redefinir "qué es un archivo env": no es un archivo que alguien guarda y actualiza a mano, sino un build artifact que se genera solo cada vez que se ejecuta la aplicación.
 

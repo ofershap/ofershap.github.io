@@ -1,7 +1,5 @@
 # How do you make AI understand all your code or your data repository? Meet the Model Context Protocol (MCP) ✨
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 How do you make AI understand all your code or your data repository? Meet the Model Context Protocol (MCP) ✨ 
 
 When working with models like Claude, one of the main problems is that they don't "see" the whole context of the project. They can analyze a single file, but understanding a whole project is a completely different task. 

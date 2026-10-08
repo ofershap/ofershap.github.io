@@ -1,7 +1,5 @@
 # ¿Qué es el nuevo protocolo Agent 2 Agent? Ni siquiera nos hemos recuperado de "MCP" y ahora han creado otro protocolo. Así que aquí va una explicación sencilla del tema:
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¿Qué es el nuevo protocolo Agent 2 Agent? Ni siquiera nos hemos recuperado de "MCP" y ahora han creado otro protocolo. Así que aquí va una explicación sencilla del tema:
 
 Imagina una oficina con un equipo de expertos: una en gráficos, otro en hojas de cálculo, un tercero en planificación.  

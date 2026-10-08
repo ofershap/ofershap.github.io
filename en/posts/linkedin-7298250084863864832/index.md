@@ -1,7 +1,5 @@
 # The Israeli company FIVERR in an unprecedented move for freelancers – it's crazy🔥
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 The Israeli company FIVERR in an unprecedented move for freelancers – it's crazy🔥
 Meet Fiverr Go, the new feature that lets freelancers clone themselves - with the help of AI!
 

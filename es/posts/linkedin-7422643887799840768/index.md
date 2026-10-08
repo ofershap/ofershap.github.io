@@ -1,7 +1,5 @@
 # ¡Atención! Encontré un hack alucinante en Cursor 🤓🤘
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¡Atención! Encontré un hack alucinante en Cursor 🤓🤘
 Puedes añadir una User Rule a Cursor y decirle dónde se guardan tus conversaciones anteriores, añadiendo la siguiente Rule:
 ```

@@ -1,7 +1,5 @@
 # ¡Tiramos todo nuestro código a la basura!
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¡Tiramos todo nuestro código a la basura!
 Tras una semana entera de reuniones de planificación, en las que nos salía humo por las orejas de tantas opciones de arquitectura que examinamos, decidimos adoptar una práctica que garantizara que íbamos en la dirección correcta. Decidimos construir el nuevo proyecto de extremo a extremo en un tiempo casi imposible de dos semanas, y saber de antemano que todo lo que construyéramos en las próximas dos semanas iba a la basura.
 

@@ -1,7 +1,5 @@
 # What is the new Agent 2 Agent protocol? We haven't even recovered from "MCP" and now they've created another protocol. So here's a simple explanation of the subject:
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 What is the new Agent 2 Agent protocol? We haven't even recovered from "MCP" and now they've created another protocol. So here's a simple explanation of the subject:
 
 Imagine an office with a team of experts - one in graphics, another in spreadsheets, a third in planning.  

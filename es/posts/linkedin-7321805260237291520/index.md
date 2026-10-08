@@ -1,7 +1,5 @@
 # Una revolución sobre el agua:
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Una revolución sobre el agua:
 ¡En Ámsterdam se inauguró el primer puente de acero del mundo impreso con una impresora 3D!
 

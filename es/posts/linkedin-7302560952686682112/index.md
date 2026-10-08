@@ -1,7 +1,5 @@
 # ¡Una salida (exit) en menos de un mes, sin escribir código! 🤯
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¡Una salida (exit) en menos de un mes, sin escribir código! 🤯
 
 Imagina que creas un juego tonto pero adictivo, sin saber programar, y en menos de un mes empiezas a ganar decenas de miles de dólares, y entonces alguien simplemente te compra espacios en el juego a precios disparatados.

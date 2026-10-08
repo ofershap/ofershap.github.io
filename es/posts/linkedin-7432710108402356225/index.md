@@ -1,7 +1,5 @@
 # Ahora también en hebreo: construí una herramienta de código abierto que mejora visualmente los perfiles de GitHub 😎
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Ahora también en hebreo: construí una herramienta de código abierto que mejora visualmente los perfiles de GitHub 😎
 
 Cómo funciona: reemplaza github.com por gitshow.dev en cualquier dirección de perfil, por ejemplo:

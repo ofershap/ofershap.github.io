@@ -1,7 +1,5 @@
 # The rush to Elias: if until now it was hard to tell what's real and what was created by AI, then with the release of the new model Sora 2 we've gone up a level: realistic-looking AI video creation gets a double push: the quality is higher, making detection even harder, and the distribution is wider (= a social network of videos).
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 The rush to Elias: if until now it was hard to tell what's real and what was created by AI, then with the release of the new model Sora 2 we've gone up a level: realistic-looking AI video creation gets a double push: the quality is higher, making detection even harder, and the distribution is wider (= a social network of videos).
 
 What we get is generated videos of current events within moments of the event itself - like the attached video ("the rush to Elias"), where it's already hard to know what's real and what's generated. At least for now Sora adds a "watermark" (you can see in the video, at some point the Sora logo appears), not that it really does the job for videos that change reality and shape false awareness, because the symbol is known only to those in the know. Adding the watermark is more of a disclaimer of "we did everything we could".

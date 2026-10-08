@@ -1,7 +1,5 @@
 # Crazy. A 20-year-old from Tzur Yitzhak opened bank accounts in the names of people he had never met, ordered credit cards in their names and withdrew money from hundreds of citizens. What's surprising in this story is that he didn't actually break into any system - he simply used AI with his creative mind to deceive the system based on how it was designed to work.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Crazy. A 20-year-old from Tzur Yitzhak opened bank accounts in the names of people he had never met, ordered credit cards in their names and withdrew money from hundreds of citizens. What's surprising in this story is that he didn't actually break into any system - he simply used AI with his creative mind to deceive the system based on how it was designed to work. 
 
 How did it happen?

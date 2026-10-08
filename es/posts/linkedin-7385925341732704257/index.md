@@ -1,7 +1,5 @@
 # ¡Accenture despide a 11 mil empleados como parte de una transformación hacia la IA!
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¡Accenture despide a 11 mil empleados como parte de una transformación hacia la IA!
 
 Accenture recortó más de 11 mil puestos en los últimos tres meses como parte de una reorganización centrada en la inteligencia artificial, y dejó claro que los empleados que no logren reciclarse tendrán que irse. 

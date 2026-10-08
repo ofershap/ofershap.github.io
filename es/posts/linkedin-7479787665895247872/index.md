@@ -1,7 +1,5 @@
 # Elementor tuvo que despedir a parte de lo mejor de su gente la semana pasada como paso de eficiencia necesario en un mercado que ha cambiado.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Elementor tuvo que despedir a parte de lo mejor de su gente la semana pasada como paso de eficiencia necesario en un mercado que ha cambiado. 
 Leí una publicación de Roey Tzezana que escribió que en 2026 enviar un currículum en PDF ya está anticuado.
 Eso me hizo pensar en cómo presentaría yo un currículum hoy en día (con el enfoque de Tzezana), y probablemente se habría visto así (por favor, míralo desde un ordenador si quieres ver el fondo de vídeo basado en scroll):

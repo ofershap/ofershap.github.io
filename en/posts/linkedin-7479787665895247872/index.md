@@ -1,7 +1,5 @@
 # Elementor had to let go of some of its best people last week as a necessary efficiency step in a changed market.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Elementor had to let go of some of its best people last week as a necessary efficiency step in a changed market. 
 I read a post by Roey Tzezana who wrote that in 2026 sending a resume as a PDF is already outdated.
 It made me think about how I would submit a resume these days (in the Tzezana approach), and it probably would have looked like this (please view from a computer if you want to see the scroll-based video background):

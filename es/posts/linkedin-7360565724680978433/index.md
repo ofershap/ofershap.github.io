@@ -1,7 +1,5 @@
 # Guía avanzada de Cursor - context window is the new game we play
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Guía avanzada de Cursor - context window is the new game we play
 
 Para que funcione como debe, me creé un conjunto de reglas (cursor rules) que se cargan automáticamente al inicio de cada conversación. Las redacté con un tono de artes marciales (martial arts), tanto para que fueran cortas y ahorraran tokens (porque se suman a todas las conversaciones: modo always apply) como para dejar claro que son supuestos de base, no peticiones.

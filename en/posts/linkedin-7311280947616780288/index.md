@@ -1,7 +1,5 @@
 # Is this the end of the road for PowerPoint? 🚨
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Is this the end of the road for PowerPoint? 🚨
 No need to waste more hours on design or learn complicated tutorials. AI is here to change the way we create presentations - and fast! ⏱️
 

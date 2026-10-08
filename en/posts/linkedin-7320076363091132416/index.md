@@ -1,7 +1,5 @@
 # Would you tattoo the Domino's logo on yourself to get free pizza?
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Would you tattoo the Domino's logo on yourself to get free pizza?
 One morning in 2018, Domino's Pizza did something really unexpected.  
 They offered **free pizza for life** (100 pizzas a year for 100 years) to anyone who got a tattoo of their logo.

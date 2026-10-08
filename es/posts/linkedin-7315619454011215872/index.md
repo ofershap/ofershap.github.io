@@ -1,7 +1,5 @@
 # ¿Quieres especializarte más en IA y no sabes por dónde empezar?
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¿Quieres especializarte más en IA y no sabes por dónde empezar?
 Microsoft lanzó esta semana el AI Skills Fest: un maratón de 50 días (gratuito) con talleres presenciales, eventos en directo, hackatones e incluso un intento de batir un récord Guinness mundial:
 

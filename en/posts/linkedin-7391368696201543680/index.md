@@ -1,7 +1,5 @@
 # Google made a small change to search results - with an enormous implication for all of us:
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Google made a small change to search results - with an enormous implication for all of us:
 Last month Google quietly removed the `num=100` parameter from search results.  
 

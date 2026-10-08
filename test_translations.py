@@ -6,7 +6,7 @@ for lang in ['en','ar','es','zh-Hans']:
  if ids is None:ids=set(data)
  assert set(data)==ids and len(ids)==100
  for id,r in data.items():
-  f=root/lang/'posts'/('linkedin-'+id)/'index.html';s=f.read_text();assert 'translation-notice'in s and 'class="author-card"'in s
+  f=root/lang/'posts'/('linkedin-'+id)/'index.html';s=f.read_text();assert 'translation-notice'not in s and 'class="author-card"'in s
   assert len(re.findall(r'<link[^>]*hreflang=',s))>=5
   assert r['source_link'].replace('&','&amp;')in s
   for m in re.finditer(r'<script type="application/ld\+json">(.*?)</script>',s,re.S):json.loads(m[1])

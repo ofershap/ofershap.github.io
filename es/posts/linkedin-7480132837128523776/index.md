@@ -1,7 +1,5 @@
 # Casi rompemos producción por una actualización en la que nadie de nuestro lado se fijó...
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Casi rompemos producción por una actualización en la que nadie de nuestro lado se fijó...
 Una de las librerías en las que nos apoyamos (Vercel AI SDK) sacó una versión con breaking changes y, cuando fuimos a implementar una solución que solo existía en la versión más avanzada, nos dimos cuenta de que teníamos un problema mucho más amplio que actualizar el código. Es algo que ocurre con todas las librerías y SDK, con modelos que de repente dejan de tener soporte, y además hay funciones nuevas en la era de la IA (en cuyo centro estamos) que salen con alta frecuencia y se nos escapan.
 

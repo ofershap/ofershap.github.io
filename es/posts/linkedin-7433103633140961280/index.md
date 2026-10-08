@@ -1,7 +1,5 @@
 # Visualicé los perfiles de GitHub de 10 desarrolladores: las cifras son BRUTALES:
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Visualicé los perfiles de GitHub de 10 desarrolladores: las cifras son BRUTALES:
 
 1. Linus Torvalds - 226K estrellas de 6 repos. Seis. Uno de ellos es Linux.

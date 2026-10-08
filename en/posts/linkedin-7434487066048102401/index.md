@@ -1,7 +1,5 @@
 # My son is 9. He has a strong sense of justice.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 My son is 9. He has a strong sense of justice.
 When something feels unfair to him he reacts. Immediately. Without stopping.
 

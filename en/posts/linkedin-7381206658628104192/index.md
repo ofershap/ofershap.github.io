@@ -1,7 +1,5 @@
 # A vulnerability that changes the picture: it turns out a regular image can make an artificial intelligence model carry out instructions that the user never saw!
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 A vulnerability that changes the picture: it turns out a regular image can make an artificial intelligence model carry out instructions that the user never saw!
 
 Researchers at Trail of Bits showed exactly that. They managed to hide textual commands inside images that look innocent to the eye, but after an automatic initial processing, these commands are revealed and picked up by the model. 

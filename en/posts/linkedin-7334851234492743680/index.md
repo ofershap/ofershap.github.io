@@ -1,7 +1,5 @@
 # It's crazy that this operating system was built and is run by AI inside our browser!
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 It's crazy that this operating system was built and is run by AI inside our browser! 
 ryOS is a kind of fake "operating system" that runs in the browser, and it looks and behaves like a computer from the 90s - with old icons, music in an iPod, drawing in MacPaint, pop-up windows and a terminal.
 

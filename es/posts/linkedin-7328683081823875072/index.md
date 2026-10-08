@@ -1,7 +1,5 @@
 # ¿Vamos a ver pronto una empresa israelí de la escala de OpenAI?
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¿Vamos a ver pronto una empresa israelí de la escala de OpenAI?
 Con más de un millón de usuarios en 3 días y un avance en el uso eficiente de chips de IA, estos dos exalumnos de la Unidad 8200 podrían traer la buena noticia a Israel, y ya están en camino. 
 

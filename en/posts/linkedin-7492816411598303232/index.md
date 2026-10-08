@@ -1,7 +1,5 @@
 # Shopify hired 1,000 juniors (degree graduates) for intern positions so that *they* would teach Shopify how to work! You understood correctly even though it sounds confusing... In a fascinating video by their Head of Engineering he explains the change in the world of work and the need to change the whole company for the new AI era
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Shopify hired 1,000 juniors (degree graduates) for intern positions so that *they* would teach Shopify how to work! You understood correctly even though it sounds confusing... In a fascinating video by their Head of Engineering he explains the change in the world of work and the need to change the whole company for the new AI era
 
 In the video, he says that in 2025 and 2026 Shopify employed a thousand interns, a crazy jump in hiring - compared to only 75 interns they had in 2024.

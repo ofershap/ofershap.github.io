@@ -1,7 +1,5 @@
 # Start speaking LLM-ish! 🈯
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Start speaking LLM-ish! 🈯 
 Until now, prompt engineering tried to get by with a language that wasn't built for it. Microsoft has now released a new language structure that is economical, efficient and organized.
 

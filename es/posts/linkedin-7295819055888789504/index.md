@@ -1,7 +1,5 @@
 # ¿Y si les dijera que dejé de "programar" y sigo construyendo aplicaciones? 🤯💻
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¿Y si les dijera que dejé de "programar" y sigo construyendo aplicaciones? 🤯💻
 No hablo de No-Code ni de Low-Code, sino de un cambio total de enfoque.
 

@@ -1,7 +1,5 @@
 # Miren esto: OpenClaw Agents, ¡se puede montar una empresa entera por 400 $ al mes!
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Miren esto: OpenClaw Agents, ¡se puede montar una empresa entera por 400 $ al mes! 
 Así funciona en la práctica: se empieza con Jarvis, que gestiona todo el Task Routing según haga falta, de YouTube a Clipper o de Research Report a Scribe. 
 

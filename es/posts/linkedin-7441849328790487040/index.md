@@ -1,7 +1,5 @@
 # Ejecuto más de 5 agentes cloud de Cursor en paralelo. Seguirles la pista era un caos.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Ejecuto más de 5 agentes cloud de Cursor en paralelo. Seguirles la pista era un caos. 
 ¡Así que construí una Torre de Control (Control Tower)! 🗼
 

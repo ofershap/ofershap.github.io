@@ -1,7 +1,5 @@
 # What just happened here? 😱
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 What just happened here? 😱
 
 This might be one of the most disturbing things I've seen in AI lately -

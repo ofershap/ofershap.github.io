@@ -1,7 +1,5 @@
 # I visualized the GitHub profiles of 10 developers - the numbers are WILD:
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 I visualized the GitHub profiles of 10 developers - the numbers are WILD:
 
 1. Linus Torvalds - 226K stars from 6 repos. Six. One of them is Linux.

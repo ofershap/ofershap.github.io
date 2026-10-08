@@ -1,7 +1,5 @@
 # She's not stopping! Cursor has just raised $900 million at a valuation of $9.9 billion!
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 She's not stopping! Cursor has just raised $900 million at a valuation of $9.9 billion!
 The company (and the software) has become the industry standard, used by more than half of the Fortune 500 companies, including NVIDIA, Uber and Adobe.
 

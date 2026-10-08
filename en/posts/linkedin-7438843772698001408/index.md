@@ -1,7 +1,5 @@
 # Dedicated to all the AI video creators online
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Dedicated to all the AI video creators online
 Many people also think that making a film with AI is insanely easy. And that's partly true. It really is easier when compared to the effort required to produce a traditional film.
 But it's very hard if you think it's just "pressing a button" and you have a video.

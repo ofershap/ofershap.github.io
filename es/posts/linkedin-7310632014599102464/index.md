@@ -1,7 +1,5 @@
 # ¡El backlog está vacío! ¿Qué se hace? 🧨
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¡El backlog está vacío! ¿Qué se hace? 🧨
 El desarrollador se acercó y dijo: "Terminamos todo. No hay más funcionalidades en el backlog, los bugs están arreglados. ¿Y ahora qué?"
 

@@ -1,7 +1,5 @@
 # I use Cursor's agent mode all day. At some point, I realized I kept checking the terminal to see if the agent was still working or done. so I built this: a pixel art office that sits in the bottom panel and reacts to what the agent is doing.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 I use Cursor's agent mode all day. At some point, I realized I kept checking the terminal to see if the agent was still working or done. so I built this: a pixel art office that sits in the bottom panel and reacts to what the agent is doing.
 
 Character types at the desk when the agent writes code. Walks around and pets the cat when idle. Celebrates when a build passes. Every object is clickable - lamp, window, arcade cabinet, bookshelf, water cooler.

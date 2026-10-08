@@ -1,7 +1,5 @@
 # Shopify bans its engineers from using small, cheap models, and mandates using only the biggest and most expensive models that exist.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Shopify bans its engineers from using small, cheap models, and mandates using only the biggest and most expensive models that exist.
 
 The company's head of engineering said that even in the distant future when models like Opus 45, GPT55 or Gemini 35 come out (to illustrate that even as models advance far beyond what exists today) the policy will remain the same. Always the strongest model, no compromises.

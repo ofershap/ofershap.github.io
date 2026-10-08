@@ -1,7 +1,5 @@
 # ¿Qué pasa cuando el bot de Instinct crea su propio proyecto de código abierto?
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¿Qué pasa cuando el bot de Instinct crea su propio proyecto de código abierto?
 
 Ayer le pedí que implementara una idea que surgió durante una conversación de WhatsApp con él en el teléfono

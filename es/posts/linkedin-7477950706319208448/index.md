@@ -1,7 +1,5 @@
 # "¿Qué eres real? ¡De eso hablamos hace exactamente 10 años!"
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 "¿Qué eres real? ¡De eso hablamos hace exactamente 10 años!"
 
 De repente, en mitad de una conversación con un amigo del pasado mientras nos sumergíamos en una charla sobre la memoria de la IA, o más exactamente por qué "olvida" cosas a mitad de una conversación. El amigo del pasado describió cómo funciona la context window, y yo oí "gestión de memoria RAM". Lo que entra en la ventana de contexto está disponible de inmediato para el modelo. Lo que no entra, para él no existe. Exactamente como la memoria de trabajo en un software normal.

@@ -1,7 +1,5 @@
 # Want to get better at AI and don't know where to start?
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Want to get better at AI and don't know where to start?
 Microsoft launched this week the AI Skills Fest - a 50-day marathon (free) with hands-on workshops, live events, hackathons, and even an attempt to break a Guinness world record:
 

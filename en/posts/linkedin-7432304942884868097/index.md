@@ -1,7 +1,5 @@
 # I built an open source tool that gives GitHub profiles a visual upgrade.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 I built an open source tool that gives GitHub profiles a visual upgrade.
 
 How it works: replace "github.com" with "gitshow.dev" in any profile URL.

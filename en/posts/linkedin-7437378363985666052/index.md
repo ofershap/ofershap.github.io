@@ -1,7 +1,5 @@
 # Look how crazy this is! This guy (Tayes Niuvor - name transliterated from Hebrew, spelling unverified) managed to create a whole app while running a 42 km marathon. 😮💥 He used Wispr Flow inside Cursor to develop code with voice commands, even while in the middle of the run. This project, called Hypes, is a motivation tool that supports you exactly in the moments you want to give up.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 Look how crazy this is! This guy (Tayes Niuvor - name transliterated from Hebrew, spelling unverified) managed to create a whole app while running a 42 km marathon. 😮💥 He used Wispr Flow inside Cursor to develop code with voice commands, even while in the middle of the run. This project, called Hypes, is a motivation tool that supports you exactly in the moments you want to give up. 
 Who said you need to sit at a desk to develop software? 
 

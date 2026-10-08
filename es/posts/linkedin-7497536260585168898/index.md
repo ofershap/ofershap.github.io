@@ -1,7 +1,5 @@
 # ¡Vamos camino del "bug 2030" (al estilo del efecto 2000) y casi nadie habla de ello!
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 ¡Vamos camino del "bug 2030" (al estilo del efecto 2000) y casi nadie habla de ello!
 En el año 2000 hubo histeria en torno al "bug del año 2000". Todos pensaban que los ordenadores que no se hubieran actualizado para soportar fechas posteriores a 1999 pasarían de 99 a 00 y causarían fallos generalizados en todo el mundo. 
 

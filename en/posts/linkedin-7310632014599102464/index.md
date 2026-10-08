@@ -1,7 +1,5 @@
 # The backlog is empty! What do you do? 🧨
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 The backlog is empty! What do you do? 🧨
 The developer walked up and said: "We finished everything. No more features in the backlog, the bugs are fixed. What's next?"
 

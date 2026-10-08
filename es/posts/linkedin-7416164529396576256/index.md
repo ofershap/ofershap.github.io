@@ -1,7 +1,5 @@
 # En lugar de tirar a la basura los comentarios de tus PR, ¡puedes devolvérselos a Cursor como alimento! Publiqué un artículo en Medium sobre cómo cerramos este ciclo en nuestro equipo y cómo la IA empezó a aprender cómo trabajamos realmente. Te invito a leerlo aquí:
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 En lugar de tirar a la basura los comentarios de tus PR, ¡puedes devolvérselos a Cursor como alimento! Publiqué un artículo en Medium sobre cómo cerramos este ciclo en nuestro equipo y cómo la IA empezó a aprender cómo trabajamos realmente. Te invito a leerlo aquí:
 https://lnkd.in/dKrx3bch
 

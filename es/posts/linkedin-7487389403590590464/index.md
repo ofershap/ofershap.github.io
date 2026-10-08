@@ -1,7 +1,5 @@
 # Shopify prohíbe a sus ingenieros usar modelos pequeños y baratos y obliga a usar solo los modelos más grandes y caros que existen.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Shopify prohíbe a sus ingenieros usar modelos pequeños y baratos y obliga a usar solo los modelos más grandes y caros que existen.
 
 El director de ingeniería de la empresa dijo que incluso en el futuro lejano, cuando salgan modelos como Opus 45, GPT55 o Gemini 35 (para ilustrar que, aun cuando los modelos avancen mucho más allá de lo que hay hoy), la política seguirá siendo la misma. Siempre el modelo más potente, sin concesiones.

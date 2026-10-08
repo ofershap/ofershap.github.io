@@ -1,7 +1,5 @@
 # La experiencia de usuario de Netflix es genial
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 La experiencia de usuario de Netflix es genial
 En la habitación de un hotel extranjero enciendo una televisión extranjera y me aparece un icono de Netflix. Hago clic, escaneo el código de barras con el teléfono, un clic en un botón y ya estoy conectado a mi suscripción personal con mi historial de visionado.  Por un momento me siento de nuevo en casa. La niña de 5 años me quita el mando y navega sola hasta su serie.
 

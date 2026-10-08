@@ -1,7 +1,5 @@
 # Increíble: llegaron a 50 millones de usuarios con un total de 28 empleados, ¡y son rentables! 🤯
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Increíble: llegaron a 50 millones de usuarios con un total de 28 empleados, ¡y son rentables! 🤯 
 Una startup llamada Gamma que muchos conocemos (un chat para crear presentaciones con IA; si no lo han probado, deben hacerlo) fue cubierta esta semana por el New York Times y demuestra que hoy en día se puede construir una empresa enorme con un equipo pequeño.
 

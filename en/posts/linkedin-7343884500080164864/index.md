@@ -1,7 +1,5 @@
 # A great and especially useful tip for Cursor users:
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 A great and especially useful tip for Cursor users:
 Turn your AI Code Assistant into a real partner, not a "Yes Man" -
 If the chat always agrees with you, it doesn't really help you grow, it only reinforces blind spots instead of functioning like a real Pair Programming partner.

@@ -1,7 +1,5 @@
 # The wave of AI announcements has become a tsunami.
 
-Machine translation from the original post. Not reviewed by a human translator. Historical claims may no longer be current.
-
 The wave of AI announcements has become a tsunami.
 Every day a new feature comes out, exciting, advanced, and sometimes also... redundant.
 This week I saw the announcement of a new MCP that interfaces with Jira and is easily created inside Docker.

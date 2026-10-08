@@ -1,7 +1,5 @@
 # Una vulnerabilidad que cambia el panorama: resulta que una imagen normal puede hacer que un modelo de inteligencia artificial ejecute instrucciones que el usuario nunca vio.
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 Una vulnerabilidad que cambia el panorama: resulta que una imagen normal puede hacer que un modelo de inteligencia artificial ejecute instrucciones que el usuario nunca vio.
 
 Investigadores de Trail of Bits demostraron justamente eso. Lograron ocultar comandos de texto dentro de imágenes que parecen inocentes a simple vista, pero tras un procesamiento inicial automático, esos comandos se revelan y el modelo los capta. 

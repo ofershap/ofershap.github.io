@@ -1,7 +1,5 @@
 # **"Papá, ¿por qué hoy nadie juega conmigo?"**
 
-Traducción automática del post original, sin revisión de un traductor humano. Las afirmaciones históricas pueden haber cambiado.
-
 **"Papá, ¿por qué hoy nadie juega conmigo?"**  
 Mi hijo volvió del jardín de infancia con la mirada apagada.   
 
