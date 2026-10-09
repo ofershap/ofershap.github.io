@@ -131,6 +131,13 @@ Full archive listed in the [sitemap](https://ofershap.github.io/sitemap.xml) and
 - [Español](https://ofershap.github.io/es/): 100 translated posts.
 - [简体中文](https://ofershap.github.io/zh-Hans/): 100 translated posts.
 
+## Professional identity
+
+- [Ofer Shapira: Hebrew bio and selected work](https://ofershap.github.io/about/)
+- [Ofer Shapira: English bio and selected work](https://ofershap.github.io/about/en/)
+
+Positioning: practical AI engineering leadership. This is Ofer’s personal professional writing home, independent of any agency service offering.
+
 ## Original service Q&A
 
 - [כמה עולה סוכן וואטסאפ ל-AI לעסק קטן בישראל?](https://ofershap.github.io/posts/whatsapp-agent-cost-israel/)
