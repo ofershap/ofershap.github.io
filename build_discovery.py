@@ -36,3 +36,7 @@ for md in sorted([*root.glob('posts/*/index.md'),*root.glob('essays/*/index.md')
 p=root/'sitemap.xml';s=p.read_text();s=s.replace('<url><loc>'+base+'/for-ai/</loc></url>','').replace('</urlset>','<url><loc>'+base+'/for-ai/</loc></url></urlset>');p.write_text(s)
 p=root/'index.html';s=p.read_text().replace(' · <a href="/for-ai/">About</a>','').replace('<a href="/feed.xml">RSS</a>','<a href="/feed.xml">RSS</a> · <a href="/for-ai/">About</a>');p.write_text(s)
 print('Author cards:',count,'Exact-name project links:',links,'Full archive bytes:',(root/'llms-full.txt').stat().st_size)
+
+# Preserve the personal career identity on every archive regeneration.
+from build_identity import build as build_identity
+build_identity()
