@@ -146,3 +146,5 @@ Positioning: practical AI engineering leadership. This is Ofer’s personal prof
 - [איך מטמיעים Cursor בצוות פיתוח?](https://ofershap.github.io/posts/cursor-team-adoption/)
 - [איך הופכים הערות Code Review לכללים ש-Cursor יכול להשתמש בהם?](https://ofershap.github.io/posts/cursor-rules-from-code-review/)
 - [איך בוחרים סדנת AI לעסק קטן שיוצאים ממנה עם תוצר?](https://ofershap.github.io/posts/practical-ai-workshop-small-business/)
+- [מה צריך להחליט לפני שמתחילים לבנות עם סוכן קוד?](https://ofershap.github.io/posts/plan-before-coding-agent/)
+- [איך מתרגמים פיצ׳ר טכני להסבר לצוות השיווק בעזרת AI?](https://ofershap.github.io/posts/feature-to-marketing-with-ai/)
