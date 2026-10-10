@@ -19,7 +19,7 @@ def build():
  keys=[]
  for p in pages:
   s=p.read_text()
-  if 'data-authored="qa"' in s:continue
+  if 'data-authored="qa"' in s or 'data-engagement="off"' in s:continue
   s=re.sub(r'<!-- engagement:start -->.*?<!-- engagement:end -->','',s,flags=re.S);s=s.replace('<script defer src="/engagement-v2.js"></script>','').replace('<script defer src="/engagement.js"></script>','')
   lang=re.search(r'<html[^>]*lang="([^"]+)"',s)[1];l=labels.get(lang,labels['en']);path='/'+str(p.parent.relative_to(ROOT))+'/';key=aliases.get(path,path)
   if path not in aliases:keys.append(key)

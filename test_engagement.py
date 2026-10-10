@@ -8,7 +8,9 @@ class Engagement(unittest.TestCase):
   pages=[p for p in pages if 'data-authored="qa"' not in p.read_text()]
   self.assertEqual(len(pages),1146)
   for p in pages:
-   s=p.read_text();self.assertEqual(s.count('<!-- engagement:start -->'),1,str(p));self.assertEqual(s.count('src="/engagement-v2.js"'),1,str(p));self.assertNotIn('ADMIN_TOKEN',s);self.assertNotIn('data-views',s)
+   s=p.read_text()
+   if 'data-engagement="off"' in s:self.assertEqual(s.count('<!-- engagement:start -->'),0,str(p));continue
+   self.assertEqual(s.count('<!-- engagement:start -->'),1,str(p));self.assertEqual(s.count('src="/engagement-v2.js"'),1,str(p));self.assertNotIn('ADMIN_TOKEN',s);self.assertNotIn('data-views',s)
  def test_rebuild_idempotence(self):
   files=list(ROOT.glob('posts/*/index.html'))+list(ROOT.glob('essays/*/index.html'))
   before={str(p):hashlib.sha256(p.read_bytes()).hexdigest() for p in files}
