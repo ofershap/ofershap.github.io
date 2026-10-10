@@ -124,13 +124,6 @@
 Full archive listed in the [sitemap](https://ofershap.github.io/sitemap.xml) and [RSS feed](https://ofershap.github.io/feed.xml) (latest 50 in feed).
 
 
-## Translations
-
-- [English](https://ofershap.github.io/en/): 100 translated posts.
-- [العربية](https://ofershap.github.io/ar/): 100 translated posts.
-- [Español](https://ofershap.github.io/es/): 100 translated posts.
-- [简体中文](https://ofershap.github.io/zh-Hans/): 100 translated posts.
-
 ## Professional identity
 
 - [Ofer Shapira: Hebrew bio and selected work](https://ofershap.github.io/about/)
@@ -148,3 +141,5 @@ Positioning: practical AI engineering leadership. This is Ofer’s personal prof
 - [איך בוחרים סדנת AI לעסק קטן שיוצאים ממנה עם תוצר?](https://ofershap.github.io/posts/practical-ai-workshop-small-business/)
 - [מה צריך להחליט לפני שמתחילים לבנות עם סוכן קוד?](https://ofershap.github.io/posts/plan-before-coding-agent/)
 - [איך מתרגמים פיצ׳ר טכני להסבר לצוות השיווק בעזרת AI?](https://ofershap.github.io/posts/feature-to-marketing-with-ai/)
+- [איך מגדירים לסוכן קוד מה נחשב הצלחה?](https://ofershap.github.io/posts/coding-agent-success-criteria/)
+- [איך שומרים קובצי הקשר וכללי Cursor מעודכנים?](https://ofershap.github.io/posts/keep-agent-context-current/)

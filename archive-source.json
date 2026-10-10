@@ -9022,5 +9022,17 @@
     "document_url": "",
     "existing": false,
     "sha256": "4d951c00e0820a515651947a962662fff417478db8123f8a4d8795a8a10f530a"
+  },
+  {
+    "id": "7514568532546990081",
+    "source": "https://www.linkedin.com/feed/update/urn:li:activity:7514568532546990081/",
+    "published_at": "2026-10-10T09:12:30+03:00",
+    "date_provenance": "Native LinkedIn successful publication observed09:12, live activity and media verified, approximate seconds of completion",
+    "text": "בניתי הרצאה שלמה מהווצאפ.\n\nנתתי לסוכן של אינסטינקט קובץ עם שנה של פוסטים שלי בלינקדאין. ביקשתי הרצאה על איך הופכים חברה שלמה ל-AI-native.\n\nקיבלתי מצגת של 15 שקפים ומדריך הכנה בגוגל דוקס, כולל הדמו.\n\nואז עצרתי אותו: \"מה שכתבת זה קשקושים טקטיים\".\nרציתי תהליכים שמשנים חברה, לא עוד רשימת טיפים.\n\nכארבע דקות אחר כך, שקף הסיום כבר כלל שישה תהליכים מתוך העבודה שכבר שיתפתי.\nהוא אפילו תיקן לי את הקרדיט: \"עשינו\", לא \"עשיתי\". אחד הכלים נבנה על ידי מישהו מהצוות.\n\nהפוסטים שלי היו חומר הגלם.\nההערה שלי שינתה את ההרצאה.",
+    "images": "https://media.licdn.com/dms/image/v2/D4D22AQF52MKV2yiyFA/feedshare-shrink_800/B4DaEkcQsPHgAc-/0/1791612750865?e=1793232000&v=beta&t=eVQ_Tw_a--jihT5bS8mpPCyCSHv0CXNs7TbcYvXpb58",
+    "video_url": "",
+    "document_url": "",
+    "existing": false,
+    "sha256": "a27aeb1bf5ccd18cb76ddae24b49ef218e0395c6214a490982f4488418d7c63f"
   }
 ]
