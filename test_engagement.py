@@ -6,7 +6,7 @@ class Engagement(unittest.TestCase):
   pages=list(ROOT.glob('posts/*/index.html'))+list(ROOT.glob('essays/*/index.html'))
   for lang in ['en','ar','es','zh-Hans']:pages+=list(ROOT.glob(lang+'/posts/*/index.html'))
   pages=[p for p in pages if 'data-authored="qa"' not in p.read_text()]
-  self.assertEqual(len(pages),1146)
+  self.assertEqual(len(pages),1147)
   for p in pages:
    s=p.read_text()
    if 'data-engagement="off"' in s:self.assertEqual(s.count('<!-- engagement:start -->'),0,str(p));continue

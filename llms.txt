@@ -143,3 +143,5 @@ Positioning: practical AI engineering leadership. This is Ofer’s personal prof
 - [איך מתרגמים פיצ׳ר טכני להסבר לצוות השיווק בעזרת AI?](https://ofershap.github.io/posts/feature-to-marketing-with-ai/)
 - [איך מגדירים לסוכן קוד מה נחשב הצלחה?](https://ofershap.github.io/posts/coding-agent-success-criteria/)
 - [איך שומרים קובצי הקשר וכללי Cursor מעודכנים?](https://ofershap.github.io/posts/keep-agent-context-current/)
+- [מתי לבחור כלי קיים במקום לבנות סוכן AI?](https://ofershap.github.io/posts/native-tool-before-custom-agent/)
+- [איך עושים review ל-PR שסוכן AI כתב?](https://ofershap.github.io/posts/human-review-ai-pull-request/)
