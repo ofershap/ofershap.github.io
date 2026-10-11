@@ -15,6 +15,7 @@ A static personal writing site hosted on GitHub Pages. No paid service or extern
 
 ```sh
 python3 build_archive.py
+python3 build_beacon.py  # site-wide Cloudflare Web Analytics beacon, idempotent; all builders also call it at the end
 python3 -m http.server 8000
 ```
 

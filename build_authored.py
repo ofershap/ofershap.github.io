@@ -56,3 +56,6 @@ def build():
  p=ROOT/'llms.txt';s=p.read_text();s=re.split('\n## Original service Q&A\n',s)[0];s+='\n## Original service Q&A\n\n'+''.join('- ['+r['body'].splitlines()[0].split(': ',1)[1]+']('+BASE+'/posts/'+r['slug']+'/)\n' for r in rows);p.write_text(s)
  print('Authored Q&A:',len(rows))
 if __name__=='__main__':build()
+
+# Cloudflare Web Analytics beacon - keep site-wide injection idempotent on every rebuild (build_beacon.run is a no-op when present).
+import build_beacon as _beacon; _beacon.run()

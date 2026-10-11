@@ -78,3 +78,6 @@ if __name__=='__main__':
  if (ROOT/'translations').exists():subprocess.run([sys.executable,str(ROOT/'build_translations.py')],check=True)
 
  subprocess.run([sys.executable,str(ROOT/"build_engagement.py")],check=True)
+
+# Cloudflare Web Analytics beacon - keep site-wide injection idempotent on every rebuild (build_beacon.run is a no-op when present).
+import build_beacon as _beacon; _beacon.run()

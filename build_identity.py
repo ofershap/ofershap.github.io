@@ -47,3 +47,6 @@ def build():
   if u not in s:s=s.replace('</urlset>',u+'</urlset>')
  p.write_text(s)
 if __name__=='__main__':build()
+
+# Cloudflare Web Analytics beacon - keep site-wide injection idempotent on every rebuild (build_beacon.run is a no-op when present).
+import build_beacon as _beacon; _beacon.run()

@@ -36,3 +36,6 @@ def build():
  worker=ROOT/'engagement-backend/worker.js';w=worker.read_text();w=re.sub(r'const allowed = new Set\(.*?\);','const allowed = new Set('+json.dumps(sorted(set(keys)))+');',w,count=1);worker.write_text(w)
  print('Engagement added to',len(pages),'article pages')
 if __name__=='__main__':build()
+
+# Cloudflare Web Analytics beacon - keep site-wide injection idempotent on every rebuild (build_beacon.run is a no-op when present).
+import build_beacon as _beacon; _beacon.run()
