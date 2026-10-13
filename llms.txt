@@ -147,3 +147,5 @@ Positioning: practical AI engineering leadership. This is Ofer’s personal prof
 - [איך עושים review ל-PR שסוכן AI כתב?](https://ofershap.github.io/posts/human-review-ai-pull-request/)
 - [איך נותנים לסוכן AI משימה שמחכה לתשובה בלי ליצור כפילויות?](https://ofershap.github.io/posts/agent-wait-resume-without-duplicates/)
 - [איך מבקשים מסוכן קוד לתקן באג עם בדיקת רגרסיה?](https://ofershap.github.io/posts/regression-first-agent-bugfix/)
+- [איך כותבים PR description לקוד שסוכן AI כתב?](https://ofershap.github.io/posts/decision-first-pr-description/)
+- [איך נותנים לסוכן קוד לפתור merge conflicts בלי לאבד את כוונת השינוי?](https://ofershap.github.io/posts/agent-merge-conflict-intent/)
