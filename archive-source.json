@@ -9071,5 +9071,18 @@
     "document_url": "",
     "existing": false,
     "sha256": "a27aeb1bf5ccd18cb76ddae24b49ef218e0395c6214a490982f4488418d7c63f"
+  },
+  {
+    "id": "7516001433822072832",
+    "source": "https://www.linkedin.com/feed/update/urn:li:share:7516001432945274880",
+    "published_at": "2026-10-14T08:06:00+03:00",
+    "date_provenance": "Buffer scheduled08:06 and Sent14Oct,live activity verified;seconds approximate",
+    "text": "איזה כיף! מישהו תרם לפרויקט open source שלי! תוסף דפדפן שבשימוש כבר של יותר מ10 אלף אנשים!\n\nבניתי את real-browser-mcp, פרויקט open source שמאפשר לסוכני AI לעבוד בדפדפן האמיתי שלכם, עם החשבונות שכבר מחוברים אליו.\n\nואתמול נכנס אליו קוד של מישהו אחר.\n\nתורם בשם webLiang הציע שיפורים לניהול קבוצות טאבים ולחיבור של התוסף למנגנון ה-debugger של Chrome.\n\nבמהלך ה-review עלו כמה בעיות: שתי פעולות במקביל יכלו ליצור שתי קבוצות לאותו טאב. חיבור ל-debugger היה עלול להיחשב מוצלח גם כשהוא שייך לכלי אחר. היו גם מצבים שבהם שני טאבים יכלו להתחבר, כשהקוד עוקב רק אחרי אחד מהם.\n\nהתגובה שלו הייתה לחזור עם פתרון.\n\nהוא פיצל את העבודה לשני PRs, תיקן את המקרים שעלו ב-review, הוסיף בדיקות שמכסות אותם וסגר בעצמו את ה-PR הישן לטובת החדשים. הראשון כבר מוזג אתמול.\n\nלפרסם קוד זה רגע אחד. לקבל בחזרה תרומה שעברה את כל הדרך הזאת זה רגע אחר לגמרי.\n\nתודה ל-webLiang. כיף לראות את הפרויקט נבנה גם בידיים של אחרים.\n\nהפרויקט: https://lnkd.in/dv_m6iri",
+    "images": "https://media.licdn.com/dms/image/v2/D4D10AQE5wDuIkW1AtA/image-shrink_1280/B4DaE4zZ2eHsAc-/0/1791954362259?e=1792576800&v=beta&t=YkAy9T1b2fScoyCQ1vKtXaEjJvWIj0E50nTr0B1aPXM",
+    "video_url": "",
+    "document_url": "",
+    "existing": false,
+    "engagement": "off",
+    "sha256": "6f62dae05c144266027d983cff498550b83f35f7e9834398d568ebd6854c98ff"
   }
 ]
