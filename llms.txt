@@ -151,3 +151,5 @@ Positioning: practical AI engineering leadership. This is Ofer’s personal prof
 - [איך נותנים לסוכן קוד לפתור merge conflicts בלי לאבד את כוונת השינוי?](https://ofershap.github.io/posts/agent-merge-conflict-intent/)
 - [איך כותבים הערות review שסוכן קוד או תורם יכולים להפוך לתיקון בדוק?](https://ofershap.github.io/posts/review-feedback-to-verifiable-fix/)
 - [איך בודקים race conditions בתוסף דפדפן שסוכן AI משנה?](https://ofershap.github.io/posts/browser-extension-race-condition-tests/)
+- [איך בודקים שחיבור MCP לסוכן עובד עד הקריאה הראשונה?](https://ofershap.github.io/posts/mcp-first-read-connection-check/)
+- [איך מודדים התחלת שימוש בסוכן AI מעבר להרשמה?](https://ofershap.github.io/posts/agent-onboarding-completed-task-metrics/)

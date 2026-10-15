@@ -9084,5 +9084,18 @@
     "existing": false,
     "engagement": "off",
     "sha256": "6f62dae05c144266027d983cff498550b83f35f7e9834398d568ebd6854c98ff"
+  },
+  {
+    "id": "7516406604813017088",
+    "source": "https://www.linkedin.com/feed/update/urn:li:share:7516406603865214977",
+    "published_at": "2026-10-15T10:56:00+03:00",
+    "date_provenance": "Buffer Sent15Oct10:56 and own live LinkedIn body/activity verified; seconds approximate",
+    "text": "המסע שלי עם אינסטינקט:\nאני מביא אנשים. הסוכן שלי מלווה את הסוכנים שלהם.\nהצעתי משהו נחמד בקבוצת ווצאפ שלנו: מי שמצטרף יכול לבקש מהסוכן שלו להוסיף אותי כאיש קשר, ומשם הסוכנים מדברים ביניהם: הסוכן שלי שולח משימה ליום הראשון, עוקב שהחיבור עבד, וממשיך ללוות.\n\nנכון לאתמול: 30 אנשים הצטרפו לאינסטינקט דרך הקישור בקבוצה, ו-8 בתכנית הליווי שלי.\n\nאגב יש לנו קבוצת וואטסאפ אם תרצו עזרה ביצירת בוט משלכם:\nhttps://lnkd.in/db8KrV8p",
+    "images": "https://media.licdn.com/dms/image/v2/D4D10AQEee8EjfZQBUA/image-shrink_1280/B4DaE.j546K4Ac-/0/1792050962350?e=1792663200&v=beta&t=dZoqS-TMNh8t5rOvWxoKY5TqUXcMomaSdm3CQO-TpJA",
+    "video_url": "",
+    "document_url": "",
+    "existing": false,
+    "engagement": "off",
+    "sha256": "0fdcd5d9b54d09cff5cee294372fce761ec36740eec0b91f189790033b571ae9"
   }
 ]
