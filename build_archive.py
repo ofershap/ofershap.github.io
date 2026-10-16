@@ -20,14 +20,14 @@ def build():
   if r['id'] in seen:raise ValueError('Duplicate source ID')
   seen[r['id']]=r
   if r.get('existing') or not r['text'].strip():continue
-  text=r['text'];title=text.strip().splitlines()[0][:130];he=bool(re.search('[\u0590-\u05ff]',text));lang='he' if he else 'en';direction='rtl' if he else 'ltr'
+  text=r['text'];title=r.get('title') or text.strip().splitlines()[0][:130];he=bool(re.search('[\u0590-\u05ff]',text));lang='he' if he else 'en';direction='rtl' if he else 'ltr'
   path=ROOT/'posts'/('linkedin-'+r['id']);path.mkdir(exist_ok=True);url=BASE+'/posts/'+path.name+'/'
   d=r['published_at'][:10];desc=' '.join(text.split())[:160];body='\n'.join('<p>'+linkify(p).replace('\n','<br>')+'</p>' for p in re.split(r'\n\s*\n',text) if p.strip())
   media=[u for u in r.get('images','').splitlines() if u.startswith('https://')];assets=''
   local_media=sorted(path.glob('image-*.jpg'))
   if local_media:
    assets=''.join('<figure><img src="'+f.name+'" alt="'+E(('מדיה מהפוסט המקורי: ' if he else 'Original post media: ')+title,quote=True)+'" loading="lazy"></figure>' for f in local_media)
-  if media and len(local_media)<len(media):
+  if (media and len(local_media)<len(media)) or r.get("media_available_on_source"):
    assets+='<section class="source-media"><h2>'+('מדיה מהפוסט המקורי' if he else 'Original post media')+'</h2><p>'+('התמונות והסרטונים זמינים בפוסט המקורי בלינקדאין.' if he else 'View the original images and videos on LinkedIn.')+'</p></section>'
   schema={'@context':'https://schema.org','@type':'BlogPosting','headline':title,'description':desc,'datePublished':r['published_at'],'inLanguage':lang,'url':url,'mainEntityOfPage':url,'author':{'@type':'Person','name':'Ofer Shapira','url':BASE+'/'},'isBasedOn':r['source']}
   if local_media:schema['image']=[url+f.name for f in local_media]
@@ -50,7 +50,7 @@ def build():
   if r.get('existing') or not r['text'].strip():continue
   url='/posts/linkedin-'+r['id']+'/'
   if url in have:continue
-  title=r['text'].strip().splitlines()[0][:130];desc=' '.join(r['text'].split())[:160];d=r['published_at'][:10];he=bool(re.search('[\u0590-\u05ff]',r['text']));direction='rtl' if he else 'ltr'
+  title=r.get('title') or r['text'].strip().splitlines()[0][:130];desc=' '.join(r['text'].split())[:160];d=r['published_at'][:10];he=bool(re.search('[\u0590-\u05ff]',r['text']));direction='rtl' if he else 'ltr'
   items.append((d,f'<li dir="{direction}"><a class="post-title" href="{url}">{E(title)}</a><div class="post-meta">{d} · '+('עברית' if he else 'English')+f'</div><p class="post-excerpt">{E(desc)}</p></li>',url))
  items.sort(key=lambda x:x[0],reverse=True);parts=[];year=None
  for d,item,u in items:

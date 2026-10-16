@@ -9097,5 +9097,34 @@
     "existing": false,
     "engagement": "off",
     "sha256": "0fdcd5d9b54d09cff5cee294372fce761ec36740eec0b91f189790033b571ae9"
+  },
+  {
+    "id": "7516732503668400128",
+    "source": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7516732503668400128/",
+    "published_at": "2026-10-16T08:31:23.011000+03:00",
+    "date_provenance": "Computed from real LinkedIn ugcPost snowflake; rug additionally matches approved Buffer16Oct08:31 slot; Roblox live page22h on16Oct12:52",
+    "text": "מישהו ב-GitHub בנה אפליקציה למק שמאפשרת לגרור שטיח על שולחן העבודה. כל הקבצים הלא מסודרים פשוט נעלמים מתחתיו, ואפילו רואים בליטה בבד. סוף סוף כלי ניהול ידע שאני מבין.\n\nקרדיט: Terkel (terkelg ב-X)\n\nאגב יש לנו קבוצת וואטסאפ אם תרצו עזרה ביצירת בוט משלכם:\nhttps://lnkd.in/db8KrV8p",
+    "images": "",
+    "video_url": "",
+    "document_url": "",
+    "existing": false,
+    "engagement": "off",
+    "sha256": "4037b4d5f81534a119219025f0194c1269f4770bdb1646fb03933ebd94240a70",
+    "media_available_on_source": true,
+    "title": "שטיח על שולחן העבודה: אפליקציית המק שמסתירה את הקבצים"
+  },
+  {
+    "id": "7516453639490781186",
+    "source": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7516453639490781186/",
+    "published_at": "2026-10-15T14:03:16.610000+03:00",
+    "date_provenance": "Computed from real LinkedIn ugcPost snowflake; rug additionally matches approved Buffer16Oct08:31 slot; Roblox live page22h on16Oct12:52",
+    "text": "בניתי משחק ברובלוקס. כלומר אינסטינקט בנה. אני רק נתתי לו הוראות וגישה דרך הווצאפ שלי.\n\nמשחק מכות עם כסאות כתר.\nנהוראי רק רצה לשמוע מוזיקה בקול רם. השוטר אמר \"תחליש\". משם זה הידרדר מהר...\n\nקוראים למשחק Royal Chair, והוא נבנה עם אינסטינקט ורובלוקס סטודיו תוך ימים, כשאינסטינקט מדווח לי לווצאפ משתף צילומי מסך ומקבל ממני הערות ותיקונים.\n\nאפשר גם להשליך על הקטלה מחבת, נודל של בריכה ותרנגולת חמודה.\n\nאגב גם את הסרטון הזה אינסטינקט ערך מהצילומי מסך שלי בטלפון.\n\nאהבתם? אשמח שתנסו לשחק ותגידו אם אהבתם ואם יש עוד מה לשפר...\n\nאפשר להכנס במחשב או בטלפון. המשחק חינמי, צריך להתחבר או להרשם לרובלוקס - כרגע זמנית המשחק מוגבל מגיל 16.\n\nהמכות והזריקות מרגישות טוב? היה רגע שלא הבנתם מה לעשות?\nהייתם משחקים עוד סיבוב? ואם יצאתם, מה גרם לכם לצאת?\n\nתכתבו לי גם על איזה מכשיר שיחקתם ומה נשבר..\n\nקישור למשחק:\nhttps://lnkd.in/dyxXmnwN",
+    "images": "",
+    "video_url": "",
+    "document_url": "",
+    "existing": false,
+    "engagement": "off",
+    "sha256": "8e7e676512000f22850a727829b5d60c7cb3407a27a7e7230d2aadf3d9ca22c6",
+    "media_available_on_source": true
   }
 ]
