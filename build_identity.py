@@ -28,8 +28,16 @@ def build():
   page=f'<!doctype html><html lang="{lang}" dir="'+('rtl' if lang=='he' else 'ltr')+f'"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{E(title)}</title><meta name="description" content="{E(desc)}"><link rel="canonical" href="{url}"><link rel="alternate" hreflang="he" href="{BASE}/about/"><link rel="alternate" hreflang="en" href="{BASE}/about/en/"><link rel="alternate" hreflang="x-default" href="{BASE}/about/en/"><link rel="stylesheet" href="/style.css">{STYLE}<meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc)}"><meta property="og:url" content="{url}"><meta property="og:type" content="profile"><script type="application/ld+json">{json.dumps(schema,ensure_ascii=False)}</script></head><body><header><span class="site-name"><a href="/">Ofer Shapira</a></span><nav>{nav}</nav></header><main><article>{body}</article><footer><a href="/">'+('כל הכתיבה' if lang=='he' else 'All writing')+'</a> · <a href="/feed.xml">RSS</a></footer></main></body></html>'
   (d/'index.html').write_text(page)
  p=R/'index.html';s=p.read_text();s=re.sub(r'<section class="identity-intro".*?</section>','',s,flags=re.S)
- intro='<section class="identity-intro" aria-label="About Ofer Shapira"><p class="identity-kicker">Practical AI engineering leadership</p><p>I’m Ofer Shapira, an AI Engineering Team Lead at Elementor, a developer and a former SaaS founder. I write about building AI systems, leading engineering teams and turning agent experiments into ways of working.</p><a href="/about/">עליי בעברית</a><a href="/about/en/">About &amp; selected work</a></section>'
- s=s.replace('<section class="archive-intro"',intro+'<section class="archive-intro"',1);s=s.replace('</head>',STYLE+'</head>') if '.identity-intro{' not in s else s
+ # Keep one homepage introduction. Replace the old archive hero rather than
+ # prepending another bio card, and remove legacy cards on every rebuild.
+ intro='''<section class="archive-intro" aria-labelledby="archive-title">
+    <p class="eyebrow">Notes from the work</p>
+    <h1 id="archive-title">AI engineering.<br>From the inside.</h1>
+    <p class="archive-lede">I’m Ofer Shapira, an AI Engineering Team Lead at Elementor, a developer and a former SaaS founder. I write about building AI systems, leading engineering teams and turning agent experiments into ways of working.</p>
+    <div class="archive-links"><a href="/about/">עליי בעברית</a><a href="/about/en/">About &amp; selected work</a><a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a><a href="/feed.xml">RSS</a></div>
+  </section>'''
+ s=re.sub(r'<section class="archive-intro"[^>]*>.*?</section>',lambda m:intro,s,count=1,flags=re.S)
+ s=s.replace('</head>',STYLE+'</head>') if '.identity-intro{' not in s else s
  def schema_patch(m):
   j=json.loads(m[1])
   if j.get('@type')=='WebSite':j['author']=PROFILE;j['publisher']=PROFILE
