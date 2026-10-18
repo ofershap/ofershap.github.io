@@ -53,7 +53,7 @@ def build():
   loc=BASE+'/posts/'+r['slug']+'/'
   p=ROOT/'sitemap.xml';s=p.read_text()
   if '<loc>'+loc+'</loc>' not in s:s=s.replace('</urlset>','<url><loc>'+loc+'</loc></url></urlset>');p.write_text(s)
- p=ROOT/'llms.txt';s=p.read_text();s=re.split('\n## Original service Q&A\n',s)[0];s+='\n## Original service Q&A\n\n'+''.join('- ['+r['body'].splitlines()[0].split(': ',1)[1]+']('+BASE+'/posts/'+r['slug']+'/)\n' for r in rows);p.write_text(s)
+ p=ROOT/'llms.txt';s=p.read_text();head,_,rest=s.partition('\n## Original service Q&A\n');tail='';m=re.search('\n## (?!Original service Q&A)',rest);tail=rest[m.start():] if m else '';s=head+'\n## Original service Q&A\n\n'+''.join('- ['+r['body'].splitlines()[0].split(': ',1)[1]+']('+BASE+'/posts/'+r['slug']+'/)\n' for r in rows);s=s+tail;p.write_text(s)
  print('Authored Q&A:',len(rows))
 if __name__=='__main__':build()
 

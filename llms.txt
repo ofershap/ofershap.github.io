@@ -153,6 +153,10 @@ Positioning: practical AI engineering leadership. This is Ofer’s personal prof
 - [איך בודקים race conditions בתוסף דפדפן שסוכן AI משנה?](https://ofershap.github.io/posts/browser-extension-race-condition-tests/)
 - [איך בודקים שחיבור MCP לסוכן עובד עד הקריאה הראשונה?](https://ofershap.github.io/posts/mcp-first-read-connection-check/)
 - [איך מודדים התחלת שימוש בסוכן AI מעבר להרשמה?](https://ofershap.github.io/posts/agent-onboarding-completed-task-metrics/)
+- [אילו גבולות מגדירים לפני שמפעילים עשרות סוכני AI במקביל?](https://ofershap.github.io/posts/agent-workflow-guardrails-before-scaling/)
+- [איך בודקים שתהליך מרובה סוכנים שווה את העלות שלו?](https://ofershap.github.io/posts/golden-sample-agent-quality-cost-check/)
+- [איך בודקים אחרי חודש שהאוטומציה באמת עובדת?](https://ofershap.github.io/posts/monthly-automation-review/)
+- [איך בונים דיג'סט שבועי שהופך פלט של סוכן לעבודה שאפשר לראות?](https://ofershap.github.io/posts/weekly-agent-digest/)
 
 ## Translations
 
