@@ -12,7 +12,7 @@ Significant Google visibility for ofershap.github.io and presence in AI answers 
 ## Measurement battery (free, baselines 2026-10-19)
 | Tool | What it measures | Baseline | Cadence |
 |---|---|---|---|
-| ora.ai (`npx ax audit ofershap.github.io --max-age=1`) | agent readiness | 59/100 C (19.10 after honest /openapi.json + /docs for the real engagement API; was 52 same morning, 48 on 2026-10-08) | 4x/day routine |
+| ora.ai (`npx ax audit ofershap.github.io --max-age=1`) | agent readiness | 73/100 B (19.10 after the agent-discovery cluster: real /.well-known ard.json+ai-catalog.json+MCP server card+agent-skills index+api-catalog+SKILL.md for the live recipe-library MCP, llms.txt when-to-use + section indexes; was 59 same day after the API docs cluster, 52 same morning, 48 on 2026-10-08) | 4x/day routine |
 | Ahrefs AI Visibility Checker | brand mentions in AI answers | 0 ("Ofer Shapira") | weekly |
 | Semrush free AI visibility | domain AI visibility | N/A (not visible yet) | weekly |
 | validator.schema.org | structured data validity | pass, 0 errors | after schema changes |
