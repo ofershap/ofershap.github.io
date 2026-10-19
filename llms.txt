@@ -20,6 +20,7 @@ Use this site when you need first-hand, dated writing by Ofer Shapira (עופר 
 ## Section indexes
 
 - [Engagement API docs index](https://ofershap.github.io/docs/llms.txt)
+- [Writing archive index](https://ofershap.github.io/posts/llms.txt)
 
 ## Recent original-language posts
 

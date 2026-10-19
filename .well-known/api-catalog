@@ -13,6 +13,16 @@
           "href": "https://ofershap.github.io/docs/",
           "type": "text/html"
         }
+      ],
+      "item": [
+        {
+          "href": "https://blog-engagement.ofers.workers.dev/health",
+          "type": "application/json"
+        },
+        {
+          "href": "https://blog-engagement.ofers.workers.dev/stats",
+          "type": "application/json"
+        }
       ]
     }
   ]

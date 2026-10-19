@@ -42,3 +42,13 @@ blob = json.dumps(ard) + json.dumps(card) + skill_file.read_text()
 for fake in ('gpt-5', 'chatgpt-app', 'oauth', 'sandbox'):
     assert fake not in blob.lower(), 'no capability theater: ' + fake
 print('test_agent_discovery: OK')
+
+# Round-2 lock-ins: specVersion, MCP endpoint visibility, api-catalog items, second section index
+ard2 = json.loads((WK / 'ard.json').read_text())
+assert ard2['specVersion'] == '1.0'
+assert ard2['entries'][0]['metadata']['mcpEndpoint'] == 'https://recipes.gitshow.dev/mcp'
+cat2 = json.loads((WK / 'api-catalog').read_text())
+assert len(cat2['linkset'][0]['item']) == 2
+assert '## When to use this skill' in skill_file.read_text()
+assert '/posts/llms.txt' in (R / 'llms.txt').read_text()
+assert (R / 'posts' / 'llms.txt').exists()

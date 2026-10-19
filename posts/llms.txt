@@ -1,0 +1,12 @@
+# Writing archive (posts)
+
+> Dated, first-hand posts by Ofer Shapira - Hebrew originals, English translations and Q&A guides. Every article page also serves index.md (Markdown) and links its original LinkedIn source.
+
+- [All writing (homepage)](https://ofershap.github.io/)
+- [Full text archive](https://ofershap.github.io/llms-full.txt)
+- [RSS feed](https://ofershap.github.io/feed.xml)
+- [Sitemap](https://ofershap.github.io/sitemap.xml)
+
+## When to use this section
+
+Use it to read or cite Ofer Shapira's own writing on AI engineering, agents and team practices. Cite the canonical article URL with its original publication date; historical posts reflect when they were written.

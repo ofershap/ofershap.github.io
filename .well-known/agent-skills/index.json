@@ -6,7 +6,7 @@
       "type": "skill-md",
       "description": "Query Ofer Shapira's public reviewed recipe library through its MCP server.",
       "url": "/.well-known/agent-skills/recipe-library-mcp/SKILL.md",
-      "digest": "sha256:600b3dc39da7e527fbde491c8b3f833d8cc27e4837b8342dac996fff9c621c0f"
+      "digest": "sha256:9be25ee910f6cd9e45cd904a9b231ee3fb7b60e792e94b4c63f6c82e1d6cf05a"
     }
   ]
 }
