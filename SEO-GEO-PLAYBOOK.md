@@ -1,7 +1,10 @@
 # Blog SEO/GEO Playbook (master copy)
 
 Owner: Ofer Shapira. Maintainer: Instinct (content-engine task).
-Created: 2026-10-19. Last updated: 2026-10-19 (decision record added). Reviewed and updated by the 4x/day agent-readiness routine; every material change is explained in chat before editing.
+Created: 2026-10-19. Last updated: 2026-10-19 (north star set). Reviewed and updated by the 4x/day agent-readiness routine; every material change is explained in chat before editing.
+
+## North star (set 2026-10-19, Ofer)
+The explicit success measure: the name "Ofer Shapira" / "עופר שפירא" appears in AI chat answers (ChatGPT and other assistants) for relevant queries. The ora score and the rest of the battery are means, not the target. Every 4x/day routine report states name visibility: which free tool was queried, with what query, and whether and where the name appeared. Free name-visibility checks: Ahrefs AI Visibility Checker, HubSpot AI Search Grader, LLMrefs and Waikay (after signup), and direct prompts to free-tier assistant web UIs when accessible.
 
 ## Goal
 Significant Google visibility for ofershap.github.io and presence in AI answers (ChatGPT, Gemini, Perplexity). Checkpoint: 2026-11-06 (impressions by country once Search Console data flows).
@@ -41,4 +44,4 @@ Significant Google visibility for ofershap.github.io and presence in AI answers 
 - 2026-10-19 (Ofer): the blog stays on ofershap.github.io - GitHub prestige over edge-programmability. No own-domain move. ora target on this domain: 85-92. Server-edge checks are out of scope (Accept/UA content negotiation, HTTP Link headers, ?mode=agent, NLWeb endpoints), plus Wikipedia (notability), ChatGPT app listing (needs a real app) and sandbox environment (theatre for a blog).
 
 ## Standing rules
-Free tactics only. No Buffer mutations from this routine. Publishing to the blog is pre-approved. Report to main only on score change, real obstacle, or a paid step.
+Free tactics only. No Buffer mutations from this routine. Publishing to the blog is pre-approved. Report to main only on score change, name-visibility change, real obstacle, or a paid step; each report states the current name-visibility finding.
