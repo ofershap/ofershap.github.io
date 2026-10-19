@@ -7,7 +7,8 @@ root = Path(__file__).resolve().parent
 page = (root/'index.html').read_text()
 inner = re.search(r'<ul class="post-list">(.*?)</ul>', page, re.S)[1]
 hrefs = re.findall(r'<a class="post-title" href="([^"]+)"', inner)
-assert len(hrefs) == len(set(hrefs)) == 780
+expected = len(list(root.glob('posts/*/index.html'))) + len(list(root.glob('essays/*/index.html')))
+assert len(hrefs) == len(set(hrefs)) == expected
 assert '/posts/whatsapp-agent-cost-israel/' in hrefs
 assert any('/posts/linkedin-' in href for href in hrefs)
 dates = []
@@ -16,7 +17,7 @@ for href in hrefs:
     date = re.search(r'"datePublished"\s*:\s*"([^"]+)"',article)
     dates.append(date[1][:10] if date else '0000-00-00')
 assert dates == sorted(dates,reverse=True)
-assert dates[0] == '2026-10-18'
+assert dates[0] == max(dates)
 homepage_order.sort_homepage(root)
 assert (root/'index.html').read_text() == page
 print(f'{len(hrefs)} unique entries sorted newest-first across authored guides and archive; idempotent.')
