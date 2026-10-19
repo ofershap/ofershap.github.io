@@ -34,7 +34,7 @@ def build():
     <p class="eyebrow">Notes from the work</p>
     <h1 id="archive-title">AI engineering. From the inside.</h1>
     <p class="archive-lede">I’m Ofer Shapira, an AI Engineering Team Lead at Elementor, a developer and a former SaaS founder. I write about building AI systems, leading engineering teams and turning agent experiments into ways of working.</p>
-    <div class="archive-links"><a href="/about/">עליי בעברית</a><a href="/about/en/">About &amp; selected work</a><a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a><a href="/feed.xml">RSS</a></div>
+    <div class="archive-links"><a href="/about/">אודות</a><a href="/about/en/">About &amp; selected work</a><a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a><a href="/feed.xml">RSS</a></div>
   </section>'''
  s=re.sub(r'<section class="archive-intro"[^>]*>.*?</section>',lambda m:intro,s,count=1,flags=re.S)
  s=s.replace('</head>',STYLE+'</head>') if '.identity-intro{' not in s else s
