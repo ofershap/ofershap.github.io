@@ -1,0 +1,31 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Engagement API documentation | Ofer Shapira</title><meta name="description" content="Public engagement API of ofershap.github.io: anonymous view and like counters, OpenAPI-documented, no authentication."><link rel="canonical" href="https://ofershap.github.io/docs/"><link rel="stylesheet" href="/style.css"><script type="application/ld+json">{"@context": "https://schema.org", "@type": "TechArticle", "headline": "Engagement API documentation", "url": "https://ofershap.github.io/docs/", "inLanguage": "en", "datePublished": "2026-10-19", "author": {"@type": "Person", "name": "Ofer Shapira", "url": "https://ofershap.github.io/about/en/"}, "about": {"@type": "APIReference", "name": "ofershap.github.io Engagement API", "url": "https://ofershap.github.io/docs/"}}</script><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "101273038ea14fe3b8146df29641a001"}'></script></head><body><header><span class="site-name"><a href="/">Ofer Shapira</a></span><nav><a href="/">Writing</a><a href="/about/en/">About</a></nav></header><main><article><h1>Engagement API</h1>
+<p>This site runs a small public API that keeps per-article view and like counters. It is anonymous, requires no authentication and no account, and is documented here so both people and AI agents can integrate against something real instead of guessing.</p>
+<h2>Base URL</h2>
+<p><code>https://blog-engagement.ofers.workers.dev</code> (Cloudflare Workers). The machine-readable contract is the <a href="/openapi.json">OpenAPI specification at /openapi.json</a>.</p>
+<h2>Rules that apply to every request</h2>
+<ul>
+<li>Send the header <code>Origin: https://ofershap.github.io</code>. Other origins get <code>403</code>.</li>
+<li><code>key</code> is the article path exactly as served here, for example <code>/posts/agent-long-creative-build-feedback/</code>. Unknown paths are rejected.</li>
+<li><code>client</code> is a random 32-character lowercase hex id your client generates once and reuses; it deduplicates views and likes. No personal data is stored: IPs are salted and hashed for rate limiting only.</li>
+<li>Rate limit: 30 requests per minute per IP, then <code>429</code>.</li>
+<li>All errors are JSON: <code>{"error": "..."}</code> with status codes 400, 403, 404, 405, 413 or 429.</li>
+</ul>
+<h2>GET /health</h2>
+<p>Liveness check, no parameters.</p>
+<pre>curl https://blog-engagement.ofers.workers.dev/health
+{"ok":true,"version":"1","counting_since":"2026-10-07"}</pre>
+<h2>GET /stats</h2>
+<p>Read counters for one article.</p>
+<pre>curl -H "Origin: https://ofershap.github.io" \
+  "https://blog-engagement.ofers.workers.dev/stats?key=/posts/agent-long-creative-build-feedback/&amp;client=0123456789abcdef0123456789abcdef"
+{"likes":0,"liked":false}</pre>
+<p>The <code>views</code> field appears only after an article passes the public view threshold; below it the field is omitted on purpose.</p>
+<h2>POST /stats</h2>
+<p>Record one engagement. Body is JSON with <code>key</code>, <code>client</code> and <code>action</code> (one of <code>view</code>, <code>like</code>, <code>unlike</code>).</p>
+<pre>curl -X POST -H "Origin: https://ofershap.github.io" -H "Content-Type: application/json" \
+  -d '{"key":"/posts/agent-long-creative-build-feedback/","client":"0123456789abcdef0123456789abcdef","action":"like"}' \
+  https://blog-engagement.ofers.workers.dev/stats
+{"likes":1,"liked":true}</pre>
+<p>A view counts once per client per day; a like is idempotent per client and can be withdrawn with <code>unlike</code>.</p>
+<h2>Scope</h2>
+<p>These are the only public endpoints. There is no public write access to content, no admin API and no authenticated surface to document; what is not listed here does not exist publicly.</p></article><footer><a href="/">All writing</a> · <a href="/feed.xml">RSS</a></footer></main></body></html>
