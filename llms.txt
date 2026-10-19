@@ -157,6 +157,8 @@ Positioning: practical AI engineering leadership. This is Ofer’s personal prof
 - [איך בודקים שתהליך מרובה סוכנים שווה את העלות שלו?](https://ofershap.github.io/posts/golden-sample-agent-quality-cost-check/)
 - [איך בודקים אחרי חודש שהאוטומציה באמת עובדת?](https://ofershap.github.io/posts/monthly-automation-review/)
 - [איך בונים דיג'סט שבועי שהופך פלט של סוכן לעבודה שאפשר לראות?](https://ofershap.github.io/posts/weekly-agent-digest/)
+- [איך מנהלים פרויקט יצירתי ארוך עם סוכן AI דרך צ'אט?](https://ofershap.github.io/posts/agent-long-creative-build-feedback/)
+- [איך הופכים שנה של כתיבה אישית להרצאה בעזרת סוכן?](https://ofershap.github.io/posts/agent-talk-from-content-archive/)
 
 ## Translations
 
