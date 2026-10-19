@@ -52,3 +52,4 @@ assert len(cat2['linkset'][0]['item']) == 2
 assert '## When to use this skill' in skill_file.read_text()
 assert '/posts/llms.txt' in (R / 'llms.txt').read_text()
 assert (R / 'posts' / 'llms.txt').exists()
+assert 'recipes.gitshow.dev/mcp' in llms
