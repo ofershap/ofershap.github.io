@@ -32,7 +32,7 @@ def build():
  # prepending another bio card, and remove legacy cards on every rebuild.
  intro='''<section class="archive-intro" aria-labelledby="archive-title">
     <p class="eyebrow">Notes from the work</p>
-    <h1 id="archive-title">AI engineering.<br>From the inside.</h1>
+    <h1 id="archive-title">AI engineering. From the inside.</h1>
     <p class="archive-lede">I’m Ofer Shapira, an AI Engineering Team Lead at Elementor, a developer and a former SaaS founder. I write about building AI systems, leading engineering teams and turning agent experiments into ways of working.</p>
     <div class="archive-links"><a href="/about/">עליי בעברית</a><a href="/about/en/">About &amp; selected work</a><a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a><a href="/feed.xml">RSS</a></div>
   </section>'''

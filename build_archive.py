@@ -39,7 +39,7 @@ def build():
   (path/'index.html').write_text(page);(path/'index.md').write_text('# '+title+'\n\n'+text+'\n\nOriginal source: '+r['source']+'\nPublished: '+r['published_at']+'\n');created+=1
  # Append missing records to the homepage, sorted together with preserved existing entries.
  home=ROOT/'index.html';s=home.read_text();match=re.search(r'<ul class="post-list">(.*?)</ul>',s,re.S);items=[]
- for m in re.finditer(r'<li>(.*?)</li>',match[1],re.S):
+ for m in re.finditer(r'<li\b[^>]*>(.*?)</li>',match[1],re.S):
   item=m[0];href=re.search(r'href="([^"]+)"',item)
   if not href:continue
   f=ROOT/href[1].strip('/')/'index.html'

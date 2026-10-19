@@ -37,6 +37,8 @@ def build():
  marker=re.search(r'<li class="year-group">.*?</li>',s,re.S)
  if marker:s=s[:marker.end()]+''.join(items)+s[marker.end():]
  (ROOT/'index.html').write_text(s)
+ from homepage_order import sort_homepage
+ sort_homepage(ROOT)
  # Add new originals without rewriting existing feed dates or entries.
  feed=ET.fromstring((ROOT/'feed.xml').read_text());ch=feed.find('channel')
  from email.utils import format_datetime
@@ -48,6 +50,10 @@ def build():
   i=ET.Element('item')
   for tag,val in [('title',r['body'].splitlines()[0].split(': ',1)[1]),('link',url),('guid',url),('pubDate',format_datetime(datetime.fromisoformat(r['published_at'])))]:ET.SubElement(i,tag).text=val
   ch.insert(3,i)
+ from email.utils import parsedate_to_datetime
+ feed_items=sorted(ch.findall('item'),key=lambda item:parsedate_to_datetime(item.findtext('pubDate')),reverse=True)
+ for item in list(ch.findall('item')):ch.remove(item)
+ for item in feed_items[:50]:ch.append(item)
  ET.ElementTree(feed).write(ROOT/'feed.xml',encoding='utf-8',xml_declaration=True)
  for r in rows:
   loc=BASE+'/posts/'+r['slug']+'/'

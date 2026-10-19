@@ -319,4 +319,29 @@ html[lang=he] .byline{margin:0 0 .75rem}html[lang=he] .post-source{margin:0 0 2r
 
 
 
+
+/* Compact writing index: keep the newest articles in the first screen. */
+body:has(.archive-intro) main{padding-top:1.25rem}
+.archive-intro{padding-bottom:1.1rem}
+.archive-intro .eyebrow{font-size:.68rem;margin-bottom:.55rem}
+.archive-intro h1{font-size:clamp(1.65rem,3vw,2.1rem);line-height:1.18;letter-spacing:-.035em;margin-bottom:.65rem}
+.archive-lede{font-size:1rem;line-height:1.5;max-width:none;margin:0 0 .65rem}
+.archive-links{flex-wrap:wrap;column-gap:1.1rem;row-gap:.15rem;font-size:.8rem}
+.archive-languages{margin:.65rem 0;font-size:.8rem;gap:.4rem}
+.archive-tools{padding-top:.65rem}
+.archive-tools label{font-size:.8rem;margin-bottom:.35rem}
+.archive-tools input{padding:.65rem .8rem;font-size:.9rem}
+.archive-tools p{margin:.45rem 0 1rem}
+.archive-tools + .post-list h2.year{margin-bottom:.35rem}
+body:has(.archive-intro) .post-list li:not(.year-group){padding:1.2rem 0}
+@media(max-width:500px){
+ body:has(.archive-intro) main{padding-top:1rem}
+ .archive-intro{padding-bottom:.85rem}
+ .archive-intro h1{font-size:1.65rem;max-width:330px}
+ .archive-lede{font-size:.95rem;line-height:1.45}
+ .archive-links{column-gap:.85rem;row-gap:.2rem;font-size:.75rem}
+ .archive-languages{font-size:.75rem;margin:.55rem 0}
+ .archive-tools{padding-top:.4rem}
+}
+
 .author-card,.related-projects{margin-top:3rem;padding-top:1.5rem;border-top:1px solid var(--border,#ddd)}.author-card h2,.related-projects h2{font-size:1.2rem}.author-card p{font-size:.95rem;line-height:1.7}
