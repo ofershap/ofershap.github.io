@@ -60,6 +60,7 @@ def build():
  # Include every real HTML content page, without fabricated last-modification times.
  pages=[f for f in ROOT.glob('posts/*/index.html')]+[f for f in ROOT.glob('essays/*/index.html')];urls=[BASE+'/']+[BASE+'/'+str(f.parent.relative_to(ROOT))+'/' for f in pages]
  sitemap='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+E(u)+'</loc></url>' for u in urls)+'</urlset>\n';(ROOT/'sitemap.xml').write_text(sitemap)
+ import build_lastmod as _lm;_lm.run()
  # RSS only newest50 published articles; no private performance metadata.
  from email.utils import format_datetime
  rss=['<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Ofer Shapira</title><link>'+BASE+'/</link><description>AI engineering, agents and software leadership.</description>']

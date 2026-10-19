@@ -52,8 +52,9 @@ def build():
  p=R/'sitemap.xml';s=p.read_text()
  for path in ['about','about/en']:
   u='<url><loc>'+BASE+'/'+path+'/</loc></url>'
-  if u not in s:s=s.replace('</urlset>',u+'</urlset>')
+  if '<loc>'+BASE+'/'+path+'/</loc>' not in s:s=s.replace('</urlset>',u+'</urlset>')
  p.write_text(s)
+ import build_lastmod as _lm;_lm.run()
 if __name__=='__main__':build()
 
 # Cloudflare Web Analytics beacon - keep site-wide injection idempotent on every rebuild (build_beacon.run is a no-op when present).

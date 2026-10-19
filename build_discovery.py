@@ -33,7 +33,8 @@ full=['# Ofer Shapira: writing archive\n\nOriginal source and publication date a
 for md in sorted([*root.glob('posts/*/index.md'),*root.glob('essays/*/index.md')]):
  full.append('\n\n---\n\nCanonical URL: '+base+'/'+str(md.parent.relative_to(root))+'/\n\n'+md.read_text())
 (root/'llms-full.txt').write_text(''.join(full))
-p=root/'sitemap.xml';s=p.read_text();s=s.replace('<url><loc>'+base+'/for-ai/</loc></url>','').replace('</urlset>','<url><loc>'+base+'/for-ai/</loc></url></urlset>');p.write_text(s)
+p=root/'sitemap.xml';s=p.read_text();s=re.sub(r'<url><loc>'+re.escape(base)+r'/for-ai/</loc>(?:<lastmod>[^<]*</lastmod>)?</url>','',s).replace('</urlset>','<url><loc>'+base+'/for-ai/</loc></url></urlset>');p.write_text(s)
+import build_lastmod as _lm;_lm.run()
 p=root/'index.html';s=p.read_text().replace(' · <a href="/for-ai/">About</a>','').replace('<a href="/feed.xml">RSS</a>','<a href="/feed.xml">RSS</a> · <a href="/for-ai/">About</a>');p.write_text(s)
 print('Author cards:',count,'Exact-name project links:',links,'Full archive bytes:',(root/'llms-full.txt').stat().st_size)
 

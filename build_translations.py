@@ -40,6 +40,7 @@ def build():
    s=re.sub(r'\n## Translations\n.*?(?=\n## |\Z)','',s,flags=re.S)+'\n## Translations\n\n'+''.join('- ['+NAMES[l]+']('+BASE+'/'+l+'/): 100 translated posts.\n'for l in NAMES)
   p.write_text(s)
  print('Generated',len(urls)-4,'translations and 4 language indexes')
+ import build_lastmod as _lm;_lm.run()
 if __name__=='__main__':build()
 
 # Cloudflare Web Analytics beacon - keep site-wide injection idempotent on every rebuild (build_beacon.run is a no-op when present).

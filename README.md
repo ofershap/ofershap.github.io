@@ -46,3 +46,6 @@ Article likes, share buttons and private view counts are added by `build_engagem
 ## Original service Q&A
 
 Four separately reviewed, authored Hebrew Q&A posts are maintained in `authored-source.json` and rendered by `build_authored.py`. This is not a LinkedIn import. Their original reviewed bodies are preserved byte-exact in each `original.md`, with GEO summaries, FAQs and service links kept separate. Publication dates are actual blog dates. Discovery and engagement builders preserve these pages; engagement controls remain limited to the original archive until the backend allowlist is extended.
+
+## IndexNow
+`indexnow_ping.py` submits URLs to IndexNow (Bing/Yandex) for fast recrawl. The daily sweep runs it with newly published URLs after each deploy; no arguments resubmits the whole sitemap. Key file: `<key>.txt` at the repo root; do not delete it.

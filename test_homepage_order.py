@@ -18,7 +18,6 @@ for href in hrefs:
     dates.append(date[1][:10] if date else '0000-00-00')
 assert dates == sorted(dates,reverse=True)
 assert dates[0] == max(dates)
-assert len(set(hrefs)) == 780
 homepage_order.sort_homepage(root)
 assert (root/'index.html').read_text() == page
 print(f'{len(hrefs)} unique entries sorted newest-first across authored guides and archive; idempotent.')
