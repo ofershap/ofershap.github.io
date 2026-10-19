@@ -1,0 +1,38 @@
+{
+  "entries": [
+    {
+      "@context": "https://agenticresourcediscovery.org/context/v1",
+      "identifier": "urn:air:ofershap.github.io:mcp:recipe-library",
+      "displayName": "Recipe library MCP server",
+      "type": "application/mcp-server-card+json",
+      "url": "https://ofershap.github.io/.well-known/mcp/recipe-library.json",
+      "capabilities": [
+        "list_recipes",
+        "get_recipe"
+      ],
+      "description": "Public read-only MCP server serving a reviewed Hebrew/English recipe library.",
+      "representativeQueries": [
+        "find a recipe for shakshuka",
+        "list Hebrew recipes in the library",
+        "show the full recipe for one dish"
+      ]
+    },
+    {
+      "@context": "https://agenticresourcediscovery.org/context/v1",
+      "identifier": "urn:air:ofershap.github.io:api:engagement",
+      "displayName": "Blog engagement API",
+      "type": "application/openapi+json",
+      "url": "https://ofershap.github.io/openapi.json",
+      "capabilities": [
+        "getHealth",
+        "getStats",
+        "recordEngagement"
+      ],
+      "description": "Anonymous per-article view and like counters for ofershap.github.io; OpenAPI-documented, no authentication.",
+      "representativeQueries": [
+        "how many likes does this article have",
+        "record a like for this post"
+      ]
+    }
+  ]
+}

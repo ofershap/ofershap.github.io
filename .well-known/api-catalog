@@ -1,0 +1,19 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://ofershap.github.io/",
+      "service-desc": [
+        {
+          "href": "https://ofershap.github.io/openapi.json",
+          "type": "application/vnd.oai.openapi+json"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://ofershap.github.io/docs/",
+          "type": "text/html"
+        }
+      ]
+    }
+  ]
+}

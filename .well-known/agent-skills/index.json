@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "recipe-library-mcp",
+      "type": "skill-md",
+      "description": "Query Ofer Shapira's public reviewed recipe library through its MCP server.",
+      "url": "/.well-known/agent-skills/recipe-library-mcp/SKILL.md",
+      "digest": "sha256:600b3dc39da7e527fbde491c8b3f833d8cc27e4837b8342dac996fff9c621c0f"
+    }
+  ]
+}
