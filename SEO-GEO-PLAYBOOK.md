@@ -16,7 +16,8 @@ Significant Google visibility for ofershap.github.io and presence in AI answers 
 | Ahrefs AI Visibility Checker | brand mentions in AI answers | 0 ("Ofer Shapira") | weekly |
 | Semrush free AI visibility | domain AI visibility | N/A (not visible yet) | weekly |
 | validator.schema.org | structured data validity | pass, 0 errors | after schema changes |
-| Bing Webmaster Tools | Bing indexing/impressions | 7 impressions/7d, 0 clicks | daily sweep |
+| Bing Webmaster Tools | Bing indexing/impressions | 117 pages indexed, 2 clicks / 28 impressions in 6 months (21.10 WMT Site Explorer; earlier curl site: readings of 0 were automated-query blocking) | daily sweep |
+| Bing WMT AI Performance | Microsoft Copilot grounding citations | 11 citations / 7 days, rising (peak 7 on 18.10) - first measured AI-engine citation signal | daily sweep |
 | Google Search Console | Google indexing/impressions | property verified; coverage broken historically (2/1,150 pages on 7.10), sitemap resubmitted | daily sweep |
 | Cloudflare Web Analytics | real visits + AI referrals | ~20 visits/day, 4 AI referrals | daily sweep |
 | duck.ai direct prompt ("Who is Ofer Shapira, the AI engineering blogger?") | name presence in a live assistant answer | 19.10: NAME APPEARS - mostly-accurate profile (AI engineering lead, 15+ yrs, Cursor adoption for 50+ engineers, agents for small businesses in Israel); sources labeled hashnode.com/hashnode.dev (old crossposts), ofershap.github.io not cited | rotation in 4x/day routine |
