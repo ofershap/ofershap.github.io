@@ -53,6 +53,19 @@ def build():
  if not any(isinstance(json.loads(b),dict) and json.loads(b).get('@type')=='Person' for b in blocks):
   person=dict(PROFILE);person['@context']='https://schema.org';person['mainEntityOfPage']=BASE+'/'
   s=s.replace('</head>','<script type="application/ld+json">'+json.dumps(person,ensure_ascii=False)+'</script></head>')
+ if not any(isinstance(json.loads(b),dict) and json.loads(b).get('@type')=='ItemList' for b in blocks):
+  items=[]
+  try:
+   for r in json.loads((R/'archive-source.json').read_text()):
+    if r.get('title'):items.append((r['published_at'],r['title'],BASE+'/posts/linkedin-'+r['id']+'/'))
+  except Exception:pass
+  try:
+   for r in json.loads((R/'authored-source.json').read_text()):
+    items.append((r['published_at'],r['body'].splitlines()[0].split(': ',1)[1],BASE+'/posts/'+r['slug']+'/'))
+  except Exception:pass
+  items=sorted(items,reverse=True)[:10]
+  il={'@context':'https://schema.org','@type':'ItemList','name':'Writing by Ofer Shapira','itemListElement':[{'@type':'ListItem','position':i+1,'name':t,'url':u} for i,(d,t,u) in enumerate(items)]}
+  s=s.replace('</head>','<script type="application/ld+json">'+json.dumps(il,ensure_ascii=False)+'</script></head>')
  p.write_text(s)
  p=R/'for-ai/index.html';s=p.read_text();s=re.sub(r'<section class="identity-links".*?</section>','',s,flags=re.S);s=s.replace('</article>','<section class="identity-links"><h2>Professional identity</h2><p>Ofer writes about practical AI engineering leadership: building AI systems, leading engineering teams and making agent workflows useful in real work.</p><p><a href="/about/">Full professional bio in Hebrew</a> · <a href="/about/en/">English professional bio and selected work</a></p></section></article>');s=re.sub(r'"mainEntity":\s*\{.*?\}\}',lambda m:'"mainEntity":'+json.dumps(PROFILE,ensure_ascii=False)+'}',s);p.write_text(s)
  p=R/'llms.txt';s=p.read_text();s=re.sub(r'\n## Professional identity.*?(?=\n## |\Z)','',s,flags=re.S)
