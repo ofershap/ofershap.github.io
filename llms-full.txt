@@ -41,6 +41,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/10-ai-presentation-tools-that-build-decks-in-60-seconds/
 
+---
+title: "10 AI presentation tools that build decks in 60 seconds"
+published: 2025-03-28
+lang: en
+canonical: https://ofershap.github.io/posts/10-ai-presentation-tools-that-build-decks-in-60-seconds/
+---
+
 # 10 AI presentation tools that build decks in 60 seconds
 
 March 28, 2025 · 1 min read
@@ -88,6 +95,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/10-rules-for-prompting-nano-banana-pro/
+
+---
+title: "10 rules for prompting Nano Banana Pro"
+published: 2025-12-01
+lang: en
+canonical: https://ofershap.github.io/posts/10-rules-for-prompting-nano-banana-pro/
+---
 
 # 10 rules for prompting Nano Banana Pro
 
@@ -185,6 +199,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/a-15-minute-ai-film-made-for-500-in-12-days/
 
+---
+title: "A 15-minute AI film made for $500 in 12 days"
+published: 2025-07-23
+lang: en
+canonical: https://ofershap.github.io/posts/a-15-minute-ai-film-made-for-500-in-12-days/
+---
+
 # A 15-minute AI film made for $500 in 12 days
 
 July 23, 2025 · 1 min read
@@ -212,6 +233,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/a-27kb-pixel-art-office-for-cursors-agent-mode/
+
+---
+title: "A 27KB pixel art office for Cursor&#x27;s agent mode"
+published: 2026-03-16
+lang: en
+canonical: https://ofershap.github.io/posts/a-27kb-pixel-art-office-for-cursors-agent-mode/
+---
 
 # A 27KB pixel art office for Cursor's agent mode
 
@@ -242,6 +270,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/a-browser-extension-for-chat-gpt-formatting-problems/
+
+---
+title: "A browser extension for Chat GPT formatting problems"
+published: 2025-05-23
+lang: en
+canonical: https://ofershap.github.io/posts/a-browser-extension-for-chat-gpt-formatting-problems/
+---
 
 # A browser extension for Chat GPT formatting problems
 
@@ -275,6 +310,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/a-cinematic-cockpit-prompt-for-any-city/
 
+---
+title: "A cinematic cockpit prompt for any city"
+published: 2025-07-25
+lang: en
+canonical: https://ofershap.github.io/posts/a-cinematic-cockpit-prompt-for-any-city/
+---
+
 # A cinematic cockpit prompt for any city
 
 July 25, 2025 · 2 min read
@@ -303,6 +345,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/a-control-tower-for-cursor-cloud-agents/
 
+---
+title: "A control tower for Cursor cloud agents"
+published: 2026-03-23
+lang: en
+canonical: https://ofershap.github.io/posts/a-control-tower-for-cursor-cloud-agents/
+---
+
 # A control tower for Cursor cloud agents
 
 March 23, 2026 · 1 min read
@@ -328,6 +377,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/a-customgpt-for-better-1-1-preparation/
+
+---
+title: "A CustomGPT for better 1:1 preparation"
+published: 2025-06-16
+lang: en
+canonical: https://ofershap.github.io/posts/a-customgpt-for-better-1-1-preparation/
+---
 
 # A CustomGPT for better 1:1 preparation
 
@@ -362,6 +418,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/a-four-step-pr-description-for-faster-code-reviews/
+
+---
+title: "A four-step PR description for faster code reviews"
+published: 2026-07-29
+lang: en
+canonical: https://ofershap.github.io/posts/a-four-step-pr-description-for-faster-code-reviews/
+---
 
 # A four-step PR description for faster code reviews
 
@@ -398,6 +461,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/a-pacemaker-smaller-than-a-grain-of-rice/
+
+---
+title: "A pacemaker smaller than a grain of rice"
+published: 2025-04-07
+lang: en
+canonical: https://ofershap.github.io/posts/a-pacemaker-smaller-than-a-grain-of-rice/
+---
 
 # A pacemaker smaller than a grain of rice
 
@@ -439,6 +509,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/a-prompt-for-freezing-any-emoji-in-a-cinematic-ice-cube/
 
+---
+title: "A prompt for freezing any emoji in a cinematic ice cube"
+published: 2025-08-01
+lang: en
+canonical: https://ofershap.github.io/posts/a-prompt-for-freezing-any-emoji-in-a-cinematic-ice-cube/
+---
+
 # A prompt for freezing any emoji in a cinematic ice cube
 
 August 1, 2025 · 1 min read
@@ -469,6 +546,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/a-real-time-elon-musk-deepfake-went-live-on-tiktok/
 
+---
+title: "A real-time Elon Musk deepfake went live on TikTok"
+published: 2024-08-29
+lang: en
+canonical: https://ofershap.github.io/posts/a-real-time-elon-musk-deepfake-went-live-on-tiktok/
+---
+
 # A real-time Elon Musk deepfake went live on TikTok
 
 August 29, 2024 · 1 min read
@@ -494,6 +578,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/a-real-world-flight-simulator-built-with-opus-and-codex/
+
+---
+title: "A real-world flight simulator built with Opus and Codex"
+published: 2026-02-12
+lang: en
+canonical: https://ofershap.github.io/posts/a-real-world-flight-simulator-built-with-opus-and-codex/
+---
 
 # A real-world flight simulator built with Opus and Codex
 
@@ -523,6 +614,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/a-telegram-bot-that-turns-messages-into-calendar-events/
 
+---
+title: "A Telegram bot that turns messages into calendar events"
+published: 2026-02-15
+lang: en
+canonical: https://ofershap.github.io/posts/a-telegram-bot-that-turns-messages-into-calendar-events/
+---
+
 # A Telegram bot that turns messages into calendar events
 
 February 15, 2026 · 1 min read
@@ -548,6 +646,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/a-time-machine-game-for-practicing-better-reactions/
+
+---
+title: "A time machine game for practicing better reactions"
+published: 2026-03-03
+lang: en
+canonical: https://ofershap.github.io/posts/a-time-machine-game-for-practicing-better-reactions/
+---
 
 # A time machine game for practicing better reactions
 
@@ -587,6 +692,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/a-woman-in-japan-married-an-ai-character/
 
+---
+title: "A woman in Japan married an AI character"
+published: 2025-12-02
+lang: en
+canonical: https://ofershap.github.io/posts/a-woman-in-japan-married-an-ai-character/
+---
+
 # A woman in Japan married an AI character
 
 December 2, 2025 · 1 min read
@@ -614,6 +726,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/accenture-cuts-11000-jobs-in-an-ai-restructuring/
+
+---
+title: "Accenture cuts 11,000 jobs in an AI restructuring"
+published: 2025-10-20
+lang: en
+canonical: https://ofershap.github.io/posts/accenture-cuts-11000-jobs-in-an-ai-restructuring/
+---
 
 # Accenture cuts 11,000 jobs in an AI restructuring
 
@@ -646,6 +765,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/adding-personal-website-shortcuts-with-tampermonkey/
+
+---
+title: "Adding personal website shortcuts with TamperMonkey"
+published: 2025-02-17
+lang: en
+canonical: https://ofershap.github.io/posts/adding-personal-website-shortcuts-with-tampermonkey/
+---
 
 # Adding personal website shortcuts with TamperMonkey
 
@@ -1155,6 +1281,13 @@ canonical: https://ofershap.github.io/posts/agent-workflow-guardrails-before-sca
 
 Canonical URL: https://ofershap.github.io/posts/agentic-browsers-reset-the-browser-market/
 
+---
+title: "Agentic browsers reset the browser market"
+published: 2025-08-14
+lang: en
+canonical: https://ofershap.github.io/posts/agentic-browsers-reset-the-browser-market/
+---
+
 # Agentic browsers reset the browser market
 
 August 14, 2025 · 2 min read
@@ -1261,6 +1394,13 @@ canonical: https://ofershap.github.io/posts/ai-adoption-small-business/
 
 Canonical URL: https://ofershap.github.io/posts/ai-bots-secretly-manipulated-reddit-users/
 
+---
+title: "AI bots secretly manipulated Reddit users"
+published: 2025-04-30
+lang: en
+canonical: https://ofershap.github.io/posts/ai-bots-secretly-manipulated-reddit-users/
+---
+
 # AI bots secretly manipulated Reddit users
 
 Date: 2025-04-30
@@ -1314,6 +1454,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/ai-changes-the-tools-not-the-engineering-problems/
 
+---
+title: "AI changes the tools, not the engineering problems"
+published: 2026-07-01
+lang: en
+canonical: https://ofershap.github.io/posts/ai-changes-the-tools-not-the-engineering-problems/
+---
+
 # AI changes the tools, not the engineering problems
 
 July 1, 2026 · 2 min read
@@ -1354,6 +1501,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/ai-designed-6g-chips-humans-cannot-explain/
 
+---
+title: "AI-designed 6G chips humans cannot explain"
+published: 2025-01-22
+lang: en
+canonical: https://ofershap.github.io/posts/ai-designed-6g-chips-humans-cannot-explain/
+---
+
 # AI-designed 6G chips humans cannot explain
 
 January 22, 2025 · 1 min read
@@ -1387,6 +1541,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/ai-ministers-and-democracy-by-discord/
+
+---
+title: "AI ministers and democracy by Discord"
+published: 2025-09-13
+lang: en
+canonical: https://ofershap.github.io/posts/ai-ministers-and-democracy-by-discord/
+---
 
 # AI ministers and democracy by Discord
 
@@ -1436,6 +1597,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/ai-products-bring-marginal-costs-back-to-software/
 
+---
+title: "AI products bring marginal costs back to software"
+published: 2026-02-09
+lang: en
+canonical: https://ofershap.github.io/posts/ai-products-bring-marginal-costs-back-to-software/
+---
+
 # AI products bring marginal costs back to software
 
 February 9, 2026 · 1 min read
@@ -1467,6 +1635,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/ai-slop-is-making-online-writing-harder-to-read/
+
+---
+title: "AI slop is making online writing harder to read"
+published: 2025-11-30
+lang: en
+canonical: https://ofershap.github.io/posts/ai-slop-is-making-online-writing-harder-to-read/
+---
 
 # AI slop is making online writing harder to read
 
@@ -1524,6 +1699,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/ai-tutors-that-ask-before-they-answer/
 
+---
+title: "AI tutors that ask before they answer"
+published: 2025-07-15
+lang: en
+canonical: https://ofershap.github.io/posts/ai-tutors-that-ask-before-they-answer/
+---
+
 # AI tutors that ask before they answer
 
 July 15, 2025 · 2 min read
@@ -1572,6 +1754,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/an-agent-that-tracks-dependency-changes/
 
+---
+title: "An agent that tracks dependency changes"
+published: 2026-07-07
+lang: en
+canonical: https://ofershap.github.io/posts/an-agent-that-tracks-dependency-changes/
+---
+
 # An agent that tracks dependency changes
 
 July 7, 2026 · 1 min read
@@ -1601,6 +1790,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/an-agent-turns-every-merge-into-a-release-update/
+
+---
+title: "An agent turns every merge into a release update"
+published: 2026-06-29
+lang: en
+canonical: https://ofershap.github.io/posts/an-agent-turns-every-merge-into-a-release-update/
+---
 
 # An agent turns every merge into a release update
 
@@ -1636,6 +1832,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/an-independence-day-kids-meal-toy-made-with-chatgpt/
 
+---
+title: "An Independence Day kids&#x27; meal toy made with ChatGPT"
+published: 2025-05-03
+lang: en
+canonical: https://ofershap.github.io/posts/an-independence-day-kids-meal-toy-made-with-chatgpt/
+---
+
 # An Independence Day kids' meal toy made with ChatGPT
 
 May 3, 2025 · 1 min read
@@ -1666,6 +1869,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/ask-gemini-from-the-chrome-address-bar/
 
+---
+title: "Ask GEMINI from the CHROME address bar"
+published: 2025-01-15
+lang: en
+canonical: https://ofershap.github.io/posts/ask-gemini-from-the-chrome-address-bar/
+---
+
 # Ask GEMINI from the CHROME address bar
 
 January 15, 2025 · 1 min read
@@ -1689,6 +1899,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/blands-ai-voice-agents-sound-almost-human/
+
+---
+title: "Bland&#x27;s AI voice agents sound almost human"
+published: 2025-02-12
+lang: en
+canonical: https://ofershap.github.io/posts/blands-ai-voice-agents-sound-almost-human/
+---
 
 # Bland's AI voice agents sound almost human
 
@@ -1724,6 +1941,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/blip-turns-text-prompts-into-mobile-games/
 
+---
+title: "Blip turns text prompts into mobile games"
+published: 2025-04-14
+lang: en
+canonical: https://ofershap.github.io/posts/blip-turns-text-prompts-into-mobile-games/
+---
+
 # Blip turns text prompts into mobile games
 
 April 14, 2025 · 1 min read
@@ -1749,6 +1973,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/blue-elephant-turns-a-lost-handwriting-into-a-free-font/
+
+---
+title: "Blue Elephant turns a lost handwriting into a free font"
+published: 2020-08-15
+lang: en
+canonical: https://ofershap.github.io/posts/blue-elephant-turns-a-lost-handwriting-into-a-free-font/
+---
 
 # Blue Elephant turns a lost handwriting into a free font
 
@@ -1777,6 +2008,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/boris-chernys-ai-adoption-model-fuels-the-bubble/
+
+---
+title: "Boris Cherny&#x27;s AI adoption model fuels the bubble"
+published: 2026-07-17
+lang: en
+canonical: https://ofershap.github.io/posts/boris-chernys-ai-adoption-model-fuels-the-bubble/
+---
 
 # Boris Cherny's AI adoption model fuels the bubble
 
@@ -1885,6 +2123,13 @@ canonical: https://ofershap.github.io/posts/browser-extension-race-condition-tes
 
 Canonical URL: https://ofershap.github.io/posts/build-a-personal-website-from-your-linkedin-profile/
 
+---
+title: "Build a personal website from your LinkedIn profile"
+published: 2025-05-04
+lang: en
+canonical: https://ofershap.github.io/posts/build-a-personal-website-from-your-linkedin-profile/
+---
+
 # Build a personal website from your LinkedIn profile
 
 May 4, 2025 · 1 min read
@@ -1918,6 +2163,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/building-a-custom-gpt-for-better-business-writing/
+
+---
+title: "Building a Custom GPT for better business writing"
+published: 2025-02-04
+lang: en
+canonical: https://ofershap.github.io/posts/building-a-custom-gpt-for-better-business-writing/
+---
 
 # Building a Custom GPT for better business writing
 
@@ -1959,6 +2211,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/building-ai-parent-with-lovable-cursor-and-chatgpt/
 
+---
+title: "Building AI Parent with Lovable, Cursor, and ChatGPT"
+published: 2025-02-21
+lang: en
+canonical: https://ofershap.github.io/posts/building-ai-parent-with-lovable-cursor-and-chatgpt/
+---
+
 # Building AI Parent with Lovable, Cursor, and ChatGPT
 
 February 21, 2025 · 1 min read
@@ -1996,6 +2255,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/building-apps-by-assigning-tasks-to-cursor/
+
+---
+title: "Building apps by assigning tasks to Cursor"
+published: 2025-02-13
+lang: en
+canonical: https://ofershap.github.io/posts/building-apps-by-assigning-tasks-to-cursor/
+---
 
 # Building apps by assigning tasks to Cursor
 
@@ -2041,6 +2307,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/building-complete-websites-with-ai/
 
+---
+title: "Building complete websites with AI"
+published: 2025-02-17
+lang: en
+canonical: https://ofershap.github.io/posts/building-complete-websites-with-ai/
+---
+
 # Building complete websites with AI
 
 February 17, 2025 · 1 min read
@@ -2071,6 +2344,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/building-hypes-during-a-42-km-marathon/
 
+---
+title: "Building Hypes during a 42 km marathon"
+published: 2026-03-11
+lang: en
+canonical: https://ofershap.github.io/posts/building-hypes-during-a-42-km-marathon/
+---
+
 # Building Hypes during a 42 km marathon
 
 March 11, 2026 · 1 min read
@@ -2094,6 +2374,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/building-letmeaithatforyou-in-3-hours-with-lovable-dev/
+
+---
+title: "Building LetMeAIThatForYou in 3 hours with Lovable.dev"
+published: 2025-01-06
+lang: en
+canonical: https://ofershap.github.io/posts/building-letmeaithatforyou-in-3-hours-with-lovable-dev/
+---
 
 # Building LetMeAIThatForYou in 3 hours with Lovable.dev
 
@@ -2125,6 +2412,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/casio-moves-from-watches-to-emotional-robots/
 
+---
+title: "Casio moves from watches to emotional robots"
+published: 2025-10-14
+lang: en
+canonical: https://ofershap.github.io/posts/casio-moves-from-watches-to-emotional-robots/
+---
+
 # Casio moves from watches to emotional robots
 
 October 14, 2025 · 1 min read
@@ -2152,6 +2446,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/catching-a-1500-cursor-spend-anomaly-in-real-time/
+
+---
+title: "Catching a $1,500 Cursor spend anomaly in real time"
+published: 2026-03-05
+lang: en
+canonical: https://ofershap.github.io/posts/catching-a-1500-cursor-spend-anomaly-in-real-time/
+---
 
 # Catching a $1,500 Cursor spend anomaly in real time
 
@@ -2186,6 +2487,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/chatgpt-keyboard-shortcuts-for-everyday-use/
+
+---
+title: "ChatGPT keyboard shortcuts for everyday use"
+published: 2025-05-10
+lang: en
+canonical: https://ofershap.github.io/posts/chatgpt-keyboard-shortcuts-for-everyday-use/
+---
 
 # ChatGPT keyboard shortcuts for everyday use
 
@@ -2227,6 +2535,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/china-is-betting-on-applied-ai-not-agi/
 
+---
+title: "China is betting on applied AI, not AGI"
+published: 2025-09-15
+lang: en
+canonical: https://ofershap.github.io/posts/china-is-betting-on-applied-ai-not-agi/
+---
+
 # China is betting on applied AI, not AGI
 
 September 15, 2025 · 1 min read
@@ -2263,6 +2578,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/china-is-closing-the-ai-gap-with-the-us/
 
+---
+title: "China is closing the AI gap with the US"
+published: 2025-01-01
+lang: en
+canonical: https://ofershap.github.io/posts/china-is-closing-the-ai-gap-with-the-us/
+---
+
 # China is closing the AI gap with the US
 
 January 1, 2025 · 1 min read
@@ -2292,6 +2614,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/claude-code-adds-diff-view-for-ai-generated-code/
+
+---
+title: "Claude Code adds diff view for AI-generated code"
+published: 2026-01-28
+lang: en
+canonical: https://ofershap.github.io/posts/claude-code-adds-diff-view-for-ai-generated-code/
+---
 
 # Claude Code adds diff view for AI-generated code
 
@@ -2392,6 +2721,13 @@ canonical: https://ofershap.github.io/posts/coding-agent-success-criteria/
 
 Canonical URL: https://ofershap.github.io/posts/coding-in-parallel-with-cursor/
 
+---
+title: "Coding in parallel with Cursor"
+published: 2026-02-11
+lang: en
+canonical: https://ofershap.github.io/posts/coding-in-parallel-with-cursor/
+---
+
 # Coding in parallel with Cursor
 
 February 11, 2026 · 1 min read
@@ -2418,6 +2754,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/context-snack-fills-the-wait-while-ai-agents-work/
 
+---
+title: "Context Snack fills the wait while AI agents work"
+published: 2026-08-03
+lang: en
+canonical: https://ofershap.github.io/posts/context-snack-fills-the-wait-while-ai-agents-work/
+---
+
 # Context Snack fills the wait while AI agents work
 
 August 3, 2026 · 1 min read
@@ -2443,6 +2786,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/cursor-raised-900m-at-a-9-9b-valuation/
+
+---
+title: "Cursor raised $900M at a $9.9B valuation"
+published: 2025-06-07
+lang: en
+canonical: https://ofershap.github.io/posts/cursor-raised-900m-at-a-9-9b-valuation/
+---
 
 # Cursor raised $900M at a $9.9B valuation
 
@@ -2596,6 +2946,13 @@ canonical: https://ofershap.github.io/posts/cursor-team-adoption/
 
 Canonical URL: https://ofershap.github.io/posts/cursors-sqlite-swarm-breaks-human-speed-workflows/
 
+---
+title: "Cursor’s SQLite swarm breaks human-speed workflows"
+published: 2026-07-23
+lang: en
+canonical: https://ofershap.github.io/posts/cursors-sqlite-swarm-breaks-human-speed-workflows/
+---
+
 # Cursor’s SQLite swarm breaks human-speed workflows
 
 July 23, 2026 · 1 min read
@@ -2627,6 +2984,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/cutting-token-costs-in-cursor-and-claude-code/
+
+---
+title: "Cutting token costs in Cursor and Claude Code"
+published: 2026-04-19
+lang: en
+canonical: https://ofershap.github.io/posts/cutting-token-costs-in-cursor-and-claude-code/
+---
 
 # Cutting token costs in Cursor and Claude Code
 
@@ -2694,6 +3058,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/daniel-schreiber-on-the-speed-and-scale-of-ai/
 
+---
+title: "Daniel Schreiber on the speed and scale of AI"
+published: 2025-01-01
+lang: en
+canonical: https://ofershap.github.io/posts/daniel-schreiber-on-the-speed-and-scale-of-ai/
+---
+
 # Daniel Schreiber on the speed and scale of AI
 
 January 1, 2025 · 1 min read
@@ -2725,6 +3096,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/decarts-10x-gpu-gains-and-million-user-demo/
+
+---
+title: "Decart&#x27;s 10x GPU gains and million-user demo"
+published: 2025-05-15
+lang: en
+canonical: https://ofershap.github.io/posts/decarts-10x-gpu-gains-and-million-user-demo/
+---
 
 # Decart's 10x GPU gains and million-user demo
 
@@ -2857,6 +3235,13 @@ canonical: https://ofershap.github.io/posts/decision-first-pr-description/
 
 Canonical URL: https://ofershap.github.io/posts/designing-ai-interfaces-around-the-autonomy-slider/
 
+---
+title: "Designing AI interfaces around the autonomy slider"
+published: 2025-07-10
+lang: en
+canonical: https://ofershap.github.io/posts/designing-ai-interfaces-around-the-autonomy-slider/
+---
+
 # Designing AI interfaces around the autonomy slider
 
 July 10, 2025 · 2 min read
@@ -2915,6 +3300,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/detecting-production-bugs-through-missing-mixpanel-events/
 
+---
+title: "Detecting production bugs through missing Mixpanel events"
+published: 2026-07-02
+lang: en
+canonical: https://ofershap.github.io/posts/detecting-production-bugs-through-missing-mixpanel-events/
+---
+
 # Detecting production bugs through missing Mixpanel events
 
 July 2, 2026 · 1 min read
@@ -2951,6 +3343,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/dolphingemma-could-let-us-talk-with-dolphins-in-2025/
 
+---
+title: "DolphinGemma could let us talk with dolphins in 2025"
+published: 2025-04-17
+lang: en
+canonical: https://ofershap.github.io/posts/dolphingemma-could-let-us-talk-with-dolphins-in-2025/
+---
+
 # DolphinGemma could let us talk with dolphins in 2025
 
 April 17, 2025 · 1 min read
@@ -2983,6 +3382,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/dreamactor-m1-turns-a-single-photo-into-a-performance/
 
+---
+title: "DreamActor-M1 turns a single photo into a performance"
+published: 2025-04-04
+lang: en
+canonical: https://ofershap.github.io/posts/dreamactor-m1-turns-a-single-photo-into-a-performance/
+---
+
 # DreamActor-M1 turns a single photo into a performance
 
 April 4, 2025 · 1 min read
@@ -3012,6 +3418,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/eliezer-steinbock-built-inbox-zero-without-funding/
+
+---
+title: "Eliezer Steinbock built Inbox Zero without funding"
+published: 2025-06-09
+lang: en
+canonical: https://ofershap.github.io/posts/eliezer-steinbock-built-inbox-zero-without-funding/
+---
 
 # Eliezer Steinbock built Inbox Zero without funding
 
@@ -3046,6 +3459,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/exploded-product-visuals-with-nano-banana-pro/
+
+---
+title: "Exploded product visuals with Nano Banana Pro"
+published: 2025-12-16
+lang: en
+canonical: https://ofershap.github.io/posts/exploded-product-visuals-with-nano-banana-pro/
+---
 
 # Exploded product visuals with Nano Banana Pro
 
@@ -3148,6 +3568,13 @@ canonical: https://ofershap.github.io/posts/feature-to-marketing-with-ai/
 
 Canonical URL: https://ofershap.github.io/posts/fiverr-go-lets-freelancers-create-ai-versions-of-their-work/
 
+---
+title: "Fiverr Go lets freelancers create AI versions of their work"
+published: 2025-02-20
+lang: en
+canonical: https://ofershap.github.io/posts/fiverr-go-lets-freelancers-create-ai-versions-of-their-work/
+---
+
 # Fiverr Go lets freelancers create AI versions of their work
 
 February 20, 2025 · 1 min read
@@ -3188,6 +3615,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/fixing-jira-with-a-chrome-extension/
 
+---
+title: "Fixing JIRA with a Chrome extension"
+published: 2024-01-08
+lang: en
+canonical: https://ofershap.github.io/posts/fixing-jira-with-a-chrome-extension/
+---
+
 # Fixing JIRA with a Chrome extension
 
 January 8, 2024 · 1 min read
@@ -3211,6 +3645,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/from-nokia-keypads-to-ai-intermediaries/
+
+---
+title: "From Nokia keypads to AI intermediaries"
+published: 2025-12-31
+lang: en
+canonical: https://ofershap.github.io/posts/from-nokia-keypads-to-ai-intermediaries/
+---
 
 # From Nokia keypads to AI intermediaries
 
@@ -3237,6 +3678,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/github-output-from-10-prolific-developers/
+
+---
+title: "GitHub output from 10 prolific developers"
+published: 2026-02-27
+lang: en
+canonical: https://ofershap.github.io/posts/github-output-from-10-prolific-developers/
+---
 
 # GitHub output from 10 prolific developers
 
@@ -3283,6 +3731,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/gitshow-adds-project-context-to-github-profiles/
+
+---
+title: "GitShow adds project context to GitHub profiles"
+published: 2026-02-25
+lang: en
+canonical: https://ofershap.github.io/posts/gitshow-adds-project-context-to-github-profiles/
+---
 
 # GitShow adds project context to GitHub profiles
 
@@ -3332,6 +3787,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/gitshow-turns-github-profiles-into-project-portfolios/
 
+---
+title: "GitShow turns GitHub profiles into project portfolios"
+published: 2026-02-26
+lang: en
+canonical: https://ofershap.github.io/posts/gitshow-turns-github-profiles-into-project-portfolios/
+---
+
 # GitShow turns GitHub profiles into project portfolios
 
 February 26, 2026 · 1 min read
@@ -3369,6 +3831,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/give-cursor-access-to-your-previous-conversations/
+
+---
+title: "Give Cursor access to your previous conversations"
+published: 2026-01-29
+lang: en
+canonical: https://ofershap.github.io/posts/give-cursor-access-to-your-previous-conversations/
+---
 
 # Give Cursor access to your previous conversations
 
@@ -3466,6 +3935,13 @@ canonical: https://ofershap.github.io/posts/golden-sample-agent-quality-cost-che
 
 Canonical URL: https://ofershap.github.io/posts/google-built-chatgpts-foundation-then-lost-the-lead/
 
+---
+title: "Google built ChatGPT’s foundation, then lost the lead"
+published: 2025-02-26
+lang: en
+canonical: https://ofershap.github.io/posts/google-built-chatgpts-foundation-then-lost-the-lead/
+---
+
 # Google built ChatGPT’s foundation, then lost the lead
 
 February 26, 2025 · 2 min read
@@ -3513,6 +3989,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/googles-num-100-change-rewrote-web-distribution/
+
+---
+title: "Google&#x27;s num=100 change rewrote web distribution"
+published: 2025-11-04
+lang: en
+canonical: https://ofershap.github.io/posts/googles-num-100-change-rewrote-web-distribution/
+---
 
 # Google's num=100 change rewrote web distribution
 
@@ -3574,6 +4057,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/goose-runs-an-open-source-coding-agent-locally/
 
+---
+title: "Goose runs an open-source coding agent locally"
+published: 2026-02-04
+lang: en
+canonical: https://ofershap.github.io/posts/goose-runs-an-open-source-coding-agent-locally/
+---
+
 # Goose runs an open-source coding agent locally
 
 February 4, 2026 · 1 min read
@@ -3599,6 +4089,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/guesss-ai-model-and-the-cost-of-synthetic-advertising/
+
+---
+title: "Guess&#x27;s AI model and the cost of synthetic advertising"
+published: 2025-08-21
+lang: en
+canonical: https://ofershap.github.io/posts/guesss-ai-model-and-the-cost-of-synthetic-advertising/
+---
 
 # Guess's AI model and the cost of synthetic advertising
 
@@ -3634,6 +4131,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/gummy-shoots-gum-straight-into-your-mouth/
 
+---
+title: "Gummy shoots gum straight into your mouth"
+published: 2025-04-01
+lang: en
+canonical: https://ofershap.github.io/posts/gummy-shoots-gum-straight-into-your-mouth/
+---
+
 # Gummy shoots gum straight into your mouth
 
 April 1, 2025 · 1 min read
@@ -3661,6 +4165,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/hidden-prompt-injection-through-image-downscaling/
+
+---
+title: "Hidden prompt injection through image downscaling"
+published: 2025-10-07
+lang: en
+canonical: https://ofershap.github.io/posts/hidden-prompt-injection-through-image-downscaling/
+---
 
 # Hidden prompt injection through image downscaling
 
@@ -3702,6 +4213,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/how-a-google-calendar-invite-can-hijack-chatgpt/
 
+---
+title: "How a Google Calendar invite can hijack ChatGPT"
+published: 2025-10-26
+lang: en
+canonical: https://ofershap.github.io/posts/how-a-google-calendar-invite-can-hijack-chatgpt/
+---
+
 # How a Google Calendar invite can hijack ChatGPT
 
 October 26, 2025 · 1 min read
@@ -3738,6 +4256,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/how-agents-choose-among-too-many-tools/
 
+---
+title: "How agents choose among too many tools"
+published: 2026-07-22
+lang: en
+canonical: https://ofershap.github.io/posts/how-agents-choose-among-too-many-tools/
+---
+
 # How agents choose among too many tools
 
 July 22, 2026 · 1 min read
@@ -3765,6 +4290,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/how-ai-changed-elementors-2025-hackathon/
+
+---
+title: "How AI changed Elementor&#x27;s 2025 hackathon"
+published: 2025-07-17
+lang: en
+canonical: https://ofershap.github.io/posts/how-ai-changed-elementors-2025-hackathon/
+---
 
 # How AI changed Elementor's 2025 hackathon
 
@@ -3799,6 +4331,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/how-ai-will-change-online-shopping-and-product-discovery/
+
+---
+title: "How AI will change online shopping and product discovery"
+published: 2025-03-23
+lang: en
+canonical: https://ofershap.github.io/posts/how-ai-will-change-online-shopping-and-product-discovery/
+---
 
 # How AI will change online shopping and product discovery
 
@@ -3844,6 +4383,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/how-chatgpt-cut-a-6000-landlord-claim-to-300/
 
+---
+title: "How ChatGPT cut a $6,000 landlord claim to $300"
+published: 2025-10-15
+lang: en
+canonical: https://ofershap.github.io/posts/how-chatgpt-cut-a-6000-landlord-claim-to-300/
+---
+
 # How ChatGPT cut a $6,000 landlord claim to $300
 
 October 15, 2025 · 1 min read
@@ -3873,6 +4419,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/how-cursor-built-my-gcp-browser-extension-in-30-minutes/
+
+---
+title: "How Cursor built my GCP browser extension in 30 minutes"
+published: 2026-01-27
+lang: en
+canonical: https://ofershap.github.io/posts/how-cursor-built-my-gcp-browser-extension-in-30-minutes/
+---
 
 # How Cursor built my GCP browser extension in 30 minutes
 
@@ -3924,6 +4477,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/how-cursor-removed-codebase-bottlenecks-from-our-team/
 
+---
+title: "How Cursor removed codebase bottlenecks from our team"
+published: 2025-07-24
+lang: en
+canonical: https://ofershap.github.io/posts/how-cursor-removed-codebase-bottlenecks-from-our-team/
+---
+
 # How Cursor removed codebase bottlenecks from our team
 
 July 24, 2025 · 1 min read
@@ -3963,6 +4523,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/how-elementor-hosting-scales-on-google-cloud/
+
+---
+title: "How Elementor Hosting scales on Google Cloud"
+published: 2025-06-11
+lang: en
+canonical: https://ofershap.github.io/posts/how-elementor-hosting-scales-on-google-cloud/
+---
 
 # How Elementor Hosting scales on Google Cloud
 
@@ -4004,6 +4571,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/how-fiverr-responded-to-the-threat-from-chatgpt/
 
+---
+title: "How Fiverr responded to the threat from ChatGPT"
+published: 2023-02-01
+lang: en
+canonical: https://ofershap.github.io/posts/how-fiverr-responded-to-the-threat-from-chatgpt/
+---
+
 # How Fiverr responded to the threat from ChatGPT
 
 February 1, 2023 · 1 min read
@@ -4031,6 +4605,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/how-fly-pieter-com-reached-30000-a-month-with-ai/
+
+---
+title: "How fly.pieter.com reached $30,000 a month with AI"
+published: 2025-03-04
+lang: en
+canonical: https://ofershap.github.io/posts/how-fly-pieter-com-reached-30000-a-month-with-ai/
+---
 
 # How fly.pieter.com reached $30,000 a month with AI
 
@@ -4073,6 +4654,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/how-gamma-reached-50-million-users-with-28-employees/
+
+---
+title: "How Gamma reached 50 million users with 28 employees"
+published: 2025-05-14
+lang: en
+canonical: https://ofershap.github.io/posts/how-gamma-reached-50-million-users-with-28-employees/
+---
 
 # How Gamma reached 50 million users with 28 employees
 
@@ -4120,6 +4708,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/how-giving-first-opened-y-combinators-doors-for-garry-tan/
 
+---
+title: "How giving first opened Y Combinator&#x27;s doors for Garry Tan"
+published: 2025-03-31
+lang: en
+canonical: https://ofershap.github.io/posts/how-giving-first-opened-y-combinators-doors-for-garry-tan/
+---
+
 # How giving first opened Y Combinator's doors for Garry Tan
 
 March 31, 2025 · 2 min read
@@ -4158,6 +4753,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/how-google-stitch-describes-ui-for-ai-agents/
 
+---
+title: "How Google Stitch describes UI for AI agents"
+published: 2026-05-06
+lang: en
+canonical: https://ofershap.github.io/posts/how-google-stitch-describes-ui-for-ai-agents/
+---
+
 # How Google Stitch describes UI for AI agents
 
 May 6, 2026 · 1 min read
@@ -4185,6 +4787,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/how-i-reduced-chatgpt-memory-usage-from-100-to-20/
+
+---
+title: "How I reduced ChatGPT memory usage from 100% to 20%"
+published: 2025-01-20
+lang: en
+canonical: https://ofershap.github.io/posts/how-i-reduced-chatgpt-memory-usage-from-100-to-20/
+---
 
 # How I reduced ChatGPT memory usage from 100% to 20%
 
@@ -4248,6 +4857,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/how-i-use-rovo-across-slack-jira-and-confluence/
 
+---
+title: "How I use Rovo across Slack, Jira, and Confluence"
+published: 2026-06-23
+lang: en
+canonical: https://ofershap.github.io/posts/how-i-use-rovo-across-slack-jira-and-confluence/
+---
+
 # How I use Rovo across Slack, Jira, and Confluence
 
 June 23, 2026 · 1 min read
@@ -4279,6 +4895,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/how-internet-companies-describe-their-vision/
+
+---
+title: "How internet companies describe their vision"
+published: 2020-10-31
+lang: en
+canonical: https://ofershap.github.io/posts/how-internet-companies-describe-their-vision/
+---
 
 # How internet companies describe their vision
 
@@ -4326,6 +4949,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/how-mcp-gives-ai-models-access-to-your-full-project/
 
+---
+title: "How MCP gives AI models access to your full project"
+published: 2025-02-15
+lang: en
+canonical: https://ofershap.github.io/posts/how-mcp-gives-ai-models-access-to-your-full-project/
+---
+
 # How MCP gives AI models access to your full project
 
 February 15, 2025 · 1 min read
@@ -4372,6 +5002,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/how-o2s-ai-grandmother-wastes-scammers-time/
 
+---
+title: "How O2&#x27;s AI grandmother wastes scammers&#x27; time"
+published: 2024-12-03
+lang: en
+canonical: https://ofershap.github.io/posts/how-o2s-ai-grandmother-wastes-scammers-time/
+---
+
 # How O2's AI grandmother wastes scammers' time
 
 December 3, 2024 · 1 min read
@@ -4403,6 +5040,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/how-openclaw-became-githubs-fastest-growing-project/
+
+---
+title: "How OpenClaw became GitHub&#x27;s fastest-growing project"
+published: 2026-02-17
+lang: en
+canonical: https://ofershap.github.io/posts/how-openclaw-became-githubs-fastest-growing-project/
+---
 
 # How OpenClaw became GitHub's fastest-growing project
 
@@ -4441,6 +5085,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/how-replit-grew-from-a-side-project-to-1-16-billion/
+
+---
+title: "How Replit grew from a side project to $1.16 billion"
+published: 2025-01-10
+lang: en
+canonical: https://ofershap.github.io/posts/how-replit-grew-from-a-side-project-to-1-16-billion/
+---
 
 # How Replit grew from a side project to $1.16 billion
 
@@ -4510,6 +5161,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/how-reverse-graffiti-turns-cleaning-into-advertising/
 
+---
+title: "How reverse graffiti turns cleaning into advertising"
+published: 2025-03-18
+lang: en
+canonical: https://ofershap.github.io/posts/how-reverse-graffiti-turns-cleaning-into-advertising/
+---
+
 # How reverse graffiti turns cleaning into advertising
 
 March 18, 2025 · 1 min read
@@ -4541,6 +5199,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/how-riseup-changed-our-family-finances/
+
+---
+title: "How RiseUp changed our family finances"
+published: 2024-02-18
+lang: en
+canonical: https://ofershap.github.io/posts/how-riseup-changed-our-family-finances/
+---
 
 # How RiseUp changed our family finances
 
@@ -4577,6 +5242,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/how-someone-won-13-19-eth-from-the-freysa-ai-agent/
+
+---
+title: "How someone won 13.19 ETH from the Freysa AI agent"
+published: 2024-11-30
+lang: en
+canonical: https://ofershap.github.io/posts/how-someone-won-13-19-eth-from-the-freysa-ai-agent/
+---
 
 # How someone won 13.19 ETH from the Freysa AI agent
 
@@ -4633,6 +5305,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/how-the-gauntlet-loop-built-a-game-from-one-prompt/
 
+---
+title: "How the Gauntlet Loop built a game from one prompt"
+published: 2026-08-02
+lang: en
+canonical: https://ofershap.github.io/posts/how-the-gauntlet-loop-built-a-game-from-one-prompt/
+---
+
 # How the Gauntlet Loop built a game from one prompt
 
 August 2, 2026 · 1 min read
@@ -4669,6 +5348,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/how-to-remove-ai-generated-intimate-images/
 
+---
+title: "How to remove AI-generated intimate images"
+published: 2023-08-12
+lang: en
+canonical: https://ofershap.github.io/posts/how-to-remove-ai-generated-intimate-images/
+---
+
 # How to remove AI-generated intimate images
 
 August 12, 2023 · 1 min read
@@ -4692,6 +5378,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/how-two-people-built-an-earth-sandwich/
+
+---
+title: "How two people built an Earth sandwich"
+published: 2025-06-20
+lang: en
+canonical: https://ofershap.github.io/posts/how-two-people-built-an-earth-sandwich/
+---
 
 # How two people built an Earth sandwich
 
@@ -4718,6 +5411,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/how-windward-mapped-the-open-ocean/
+
+---
+title: "How Windward mapped the open ocean"
+published: 2025-01-05
+lang: en
+canonical: https://ofershap.github.io/posts/how-windward-mapped-the-open-ocean/
+---
 
 # How Windward mapped the open ocean
 
@@ -4822,6 +5522,13 @@ GitHub ממליצה לאמת את משוב Copilot ולשלב review אנושי.
 
 Canonical URL: https://ofershap.github.io/posts/ikea-is-replacing-styrofoam-with-mushroom-packaging/
 
+---
+title: "IKEA is replacing Styrofoam with mushroom packaging"
+published: 2025-07-07
+lang: en
+canonical: https://ofershap.github.io/posts/ikea-is-replacing-styrofoam-with-mushroom-packaging/
+---
+
 # IKEA is replacing Styrofoam with mushroom packaging
 
 July 7, 2025 · 1 min read
@@ -4860,6 +5567,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/jordan-rolls-out-an-ai-learning-assistant-built-by-one-person/
 
+---
+title: "Jordan rolls out an AI learning assistant built by one person"
+published: 2025-10-25
+lang: en
+canonical: https://ofershap.github.io/posts/jordan-rolls-out-an-ai-learning-assistant-built-by-one-person/
+---
+
 # Jordan rolls out an AI learning assistant built by one person
 
 October 25, 2025 · 1 min read
@@ -4889,6 +5603,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/judge-ai-features-by-usefulness-not-novelty/
+
+---
+title: "Judge AI features by usefulness, not novelty"
+published: 2025-04-28
+lang: en
+canonical: https://ofershap.github.io/posts/judge-ai-features-by-usefulness-not-novelty/
+---
 
 # Judge AI features by usefulness, not novelty
 
@@ -5004,6 +5725,13 @@ canonical: https://ofershap.github.io/posts/keep-agent-context-current/
 
 Canonical URL: https://ofershap.github.io/posts/kids-will-see-hand-written-code-as-ancient-history/
 
+---
+title: "Kids will see hand-written code as ancient history"
+published: 2025-12-30
+lang: en
+canonical: https://ofershap.github.io/posts/kids-will-see-hand-written-code-as-ancient-history/
+---
+
 # Kids will see hand-written code as ancient history
 
 December 30, 2025 · 1 min read
@@ -5036,6 +5764,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/learn-sql-by-solving-a-murder-mystery/
 
+---
+title: "Learn SQL by solving a murder mystery"
+published: 2025-03-27
+lang: en
+canonical: https://ofershap.github.io/posts/learn-sql-by-solving-a-murder-mystery/
+---
+
 # Learn SQL by solving a murder mystery
 
 March 27, 2025 · 1 min read
@@ -5061,6 +5796,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/lessons-from-alon-arvatzs-book-on-israeli-cyber/
+
+---
+title: "Lessons from Alon Arvatz’s book on Israeli cyber"
+published: 2023-08-23
+lang: en
+canonical: https://ofershap.github.io/posts/lessons-from-alon-arvatzs-book-on-israeli-cyber/
+---
 
 # Lessons from Alon Arvatz’s book on Israeli cyber
 
@@ -5093,6 +5835,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/let-ai-tell-you-how-to-prompt-it/
+
+---
+title: "Let AI tell you how to prompt it"
+published: 2025-02-18
+lang: en
+canonical: https://ofershap.github.io/posts/let-ai-tell-you-how-to-prompt-it/
+---
 
 # Let AI tell you how to prompt it
 
@@ -26249,6 +26998,13 @@ Published: 2026-10-19T09:12:22.392000+03:00
 
 Canonical URL: https://ofershap.github.io/posts/lovable-built-super-tic-tac-toe-from-one-question/
 
+---
+title: "Lovable built Super Tic Tac Toe from one question"
+published: 2024-12-14
+lang: en
+canonical: https://ofershap.github.io/posts/lovable-built-super-tic-tac-toe-from-one-question/
+---
+
 # Lovable built Super Tic Tac Toe from one question
 
 December 14, 2024 · 1 min read
@@ -26274,6 +27030,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/make-cursor-challenge-your-code-decisions/
+
+---
+title: "Make Cursor challenge your code decisions"
+published: 2025-06-26
+lang: en
+canonical: https://ofershap.github.io/posts/make-cursor-challenge-your-code-decisions/
+---
 
 # Make Cursor challenge your code decisions
 
@@ -26307,6 +27070,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/make-cursor-read-the-logs-it-cannot-watch/
 
+---
+title: "Make Cursor read the logs it cannot watch"
+published: 2025-09-08
+lang: en
+canonical: https://ofershap.github.io/posts/make-cursor-read-the-logs-it-cannot-watch/
+---
+
 # Make Cursor read the logs it cannot watch
 
 September 8, 2025 · 1 min read
@@ -26336,6 +27106,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/managing-cursor-through-rules-and-context-windows/
+
+---
+title: "Managing Cursor through rules and context windows"
+published: 2025-08-11
+lang: en
+canonical: https://ofershap.github.io/posts/managing-cursor-through-rules-and-context-windows/
+---
 
 # Managing Cursor through rules and context windows
 
@@ -26399,6 +27176,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/managing-your-life-like-a-product-roadmap/
 
+---
+title: "Managing your life like a product roadmap"
+published: 2023-05-09
+lang: en
+canonical: https://ofershap.github.io/posts/managing-your-life-like-a-product-roadmap/
+---
+
 # Managing your life like a product roadmap
 
 May 9, 2023 · 1 min read
@@ -26424,6 +27208,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/marios-cart-shows-how-fast-ai-filmmaking-is-moving/
+
+---
+title: "Mario&#x27;s Cart shows how fast AI filmmaking is moving"
+published: 2026-04-07
+lang: en
+canonical: https://ofershap.github.io/posts/marios-cart-shows-how-fast-ai-filmmaking-is-moving/
+---
 
 # Mario's Cart shows how fast AI filmmaking is moving
 
@@ -26532,6 +27323,13 @@ canonical: https://ofershap.github.io/posts/mcp-first-read-connection-check/
 
 Canonical URL: https://ofershap.github.io/posts/mcp-is-how-ai-talks-to-software/
 
+---
+title: "MCP is how AI talks to software"
+published: 2025-04-06
+lang: en
+canonical: https://ofershap.github.io/posts/mcp-is-how-ai-talks-to-software/
+---
+
 # MCP is how AI talks to software
 
 Date: 2025-04-06
@@ -26596,6 +27394,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/midjourneys-60-second-medical-imaging-machine/
 
+---
+title: "Midjourney’s 60-second medical imaging machine"
+published: 2026-06-22
+lang: en
+canonical: https://ofershap.github.io/posts/midjourneys-60-second-medical-imaging-machine/
+---
+
 # Midjourney’s 60-second medical imaging machine
 
 June 22, 2026 · 1 min read
@@ -26623,6 +27428,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/moltbook-is-a-social-network-built-for-ai-agents/
+
+---
+title: "Moltbook is a social network built for AI agents"
+published: 2026-01-30
+lang: en
+canonical: https://ofershap.github.io/posts/moltbook-is-a-social-network-built-for-ai-agents/
+---
 
 # Moltbook is a social network built for AI agents
 
@@ -26795,6 +27607,13 @@ canonical: https://ofershap.github.io/posts/native-tool-before-custom-agent/
 
 Canonical URL: https://ofershap.github.io/posts/netflix-tests-natural-language-search-with-openai/
 
+---
+title: "Netflix tests natural-language search with OpenAI"
+published: 2025-04-25
+lang: en
+canonical: https://ofershap.github.io/posts/netflix-tests-natural-language-search-with-openai/
+---
+
 # Netflix tests natural-language search with OpenAI
 
 April 25, 2025 · 1 min read
@@ -26822,6 +27641,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/new-york-restaurants-are-hiring-remote-cashiers-for-3-an-hour/
+
+---
+title: "New York restaurants are hiring remote cashiers for $3 an hour"
+published: 2025-11-17
+lang: en
+canonical: https://ofershap.github.io/posts/new-york-restaurants-are-hiring-remote-cashiers-for-3-an-hour/
+---
 
 # New York restaurants are hiring remote cashiers for $3 an hour
 
@@ -26851,6 +27677,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/noetix-robotics-launches-a-1375-home-humanoid/
 
+---
+title: "NOETIX Robotics launches a $1,375 home humanoid"
+published: 2025-11-11
+lang: en
+canonical: https://ofershap.github.io/posts/noetix-robotics-launches-a-1375-home-humanoid/
+---
+
 # NOETIX Robotics launches a $1,375 home humanoid
 
 November 11, 2025 · 1 min read
@@ -26878,6 +27711,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/noma-securitys-account-based-marketing-tactic/
+
+---
+title: "Noma Security’s account-based marketing tactic"
+published: 2025-12-07
+lang: en
+canonical: https://ofershap.github.io/posts/noma-securitys-account-based-marketing-tactic/
+---
 
 # Noma Security’s account-based marketing tactic
 
@@ -26907,6 +27747,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/o3-pro-can-overthink-even-the-simplest-prompts/
 
+---
+title: "o3-pro can overthink even the simplest prompts"
+published: 2025-06-15
+lang: en
+canonical: https://ofershap.github.io/posts/o3-pro-can-overthink-even-the-simplest-prompts/
+---
+
 # o3-pro can overthink even the simplest prompts
 
 June 15, 2025 · 1 min read
@@ -26935,6 +27782,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/one-prompt-can-now-generate-a-complete-short-film/
 
+---
+title: "One prompt can now generate a complete short film"
+published: 2026-03-13
+lang: en
+canonical: https://ofershap.github.io/posts/one-prompt-can-now-generate-a-complete-short-film/
+---
+
 # One prompt can now generate a complete short film
 
 March 13, 2026 · 1 min read
@@ -26960,6 +27814,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/opus-4-5-found-a-policy-loophole-a-human-agent-missed/
+
+---
+title: "Opus 4.5 found a policy loophole a human agent missed"
+published: 2025-12-03
+lang: en
+canonical: https://ofershap.github.io/posts/opus-4-5-found-a-policy-loophole-a-human-agent-missed/
+---
 
 # Opus 4.5 found a policy loophole a human agent missed
 
@@ -27056,6 +27917,13 @@ canonical: https://ofershap.github.io/posts/plan-before-coding-agent/
 
 Canonical URL: https://ofershap.github.io/posts/poml-treats-prompts-as-modular-code/
 
+---
+title: "POML treats prompts as modular code"
+published: 2025-09-07
+lang: en
+canonical: https://ofershap.github.io/posts/poml-treats-prompts-as-modular-code/
+---
+
 # POML treats prompts as modular code
 
 September 7, 2025 · 1 min read
@@ -27101,6 +27969,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/portless-gives-local-development-readable-urls/
+
+---
+title: "Portless gives local development readable URLs"
+published: 2026-03-04
+lang: en
+canonical: https://ofershap.github.io/posts/portless-gives-local-development-readable-urls/
+---
 
 # Portless gives local development readable URLs
 
@@ -27188,6 +28063,13 @@ canonical: https://ofershap.github.io/posts/practical-ai-workshop-small-business
 
 Canonical URL: https://ofershap.github.io/posts/quantumlight-replaces-venture-capital-instinct-with-algorithms/
 
+---
+title: "QuantumLight replaces venture capital instinct with algorithms"
+published: 2025-06-18
+lang: en
+canonical: https://ofershap.github.io/posts/quantumlight-replaces-venture-capital-instinct-with-algorithms/
+---
+
 # QuantumLight replaces venture capital instinct with algorithms
 
 June 18, 2025 · 1 min read
@@ -27220,6 +28102,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/qwen-3-5-brings-a-397b-model-to-local-devices/
 
+---
+title: "Qwen 3.5 brings a 397B model to local devices"
+published: 2026-03-18
+lang: en
+canonical: https://ofershap.github.io/posts/qwen-3-5-brings-a-397b-model-to-local-devices/
+---
+
 # Qwen 3.5 brings a 397B model to local devices
 
 March 18, 2026 · 1 min read
@@ -27245,6 +28134,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/recreating-alley-cat-from-an-ms-dos-exe-with-cursor/
+
+---
+title: "Recreating Alley Cat from an MS-DOS EXE with Cursor"
+published: 2025-03-06
+lang: en
+canonical: https://ofershap.github.io/posts/recreating-alley-cat-from-an-ms-dos-exe-with-cursor/
+---
 
 # Recreating Alley Cat from an MS-DOS EXE with Cursor
 
@@ -27358,6 +28254,13 @@ canonical: https://ofershap.github.io/posts/regression-first-agent-bugfix/
 ---
 
 Canonical URL: https://ofershap.github.io/posts/remote-controlled-beetles-for-search-and-rescue/
+
+---
+title: "Remote-controlled beetles for search and rescue"
+published: 2025-08-13
+lang: en
+canonical: https://ofershap.github.io/posts/remote-controlled-beetles-for-search-and-rescue/
+---
 
 # Remote-controlled beetles for search and rescue
 
@@ -27476,6 +28379,13 @@ GitHub תומך בתגובה, אישור ובקשת שינויים כמצבי re
 
 Canonical URL: https://ofershap.github.io/posts/running-a-company-on-400-a-month-with-openclaw-agents/
 
+---
+title: "Running a company on $400 a month with OpenClaw Agents"
+published: 2026-03-26
+lang: en
+canonical: https://ofershap.github.io/posts/running-a-company-on-400-a-month-with-openclaw-agents/
+---
+
 # Running a company on $400 a month with OpenClaw Agents
 
 March 26, 2026 · 1 min read
@@ -27503,6 +28413,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/running-a-local-ai-chat-without-internet-access/
+
+---
+title: "Running a local AI chat without internet access"
+published: 2025-05-20
+lang: en
+canonical: https://ofershap.github.io/posts/running-a-local-ai-chat-without-internet-access/
+---
 
 # Running a local AI chat without internet access
 
@@ -27542,6 +28459,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/running-multiple-ai-agents-without-terminal-conflicts/
 
+---
+title: "Running multiple AI agents without terminal conflicts"
+published: 2026-01-13
+lang: en
+canonical: https://ofershap.github.io/posts/running-multiple-ai-agents-without-terminal-conflicts/
+---
+
 # Running multiple AI agents without terminal conflicts
 
 January 13, 2026 · 1 min read
@@ -27565,6 +28489,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/ryos-shows-what-an-ai-native-operating-system-feels-like/
+
+---
+title: "ryOS shows what an AI-native operating system feels like"
+published: 2025-06-01
+lang: en
+canonical: https://ofershap.github.io/posts/ryos-shows-what-an-ai-native-operating-system-feels-like/
+---
 
 # ryOS shows what an AI-native operating system feels like
 
@@ -27614,6 +28545,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/safecross-lights-crosswalks-when-pedestrians-approach/
 
+---
+title: "SafeCross lights crosswalks when pedestrians approach"
+published: 2025-03-03
+lang: en
+canonical: https://ofershap.github.io/posts/safecross-lights-crosswalks-when-pedestrians-approach/
+---
+
 # SafeCross lights crosswalks when pedestrians approach
 
 March 3, 2025 · 1 min read
@@ -27639,6 +28577,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/seven-chatgpt-prompts-for-a-stronger-linkedin-profile/
+
+---
+title: "Seven ChatGPT prompts for a stronger LinkedIn profile"
+published: 2025-09-16
+lang: en
+canonical: https://ofershap.github.io/posts/seven-chatgpt-prompts-for-a-stronger-linkedin-profile/
+---
 
 # Seven ChatGPT prompts for a stronger LinkedIn profile
 
@@ -27686,6 +28631,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/snake-rendered-in-a-browser-tab-title/
 
+---
+title: "Snake rendered in a browser tab title"
+published: 2025-10-22
+lang: en
+canonical: https://ofershap.github.io/posts/snake-rendered-in-a-browser-tab-title/
+---
+
 # Snake rendered in a browser tab title
 
 October 22, 2025 · 1 min read
@@ -27713,6 +28665,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/software-engineering-after-manual-coding/
+
+---
+title: "Software engineering after manual coding"
+published: 2026-04-17
+lang: en
+canonical: https://ofershap.github.io/posts/software-engineering-after-manual-coding/
+---
 
 # Software engineering after manual coding
 
@@ -27779,6 +28738,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/sora-2-makes-fake-video-harder-to-spot/
 
+---
+title: "Sora 2 makes fake video harder to spot"
+published: 2025-10-04
+lang: en
+canonical: https://ofershap.github.io/posts/sora-2-makes-fake-video-harder-to-spot/
+---
+
 # Sora 2 makes fake video harder to spot
 
 October 4, 2025 · 1 min read
@@ -27804,6 +28770,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/spains-piracy-block-cut-off-legitimate-internet-services/
+
+---
+title: "Spain&#x27;s piracy block cut off legitimate internet services"
+published: 2025-04-18
+lang: en
+canonical: https://ofershap.github.io/posts/spains-piracy-block-cut-off-legitimate-internet-services/
+---
 
 # Spain's piracy block cut off legitimate internet services
 
@@ -27839,6 +28812,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/spirobs-copies-an-octopus-arm-with-a-logarithmic-spiral/
 
+---
+title: "SpiRobs copies an octopus arm with a logarithmic spiral"
+published: 2025-09-11
+lang: en
+canonical: https://ofershap.github.io/posts/spirobs-copies-an-octopus-arm-with-a-logarithmic-spiral/
+---
+
 # SpiRobs copies an octopus arm with a logarithmic spiral
 
 September 11, 2025 · 1 min read
@@ -27867,6 +28847,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/stream-ring-turns-conversations-into-real-time-notes/
 
+---
+title: "Stream Ring turns conversations into real-time notes"
+published: 2025-11-24
+lang: en
+canonical: https://ofershap.github.io/posts/stream-ring-turns-conversations-into-real-time-notes/
+---
+
 # Stream Ring turns conversations into real-time notes
 
 November 24, 2025 · 1 min read
@@ -27894,6 +28881,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/teaching-cursor-across-the-full-development-cycle/
+
+---
+title: "Teaching Cursor across the full development cycle"
+published: 2025-07-27
+lang: en
+canonical: https://ofershap.github.io/posts/teaching-cursor-across-the-full-development-cycle/
+---
 
 # Teaching Cursor across the full development cycle
 
@@ -27926,6 +28920,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/the-ai-mirage-of-the-90-percent-solution/
+
+---
+title: "The AI mirage of the 90% solution"
+published: 2025-02-10
+lang: en
+canonical: https://ofershap.github.io/posts/the-ai-mirage-of-the-90-percent-solution/
+---
 
 # The AI mirage of the 90% solution
 
@@ -27973,6 +28974,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/the-album-i-made-after-suno-failed-at-hebrew/
 
+---
+title: "The album I made after Suno failed at Hebrew"
+published: 2025-01-19
+lang: en
+canonical: https://ofershap.github.io/posts/the-album-i-made-after-suno-failed-at-hebrew/
+---
+
 # The album I made after Suno failed at Hebrew
 
 January 19, 2025 · 1 min read
@@ -28000,6 +29008,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/the-day-someone-bought-google-com-for-12/
+
+---
+title: "The day someone bought google.com for $12"
+published: 2024-12-09
+lang: en
+canonical: https://ofershap.github.io/posts/the-day-someone-bought-google-com-for-12/
+---
 
 # The day someone bought google.com for $12
 
@@ -28030,6 +29045,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/the-first-battlefield-surrender-to-unmanned-systems/
+
+---
+title: "The first battlefield surrender to unmanned systems"
+published: 2025-08-07
+lang: en
+canonical: https://ofershap.github.io/posts/the-first-battlefield-surrender-to-unmanned-systems/
+---
 
 # The first battlefield surrender to unmanned systems
 
@@ -28065,6 +29087,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/the-whiteboard-cleaning-robot-every-office-needs/
 
+---
+title: "The whiteboard-cleaning robot every office needs"
+published: 2025-08-29
+lang: en
+canonical: https://ofershap.github.io/posts/the-whiteboard-cleaning-robot-every-office-needs/
+---
+
 # The whiteboard-cleaning robot every office needs
 
 August 29, 2025 · 1 min read
@@ -28095,6 +29124,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/the-x-59-tests-whether-supersonic-flight-can-be-quiet/
 
+---
+title: "The X-59 tests whether supersonic flight can be quiet"
+published: 2025-11-28
+lang: en
+canonical: https://ofershap.github.io/posts/the-x-59-tests-whether-supersonic-flight-can-be-quiet/
+---
+
 # The X-59 tests whether supersonic flight can be quiet
 
 November 28, 2025 · 1 min read
@@ -28122,6 +29158,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/three-observations-on-agis-economic-impact/
+
+---
+title: "Three observations on AGI&#x27;s economic impact"
+published: 2025-03-06
+lang: en
+canonical: https://ofershap.github.io/posts/three-observations-on-agis-economic-impact/
+---
 
 # Three observations on AGI's economic impact
 
@@ -28157,6 +29200,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/tiangong-puts-humanoid-robots-to-work/
 
+---
+title: "Tiangong puts humanoid robots to work"
+published: 2025-05-24
+lang: en
+canonical: https://ofershap.github.io/posts/tiangong-puts-humanoid-robots-to-work/
+---
+
 # Tiangong puts humanoid robots to work
 
 May 24, 2025 · 1 min read
@@ -28186,6 +29236,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/toyotas-kids-mobi-tests-the-limits-of-autonomous-parenting/
+
+---
+title: "Toyota&#x27;s Kids Mobi tests the limits of autonomous parenting"
+published: 2025-11-19
+lang: en
+canonical: https://ofershap.github.io/posts/toyotas-kids-mobi-tests-the-limits-of-autonomous-parenting/
+---
 
 # Toyota's Kids Mobi tests the limits of autonomous parenting
 
@@ -28218,6 +29275,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/turning-feature-development-into-marketing-copy-with-cursor/
+
+---
+title: "Turning feature development into marketing copy with Cursor"
+published: 2026-07-09
+lang: en
+canonical: https://ofershap.github.io/posts/turning-feature-development-into-marketing-copy-with-cursor/
+---
 
 # Turning feature development into marketing copy with Cursor
 
@@ -28259,6 +29323,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/turning-one-image-into-an-explorable-3d-world/
 
+---
+title: "Turning one image into an explorable 3D world"
+published: 2025-08-10
+lang: en
+canonical: https://ofershap.github.io/posts/turning-one-image-into-an-explorable-3d-world/
+---
+
 # Turning one image into an explorable 3D world
 
 August 10, 2025 · 1 min read
@@ -28286,6 +29357,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/useful-ways-to-organize-work-with-chatgpt-projects/
+
+---
+title: "Useful ways to organize work with ChatGPT Projects"
+published: 2024-12-26
+lang: en
+canonical: https://ofershap.github.io/posts/useful-ways-to-organize-work-with-chatgpt-projects/
+---
 
 # Useful ways to organize work with ChatGPT Projects
 
@@ -28323,6 +29401,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/using-ai-to-analyze-my-teams-pull-requests/
 
+---
+title: "Using AI to analyze my team&#x27;s pull requests"
+published: 2026-06-21
+lang: en
+canonical: https://ofershap.github.io/posts/using-ai-to-analyze-my-teams-pull-requests/
+---
+
 # Using AI to analyze my team's pull requests
 
 June 21, 2026 · 1 min read
@@ -28354,6 +29439,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/using-chatgpt-to-teach-my-son-about-anger/
+
+---
+title: "Using ChatGPT to teach my son about anger"
+published: 2025-01-23
+lang: en
+canonical: https://ofershap.github.io/posts/using-chatgpt-to-teach-my-son-about-anger/
+---
 
 # Using ChatGPT to teach my son about anger
 
@@ -28390,6 +29482,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/using-sketches-as-strict-layouts-in-nano-banana-pro/
+
+---
+title: "Using sketches as strict layouts in Nano Banana Pro"
+published: 2025-12-15
+lang: en
+canonical: https://ofershap.github.io/posts/using-sketches-as-strict-layouts-in-nano-banana-pro/
+---
 
 # Using sketches as strict layouts in Nano Banana Pro
 
@@ -28480,6 +29579,13 @@ canonical: https://ofershap.github.io/posts/vibe-code-project-rescue/
 ---
 
 Canonical URL: https://ofershap.github.io/posts/video-chess-exposed-the-limits-of-llm-reasoning/
+
+---
+title: "Video Chess exposed the limits of LLM reasoning"
+published: 2025-07-31
+lang: en
+canonical: https://ofershap.github.io/posts/video-chess-exposed-the-limits-of-llm-reasoning/
+---
 
 # Video Chess exposed the limits of LLM reasoning
 
@@ -28581,6 +29687,13 @@ canonical: https://ofershap.github.io/posts/weekly-agent-digest/
 
 Canonical URL: https://ofershap.github.io/posts/what-a-2026-resume-should-look-like/
 
+---
+title: "What a 2026 résumé should look like"
+published: 2026-07-06
+lang: en
+canonical: https://ofershap.github.io/posts/what-a-2026-resume-should-look-like/
+---
+
 # What a 2026 résumé should look like
 
 July 6, 2026 · 1 min read
@@ -28608,6 +29721,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/what-ai-does-with-absurd-trolley-problems/
+
+---
+title: "What AI does with absurd trolley problems"
+published: 2025-05-29
+lang: en
+canonical: https://ofershap.github.io/posts/what-ai-does-with-absurd-trolley-problems/
+---
 
 # What AI does with absurd trolley problems
 
@@ -28650,6 +29770,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/what-happened-when-chatgpt-managed-a-budget-for-30-days/
+
+---
+title: "What happened when ChatGPT managed a budget for 30 days"
+published: 2025-07-02
+lang: en
+canonical: https://ofershap.github.io/posts/what-happened-when-chatgpt-managed-a-budget-for-30-days/
+---
 
 # What happened when ChatGPT managed a budget for 30 days
 
@@ -28695,6 +29822,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/what-japans-7000-mibot-gets-right/
 
+---
+title: "What Japan&#x27;s $7,000 Mibot gets right"
+published: 2025-06-23
+lang: en
+canonical: https://ofershap.github.io/posts/what-japans-7000-mibot-gets-right/
+---
+
 # What Japan's $7,000 Mibot gets right
 
 June 23, 2025 · 1 min read
@@ -28730,6 +29864,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/what-markus-persson-lost-by-selling-minecraft/
+
+---
+title: "What Markus Persson lost by selling Minecraft"
+published: 2025-06-10
+lang: en
+canonical: https://ofershap.github.io/posts/what-markus-persson-lost-by-selling-minecraft/
+---
 
 # What Markus Persson lost by selling Minecraft
 
@@ -28781,6 +29922,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/what-one-developer-built-with-google-earth/
 
+---
+title: "What one developer built with Google Earth"
+published: 2026-01-11
+lang: en
+canonical: https://ofershap.github.io/posts/what-one-developer-built-with-google-earth/
+---
+
 # What one developer built with Google Earth
 
 January 11, 2026 · 1 min read
@@ -28806,6 +29954,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/what-people-are-building-with-lovable/
+
+---
+title: "What people are building with Lovable"
+published: 2024-12-13
+lang: en
+canonical: https://ofershap.github.io/posts/what-people-are-building-with-lovable/
+---
 
 # What people are building with Lovable
 
@@ -28842,6 +29997,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/what-threads-reveals-about-network-effects/
+
+---
+title: "What Threads reveals about network effects"
+published: 2023-07-07
+lang: en
+canonical: https://ofershap.github.io/posts/what-threads-reveals-about-network-effects/
+---
 
 # What Threads reveals about network effects
 
@@ -28888,6 +30050,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/whatsapp-adds-built-in-document-scanning/
+
+---
+title: "WhatsApp adds built-in document scanning"
+published: 2024-12-30
+lang: en
+canonical: https://ofershap.github.io/posts/whatsapp-adds-built-in-document-scanning/
+---
 
 # WhatsApp adds built-in document scanning
 
@@ -28973,6 +30142,13 @@ canonical: https://ofershap.github.io/posts/whatsapp-agent-cost-israel/
 
 Canonical URL: https://ofershap.github.io/posts/when-a-waymo-breaks-a-law-written-for-humans/
 
+---
+title: "When a Waymo breaks a law written for humans"
+published: 2025-10-21
+lang: en
+canonical: https://ofershap.github.io/posts/when-a-waymo-breaks-a-law-written-for-humans/
+---
+
 # When a Waymo breaks a law written for humans
 
 October 21, 2025 · 2 min read
@@ -29012,6 +30188,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/when-ai-agents-stop-speaking-human-language/
+
+---
+title: "When AI agents stop speaking human language"
+published: 2025-02-25
+lang: en
+canonical: https://ofershap.github.io/posts/when-ai-agents-stop-speaking-human-language/
+---
 
 # When AI agents stop speaking human language
 
@@ -29058,6 +30241,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/when-ai-decides-whether-your-drawing-is-a-fish/
 
+---
+title: "When AI decides whether your drawing is a fish"
+published: 2025-09-29
+lang: en
+canonical: https://ofershap.github.io/posts/when-ai-decides-whether-your-drawing-is-a-fish/
+---
+
 # When AI decides whether your drawing is a fish
 
 September 29, 2025 · 1 min read
@@ -29090,6 +30280,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/when-ai-matched-10-years-of-research-in-48-hours/
 
+---
+title: "When AI matched 10 years of research in 48 hours"
+published: 2025-03-21
+lang: en
+canonical: https://ofershap.github.io/posts/when-ai-matched-10-years-of-research-in-48-hours/
+---
+
 # When AI matched 10 years of research in 48 hours
 
 March 21, 2025 · 1 min read
@@ -29119,6 +30316,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/when-ai-writes-the-assignment-and-grades-it/
+
+---
+title: "When AI writes the assignment and grades it"
+published: 2025-07-14
+lang: en
+canonical: https://ofershap.github.io/posts/when-ai-writes-the-assignment-and-grades-it/
+---
 
 # When AI writes the assignment and grades it
 
@@ -29195,6 +30399,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/when-development-stops-being-the-bottleneck/
 
+---
+title: "When development stops being the bottleneck"
+published: 2025-03-26
+lang: en
+canonical: https://ofershap.github.io/posts/when-development-stops-being-the-bottleneck/
+---
+
 # When development stops being the bottleneck
 
 March 26, 2025 · 1 min read
@@ -29239,6 +30450,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/when-extreme-heat-makes-metal-stronger/
 
+---
+title: "When extreme heat makes metal stronger"
+published: 2026-02-24
+lang: en
+canonical: https://ofershap.github.io/posts/when-extreme-heat-makes-metal-stronger/
+---
+
 # When extreme heat makes metal stronger
 
 February 24, 2026 · 1 min read
@@ -29262,6 +30480,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/when-fortnites-ai-darth-vader-talks-to-children/
+
+---
+title: "When Fortnite&#x27;s AI Darth Vader talks to children"
+published: 2025-06-13
+lang: en
+canonical: https://ofershap.github.io/posts/when-fortnites-ai-darth-vader-talks-to-children/
+---
 
 # When Fortnite's AI Darth Vader talks to children
 
@@ -29292,6 +30517,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/where-terminal-ai-agents-beat-cursor/
+
+---
+title: "Where terminal AI agents beat Cursor"
+published: 2025-07-16
+lang: en
+canonical: https://ofershap.github.io/posts/where-terminal-ai-agents-beat-cursor/
+---
 
 # Where terminal AI agents beat Cursor
 
@@ -29328,6 +30560,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/why-ai-data-centers-are-moving-into-orbit/
+
+---
+title: "Why AI data centers are moving into orbit"
+published: 2025-05-28
+lang: en
+canonical: https://ofershap.github.io/posts/why-ai-data-centers-are-moving-into-orbit/
+---
 
 # Why AI data centers are moving into orbit
 
@@ -29369,6 +30608,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/why-company-logos-keep-getting-simpler/
 
+---
+title: "Why company logos keep getting simpler"
+published: 2024-12-17
+lang: en
+canonical: https://ofershap.github.io/posts/why-company-logos-keep-getting-simpler/
+---
+
 # Why company logos keep getting simpler
 
 December 17, 2024 · 1 min read
@@ -29405,6 +30651,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/why-confident-ai-answers-earn-misplaced-trust/
 
+---
+title: "Why confident AI answers earn misplaced trust"
+published: 2025-05-30
+lang: en
+canonical: https://ofershap.github.io/posts/why-confident-ai-answers-earn-misplaced-trust/
+---
+
 # Why confident AI answers earn misplaced trust
 
 May 30, 2025 · 1 min read
@@ -29436,6 +30689,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/why-dominos-tattoo-giveaway-went-viral/
+
+---
+title: "Why Domino&#x27;s tattoo giveaway went viral"
+published: 2025-04-21
+lang: en
+canonical: https://ofershap.github.io/posts/why-dominos-tattoo-giveaway-went-viral/
+---
 
 # Why Domino's tattoo giveaway went viral
 
@@ -29509,6 +30769,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/why-generative-ai-cannot-copy-an-image-exactly/
 
+---
+title: "Why generative AI cannot copy an image exactly"
+published: 2025-05-03
+lang: en
+canonical: https://ofershap.github.io/posts/why-generative-ai-cannot-copy-an-image-exactly/
+---
+
 # Why generative AI cannot copy an image exactly
 
 Date: 2025-05-03
@@ -29550,6 +30817,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/why-google-paid-2-7-billion-to-bring-noam-shazeer-back/
 
+---
+title: "Why Google paid $2.7 billion to bring Noam Shazeer back"
+published: 2025-03-12
+lang: en
+canonical: https://ofershap.github.io/posts/why-google-paid-2-7-billion-to-bring-noam-shazeer-back/
+---
+
 # Why Google paid $2.7 billion to bring Noam Shazeer back
 
 March 12, 2025 · 1 min read
@@ -29584,6 +30858,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/why-i-ship-products-before-they-feel-ready/
 
+---
+title: "Why I ship products before they feel ready"
+published: 2025-01-03
+lang: en
+canonical: https://ofershap.github.io/posts/why-i-ship-products-before-they-feel-ready/
+---
+
 # Why I ship products before they feel ready
 
 January 3, 2025 · 1 min read
@@ -29615,6 +30896,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/why-meta-offered-matt-deitke-250-million/
+
+---
+title: "Why Meta offered Matt Deitke $250 million"
+published: 2025-08-06
+lang: en
+canonical: https://ofershap.github.io/posts/why-meta-offered-matt-deitke-250-million/
+---
 
 # Why Meta offered Matt Deitke $250 million
 
@@ -29653,6 +30941,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/why-the-first-follower-creates-the-movement/
+
+---
+title: "Why the first follower creates the movement"
+published: 2024-07-23
+lang: en
+canonical: https://ofershap.github.io/posts/why-the-first-follower-creates-the-movement/
+---
 
 # Why the first follower creates the movement
 
@@ -29694,6 +30989,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/why-we-ask-ai-before-asking-people/
 
+---
+title: "Why we ask AI before asking people"
+published: 2026-06-24
+lang: en
+canonical: https://ofershap.github.io/posts/why-we-ask-ai-before-asking-people/
+---
+
 # Why we ask AI before asking people
 
 June 24, 2026 · 2 min read
@@ -29728,6 +31030,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/why-we-built-a-project-just-to-throw-it-away/
 
+---
+title: "Why we built a project just to throw it away"
+published: 2026-07-08
+lang: en
+canonical: https://ofershap.github.io/posts/why-we-built-a-project-just-to-throw-it-away/
+---
+
 # Why we built a project just to throw it away
 
 July 8, 2026 · 1 min read
@@ -29757,6 +31066,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/why-windsurf-kept-claude-after-its-3-billion-acquisition/
+
+---
+title: "Why Windsurf kept Claude after its $3 billion acquisition"
+published: 2025-06-06
+lang: en
+canonical: https://ofershap.github.io/posts/why-windsurf-kept-claude-after-its-3-billion-acquisition/
+---
 
 # Why Windsurf kept Claude after its $3 billion acquisition
 
@@ -29789,6 +31105,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/world-monitor-opens-global-intelligence-to-everyone/
+
+---
+title: "World Monitor opens global intelligence to everyone"
+published: 2026-03-12
+lang: en
+canonical: https://ofershap.github.io/posts/world-monitor-opens-global-intelligence-to-everyone/
+---
 
 # World Monitor opens global intelligence to everyone
 
@@ -29824,6 +31147,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 
 Canonical URL: https://ofershap.github.io/posts/youtubes-monetization-fight-with-automated-content/
 
+---
+title: "YouTube’s monetization fight with automated content"
+published: 2025-07-13
+lang: en
+canonical: https://ofershap.github.io/posts/youtubes-monetization-fight-with-automated-content/
+---
+
 # YouTube’s monetization fight with automated content
 
 July 13, 2025 · 1 min read
@@ -29853,6 +31183,13 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ---
 
 Canonical URL: https://ofershap.github.io/posts/zerith-h1-brings-humanoid-robots-to-hotel-operations/
+
+---
+title: "Zerith H1 brings humanoid robots to hotel operations"
+published: 2025-06-22
+lang: en
+canonical: https://ofershap.github.io/posts/zerith-h1-brings-humanoid-robots-to-hotel-operations/
+---
 
 # Zerith H1 brings humanoid robots to hotel operations
 

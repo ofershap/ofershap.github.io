@@ -1,3 +1,8 @@
+---
+title: "יצירת קשר - עופר שפירא"
+lang: he
+---
+
 # יצירת קשר - עופר שפירא
 
 - לינקדאין: https://www.linkedin.com/in/ofershap/

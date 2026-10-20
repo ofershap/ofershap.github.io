@@ -6,14 +6,14 @@ import re
 R = Path(__file__).resolve().parent
 
 agents = (R / 'agents.md').read_text()
-assert agents.startswith('# Agents: how to use this site')
+assert agents.startswith('---\n') and '# Agents: how to use this site' in agents
 assert 'https://recipes.gitshow.dev/mcp' in agents and 'no authentication' in agents
 for path in ('/llms.txt', '/llms-full.txt', '/feed.xml', '/sitemap.xml', '/openapi.json',
              '/.well-known/ard.json', '/.well-known/agent-skills/index.json', '/posts/llms.txt'):
     assert path in agents, path
 
 idx = (R / 'index.md').read_text()
-assert idx.startswith('# Ofer Shapira')
+assert idx.startswith('---\n') and '# Ofer Shapira' in idx
 for path in ('/about/', '/for-ai/', '/posts/', '/llms.txt', '/agents.md'):
     assert path in idx, path
 

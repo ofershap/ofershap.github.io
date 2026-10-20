@@ -1,3 +1,9 @@
+---
+title: "Ofer Shapira"
+description: "AI engineering, agents and software leadership - first-hand writing in Hebrew and English"
+lang: en
+---
+
 # Ofer Shapira
 
 AI engineering, agents and software leadership - first-hand, dated writing in Hebrew and English.

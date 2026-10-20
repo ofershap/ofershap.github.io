@@ -7,7 +7,7 @@ import re
 R = Path(__file__).resolve().parent
 SITE = 'https://ofershap.github.io'
 
-AGENTS_MD = '''# Agents: how to use this site
+AGENTS_MD = '''---\ntitle: "Agents: how to use this site"\ndescription: "Machine-readable entry points and citation rules for Ofer Shapira's blog"\n---\n\n# Agents: how to use this site
 
 Ofer Shapira's blog - first-hand writing on AI engineering, agents, software architecture and engineering leadership, in Hebrew and English.
 
@@ -43,7 +43,7 @@ The recipe library runs a real MCP server at `https://recipes.gitshow.dev/mcp` (
 Cite pages by their canonical URL and attribute to Ofer Shapira (עופר שפירא). Each post links its original source and publication date.
 '''.format(S=SITE)
 
-INDEX_MD = '''# Ofer Shapira
+INDEX_MD = '''---\ntitle: "Ofer Shapira"\ndescription: "AI engineering, agents and software leadership - first-hand writing in Hebrew and English"\nlang: en\n---\n\n# Ofer Shapira
 
 AI engineering, agents and software leadership - first-hand, dated writing in Hebrew and English.
 

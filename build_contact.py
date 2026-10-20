@@ -10,7 +10,7 @@ GITHUB = 'https://github.com/ofershap'
 html = '''<!doctype html>
 <html lang="he" dir="rtl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>יצירת קשר | עופר שפירא</title><meta name="description" content="דרכים ליצור קשר עם עופר שפירא: לינקדאין וגיטהאב."><link rel="canonical" href="{S}/contact/"><link rel="stylesheet" href="/style.css"><link rel="alternate" type="text/markdown" href="{S}/contact/index.md"></head><body><header dir="ltr"><span class="site-name"><a href="/">Ofer Shapira</a></span><nav><a href="/">Writing</a><a href="{LI}">LinkedIn</a></nav></header><main><article><h1>יצירת קשר</h1><p>הדרך הכי טובה לתפוס אותי היא בלינקדאין. אפשר גם דרך גיטהאב, במיוחד על פרויקטים בקוד פתוח.</p><ul><li><a href="{LI}">לינקדאין - שליחת הודעה</a></li><li><a href="{GH}">גיטהאב - שליחת הודעה</a></li></ul><p>על הבלוג עצמו: <a href="/">הכתבות</a> · <a href="/about/">מי אני</a></p></article><footer dir="ltr"><a href="/">All writing</a> · <a href="/feed.xml">RSS</a><p class="copyright">© Ofer Shapira</p></footer></main></body></html>'''.format(S=SITE, LI=LINKEDIN, GH=GITHUB)
 
-md = '''# יצירת קשר - עופר שפירא
+md = '''---\ntitle: "יצירת קשר - עופר שפירא"\nlang: he\n---\n\n# יצירת קשר - עופר שפירא
 
 - לינקדאין: {LI}
 - גיטהאב: {GH}

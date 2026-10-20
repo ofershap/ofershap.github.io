@@ -1,3 +1,8 @@
+---
+title: "Agents: how to use this site"
+description: "Machine-readable entry points and citation rules for Ofer Shapira's blog"
+---
+
 # Agents: how to use this site
 
 Ofer Shapira's blog - first-hand writing on AI engineering, agents, software architecture and engineering leadership, in Hebrew and English.
