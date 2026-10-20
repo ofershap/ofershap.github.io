@@ -24,7 +24,18 @@ def _date_for(url: str, today: str) -> str:
     return today
 
 
+
+def _md_siblings():
+    """Serve post-level <slug>.md next to each posts/<slug>/ directory."""
+    posts = R / 'posts'
+    if posts.exists():
+        for d in posts.iterdir():
+            md = d / 'index.md'
+            if d.is_dir() and md.exists():
+                (posts / (d.name + '.md')).write_text(md.read_text())
+
 def run() -> None:
+    _md_siblings()
     p = R / 'sitemap.xml'
     s = p.read_text()
     today = datetime.date.today().isoformat()

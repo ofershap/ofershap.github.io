@@ -2,7 +2,7 @@
 from pathlib import Path
 import json,re,html
 R=Path(__file__).resolve().parent; BASE='https://ofershap.github.io'; E=html.escape
-PROFILE={'@type':'Person','@id':BASE+'/about/#ofer','name':'Ofer Shapira','alternateName':'עופר שפירא','url':BASE+'/about/','jobTitle':'AI Engineering Team Lead','sameAs':['https://github.com/ofershap','https://www.linkedin.com/in/ofershap/','https://dev.to/ofershap','https://hashnode.com/@ofershap'],'knowsAbout':['AI engineering','AI agents','Engineering leadership','Developer tooling','MCP','AI adoption']}
+PROFILE={'@type':'Person','@id':BASE+'/about/#ofer','name':'Ofer Shapira','alternateName':'עופר שפירא','url':BASE+'/about/','jobTitle':'AI Engineering Team Lead','description':'AI engineering team lead at Elementor. Writes about building AI systems, leading engineering teams, and making agent workflows useful in real work.','sameAs':['https://github.com/ofershap','https://www.linkedin.com/in/ofershap/','https://dev.to/ofershap','https://hashnode.com/@ofershap'],'knowsAbout':['AI engineering','AI agents','Engineering leadership','Developer tooling','MCP','AI adoption']}
 STYLE='''<style>.identity-intro{margin:2rem 0;padding:1.4rem;border:1px solid #ddd;border-radius:8px}.identity-intro p{line-height:1.7}.identity-intro a{display:inline-block;margin-inline-end:1rem;padding:.35rem 0}.identity-topics{padding-inline-start:1.3rem}.identity-topics li{margin:.8rem 0;line-height:1.7}.identity-kicker{font-family:system-ui,sans-serif;color:#555;font-size:.9rem}.identity-note{color:#555;font-size:.9rem}header nav{display:flex;flex-wrap:wrap;gap:.6rem}header nav a{margin:0}header{gap:1rem;align-items:center;flex-wrap:wrap}article p{line-height:1.85}article h2{margin-top:2rem}@media(max-width:500px){main{padding-top:2rem}.identity-intro{padding:1rem}h1{font-size:1.7rem}}</style>'''
 HE='''<p class="identity-kicker">AI Engineering · סוכנים · הובלת צוותי פיתוח</p><h1>עופר שפירא</h1><p class="subtitle">בונה מערכות AI. מוביל צוותים שעובדים איתן.</p>
 <p>אני עופר שפירא, מוביל צוות AI Engineering ב-Elementor, מפתח ויזם לשעבר. אני עובד בחיבור שבין קוד, מוצר ואנשים: בונה מערכות מבוססות AI, מוביל צוותי הנדסה, ובודק איך סוכנים משנים את העבודה בפועל.</p>
@@ -48,7 +48,12 @@ def build():
     out+='<script type="application/ld+json">'+json.dumps(blog,ensure_ascii=False)+'</script>'
    return out
   return '<script type="application/ld+json">'+json.dumps(j,ensure_ascii=False)+'</script>'
- s=re.sub(r'<script type="application/ld\+json">(.*?)</script>',schema_patch,s,flags=re.S);p.write_text(s)
+ s=re.sub(r'<script type="application/ld\+json">(.*?)</script>',schema_patch,s,flags=re.S)
+ blocks=re.findall(r'<script type="application/ld\+json">(.*?)</script>',s,flags=re.S)
+ if not any(isinstance(json.loads(b),dict) and json.loads(b).get('@type')=='Person' for b in blocks):
+  person=dict(PROFILE);person['@context']='https://schema.org';person['mainEntityOfPage']=BASE+'/'
+  s=s.replace('</head>','<script type="application/ld+json">'+json.dumps(person,ensure_ascii=False)+'</script></head>')
+ p.write_text(s)
  p=R/'for-ai/index.html';s=p.read_text();s=re.sub(r'<section class="identity-links".*?</section>','',s,flags=re.S);s=s.replace('</article>','<section class="identity-links"><h2>Professional identity</h2><p>Ofer writes about practical AI engineering leadership: building AI systems, leading engineering teams and making agent workflows useful in real work.</p><p><a href="/about/">Full professional bio in Hebrew</a> · <a href="/about/en/">English professional bio and selected work</a></p></section></article>');s=re.sub(r'"mainEntity":\s*\{.*?\}\}',lambda m:'"mainEntity":'+json.dumps(PROFILE,ensure_ascii=False)+'}',s);p.write_text(s)
  p=R/'llms.txt';s=p.read_text();s=re.sub(r'\n## Professional identity.*?(?=\n## |\Z)','',s,flags=re.S)
  block='\n## Professional identity\n\n- [Ofer Shapira: Hebrew bio and selected work]('+BASE+'/about/)\n- [Ofer Shapira: English bio and selected work]('+BASE+'/about/en/)\n\nPositioning: practical AI engineering leadership. This is Ofer’s personal professional writing home, independent of any agency service offering.\n'

@@ -1,0 +1,25 @@
+---
+title: "Fixing JIRA with a Chrome extension"
+published: 2024-01-08
+lang: en
+canonical: https://ofershap.github.io/posts/fixing-jira-with-a-chrome-extension/
+---
+
+# Fixing JIRA with a Chrome extension
+
+January 8, 2024 · 1 min read
+
+Originally posted on LinkedIn , January 8, 2024.
+
+I built Ride With Jira, a Chrome extension that fixes the small but frustrating gaps in JIRA, which I use every day. It hides unused fields in the Create issue modal, shows sprints in child issues, adds a sticky header, and more.
+
+The extension is already widely used across our company. You can see all the features and install Ride With Jira for free .
+
+Original source: https://www.linkedin.com/posts/ofershap_ive-built-a-chrome-extension-to-fix-jira-activity-7150215559115087872-5T_h
+
+
+## About Ofer Shapira
+
+I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

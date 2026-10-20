@@ -149,6 +149,21 @@ def build():
             '<main><article>' + BODY + '</article>'
             '<footer><a href="/">All writing</a> · <a href="/feed.xml">RSS</a></footer></main></body></html>')
     (d / 'index.html').write_text(page)
+    md = ['---', 'title: "Engagement API documentation"', 'canonical: ' + url, 'lang: en', '---', '',
+          '# Engagement API', '',
+          'Public engagement API of ofershap.github.io: anonymous view and like counters, '
+          'OpenAPI-documented, no authentication.', '',
+          'Base URL: `' + SPEC['servers'][0]['url'] + '`', '', '## Endpoints', '']
+    for pth, ops in SPEC['paths'].items():
+        for m, op in ops.items():
+            md.append('- `' + m.upper() + ' ' + pth + '` - ' + op.get('summary', ''))
+    md += ['', '## Scope', '',
+           'These are the only public endpoints. There is no public write access to content, '
+           'no admin API and no authenticated surface to document.', '',
+           'Full documentation: ' + url]
+    (R / 'docs.md').write_text('\n'.join(md) + '\n')
+    if (d / 'llms.txt').exists():
+        (d / 'llms.txt.md').write_text((d / 'llms.txt').read_text())
     # Homepage footer link so the docs are discoverable from the front page.
     p = R / 'index.html'
     s = p.read_text()
