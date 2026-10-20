@@ -26996,6 +26996,43 @@ Published: 2026-10-19T09:12:22.392000+03:00
 
 ---
 
+Canonical URL: https://ofershap.github.io/posts/linkedin-7518183563419226112/
+
+---
+title: "הסוכן כבר כותב לכם את הקוד, אבל מי לוקח אחריות על התוצר?"
+published: 2026-10-20T08:37:23.129000+03:00
+source: https://www.linkedin.com/feed/update/urn:li:share:7518183563419226112/
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7518183563419226112/
+---
+
+# הסוכן כבר כותב לכם את הקוד, אבל מי לוקח אחריות על התוצר?
+
+הסוכן כבר כותב לכם את הקוד, אחלה, אבל מי לוקח אצלכם אחריות על התוצר?
+
+אצלנו בצוות כבר יש אוטומציות לפתיחת PR, ל-self review, לתיקון קונפליקטים ולעבודה על הערות review. אז כראש צוות, פחות מעניין אותי מי הקליד כל שורה. יותר מעניין אותי מי מבין את השינוי.
+
+אחד המקומות שבהם זה נהיה ברור היה ה-PR description. רציתי לדעת מה השתנה, למה, אילו חלקים במערכת מושפעים ומה הסיכון, לפני שאני נכנס ל-diff. לפעמים ההערה הכי חשובה בכלל נוגעת להחלטה שמאחורי הקוד, לא לקוד עצמו.
+
+וזה משנה גם את הציפייה ממפתחים: אפשר להעביר את הכתיבה לסוכן. אי אפשר להגיע ל-review בלי לדעת להסביר מה ביקשת ממנו ולמה התוצאה נכונה.
+
+"הסוכן עשה את זה" זאת תשובה לשאלה מי כתב. לא לשאלה מי אחראי.
+
+הסוכן לא יפנה את הכסא הזה, מישהו צריך לעשות את זה.
+
+Original source: https://www.linkedin.com/feed/update/urn:li:share:7518183563419226112/
+Published: 2026-10-20T08:37:23.129000+03:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)
+
+
+---
+
 Canonical URL: https://ofershap.github.io/posts/lovable-built-super-tic-tac-toe-from-one-question/
 
 ---

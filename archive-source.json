@@ -9186,5 +9186,20 @@
   "sha256": "d2ff3e35729f1a685892314bbe8d50eb2dd5c4f31a4e0845ae928cf3273d6d3e",
   "media_available_on_source": true,
   "title": "פיצות בחינם בשווי מליון דולר: סוכן Hark מזמין מ-DoorDash"
+ },
+ {
+  "id": "7518183563419226112",
+  "source": "https://www.linkedin.com/feed/update/urn:li:share:7518183563419226112/",
+  "published_at": "2026-10-20T08:37:23.129000+03:00",
+  "date_provenance": "Buffer GraphQL sentAt 2026-10-20T05:37:23.129Z for post 6ac3fd4967565b478ae1648e",
+  "text": "הסוכן כבר כותב לכם את הקוד, אחלה, אבל מי לוקח אצלכם אחריות על התוצר?\n\nאצלנו בצוות כבר יש אוטומציות לפתיחת PR, ל-self review, לתיקון קונפליקטים ולעבודה על הערות review. אז כראש צוות, פחות מעניין אותי מי הקליד כל שורה. יותר מעניין אותי מי מבין את השינוי.\n\nאחד המקומות שבהם זה נהיה ברור היה ה-PR description. רציתי לדעת מה השתנה, למה, אילו חלקים במערכת מושפעים ומה הסיכון, לפני שאני נכנס ל-diff. לפעמים ההערה הכי חשובה בכלל נוגעת להחלטה שמאחורי הקוד, לא לקוד עצמו.\n\nוזה משנה גם את הציפייה ממפתחים: אפשר להעביר את הכתיבה לסוכן. אי אפשר להגיע ל-review בלי לדעת להסביר מה ביקשת ממנו ולמה התוצאה נכונה.\n\n\"הסוכן עשה את זה\" זאת תשובה לשאלה מי כתב. לא לשאלה מי אחראי.\n\nהסוכן לא יפנה את הכסא הזה, מישהו צריך לעשות את זה.",
+  "images": "https://media.licdn.com/dms/image/v2/D4D10AQHn0mCyrBIihg/image-shrink_1280/B4DaFX0CilJoAc-/0/1792474622447?e=1793095200&v=beta&t=ZPZ_mgeGfaZUGv8sKb2ApcD5_DvqEOQuKgDFdFuFLEE",
+  "video_url": "",
+  "document_url": "",
+  "existing": false,
+  "engagement": "off",
+  "sha256": "a236d70646fcb3d080ed3dc1086e6cef45cf0081d37c851fcfee7aadc5b15f95",
+  "media_available_on_source": "True",
+  "title": "הסוכן כבר כותב לכם את הקוד, אבל מי לוקח אחריות על התוצר?"
  }
 ]

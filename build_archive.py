@@ -58,7 +58,7 @@ def build():
   parts.append(item)
  s=s[:match.start(1)]+'\n'.join(parts)+s[match.end(1):];home.write_text(s)
  # Include every real HTML content page, without fabricated last-modification times.
- pages=[f for f in ROOT.glob('posts/*/index.html')]+[f for f in ROOT.glob('essays/*/index.html')]+[f for f in ROOT.glob('docs/index.html')];urls=[BASE+'/']+[BASE+'/'+str(f.parent.relative_to(ROOT))+'/' for f in pages]
+ pages=[f for f in ROOT.glob('posts/*/index.html')]+[f for f in ROOT.glob('essays/*/index.html')]+[f for f in ROOT.glob('docs/index.html')]+[f for f in ROOT.glob('contact/index.html')];urls=[BASE+'/']+[BASE+'/'+str(f.parent.relative_to(ROOT))+'/' for f in pages]
  sitemap='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+E(u)+'</loc></url>' for u in urls)+'</urlset>\n';(ROOT/'sitemap.xml').write_text(sitemap)
  import build_lastmod as _lm;_lm.run()
  # RSS only newest50 published articles; no private performance metadata.
