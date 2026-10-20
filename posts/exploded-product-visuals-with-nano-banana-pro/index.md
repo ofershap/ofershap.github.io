@@ -1,3 +1,10 @@
+---
+title: "Exploded product visuals with Nano Banana Pro"
+published: 2025-12-16
+lang: en
+canonical: https://ofershap.github.io/posts/exploded-product-visuals-with-nano-banana-pro/
+---
+
 # Exploded product visuals with Nano Banana Pro
 
 December 16, 2025 · 1 min read

@@ -1,3 +1,10 @@
+---
+title: "How Google Stitch describes UI for AI agents"
+published: 2026-05-06
+lang: en
+canonical: https://ofershap.github.io/posts/how-google-stitch-describes-ui-for-ai-agents/
+---
+
 # How Google Stitch describes UI for AI agents
 
 May 6, 2026 · 1 min read

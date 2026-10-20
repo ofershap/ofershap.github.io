@@ -1,3 +1,10 @@
+---
+title: "What Threads reveals about network effects"
+published: 2023-07-07
+lang: en
+canonical: https://ofershap.github.io/posts/what-threads-reveals-about-network-effects/
+---
+
 # What Threads reveals about network effects
 
 July 7, 2023 · 1 min read

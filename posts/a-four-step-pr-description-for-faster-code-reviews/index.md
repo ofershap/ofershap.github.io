@@ -1,3 +1,10 @@
+---
+title: "A four-step PR description for faster code reviews"
+published: 2026-07-29
+lang: en
+canonical: https://ofershap.github.io/posts/a-four-step-pr-description-for-faster-code-reviews/
+---
+
 # A four-step PR description for faster code reviews
 
 July 29, 2026 · 1 min read

@@ -1,3 +1,10 @@
+---
+title: "Agentic browsers reset the browser market"
+published: 2025-08-14
+lang: en
+canonical: https://ofershap.github.io/posts/agentic-browsers-reset-the-browser-market/
+---
+
 # Agentic browsers reset the browser market
 
 August 14, 2025 · 2 min read

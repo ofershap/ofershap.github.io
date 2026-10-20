@@ -1,3 +1,10 @@
+---
+title: "Useful ways to organize work with ChatGPT Projects"
+published: 2024-12-26
+lang: en
+canonical: https://ofershap.github.io/posts/useful-ways-to-organize-work-with-chatgpt-projects/
+---
+
 # Useful ways to organize work with ChatGPT Projects
 
 December 26, 2024 · 1 min read

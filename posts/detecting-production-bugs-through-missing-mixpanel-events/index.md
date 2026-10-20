@@ -1,3 +1,10 @@
+---
+title: "Detecting production bugs through missing Mixpanel events"
+published: 2026-07-02
+lang: en
+canonical: https://ofershap.github.io/posts/detecting-production-bugs-through-missing-mixpanel-events/
+---
+
 # Detecting production bugs through missing Mixpanel events
 
 July 2, 2026 · 1 min read

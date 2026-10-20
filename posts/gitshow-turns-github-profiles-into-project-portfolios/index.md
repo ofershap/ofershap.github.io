@@ -1,3 +1,10 @@
+---
+title: "GitShow turns GitHub profiles into project portfolios"
+published: 2026-02-26
+lang: en
+canonical: https://ofershap.github.io/posts/gitshow-turns-github-profiles-into-project-portfolios/
+---
+
 # GitShow turns GitHub profiles into project portfolios
 
 February 26, 2026 · 1 min read

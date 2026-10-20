@@ -1,3 +1,10 @@
+---
+title: "Turning one image into an explorable 3D world"
+published: 2025-08-10
+lang: en
+canonical: https://ofershap.github.io/posts/turning-one-image-into-an-explorable-3d-world/
+---
+
 # Turning one image into an explorable 3D world
 
 August 10, 2025 · 1 min read

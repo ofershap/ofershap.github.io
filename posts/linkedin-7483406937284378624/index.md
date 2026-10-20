@@ -1,3 +1,11 @@
+---
+title: "כמה זמן אתם מקדישים לכתיבת קוד? וכמה זמן לעשות Review על הקוד?"
+published: 2026-07-16T09:27:28.826000+03:00
+source: https://www.linkedin.com/posts/ofershap_%D7%90%D7%99%D7%9A-%D7%A0%D7%A8%D7%90%D7%95-%D7%A9%D7%9C%D7%95%D7%A9%D7%94-%D7%99%D7%9E%D7%99-%D7%A2%D7%91%D7%95%D7%93%D7%94-%D7%A9%D7%9C%D7%9B%D7%9D-%D7%A4%D7%A2%D7%9D-%D7%9B%D7%95%D7%AA%D7%91%D7%99%D7%9D-activity-7483406937284378624-zoJB
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7483406937284378624/
+---
+
 # כמה זמן אתם מקדישים לכתיבת קוד? וכמה זמן לעשות Review על הקוד?
 
 כמה זמן אתם מקדישים לכתיבת קוד? וכמה זמן לעשות Review על הקוד?

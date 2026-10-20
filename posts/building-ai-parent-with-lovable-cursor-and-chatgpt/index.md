@@ -1,3 +1,10 @@
+---
+title: "Building AI Parent with Lovable, Cursor, and ChatGPT"
+published: 2025-02-21
+lang: en
+canonical: https://ofershap.github.io/posts/building-ai-parent-with-lovable-cursor-and-chatgpt/
+---
+
 # Building AI Parent with Lovable, Cursor, and ChatGPT
 
 February 21, 2025 · 1 min read

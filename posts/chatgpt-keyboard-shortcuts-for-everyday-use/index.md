@@ -1,3 +1,10 @@
+---
+title: "ChatGPT keyboard shortcuts for everyday use"
+published: 2025-05-10
+lang: en
+canonical: https://ofershap.github.io/posts/chatgpt-keyboard-shortcuts-for-everyday-use/
+---
+
 # ChatGPT keyboard shortcuts for everyday use
 
 May 10, 2025 · 1 min read

@@ -1,3 +1,10 @@
+---
+title: "How Windward mapped the open ocean"
+published: 2025-01-05
+lang: en
+canonical: https://ofershap.github.io/posts/how-windward-mapped-the-open-ocean/
+---
+
 # How Windward mapped the open ocean
 
 January 5, 2025 · 1 min read

@@ -1,3 +1,10 @@
+---
+title: "AI ministers and democracy by Discord"
+published: 2025-09-13
+lang: en
+canonical: https://ofershap.github.io/posts/ai-ministers-and-democracy-by-discord/
+---
+
 # AI ministers and democracy by Discord
 
 September 13, 2025 · 2 min read

@@ -1,3 +1,11 @@
+---
+title: "מי כותב את ה-PR הבא שלכם זאת כבר לא השאלה הכי מעניינת."
+published: 2026-10-13T08:37:00+03:00
+source: https://www.linkedin.com/feed/update/urn:li:share:7515646846195769344/
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7515646847416246272/
+---
+
 # מי כותב את ה-PR הבא שלכם זאת כבר לא השאלה הכי מעניינת.
 
 מי כותב את ה-PR הבא שלכם זאת כבר לא השאלה הכי מעניינת.

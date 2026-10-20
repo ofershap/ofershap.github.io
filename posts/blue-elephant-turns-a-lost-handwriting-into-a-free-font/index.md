@@ -1,3 +1,10 @@
+---
+title: "Blue Elephant turns a lost handwriting into a free font"
+published: 2020-08-15
+lang: en
+canonical: https://ofershap.github.io/posts/blue-elephant-turns-a-lost-handwriting-into-a-free-font/
+---
+
 # Blue Elephant turns a lost handwriting into a free font
 
 August 15, 2020 · 1 min read

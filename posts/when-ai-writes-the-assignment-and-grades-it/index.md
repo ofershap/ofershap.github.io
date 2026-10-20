@@ -1,3 +1,10 @@
+---
+title: "When AI writes the assignment and grades it"
+published: 2025-07-14
+lang: en
+canonical: https://ofershap.github.io/posts/when-ai-writes-the-assignment-and-grades-it/
+---
+
 # When AI writes the assignment and grades it
 
 Date: 2025-07-14

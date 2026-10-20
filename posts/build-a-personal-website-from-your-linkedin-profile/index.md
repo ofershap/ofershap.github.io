@@ -1,3 +1,10 @@
+---
+title: "Build a personal website from your LinkedIn profile"
+published: 2025-05-04
+lang: en
+canonical: https://ofershap.github.io/posts/build-a-personal-website-from-your-linkedin-profile/
+---
+
 # Build a personal website from your LinkedIn profile
 
 May 4, 2025 · 1 min read

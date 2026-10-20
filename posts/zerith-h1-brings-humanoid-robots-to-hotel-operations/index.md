@@ -1,3 +1,10 @@
+---
+title: "Zerith H1 brings humanoid robots to hotel operations"
+published: 2025-06-22
+lang: en
+canonical: https://ofershap.github.io/posts/zerith-h1-brings-humanoid-robots-to-hotel-operations/
+---
+
 # Zerith H1 brings humanoid robots to hotel operations
 
 June 22, 2025 · 1 min read

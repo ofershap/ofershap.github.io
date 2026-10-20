@@ -1,3 +1,10 @@
+---
+title: "Running a local AI chat without internet access"
+published: 2025-05-20
+lang: en
+canonical: https://ofershap.github.io/posts/running-a-local-ai-chat-without-internet-access/
+---
+
 # Running a local AI chat without internet access
 
 May 20, 2025 · 1 min read

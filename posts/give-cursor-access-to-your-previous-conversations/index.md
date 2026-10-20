@@ -1,3 +1,10 @@
+---
+title: "Give Cursor access to your previous conversations"
+published: 2026-01-29
+lang: en
+canonical: https://ofershap.github.io/posts/give-cursor-access-to-your-previous-conversations/
+---
+
 # Give Cursor access to your previous conversations
 
 January 29, 2026 · 1 min read

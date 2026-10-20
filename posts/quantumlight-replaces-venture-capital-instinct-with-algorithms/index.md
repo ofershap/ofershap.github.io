@@ -1,3 +1,10 @@
+---
+title: "QuantumLight replaces venture capital instinct with algorithms"
+published: 2025-06-18
+lang: en
+canonical: https://ofershap.github.io/posts/quantumlight-replaces-venture-capital-instinct-with-algorithms/
+---
+
 # QuantumLight replaces venture capital instinct with algorithms
 
 June 18, 2025 · 1 min read

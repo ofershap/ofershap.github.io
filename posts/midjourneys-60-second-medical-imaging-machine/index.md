@@ -1,3 +1,10 @@
+---
+title: "Midjourney’s 60-second medical imaging machine"
+published: 2026-06-22
+lang: en
+canonical: https://ofershap.github.io/posts/midjourneys-60-second-medical-imaging-machine/
+---
+
 # Midjourney’s 60-second medical imaging machine
 
 June 22, 2026 · 1 min read

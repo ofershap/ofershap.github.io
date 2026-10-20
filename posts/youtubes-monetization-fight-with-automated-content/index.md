@@ -1,3 +1,10 @@
+---
+title: "YouTube’s monetization fight with automated content"
+published: 2025-07-13
+lang: en
+canonical: https://ofershap.github.io/posts/youtubes-monetization-fight-with-automated-content/
+---
+
 # YouTube’s monetization fight with automated content
 
 July 13, 2025 · 1 min read

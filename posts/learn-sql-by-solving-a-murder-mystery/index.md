@@ -1,3 +1,10 @@
+---
+title: "Learn SQL by solving a murder mystery"
+published: 2025-03-27
+lang: en
+canonical: https://ofershap.github.io/posts/learn-sql-by-solving-a-murder-mystery/
+---
+
 # Learn SQL by solving a murder mystery
 
 March 27, 2025 · 1 min read

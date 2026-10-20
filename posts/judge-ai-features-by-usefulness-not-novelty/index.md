@@ -1,3 +1,10 @@
+---
+title: "Judge AI features by usefulness, not novelty"
+published: 2025-04-28
+lang: en
+canonical: https://ofershap.github.io/posts/judge-ai-features-by-usefulness-not-novelty/
+---
+
 # Judge AI features by usefulness, not novelty
 
 April 28, 2025 · 1 min read

@@ -1,3 +1,10 @@
+---
+title: "The X-59 tests whether supersonic flight can be quiet"
+published: 2025-11-28
+lang: en
+canonical: https://ofershap.github.io/posts/the-x-59-tests-whether-supersonic-flight-can-be-quiet/
+---
+
 # The X-59 tests whether supersonic flight can be quiet
 
 November 28, 2025 · 1 min read

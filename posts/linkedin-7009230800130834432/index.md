@@ -1,3 +1,11 @@
+---
+title: "Our lives are enriched when we surround ourselves with people who inspire us. Let's all take a moment to recognize and appreciate "
+published: 2022-12-15T21:00:47.962000+02:00
+source: https://www.linkedin.com/posts/ofershap_our-lives-are-enriched-when-we-surround-ourselves-activity-7009230800130834432-tHOA
+lang: en
+canonical: https://ofershap.github.io/posts/linkedin-7009230800130834432/
+---
+
 # Our lives are enriched when we surround ourselves with people who inspire us. Let's all take a moment to recognize and appreciate 
 
 Our lives are enriched when we surround ourselves with people who inspire us. Let's all take a moment to recognize and appreciate the amazing people in our lives.

@@ -1,3 +1,10 @@
+---
+title: "How to remove AI-generated intimate images"
+published: 2023-08-12
+lang: en
+canonical: https://ofershap.github.io/posts/how-to-remove-ai-generated-intimate-images/
+---
+
 # How to remove AI-generated intimate images
 
 August 12, 2023 · 1 min read

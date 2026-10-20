@@ -1,3 +1,11 @@
+---
+title: "סך הכל אמרתי \"לִבְרִיאוּת\" כשהיא התעטשה לידי. זה הרגל שלי מילדות. בעצם, של כולנו, לא? "
+published: 2025-11-07T09:15:07.324000+02:00
+source: https://www.linkedin.com/posts/ofershap_ackacxacpacuaclacsacoacladeabracsacyadgacpacj-activity-7392459572428337152-zWx2
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7392459572428337152/
+---
+
 # סך הכל אמרתי "לִבְרִיאוּת" כשהיא התעטשה לידי. זה הרגל שלי מילדות. בעצם, של כולנו, לא? 
 
 סך הכל אמרתי "לִבְרִיאוּת" כשהיא התעטשה לידי. זה הרגל שלי מילדות. בעצם, של כולנו, לא? 

@@ -1,3 +1,11 @@
+---
+title: "Are you talking to a Human or a Robot?"
+published: 2025-04-17T19:30:03.622000+03:00
+source: https://www.linkedin.com/posts/ofershap_are-you-talking-to-a-human-or-a-robot-https-activity-7318672102641827840-eYI3
+lang: en
+canonical: https://ofershap.github.io/posts/linkedin-7318672102641827840/
+---
+
 # Are you talking to a Human or a Robot?
 
 Are you talking to a Human or a Robot?

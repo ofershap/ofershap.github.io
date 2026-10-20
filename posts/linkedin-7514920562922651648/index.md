@@ -1,3 +1,11 @@
+---
+title: "התשובה הגיעה אחרי כמה שעות. אני כבר שכחתי ששאלתי."
+published: 2026-10-11T08:31:00+03:00
+source: https://www.linkedin.com/feed/update/urn:li:share:7514920561937002497
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7514920562922651648/
+---
+
 # התשובה הגיעה אחרי כמה שעות. אני כבר שכחתי ששאלתי.
 
 התשובה הגיעה אחרי כמה שעות. אני כבר שכחתי ששאלתי.

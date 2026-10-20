@@ -1,3 +1,11 @@
+---
+title: "בניתי הרצאה שלמה מהווצאפ."
+published: 2026-10-10T09:12:30+03:00
+source: https://www.linkedin.com/feed/update/urn:li:activity:7514568532546990081/
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7514568532546990081/
+---
+
 # בניתי הרצאה שלמה מהווצאפ.
 
 בניתי הרצאה שלמה מהווצאפ.

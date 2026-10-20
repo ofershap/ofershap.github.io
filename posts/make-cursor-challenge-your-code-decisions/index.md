@@ -1,3 +1,10 @@
+---
+title: "Make Cursor challenge your code decisions"
+published: 2025-06-26
+lang: en
+canonical: https://ofershap.github.io/posts/make-cursor-challenge-your-code-decisions/
+---
+
 # Make Cursor challenge your code decisions
 
 June 26, 2025 · 1 min read

@@ -1,3 +1,11 @@
+---
+title: "מה שהוא אמר"
+published: 2023-07-16T18:01:21.563000+03:00
+source: https://www.linkedin.com/posts/ofershap_attention-fe-tech-enthusiasts-this-activity-7086359158458859520-V4C7
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7086359158458859520/
+---
+
 # מה שהוא אמר
 
 מה שהוא אמר

@@ -1,3 +1,10 @@
+---
+title: "Casio moves from watches to emotional robots"
+published: 2025-10-14
+lang: en
+canonical: https://ofershap.github.io/posts/casio-moves-from-watches-to-emotional-robots/
+---
+
 # Casio moves from watches to emotional robots
 
 October 14, 2025 · 1 min read

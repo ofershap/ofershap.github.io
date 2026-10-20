@@ -1,3 +1,10 @@
+---
+title: "A control tower for Cursor cloud agents"
+published: 2026-03-23
+lang: en
+canonical: https://ofershap.github.io/posts/a-control-tower-for-cursor-cloud-agents/
+---
+
 # A control tower for Cursor cloud agents
 
 March 23, 2026 · 1 min read

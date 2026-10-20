@@ -1,3 +1,11 @@
+---
+title: "מסלול האוטובוס מלונדון ל... הודו 🚍"
+published: 2025-03-07T00:00:01.424000+02:00
+source: https://www.linkedin.com/posts/ofershap_%D7%9E%D7%A1%D7%9C%D7%95%D7%9C-%D7%94%D7%90%D7%95%D7%98%D7%95%D7%91%D7%95%D7%A1-%D7%9E%D7%9C%D7%95%D7%A0%D7%93%D7%95%D7%9F-%D7%9C-%D7%94%D7%95%D7%93%D7%95-%D7%91%D7%A9%D7%A0%D7%95%D7%AA-activity-7303534850286800896-mYv7
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7303534850286800896/
+---
+
 # מסלול האוטובוס מלונדון ל... הודו 🚍
 
 מסלול האוטובוס מלונדון ל... הודו 🚍

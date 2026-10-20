@@ -1,3 +1,10 @@
+---
+title: "Why confident AI answers earn misplaced trust"
+published: 2025-05-30
+lang: en
+canonical: https://ofershap.github.io/posts/why-confident-ai-answers-earn-misplaced-trust/
+---
+
 # Why confident AI answers earn misplaced trust
 
 May 30, 2025 · 1 min read

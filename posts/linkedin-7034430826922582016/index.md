@@ -1,3 +1,11 @@
+---
+title: "מגייסים אצלנו למגוון משרות:"
+published: 2023-02-23T09:56:42.543000+02:00
+source: https://www.linkedin.com/posts/ofershap_acnacpadaacladfacyachaclacjack-activity-7034430826922582016-GjoY
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7034430826922582016/
+---
+
 # מגייסים אצלנו למגוון משרות:
 
 מגייסים אצלנו למגוון משרות:

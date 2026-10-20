@@ -1,3 +1,11 @@
+---
+title: "Roman Serkinskiy, you have changed the way I write prompts! "
+published: 2026-07-29T17:00:34.789000+03:00
+source: https://www.linkedin.com/posts/ofershap_the-hidden-psychology-inside-every-prompt-activity-7488232005730627584-DaDw
+lang: en
+canonical: https://ofershap.github.io/posts/linkedin-7488232005730627584/
+---
+
 # Roman Serkinskiy, you have changed the way I write prompts! 
 
 Roman Serkinskiy, you have changed the way I write prompts! 

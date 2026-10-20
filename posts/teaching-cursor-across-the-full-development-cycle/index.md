@@ -1,3 +1,10 @@
+---
+title: "Teaching Cursor across the full development cycle"
+published: 2025-07-27
+lang: en
+canonical: https://ofershap.github.io/posts/teaching-cursor-across-the-full-development-cycle/
+---
+
 # Teaching Cursor across the full development cycle
 
 July 27, 2025 · 1 min read

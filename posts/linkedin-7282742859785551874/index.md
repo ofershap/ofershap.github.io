@@ -1,3 +1,11 @@
+---
+title: "כש-ChatGPT הופך לשותף בלתי צפוי בפעולת טרור 🚨"
+published: 2025-01-08T15:00:04.592000+02:00
+source: https://www.linkedin.com/posts/ofershap_%D7%9B%D7%A9-chatgpt-%D7%94%D7%95%D7%A4%D7%9A-%D7%9C%D7%A9%D7%95%D7%AA%D7%A3-%D7%91%D7%9C%D7%AA%D7%99-%D7%A6%D7%A4%D7%95%D7%99-%D7%91%D7%A4%D7%A2%D7%95%D7%9C%D7%AA-%D7%98%D7%A8%D7%95%D7%A8-activity-7282742859785551874-Y_Hz
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7282742859785551874/
+---
+
 # כש-ChatGPT הופך לשותף בלתי צפוי בפעולת טרור 🚨
 
 כש-ChatGPT הופך לשותף בלתי צפוי בפעולת טרור 🚨

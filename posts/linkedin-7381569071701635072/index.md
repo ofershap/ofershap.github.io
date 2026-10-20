@@ -1,3 +1,11 @@
+---
+title: "מה שאפשר לעשות היום עם AI..."
+published: 2025-10-08T09:00:09.615000+03:00
+source: https://www.linkedin.com/posts/ofershap_%D7%9E%D7%94-%D7%A9%D7%90%D7%A4%D7%A9%D7%A8-%D7%9C%D7%A2%D7%A9%D7%95%D7%AA-%D7%94%D7%99%D7%95%D7%9D-%D7%A2%D7%9D-ai-%D7%A1%D7%95%D7%9B%D7%A0%D7%95%D7%AA-%D7%A9%D7%99%D7%95%D7%95%D7%A7-activity-7381569071701635072-eVqm
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7381569071701635072/
+---
+
 # מה שאפשר לעשות היום עם AI...
 
 מה שאפשר לעשות היום עם AI...

@@ -1,3 +1,10 @@
+---
+title: "Make Cursor read the logs it cannot watch"
+published: 2025-09-08
+lang: en
+canonical: https://ofershap.github.io/posts/make-cursor-read-the-logs-it-cannot-watch/
+---
+
 # Make Cursor read the logs it cannot watch
 
 September 8, 2025 · 1 min read

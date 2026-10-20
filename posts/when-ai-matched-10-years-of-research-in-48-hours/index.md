@@ -1,3 +1,10 @@
+---
+title: "When AI matched 10 years of research in 48 hours"
+published: 2025-03-21
+lang: en
+canonical: https://ofershap.github.io/posts/when-ai-matched-10-years-of-research-in-48-hours/
+---
+
 # When AI matched 10 years of research in 48 hours
 
 March 21, 2025 · 1 min read

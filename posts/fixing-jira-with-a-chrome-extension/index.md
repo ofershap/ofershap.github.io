@@ -1,3 +1,10 @@
+---
+title: "Fixing JIRA with a Chrome extension"
+published: 2024-01-08
+lang: en
+canonical: https://ofershap.github.io/posts/fixing-jira-with-a-chrome-extension/
+---
+
 # Fixing JIRA with a Chrome extension
 
 January 8, 2024 · 1 min read

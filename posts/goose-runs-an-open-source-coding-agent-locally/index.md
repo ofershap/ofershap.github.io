@@ -1,3 +1,10 @@
+---
+title: "Goose runs an open-source coding agent locally"
+published: 2026-02-04
+lang: en
+canonical: https://ofershap.github.io/posts/goose-runs-an-open-source-coding-agent-locally/
+---
+
 # Goose runs an open-source coding agent locally
 
 February 4, 2026 · 1 min read

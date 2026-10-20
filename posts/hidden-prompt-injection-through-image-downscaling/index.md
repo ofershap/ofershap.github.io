@@ -1,3 +1,10 @@
+---
+title: "Hidden prompt injection through image downscaling"
+published: 2025-10-07
+lang: en
+canonical: https://ofershap.github.io/posts/hidden-prompt-injection-through-image-downscaling/
+---
+
 # Hidden prompt injection through image downscaling
 
 October 7, 2025 · 1 min read

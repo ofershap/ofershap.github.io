@@ -1,3 +1,10 @@
+---
+title: "Why we ask AI before asking people"
+published: 2026-06-24
+lang: en
+canonical: https://ofershap.github.io/posts/why-we-ask-ai-before-asking-people/
+---
+
 # Why we ask AI before asking people
 
 June 24, 2026 · 2 min read

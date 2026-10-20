@@ -1,3 +1,11 @@
+---
+title: "מצחיק: חברת התעופה southwest אוסרת על רובוטים הומנואידים לעלות על הטיסות שלה."
+published: 2026-05-26T08:37:22.411000+03:00
+source: https://www.linkedin.com/posts/ofershap_southwest-airlines-bans-humanoid-animal-like-activity-7464912546320408576-tBa0
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7464912546320408576/
+---
+
 # מצחיק: חברת התעופה southwest אוסרת על רובוטים הומנואידים לעלות על הטיסות שלה.
 
 מצחיק: חברת התעופה southwest אוסרת על רובוטים הומנואידים לעלות על הטיסות שלה.

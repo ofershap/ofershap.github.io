@@ -1,3 +1,10 @@
+---
+title: "How the Gauntlet Loop built a game from one prompt"
+published: 2026-08-02
+lang: en
+canonical: https://ofershap.github.io/posts/how-the-gauntlet-loop-built-a-game-from-one-prompt/
+---
+
 # How the Gauntlet Loop built a game from one prompt
 
 August 2, 2026 · 1 min read

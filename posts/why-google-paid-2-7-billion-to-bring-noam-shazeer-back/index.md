@@ -1,3 +1,10 @@
+---
+title: "Why Google paid $2.7 billion to bring Noam Shazeer back"
+published: 2025-03-12
+lang: en
+canonical: https://ofershap.github.io/posts/why-google-paid-2-7-billion-to-bring-noam-shazeer-back/
+---
+
 # Why Google paid $2.7 billion to bring Noam Shazeer back
 
 March 12, 2025 · 1 min read

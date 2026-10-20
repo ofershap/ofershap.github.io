@@ -1,3 +1,10 @@
+---
+title: "Remote-controlled beetles for search and rescue"
+published: 2025-08-13
+lang: en
+canonical: https://ofershap.github.io/posts/remote-controlled-beetles-for-search-and-rescue/
+---
+
 # Remote-controlled beetles for search and rescue
 
 August 13, 2025 · 1 min read

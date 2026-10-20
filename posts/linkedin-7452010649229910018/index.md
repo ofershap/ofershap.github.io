@@ -1,3 +1,11 @@
+---
+title: "מחפשים עבודה? הפוסט הזה בשבילכם:"
+published: 2026-04-20T18:09:50.439000+03:00
+source: https://www.linkedin.com/posts/ofershap_opensource-jobsearch-buildinpublic-activity-7452010649229910018-v-rR
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7452010649229910018/
+---
+
 # מחפשים עבודה? הפוסט הזה בשבילכם:
 
 מחפשים עבודה? הפוסט הזה בשבילכם:

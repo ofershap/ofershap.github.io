@@ -1,3 +1,10 @@
+---
+title: "How agents choose among too many tools"
+published: 2026-07-22
+lang: en
+canonical: https://ofershap.github.io/posts/how-agents-choose-among-too-many-tools/
+---
+
 # How agents choose among too many tools
 
 July 22, 2026 · 1 min read

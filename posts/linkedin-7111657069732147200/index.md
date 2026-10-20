@@ -1,3 +1,11 @@
+---
+title: "Can you identify the logo hidden in each picture?"
+published: 2023-09-24T13:26:13.623000+03:00
+source: https://www.linkedin.com/posts/ofershap_can-you-identify-the-logo-hidden-in-each-activity-7111657069732147200-2YiI
+lang: en
+canonical: https://ofershap.github.io/posts/linkedin-7111657069732147200/
+---
+
 # Can you identify the logo hidden in each picture?
 
 Can you identify the logo hidden in each picture?

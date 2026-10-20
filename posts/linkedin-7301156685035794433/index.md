@@ -1,3 +1,11 @@
+---
+title: "איך להפוך את חוסר הנוחות להרגל? 🛋️ "
+published: 2025-02-28T10:30:02.644000+02:00
+source: https://www.linkedin.com/posts/ofershap_%D7%90%D7%99%D7%9A-%D7%9C%D7%94%D7%A4%D7%95%D7%9A-%D7%90%D7%AA-%D7%97%D7%95%D7%A1%D7%A8-%D7%94%D7%A0%D7%95%D7%97%D7%95%D7%AA-%D7%9C%D7%94%D7%A8%D7%92%D7%9C-%D7%9C%D7%90-%D7%9E%D7%96%D7%9E%D7%9F-activity-7301156685035794433-XEDf
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7301156685035794433/
+---
+
 # איך להפוך את חוסר הנוחות להרגל? 🛋️ 
 
 איך להפוך את חוסר הנוחות להרגל? 🛋️ 

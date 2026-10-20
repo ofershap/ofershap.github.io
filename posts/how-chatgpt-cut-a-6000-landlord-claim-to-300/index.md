@@ -1,3 +1,10 @@
+---
+title: "How ChatGPT cut a $6,000 landlord claim to $300"
+published: 2025-10-15
+lang: en
+canonical: https://ofershap.github.io/posts/how-chatgpt-cut-a-6000-landlord-claim-to-300/
+---
+
 # How ChatGPT cut a $6,000 landlord claim to $300
 
 October 15, 2025 · 1 min read

@@ -1,3 +1,11 @@
+---
+title: "פינת ה: ״מחפשים משרה חדשה?״ 🎯"
+published: 2025-05-18T14:00:06.394000+03:00
+source: https://www.linkedin.com/posts/ofershap_wearehiring-techjobs-elementor-activity-7329823090882908160-rXLm
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7329823090882908160/
+---
+
 # פינת ה: ״מחפשים משרה חדשה?״ 🎯
 
 פינת ה: ״מחפשים משרה חדשה?״ 🎯

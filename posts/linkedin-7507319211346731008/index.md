@@ -1,3 +1,11 @@
+---
+title: "מה קורה כשהבוט של Instinct יוצר לעצמו פרויקט open source?"
+published: 2026-09-20T09:06:19.231000+03:00
+source: https://www.linkedin.com/posts/ofershap_github-ofershappr-rulebook-compile-your-activity-7507319211346731008-yudF
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7507319211346731008/
+---
+
 # מה קורה כשהבוט של Instinct יוצר לעצמו פרויקט open source?
 
 מה קורה כשהבוט של Instinct יוצר לעצמו פרויקט open source?

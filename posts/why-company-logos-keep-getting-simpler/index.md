@@ -1,3 +1,10 @@
+---
+title: "Why company logos keep getting simpler"
+published: 2024-12-17
+lang: en
+canonical: https://ofershap.github.io/posts/why-company-logos-keep-getting-simpler/
+---
+
 # Why company logos keep getting simpler
 
 December 17, 2024 · 1 min read

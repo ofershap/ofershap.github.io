@@ -1,3 +1,10 @@
+---
+title: "Why the first follower creates the movement"
+published: 2024-07-23
+lang: en
+canonical: https://ofershap.github.io/posts/why-the-first-follower-creates-the-movement/
+---
+
 # Why the first follower creates the movement
 
 July 23, 2024 · 1 min read

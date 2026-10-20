@@ -1,3 +1,10 @@
+---
+title: "Building complete websites with AI"
+published: 2025-02-17
+lang: en
+canonical: https://ofershap.github.io/posts/building-complete-websites-with-ai/
+---
+
 # Building complete websites with AI
 
 February 17, 2025 · 1 min read

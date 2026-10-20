@@ -1,3 +1,10 @@
+---
+title: "Running multiple AI agents without terminal conflicts"
+published: 2026-01-13
+lang: en
+canonical: https://ofershap.github.io/posts/running-multiple-ai-agents-without-terminal-conflicts/
+---
+
 # Running multiple AI agents without terminal conflicts
 
 January 13, 2026 · 1 min read

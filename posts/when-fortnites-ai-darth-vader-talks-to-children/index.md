@@ -1,3 +1,10 @@
+---
+title: "When Fortnite&#x27;s AI Darth Vader talks to children"
+published: 2025-06-13
+lang: en
+canonical: https://ofershap.github.io/posts/when-fortnites-ai-darth-vader-talks-to-children/
+---
+
 # When Fortnite's AI Darth Vader talks to children
 
 June 13, 2025 · 1 min read

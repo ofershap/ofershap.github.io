@@ -1,3 +1,10 @@
+---
+title: "China is closing the AI gap with the US"
+published: 2025-01-01
+lang: en
+canonical: https://ofershap.github.io/posts/china-is-closing-the-ai-gap-with-the-us/
+---
+
 # China is closing the AI gap with the US
 
 January 1, 2025 · 1 min read

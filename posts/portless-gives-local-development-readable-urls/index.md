@@ -1,3 +1,10 @@
+---
+title: "Portless gives local development readable URLs"
+published: 2026-03-04
+lang: en
+canonical: https://ofershap.github.io/posts/portless-gives-local-development-readable-urls/
+---
+
 # Portless gives local development readable URLs
 
 March 4, 2026 · 1 min read

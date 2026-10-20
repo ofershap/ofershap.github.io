@@ -1,3 +1,11 @@
+---
+title: "\"King of the chain, fillin’ the brain,"
+published: 2025-04-25T08:33:58.835000+03:00
+source: https://www.linkedin.com/posts/ofershap_king-of-the-chain-fillin-the-brain-thinkin-activity-7321406097683062784-TsFM
+lang: en
+canonical: https://ofershap.github.io/posts/linkedin-7321406097683062784/
+---
+
 # "King of the chain, fillin’ the brain,
 
 "King of the chain, fillin’ the brain,

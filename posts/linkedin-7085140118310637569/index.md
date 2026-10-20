@@ -1,3 +1,11 @@
+---
+title: "זה מטוס? זה ציפור?"
+published: 2023-07-13T09:17:19.743000+03:00
+source: https://www.linkedin.com/posts/ofershap_innovation-technology-robotics-activity-7085140118310637569-AtTF
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7085140118310637569/
+---
+
 # זה מטוס? זה ציפור?
 
 זה מטוס? זה ציפור?

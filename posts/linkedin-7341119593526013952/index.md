@@ -1,3 +1,11 @@
+---
+title: "הכתובת היתה על הקיר 😄 "
+published: 2025-06-18T18:08:22.503000+03:00
+source: https://www.linkedin.com/posts/ofershap_%D7%A2%D7%AA%D7%99%D7%93%D7%95%D7%AA-wix-%D7%AA%D7%A8%D7%9B%D7%95%D7%A9-%D7%90%D7%AA-base44-%D7%A9%D7%9C-maor-shlomo-activity-7341119593526013952-l10S
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7341119593526013952/
+---
+
 # הכתובת היתה על הקיר 😄 
 
 הכתובת היתה על הקיר 😄 

@@ -1,3 +1,10 @@
+---
+title: "הפרויקט שנבנה ב-Cursor, Lovable או Bolt לא עובד. מה עושים?"
+published: 2026-10-07T19:59:48+03:00
+lang: he
+canonical: https://ofershap.github.io/posts/vibe-code-project-rescue/
+---
+
 ## פוסט C: הפרויקט שנבנה ב-Cursor, Lovable או Bolt לא עובד. מה עושים?
 **תשובה קצרה:** עוצרים לבקש מה-AI עוד תיקונים, בודקים לוגים, משתני סביבה והפריסה, ומצמצמים את הבעיה לדבר אחד לפני שמתקנים.
 

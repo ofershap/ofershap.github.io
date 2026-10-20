@@ -1,3 +1,10 @@
+---
+title: "Why Windsurf kept Claude after its $3 billion acquisition"
+published: 2025-06-06
+lang: en
+canonical: https://ofershap.github.io/posts/why-windsurf-kept-claude-after-its-3-billion-acquisition/
+---
+
 # Why Windsurf kept Claude after its $3 billion acquisition
 
 June 6, 2025 · 1 min read

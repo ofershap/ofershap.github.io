@@ -1,3 +1,10 @@
+---
+title: "How fly.pieter.com reached $30,000 a month with AI"
+published: 2025-03-04
+lang: en
+canonical: https://ofershap.github.io/posts/how-fly-pieter-com-reached-30000-a-month-with-ai/
+---
+
 # How fly.pieter.com reached $30,000 a month with AI
 
 March 4, 2025 · 2 min read

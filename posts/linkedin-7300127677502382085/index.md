@@ -1,3 +1,11 @@
+---
+title: "עתידות: \"לפני יום-הולדתך ה-21 תגיע לירח\" 🫧 "
+published: 2025-02-25T14:21:08.130000+02:00
+source: https://www.linkedin.com/posts/ofershap_aicreativity-nostalgia-storytelling-activity-7300127677502382085-t6e4
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7300127677502382085/
+---
+
 # עתידות: "לפני יום-הולדתך ה-21 תגיע לירח" 🫧 
 
 עתידות: "לפני יום-הולדתך ה-21 תגיע לירח" 🫧 

@@ -1,3 +1,11 @@
+---
+title: "הפסקת תה... מאולצת"
+published: 2025-08-31T08:15:01.453000+03:00
+source: https://www.linkedin.com/posts/ofershap_%D7%94%D7%A4%D7%A1%D7%A7%D7%AA-%D7%AA%D7%94-%D7%9E%D7%90%D7%95%D7%9C%D7%A6%D7%AA-%D7%91%D7%A0%D7%99%D7%95-%D7%99%D7%95%D7%A8%D7%A7-%D7%94%D7%A6%D7%99%D7%91%D7%95-%D7%9E%D7%9B%D7%95%D7%A0%D7%AA-activity-7367786973954031616-ziKx
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7367786973954031616/
+---
+
 # הפסקת תה... מאולצת
 
 הפסקת תה... מאולצת

@@ -1,3 +1,11 @@
+---
+title: "כולם מדברים על background agents, אני בניתי foreground agent."
+published: 2025-07-28T09:30:02.822000+03:00
+source: https://www.linkedin.com/posts/ofershap_%D7%9B%D7%95%D7%9C%D7%9D-%D7%9E%D7%93%D7%91%D7%A8%D7%99%D7%9D-%D7%A2%D7%9C-background-agents-%D7%90%D7%A0%D7%99-%D7%91%D7%A0%D7%99%D7%AA%D7%99-activity-7355484666633641984-KicT
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7355484666633641984/
+---
+
 # כולם מדברים על background agents, אני בניתי foreground agent.
 
 כולם מדברים על background agents, אני בניתי foreground agent.

@@ -1,3 +1,10 @@
+---
+title: "What a 2026 résumé should look like"
+published: 2026-07-06
+lang: en
+canonical: https://ofershap.github.io/posts/what-a-2026-resume-should-look-like/
+---
+
 # What a 2026 résumé should look like
 
 July 6, 2026 · 1 min read

@@ -1,3 +1,10 @@
+---
+title: "China is betting on applied AI, not AGI"
+published: 2025-09-15
+lang: en
+canonical: https://ofershap.github.io/posts/china-is-betting-on-applied-ai-not-agi/
+---
+
 # China is betting on applied AI, not AGI
 
 September 15, 2025 · 1 min read

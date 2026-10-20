@@ -1,3 +1,10 @@
+---
+title: "What Markus Persson lost by selling Minecraft"
+published: 2025-06-10
+lang: en
+canonical: https://ofershap.github.io/posts/what-markus-persson-lost-by-selling-minecraft/
+---
+
 # What Markus Persson lost by selling Minecraft
 
 June 10, 2025 · 2 min read

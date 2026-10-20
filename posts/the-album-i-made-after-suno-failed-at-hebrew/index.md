@@ -1,3 +1,10 @@
+---
+title: "The album I made after Suno failed at Hebrew"
+published: 2025-01-19
+lang: en
+canonical: https://ofershap.github.io/posts/the-album-i-made-after-suno-failed-at-hebrew/
+---
+
 # The album I made after Suno failed at Hebrew
 
 January 19, 2025 · 1 min read

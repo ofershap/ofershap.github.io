@@ -1,3 +1,11 @@
+---
+title: "בכל טכנולוגיה חדשה תמיד יהיה את הליצן הזה"
+published: 2023-02-08T19:43:25.909000+02:00
+source: https://www.linkedin.com/posts/ofershap_artificialintelligence-innovation-technology-activity-7029142662557372416-I1AR
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7029142662557372416/
+---
+
 # בכל טכנולוגיה חדשה תמיד יהיה את הליצן הזה
 
 בכל טכנולוגיה חדשה תמיד יהיה את הליצן הזה

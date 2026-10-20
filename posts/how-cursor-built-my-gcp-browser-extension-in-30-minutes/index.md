@@ -1,3 +1,10 @@
+---
+title: "How Cursor built my GCP browser extension in 30 minutes"
+published: 2026-01-27
+lang: en
+canonical: https://ofershap.github.io/posts/how-cursor-built-my-gcp-browser-extension-in-30-minutes/
+---
+
 # How Cursor built my GCP browser extension in 30 minutes
 
 January 27, 2026 · 2 min read

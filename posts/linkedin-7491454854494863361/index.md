@@ -1,3 +1,11 @@
+---
+title: "אנחנו נותנים לסוכני AI משימות, אבל בדרך כלל לא מגדירים להם מה בדיוק נחשב הצלחה."
+published: 2026-08-07T14:27:01.812000+03:00
+source: https://www.linkedin.com/posts/ofershap_the-fully-agentic-company-the-one-part-no-activity-7491454854494863361-3F1j
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7491454854494863361/
+---
+
 # אנחנו נותנים לסוכני AI משימות, אבל בדרך כלל לא מגדירים להם מה בדיוק נחשב הצלחה.
 
 אנחנו נותנים לסוכני AI משימות, אבל בדרך כלל לא מגדירים להם מה בדיוק נחשב הצלחה.

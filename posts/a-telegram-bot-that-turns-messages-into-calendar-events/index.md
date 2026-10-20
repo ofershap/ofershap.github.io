@@ -1,3 +1,10 @@
+---
+title: "A Telegram bot that turns messages into calendar events"
+published: 2026-02-15
+lang: en
+canonical: https://ofershap.github.io/posts/a-telegram-bot-that-turns-messages-into-calendar-events/
+---
+
 # A Telegram bot that turns messages into calendar events
 
 February 15, 2026 · 1 min read

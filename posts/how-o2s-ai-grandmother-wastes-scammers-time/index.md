@@ -1,3 +1,10 @@
+---
+title: "How O2&#x27;s AI grandmother wastes scammers&#x27; time"
+published: 2024-12-03
+lang: en
+canonical: https://ofershap.github.io/posts/how-o2s-ai-grandmother-wastes-scammers-time/
+---
+
 # How O2's AI grandmother wastes scammers' time
 
 December 3, 2024 · 1 min read

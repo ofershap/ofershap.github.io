@@ -1,3 +1,11 @@
+---
+title: "איך אני מייצר אנימציות מגניבות לREADME של הREPOS שלי? אני משתמש בספריית Remotion שעלתה לכותרות לאחרונה, יחד עם skill ויחד עם ספריי"
+published: 2026-02-19T10:56:22.474000+02:00
+source: https://www.linkedin.com/posts/ofershap_github-ofershapremotion-readme-kit-drop-in-activity-7430173391476854784-kFE9
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7430173391476854784/
+---
+
 # איך אני מייצר אנימציות מגניבות לREADME של הREPOS שלי? אני משתמש בספריית Remotion שעלתה לכותרות לאחרונה, יחד עם skill ויחד עם ספריי
 
 איך אני מייצר אנימציות מגניבות לREADME של הREPOS שלי? אני משתמש בספריית Remotion שעלתה לכותרות לאחרונה, יחד עם skill ויחד עם ספריית קוד שבניתי במיוחד בשביל זה

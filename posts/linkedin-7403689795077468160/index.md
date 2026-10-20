@@ -1,3 +1,11 @@
+---
+title: "מה ל***ל קורה פה?!"
+published: 2025-12-08T09:00:01.051000+02:00
+source: https://www.linkedin.com/posts/ofershap_adeaddachacjaclachacgacp-activity-7403689795077468160-3WwH
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7403689795077468160/
+---
+
 # מה ל***ל קורה פה?!
 
 מה ל***ל קורה פה?!

@@ -1,3 +1,11 @@
+---
+title: "אתם חיביים לנסות את זה! תתקינו את ChatGPT לדסקטופ ב-Mac!"
+published: 2025-08-05T09:30:02.492000+03:00
+source: https://www.linkedin.com/posts/ofershap_%D7%90%D7%AA%D7%9D-%D7%97%D7%99%D7%91%D7%99%D7%99%D7%9D-%D7%9C%D7%A0%D7%A1%D7%95%D7%AA-%D7%90%D7%AA-%D7%96%D7%94-%D7%AA%D7%AA%D7%A7%D7%99%D7%A0%D7%95-%D7%90%D7%AA-chatgpt-activity-7358383768174215168-gqsS
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7358383768174215168/
+---
+
 # אתם חיביים לנסות את זה! תתקינו את ChatGPT לדסקטופ ב-Mac!
 
 אתם חיביים לנסות את זה! תתקינו את ChatGPT לדסקטופ ב-Mac!

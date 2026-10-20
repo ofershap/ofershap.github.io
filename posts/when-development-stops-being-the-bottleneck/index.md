@@ -1,3 +1,10 @@
+---
+title: "When development stops being the bottleneck"
+published: 2025-03-26
+lang: en
+canonical: https://ofershap.github.io/posts/when-development-stops-being-the-bottleneck/
+---
+
 # When development stops being the bottleneck
 
 March 26, 2025 · 1 min read

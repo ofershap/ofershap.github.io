@@ -1,3 +1,10 @@
+---
+title: "Sora 2 makes fake video harder to spot"
+published: 2025-10-04
+lang: en
+canonical: https://ofershap.github.io/posts/sora-2-makes-fake-video-harder-to-spot/
+---
+
 # Sora 2 makes fake video harder to spot
 
 October 4, 2025 · 1 min read

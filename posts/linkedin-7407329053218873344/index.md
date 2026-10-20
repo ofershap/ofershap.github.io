@@ -1,3 +1,11 @@
+---
+title: "לינקדאין פרסמו השבוע Year in review - קבלו הצצה לנתונים מעניינים יותר של הפוסטים שלי בשנת 2025 (בהשראת Spotify Wrapped): "
+published: 2025-12-18T10:01:07.806000+02:00
+source: https://www.linkedin.com/posts/ofershap_linkedin-wrapped-2025-activity-7407329053218873344-UPFl
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7407329053218873344/
+---
+
 # לינקדאין פרסמו השבוע Year in review - קבלו הצצה לנתונים מעניינים יותר של הפוסטים שלי בשנת 2025 (בהשראת Spotify Wrapped): 
 
 לינקדאין פרסמו השבוע Year in review - קבלו הצצה לנתונים מעניינים יותר של הפוסטים שלי בשנת 2025 (בהשראת Spotify Wrapped): 

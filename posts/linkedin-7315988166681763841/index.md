@@ -1,3 +1,11 @@
+---
+title: "האם תוכלו לזהות מה אמיתי ומה מזויף? 🎧"
+published: 2025-04-10T09:45:03.424000+03:00
+source: https://www.linkedin.com/posts/ofershap_ai-voicesynthesis-outetts-activity-7315988166681763841-zks3
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7315988166681763841/
+---
+
 # האם תוכלו לזהות מה אמיתי ומה מזויף? 🎧
 
 האם תוכלו לזהות מה אמיתי ומה מזויף? 🎧

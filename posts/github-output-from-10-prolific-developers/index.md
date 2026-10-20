@@ -1,3 +1,10 @@
+---
+title: "GitHub output from 10 prolific developers"
+published: 2026-02-27
+lang: en
+canonical: https://ofershap.github.io/posts/github-output-from-10-prolific-developers/
+---
+
 # GitHub output from 10 prolific developers
 
 February 27, 2026 · 1 min read

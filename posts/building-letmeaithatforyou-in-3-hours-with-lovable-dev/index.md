@@ -1,3 +1,10 @@
+---
+title: "Building LetMeAIThatForYou in 3 hours with Lovable.dev"
+published: 2025-01-06
+lang: en
+canonical: https://ofershap.github.io/posts/building-letmeaithatforyou-in-3-hours-with-lovable-dev/
+---
+
 # Building LetMeAIThatForYou in 3 hours with Lovable.dev
 
 January 6, 2025 · 1 min read

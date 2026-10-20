@@ -1,3 +1,10 @@
+---
+title: "Three observations on AGI&#x27;s economic impact"
+published: 2025-03-06
+lang: en
+canonical: https://ofershap.github.io/posts/three-observations-on-agis-economic-impact/
+---
+
 # Three observations on AGI's economic impact
 
 March 6, 2025 · 1 min read

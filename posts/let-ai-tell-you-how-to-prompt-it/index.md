@@ -1,3 +1,10 @@
+---
+title: "Let AI tell you how to prompt it"
+published: 2025-02-18
+lang: en
+canonical: https://ofershap.github.io/posts/let-ai-tell-you-how-to-prompt-it/
+---
+
 # Let AI tell you how to prompt it
 
 February 18, 2025 · 1 min read

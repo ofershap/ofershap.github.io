@@ -1,3 +1,10 @@
+---
+title: "Using AI to analyze my team&#x27;s pull requests"
+published: 2026-06-21
+lang: en
+canonical: https://ofershap.github.io/posts/using-ai-to-analyze-my-teams-pull-requests/
+---
+
 # Using AI to analyze my team's pull requests
 
 June 21, 2026 · 1 min read

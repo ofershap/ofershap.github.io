@@ -1,3 +1,10 @@
+---
+title: "Cutting token costs in Cursor and Claude Code"
+published: 2026-04-19
+lang: en
+canonical: https://ofershap.github.io/posts/cutting-token-costs-in-cursor-and-claude-code/
+---
+
 # Cutting token costs in Cursor and Claude Code
 
 Date: 2026-04-19

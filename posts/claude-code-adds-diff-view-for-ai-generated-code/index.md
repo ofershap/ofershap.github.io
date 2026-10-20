@@ -1,3 +1,10 @@
+---
+title: "Claude Code adds diff view for AI-generated code"
+published: 2026-01-28
+lang: en
+canonical: https://ofershap.github.io/posts/claude-code-adds-diff-view-for-ai-generated-code/
+---
+
 # Claude Code adds diff view for AI-generated code
 
 January 28, 2026 · 1 min read

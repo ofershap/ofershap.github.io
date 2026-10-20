@@ -1,3 +1,10 @@
+---
+title: "10 rules for prompting Nano Banana Pro"
+published: 2025-12-01
+lang: en
+canonical: https://ofershap.github.io/posts/10-rules-for-prompting-nano-banana-pro/
+---
+
 # 10 rules for prompting Nano Banana Pro
 
 December 1, 2025 · 3 min read

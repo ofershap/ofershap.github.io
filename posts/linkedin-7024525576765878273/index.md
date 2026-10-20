@@ -1,3 +1,11 @@
+---
+title: "זה נראה ככ טוב שקשה להאמין שזה נוצר על ידי מלאכת אמנות ובינה מלאכותית"
+published: 2023-01-27T01:56:46.875000+02:00
+source: https://www.linkedin.com/posts/ofershap_ai-innovation-machinelearning-activity-7024525576765878273-sFdy
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7024525576765878273/
+---
+
 # זה נראה ככ טוב שקשה להאמין שזה נוצר על ידי מלאכת אמנות ובינה מלאכותית
 
 זה נראה ככ טוב שקשה להאמין שזה נוצר על ידי מלאכת אמנות ובינה מלאכותית

@@ -1,3 +1,11 @@
+---
+title: "המהפכה במשלוחים אוטונומיים כבר כאן! 🚚 "
+published: 2025-03-25T15:30:07.636000+02:00
+source: https://www.linkedin.com/posts/ofershap_acnacjadfacwacladg-acoacracwaclacsaclaciacpack-activity-7310291900085800961-RMvE
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7310291900085800961/
+---
+
 # המהפכה במשלוחים אוטונומיים כבר כאן! 🚚 
 
 המהפכה במשלוחים אוטונומיים כבר כאן! 🚚 

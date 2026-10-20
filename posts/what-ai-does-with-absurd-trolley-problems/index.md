@@ -1,3 +1,10 @@
+---
+title: "What AI does with absurd trolley problems"
+published: 2025-05-29
+lang: en
+canonical: https://ofershap.github.io/posts/what-ai-does-with-absurd-trolley-problems/
+---
+
 # What AI does with absurd trolley problems
 
 May 29, 2025 · 1 min read

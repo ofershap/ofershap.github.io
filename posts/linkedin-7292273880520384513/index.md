@@ -1,3 +1,11 @@
+---
+title: "אני נראה צעיר לגילי, לפחות לפי הרזומה שלי..."
+published: 2025-02-03T22:12:57.013000+02:00
+source: https://www.linkedin.com/posts/ofershap_howaiseesme-activity-7292273880520384513-GmVL
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7292273880520384513/
+---
+
 # אני נראה צעיר לגילי, לפחות לפי הרזומה שלי...
 
 אני נראה צעיר לגילי, לפחות לפי הרזומה שלי...

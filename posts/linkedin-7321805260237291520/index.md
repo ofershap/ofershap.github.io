@@ -1,3 +1,11 @@
+---
+title: "מהפכה מעל המים:"
+published: 2025-04-26T11:00:06.604000+03:00
+source: https://www.linkedin.com/posts/ofershap_ackacwacjacxack-achacwacpack-activity-7321805260237291520-NJWi
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7321805260237291520/
+---
+
 # מהפכה מעל המים:
 
 מהפכה מעל המים:

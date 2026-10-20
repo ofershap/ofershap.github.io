@@ -1,3 +1,10 @@
+---
+title: "The whiteboard-cleaning robot every office needs"
+published: 2025-08-29
+lang: en
+canonical: https://ofershap.github.io/posts/the-whiteboard-cleaning-robot-every-office-needs/
+---
+
 # The whiteboard-cleaning robot every office needs
 
 August 29, 2025 · 1 min read

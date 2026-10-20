@@ -1,3 +1,10 @@
+---
+title: "What happened when ChatGPT managed a budget for 30 days"
+published: 2025-07-02
+lang: en
+canonical: https://ofershap.github.io/posts/what-happened-when-chatgpt-managed-a-budget-for-30-days/
+---
+
 # What happened when ChatGPT managed a budget for 30 days
 
 July 2, 2025 · 1 min read

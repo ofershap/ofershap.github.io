@@ -1,3 +1,10 @@
+---
+title: "Lovable built Super Tic Tac Toe from one question"
+published: 2024-12-14
+lang: en
+canonical: https://ofershap.github.io/posts/lovable-built-super-tic-tac-toe-from-one-question/
+---
+
 # Lovable built Super Tic Tac Toe from one question
 
 December 14, 2024 · 1 min read

@@ -1,3 +1,10 @@
+---
+title: "From Nokia keypads to AI intermediaries"
+published: 2025-12-31
+lang: en
+canonical: https://ofershap.github.io/posts/from-nokia-keypads-to-ai-intermediaries/
+---
+
 # From Nokia keypads to AI intermediaries
 
 December 31, 2025 · 1 min read

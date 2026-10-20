@@ -1,3 +1,10 @@
+---
+title: "Decart&#x27;s 10x GPU gains and million-user demo"
+published: 2025-05-15
+lang: en
+canonical: https://ofershap.github.io/posts/decarts-10x-gpu-gains-and-million-user-demo/
+---
+
 # Decart's 10x GPU gains and million-user demo
 
 May 15, 2025 · 1 min read

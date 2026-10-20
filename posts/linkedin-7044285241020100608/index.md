@@ -1,3 +1,11 @@
+---
+title: "והפעם ב\"אֹו\"פֶן פוֹר בִּיזְנֵס\", אני מארח את עופר שפירא\""
+published: 2023-03-22T14:34:37.950000+02:00
+source: https://www.linkedin.com/posts/ofershap_openu-for-business-%D7%90%D7%95%D7%A4%D7%9F-%D7%A4%D7%95%D7%A8-%D7%91%D7%99%D7%96%D7%A0%D7%A1-activity-7044285241020100608-gGEb
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7044285241020100608/
+---
+
 # והפעם ב"אֹו"פֶן פוֹר בִּיזְנֵס", אני מארח את עופר שפירא"
 
 והפעם ב"אֹו"פֶן פוֹר בִּיזְנֵס", אני מארח את עופר שפירא"

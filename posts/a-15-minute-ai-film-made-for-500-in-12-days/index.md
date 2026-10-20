@@ -1,3 +1,10 @@
+---
+title: "A 15-minute AI film made for $500 in 12 days"
+published: 2025-07-23
+lang: en
+canonical: https://ofershap.github.io/posts/a-15-minute-ai-film-made-for-500-in-12-days/
+---
+
 # A 15-minute AI film made for $500 in 12 days
 
 July 23, 2025 · 1 min read

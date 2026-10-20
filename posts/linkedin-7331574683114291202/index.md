@@ -1,3 +1,11 @@
+---
+title: "רובוטים אכילים עם סוללות משוקולד 🍫  רגע, מה?!"
+published: 2025-05-23T10:00:18.525000+03:00
+source: https://www.linkedin.com/posts/ofershap_%D7%A8%D7%95%D7%91%D7%95%D7%98%D7%99%D7%9D-%D7%90%D7%9B%D7%99%D7%9C%D7%99%D7%9D-%D7%A2%D7%9D-%D7%A1%D7%95%D7%9C%D7%9C%D7%95%D7%AA-%D7%9E%D7%A9%D7%95%D7%A7%D7%95%D7%9C%D7%93-%D7%A8%D7%92%D7%A2-activity-7331574683114291202-JwNk
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7331574683114291202/
+---
+
 # רובוטים אכילים עם סוללות משוקולד 🍫  רגע, מה?!
 
 רובוטים אכילים עם סוללות משוקולד 🍫  רגע, מה?!

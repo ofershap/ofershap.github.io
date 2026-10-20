@@ -1,3 +1,10 @@
+---
+title: "An agent turns every merge into a release update"
+published: 2026-06-29
+lang: en
+canonical: https://ofershap.github.io/posts/an-agent-turns-every-merge-into-a-release-update/
+---
+
 # An agent turns every merge into a release update
 
 June 29, 2026 · 1 min read

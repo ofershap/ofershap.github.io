@@ -1,3 +1,10 @@
+---
+title: "A real-world flight simulator built with Opus and Codex"
+published: 2026-02-12
+lang: en
+canonical: https://ofershap.github.io/posts/a-real-world-flight-simulator-built-with-opus-and-codex/
+---
+
 # A real-world flight simulator built with Opus and Codex
 
 February 12, 2026 · 1 min read

@@ -12,9 +12,10 @@
 
 - [About Ofer and this blog](https://ofershap.github.io/for-ai/)
 - [Full text archive](https://ofershap.github.io/llms-full.txt)
-- [Agent usage guide](https://ofershap.github.io/agents.md)
 - [Recipe library MCP server](https://recipes.gitshow.dev/mcp) (streamable HTTP, no auth; [server card](https://ofershap.github.io/.well-known/mcp/recipe-library.json))
 - [Agent resource catalog](https://ofershap.github.io/.well-known/ai-catalog.json)
+- [Agent usage guide](https://ofershap.github.io/agents.md)
+- [Contact](https://ofershap.github.io/contact/)
 
 ## When to use this site
 

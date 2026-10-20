@@ -1,3 +1,11 @@
+---
+title: "מפתחים בקרסר? "
+published: 2025-05-29T13:34:06.050000+03:00
+source: https://www.linkedin.com/posts/ofershap_%D7%90%D7%99%D7%9A-%D7%90%D7%A0%D7%99-%D7%A2%D7%95%D7%91%D7%93-%D7%A2%D7%9D-%D7%A7%D7%A8%D7%A1%D7%A8-%D7%9E%D7%A6%D7%A8%D7%A3-%D7%91%D7%94%D7%9E%D7%A9%D7%9A-%D7%90%D7%AA-%D7%A7%D7%91%D7%A6%D7%99-activity-7333802812847325185-UG4z
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7333802812847325185/
+---
+
 # מפתחים בקרסר? 
 
 מפתחים בקרסר? 

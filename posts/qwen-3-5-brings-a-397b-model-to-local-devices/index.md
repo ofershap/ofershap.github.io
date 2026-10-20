@@ -1,3 +1,10 @@
+---
+title: "Qwen 3.5 brings a 397B model to local devices"
+published: 2026-03-18
+lang: en
+canonical: https://ofershap.github.io/posts/qwen-3-5-brings-a-397b-model-to-local-devices/
+---
+
 # Qwen 3.5 brings a 397B model to local devices
 
 March 18, 2026 · 1 min read

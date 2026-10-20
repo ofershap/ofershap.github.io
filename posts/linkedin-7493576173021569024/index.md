@@ -1,3 +1,11 @@
+---
+title: "מדריך לכתיבת פרומפטים 101: Fall in love with the problem, not the solution"
+published: 2026-08-13T10:56:23.561000+03:00
+source: https://www.linkedin.com/posts/ofershap_%D7%9E%D7%93%D7%A8%D7%99%D7%9A-%D7%9C%D7%9B%D7%AA%D7%99%D7%91%D7%AA-%D7%A4%D7%A8%D7%95%D7%9E%D7%A4%D7%98%D7%99%D7%9D-101-fall-in-love-with-activity-7493576173021569024-NC-x
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7493576173021569024/
+---
+
 # מדריך לכתיבת פרומפטים 101: Fall in love with the problem, not the solution
 
 מדריך לכתיבת פרומפטים 101: Fall in love with the problem, not the solution

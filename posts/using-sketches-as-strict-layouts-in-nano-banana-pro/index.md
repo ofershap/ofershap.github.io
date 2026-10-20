@@ -1,3 +1,10 @@
+---
+title: "Using sketches as strict layouts in Nano Banana Pro"
+published: 2025-12-15
+lang: en
+canonical: https://ofershap.github.io/posts/using-sketches-as-strict-layouts-in-nano-banana-pro/
+---
+
 # Using sketches as strict layouts in Nano Banana Pro
 
 December 15, 2025 · 1 min read

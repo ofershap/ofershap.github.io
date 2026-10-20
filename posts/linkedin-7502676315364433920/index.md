@@ -1,3 +1,11 @@
+---
+title: "שמתם לב שהאינטרנט הפך להיות שפת התיאור של AI?"
+published: 2026-09-07T13:37:06.568000+03:00
+source: https://www.linkedin.com/posts/ofershap_%D7%A9%D7%9E%D7%AA%D7%9D-%D7%9C%D7%91-%D7%A9%D7%94%D7%90%D7%99%D7%A0%D7%98%D7%A8%D7%A0%D7%98-%D7%94%D7%A4%D7%9A-%D7%9C%D7%94%D7%99%D7%95%D7%AA-%D7%A9%D7%A4%D7%AA-%D7%94%D7%AA%D7%99%D7%90%D7%95%D7%A8-%D7%A9%D7%9C-activity-7502676315364433920-maws
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7502676315364433920/
+---
+
 # שמתם לב שהאינטרנט הפך להיות שפת התיאור של AI?
 
 שמתם לב שהאינטרנט הפך להיות שפת התיאור של AI?

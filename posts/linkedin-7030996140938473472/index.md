@@ -1,3 +1,11 @@
+---
+title: "הצצה לקסם של ויה"
+published: 2023-02-13T22:28:29.591000+02:00
+source: https://www.linkedin.com/posts/ofershap_teamwork-inclusion-sustainability-activity-7030996140938473472-9p3a
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7030996140938473472/
+---
+
 # הצצה לקסם של ויה
 
 הצצה לקסם של ויה

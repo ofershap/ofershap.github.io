@@ -1,3 +1,10 @@
+---
+title: "When AI agents stop speaking human language"
+published: 2025-02-25
+lang: en
+canonical: https://ofershap.github.io/posts/when-ai-agents-stop-speaking-human-language/
+---
+
 # When AI agents stop speaking human language
 
 Date: 2025-02-25

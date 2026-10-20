@@ -1,3 +1,10 @@
+---
+title: "Catching a $1,500 Cursor spend anomaly in real time"
+published: 2026-03-05
+lang: en
+canonical: https://ofershap.github.io/posts/catching-a-1500-cursor-spend-anomaly-in-real-time/
+---
+
 # Catching a $1,500 Cursor spend anomaly in real time
 
 March 5, 2026 · 1 min read

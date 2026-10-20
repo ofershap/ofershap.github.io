@@ -1,3 +1,10 @@
+---
+title: "איך הופכים הערות Code Review לכללים ש-Cursor יכול להשתמש בהם?"
+published: 2026-10-08T12:54:14+03:00
+lang: he
+canonical: https://ofershap.github.io/posts/cursor-rules-from-code-review/
+---
+
 ## פוסט: איך הופכים הערות Code Review לכללים ש-Cursor יכול להשתמש בהם?
 **תשובה קצרה:** אוספים הערות שחזרו בכמה Pull Requests, בודקים שהצוות באמת מסכים עליהן, ואז כותבים כללים קצרים וממוקדים בתוך הריפו.
 

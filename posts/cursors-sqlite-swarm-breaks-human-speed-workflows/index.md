@@ -1,3 +1,10 @@
+---
+title: "Cursor’s SQLite swarm breaks human-speed workflows"
+published: 2026-07-23
+lang: en
+canonical: https://ofershap.github.io/posts/cursors-sqlite-swarm-breaks-human-speed-workflows/
+---
+
 # Cursor’s SQLite swarm breaks human-speed workflows
 
 July 23, 2026 · 1 min read

@@ -1,3 +1,10 @@
+---
+title: "A browser extension for Chat GPT formatting problems"
+published: 2025-05-23
+lang: en
+canonical: https://ofershap.github.io/posts/a-browser-extension-for-chat-gpt-formatting-problems/
+---
+
 # A browser extension for Chat GPT formatting problems
 
 May 23, 2025 · 1 min read

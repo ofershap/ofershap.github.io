@@ -1,3 +1,10 @@
+---
+title: "WhatsApp adds built-in document scanning"
+published: 2024-12-30
+lang: en
+canonical: https://ofershap.github.io/posts/whatsapp-adds-built-in-document-scanning/
+---
+
 # WhatsApp adds built-in document scanning
 
 December 30, 2024 · 1 min read

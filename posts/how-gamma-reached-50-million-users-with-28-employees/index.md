@@ -1,3 +1,10 @@
+---
+title: "How Gamma reached 50 million users with 28 employees"
+published: 2025-05-14
+lang: en
+canonical: https://ofershap.github.io/posts/how-gamma-reached-50-million-users-with-28-employees/
+---
+
 # How Gamma reached 50 million users with 28 employees
 
 May 14, 2025 · 1 min read

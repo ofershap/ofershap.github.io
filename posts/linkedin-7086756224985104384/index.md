@@ -1,3 +1,11 @@
+---
+title: "וואלה מצחיק"
+published: 2023-07-17T20:19:09.600000+03:00
+source: https://www.linkedin.com/posts/ofershap_jokes-you-can-make-when-you-are-the-most-activity-7086756224985104384-REly
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7086756224985104384/
+---
+
 # וואלה מצחיק
 
 וואלה מצחיק

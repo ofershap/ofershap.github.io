@@ -1,3 +1,10 @@
+---
+title: "Boris Cherny&#x27;s AI adoption model fuels the bubble"
+published: 2026-07-17
+lang: en
+canonical: https://ofershap.github.io/posts/boris-chernys-ai-adoption-model-fuels-the-bubble/
+---
+
 # Boris Cherny's AI adoption model fuels the bubble
 
 July 17, 2026 · 1 min read

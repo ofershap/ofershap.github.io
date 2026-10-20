@@ -1,3 +1,10 @@
+---
+title: "AI products bring marginal costs back to software"
+published: 2026-02-09
+lang: en
+canonical: https://ofershap.github.io/posts/ai-products-bring-marginal-costs-back-to-software/
+---
+
 # AI products bring marginal costs back to software
 
 February 9, 2026 · 1 min read

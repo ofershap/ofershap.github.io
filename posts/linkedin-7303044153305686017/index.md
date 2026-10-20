@@ -1,3 +1,11 @@
+---
+title: "רוב המחקרים שכלי Chat AI יוצרים? הם לא באמת מחקרים"
+published: 2025-03-05T15:30:10.147000+02:00
+source: https://www.linkedin.com/posts/ofershap_%D7%A8%D7%95%D7%91-%D7%94%D7%9E%D7%97%D7%A7%D7%A8%D7%99%D7%9D-%D7%A9%D7%9B%D7%9C%D7%99-chat-ai-%D7%99%D7%95%D7%A6%D7%A8%D7%99%D7%9D-%D7%94%D7%9D-%D7%9C%D7%90-%D7%91%D7%90%D7%9E%D7%AA-activity-7303044153305686017-HLiC
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7303044153305686017/
+---
+
 # רוב המחקרים שכלי Chat AI יוצרים? הם לא באמת מחקרים
 
 רוב המחקרים שכלי Chat AI יוצרים? הם לא באמת מחקרים

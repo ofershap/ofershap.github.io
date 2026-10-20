@@ -1,3 +1,10 @@
+---
+title: "POML treats prompts as modular code"
+published: 2025-09-07
+lang: en
+canonical: https://ofershap.github.io/posts/poml-treats-prompts-as-modular-code/
+---
+
 # POML treats prompts as modular code
 
 September 7, 2025 · 1 min read

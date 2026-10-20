@@ -1,3 +1,10 @@
+---
+title: "How two people built an Earth sandwich"
+published: 2025-06-20
+lang: en
+canonical: https://ofershap.github.io/posts/how-two-people-built-an-earth-sandwich/
+---
+
 # How two people built an Earth sandwich
 
 June 20, 2025 · 1 min read

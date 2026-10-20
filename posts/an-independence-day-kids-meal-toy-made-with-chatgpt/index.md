@@ -1,3 +1,10 @@
+---
+title: "An Independence Day kids&#x27; meal toy made with ChatGPT"
+published: 2025-05-03
+lang: en
+canonical: https://ofershap.github.io/posts/an-independence-day-kids-meal-toy-made-with-chatgpt/
+---
+
 # An Independence Day kids' meal toy made with ChatGPT
 
 May 3, 2025 · 1 min read

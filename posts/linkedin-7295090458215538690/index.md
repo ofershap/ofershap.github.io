@@ -1,3 +1,11 @@
+---
+title: "מנכ\"לים, מנהלי HR - תקציב עבור כלי AI כבר יש לכם בחברה?"
+published: 2025-02-11T16:45:01.465000+02:00
+source: https://www.linkedin.com/posts/ofershap_ai-acwacpackaclacs-achacpacwackacuacsacgacracladgacpadg-activity-7295090458215538690-SaVA
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7295090458215538690/
+---
+
 # מנכ"לים, מנהלי HR - תקציב עבור כלי AI כבר יש לכם בחברה?
 
 מנכ"לים, מנהלי HR - תקציב עבור כלי AI כבר יש לכם בחברה?

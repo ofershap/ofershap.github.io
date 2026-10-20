@@ -1,3 +1,10 @@
+---
+title: "AI changes the tools, not the engineering problems"
+published: 2026-07-01
+lang: en
+canonical: https://ofershap.github.io/posts/ai-changes-the-tools-not-the-engineering-problems/
+---
+
 # AI changes the tools, not the engineering problems
 
 July 1, 2026 · 2 min read

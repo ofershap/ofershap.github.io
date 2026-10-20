@@ -1,3 +1,11 @@
+---
+title: "האם אנחנו הדור האחרון של הומו ספיאנס?"
+published: 2024-12-08T08:21:29.752000+02:00
+source: https://www.linkedin.com/posts/ofershap_newlife-activity-7271408529842872320-7ctx
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7271408529842872320/
+---
+
 # האם אנחנו הדור האחרון של הומו ספיאנס?
 
 האם אנחנו הדור האחרון של הומו ספיאנס?

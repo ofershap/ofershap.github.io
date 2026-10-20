@@ -1,3 +1,11 @@
+---
+title: "פיצות בחינם בשווי מליון דולר: סוכן Hark מזמין מ-DoorDash"
+published: 2026-10-19T09:12:22.392000+03:00
+source: https://www.linkedin.com/feed/update/urn:li:share:7517829980022804481/
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7517829980022804481/
+---
+
 # פיצות בחינם בשווי מליון דולר: סוכן Hark מזמין מ-DoorDash
 
 החברה המשוגעת הזאת חילקה פיצות בחינם בשווי של מליון דולר!

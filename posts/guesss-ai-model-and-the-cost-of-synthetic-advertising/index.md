@@ -1,3 +1,10 @@
+---
+title: "Guess&#x27;s AI model and the cost of synthetic advertising"
+published: 2025-08-21
+lang: en
+canonical: https://ofershap.github.io/posts/guesss-ai-model-and-the-cost-of-synthetic-advertising/
+---
+
 # Guess's AI model and the cost of synthetic advertising
 
 August 21, 2025 · 1 min read

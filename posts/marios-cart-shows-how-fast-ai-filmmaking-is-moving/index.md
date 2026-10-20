@@ -1,3 +1,10 @@
+---
+title: "Mario&#x27;s Cart shows how fast AI filmmaking is moving"
+published: 2026-04-07
+lang: en
+canonical: https://ofershap.github.io/posts/marios-cart-shows-how-fast-ai-filmmaking-is-moving/
+---
+
 # Mario's Cart shows how fast AI filmmaking is moving
 
 April 7, 2026 · 1 min read

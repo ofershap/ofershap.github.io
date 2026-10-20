@@ -1,3 +1,11 @@
+---
+title: "קבלו אמ;לק בעברית: הצוות של Lovable פרסמו בלוג פוסט טכני על איך הם העבירו את כל הפלטפורמה שלהם לעבוד באמצעות... Lovable! הם בנו מח"
+published: 2026-09-02T16:11:19.100000+03:00
+source: https://www.linkedin.com/posts/ofershap_how-we-migrated-lovabledev-away-from-nextjs-activity-7500903183968477184-nJJP
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7500903183968477184/
+---
+
 # קבלו אמ;לק בעברית: הצוות של Lovable פרסמו בלוג פוסט טכני על איך הם העבירו את כל הפלטפורמה שלהם לעבוד באמצעות... Lovable! הם בנו מח
 
 קבלו אמ;לק בעברית: הצוות של Lovable פרסמו בלוג פוסט טכני על איך הם העבירו את כל הפלטפורמה שלהם לעבוד באמצעות... Lovable! הם בנו מחדש את כל הפרויקט כך שיעבוד על התשתיות שלהם. 

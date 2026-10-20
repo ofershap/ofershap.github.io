@@ -1,3 +1,11 @@
+---
+title: "Claude code or Cursor -"
+published: 2026-06-18T08:18:58.758000+03:00
+source: https://www.linkedin.com/posts/ofershap_claude-code-or-cursor-its-react-vs-angular-activity-7473242838173016064-5t8e
+lang: en
+canonical: https://ofershap.github.io/posts/linkedin-7473242838173016064/
+---
+
 # Claude code or Cursor -
 
 Claude code or Cursor -

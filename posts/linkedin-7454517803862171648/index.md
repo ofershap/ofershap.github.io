@@ -1,3 +1,11 @@
+---
+title: "משתמשים ב-Loom להקליט את המסך? לגוגל יש בשורות בשבילכם: כלי חדש שמצטרף למשפחה של Docs, Slides, Sheets בשם Vids מייתר לחלוטין את הצ"
+published: 2026-04-27T16:12:22.684000+03:00
+source: https://www.linkedin.com/posts/ofershap_google-vids-ai-powered-video-creator-and-activity-7454517803862171648-n2Sj
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7454517803862171648/
+---
+
 # משתמשים ב-Loom להקליט את המסך? לגוגל יש בשורות בשבילכם: כלי חדש שמצטרף למשפחה של Docs, Slides, Sheets בשם Vids מייתר לחלוטין את הצ
 
 משתמשים ב-Loom להקליט את המסך? לגוגל יש בשורות בשבילכם: כלי חדש שמצטרף למשפחה של Docs, Slides, Sheets בשם Vids מייתר לחלוטין את הצורך להשתמש ב-Loom

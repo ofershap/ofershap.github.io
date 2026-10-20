@@ -1,3 +1,10 @@
+---
+title: "Opus 4.5 found a policy loophole a human agent missed"
+published: 2025-12-03
+lang: en
+canonical: https://ofershap.github.io/posts/opus-4-5-found-a-policy-loophole-a-human-agent-missed/
+---
+
 # Opus 4.5 found a policy loophole a human agent missed
 
 December 3, 2025 · 1 min read

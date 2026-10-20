@@ -1,3 +1,11 @@
+---
+title: "Alon Musk’s Neuralink Startup started recruiting volunteers to test brain implants."
+published: 2023-09-24T22:39:43.738000+03:00
+source: https://www.linkedin.com/posts/ofershap_alon-musks-neuralink-startup-started-recruiting-activity-7111796363050270720-Br45
+lang: en
+canonical: https://ofershap.github.io/posts/linkedin-7111796363050270720/
+---
+
 # Alon Musk’s Neuralink Startup started recruiting volunteers to test brain implants.
 
 Alon Musk’s Neuralink Startup started recruiting volunteers to test brain implants.

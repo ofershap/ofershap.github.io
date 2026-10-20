@@ -1,3 +1,11 @@
+---
+title: "מתוך יומנו של סם אלטמן:"
+published: 2025-01-13T09:30:15.670000+02:00
+source: https://www.linkedin.com/posts/ofershap_samaltman-activity-7284471798358794240-Q3zj
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7284471798358794240/
+---
+
 # מתוך יומנו של סם אלטמן:
 
 מתוך יומנו של סם אלטמן:

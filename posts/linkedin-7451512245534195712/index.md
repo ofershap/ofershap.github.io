@@ -1,3 +1,11 @@
+---
+title: "כנל לגבי AI"
+published: 2026-04-19T09:09:21.738000+03:00
+source: https://www.linkedin.com/posts/ofershap_%D7%9B%D7%A0%D7%9C-%D7%9C%D7%92%D7%91%D7%99-ai-activity-7451512245534195712-EHzD
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7451512245534195712/
+---
+
 # כנל לגבי AI
 
 כנל לגבי AI

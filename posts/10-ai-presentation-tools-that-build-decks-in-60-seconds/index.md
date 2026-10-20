@@ -1,3 +1,10 @@
+---
+title: "10 AI presentation tools that build decks in 60 seconds"
+published: 2025-03-28
+lang: en
+canonical: https://ofershap.github.io/posts/10-ai-presentation-tools-that-build-decks-in-60-seconds/
+---
+
 # 10 AI presentation tools that build decks in 60 seconds
 
 March 28, 2025 · 1 min read

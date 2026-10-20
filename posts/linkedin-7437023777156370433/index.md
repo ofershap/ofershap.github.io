@@ -1,3 +1,11 @@
+---
+title: "טיפ מעניין למפתחי ווב: Chrome DevTools מאפשר לך לראות עכשיו ביצועים ברמת השורה! "
+published: 2026-03-10T08:37:21.694000+02:00
+source: https://www.linkedin.com/posts/ofershap_%D7%98%D7%99%D7%A4-%D7%9E%D7%A2%D7%A0%D7%99%D7%99%D7%9F-%D7%9C%D7%9E%D7%A4%D7%AA%D7%97%D7%99-%D7%95%D7%95%D7%91-chrome-devtools-%D7%9E%D7%90%D7%A4%D7%A9%D7%A8-activity-7437023777156370433-LUlP
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7437023777156370433/
+---
+
 # טיפ מעניין למפתחי ווב: Chrome DevTools מאפשר לך לראות עכשיו ביצועים ברמת השורה! 
 
 טיפ מעניין למפתחי ווב: Chrome DevTools מאפשר לך לראות עכשיו ביצועים ברמת השורה! 

@@ -1,3 +1,11 @@
+---
+title: "ChatGPT in React.js איך להרים ב-5 דקות עבודה"
+published: 2023-01-26T16:49:12.241000+02:00
+source: https://www.linkedin.com/posts/ofershap_react-chatgpt-activity-7024387774443065344-JaSb
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7024387774443065344/
+---
+
 # ChatGPT in React.js איך להרים ב-5 דקות עבודה
 
 ChatGPT in React.js איך להרים ב-5 דקות עבודה

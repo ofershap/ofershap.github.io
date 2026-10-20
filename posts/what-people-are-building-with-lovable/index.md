@@ -1,3 +1,10 @@
+---
+title: "What people are building with Lovable"
+published: 2024-12-13
+lang: en
+canonical: https://ofershap.github.io/posts/what-people-are-building-with-lovable/
+---
+
 # What people are building with Lovable
 
 December 13, 2024 · 1 min read

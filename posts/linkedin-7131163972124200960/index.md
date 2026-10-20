@@ -1,3 +1,11 @@
+---
+title: "One coin that tells the whole story"
+published: 2023-11-17T08:19:41.574000+02:00
+source: https://www.linkedin.com/posts/ofershap_one-coin-that-tells-the-whole-story-in-hebrew-activity-7131163972124200960-ONqD
+lang: en
+canonical: https://ofershap.github.io/posts/linkedin-7131163972124200960/
+---
+
 # One coin that tells the whole story
 
 One coin that tells the whole story

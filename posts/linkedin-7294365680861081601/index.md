@@ -1,3 +1,11 @@
+---
+title: "לנגן עם המתים"
+published: 2025-02-09T16:45:01.078000+02:00
+source: https://www.linkedin.com/posts/ofershap_%D7%99%D7%A7%D7%99-%D7%92%D7%A0%D7%99-the-anger-by-rockfour-with-ai-activity-7294365680861081601-oKqJ
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7294365680861081601/
+---
+
 # לנגן עם המתים
 
 לנגן עם המתים

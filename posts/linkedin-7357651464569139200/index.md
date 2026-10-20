@@ -1,3 +1,11 @@
+---
+title: "סרטון פרודיה מעולה של Fiverr (שלא ברור למה פרסמו רק באינסטגרם) "
+published: 2025-08-03T09:00:07.707000+03:00
+source: https://www.linkedin.com/posts/ofershap_%D7%A1%D7%A8%D7%98%D7%95%D7%9F-%D7%A4%D7%A8%D7%95%D7%93%D7%99%D7%94-%D7%9E%D7%A2%D7%95%D7%9C%D7%94-%D7%A9%D7%9C-fiverr-%D7%A9%D7%9C%D7%90-%D7%91%D7%A8%D7%95%D7%A8-%D7%9C%D7%9E%D7%94-activity-7357651464569139200-QvAz
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7357651464569139200/
+---
+
 # סרטון פרודיה מעולה של Fiverr (שלא ברור למה פרסמו רק באינסטגרם) 
 
 סרטון פרודיה מעולה של Fiverr (שלא ברור למה פרסמו רק באינסטגרם) 

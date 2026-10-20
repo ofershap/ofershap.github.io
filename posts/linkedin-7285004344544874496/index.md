@@ -1,3 +1,11 @@
+---
+title: "Word."
+published: 2025-01-14T20:46:24.575000+02:00
+source: https://www.linkedin.com/posts/ofershap_word-activity-7285004344544874496-sqsf
+lang: en
+canonical: https://ofershap.github.io/posts/linkedin-7285004344544874496/
+---
+
 # Word.
 
 Word.

@@ -1,3 +1,10 @@
+---
+title: "How OpenClaw became GitHub&#x27;s fastest-growing project"
+published: 2026-02-17
+lang: en
+canonical: https://ofershap.github.io/posts/how-openclaw-became-githubs-fastest-growing-project/
+---
+
 # How OpenClaw became GitHub's fastest-growing project
 
 February 17, 2026 · 2 min read

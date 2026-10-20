@@ -1,3 +1,10 @@
+---
+title: "Where terminal AI agents beat Cursor"
+published: 2025-07-16
+lang: en
+canonical: https://ofershap.github.io/posts/where-terminal-ai-agents-beat-cursor/
+---
+
 # Where terminal AI agents beat Cursor
 
 July 16, 2025 · 2 min read

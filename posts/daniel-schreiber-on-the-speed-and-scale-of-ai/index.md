@@ -1,3 +1,10 @@
+---
+title: "Daniel Schreiber on the speed and scale of AI"
+published: 2025-01-01
+lang: en
+canonical: https://ofershap.github.io/posts/daniel-schreiber-on-the-speed-and-scale-of-ai/
+---
+
 # Daniel Schreiber on the speed and scale of AI
 
 January 1, 2025 · 1 min read

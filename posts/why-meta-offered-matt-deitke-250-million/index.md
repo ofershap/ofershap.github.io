@@ -1,3 +1,10 @@
+---
+title: "Why Meta offered Matt Deitke $250 million"
+published: 2025-08-06
+lang: en
+canonical: https://ofershap.github.io/posts/why-meta-offered-matt-deitke-250-million/
+---
+
 # Why Meta offered Matt Deitke $250 million
 
 August 6, 2025 · 1 min read

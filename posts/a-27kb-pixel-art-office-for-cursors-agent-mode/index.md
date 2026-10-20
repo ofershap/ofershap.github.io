@@ -1,3 +1,10 @@
+---
+title: "A 27KB pixel art office for Cursor&#x27;s agent mode"
+published: 2026-03-16
+lang: en
+canonical: https://ofershap.github.io/posts/a-27kb-pixel-art-office-for-cursors-agent-mode/
+---
+
 # A 27KB pixel art office for Cursor's agent mode
 
 March 16, 2026 · 1 min read

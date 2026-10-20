@@ -1,3 +1,11 @@
+---
+title: "לשוחח עם תרנגולת? 🐔 "
+published: 2025-06-03T09:00:18.934000+03:00
+source: https://www.linkedin.com/posts/ofershap_ai-animaltech-agritech-activity-7335545851857068032-vjRK
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7335545851857068032/
+---
+
 # לשוחח עם תרנגולת? 🐔 
 
 לשוחח עם תרנגולת? 🐔 

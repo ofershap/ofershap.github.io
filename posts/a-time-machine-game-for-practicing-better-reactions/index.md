@@ -1,3 +1,10 @@
+---
+title: "A time machine game for practicing better reactions"
+published: 2026-03-03
+lang: en
+canonical: https://ofershap.github.io/posts/a-time-machine-game-for-practicing-better-reactions/
+---
+
 # A time machine game for practicing better reactions
 
 March 3, 2026 · 1 min read

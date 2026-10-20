@@ -1,3 +1,11 @@
+---
+title: "תאילנד עשתה את זה באופן רשמי: רובוקופ זה כבר לא רק סרט משנות ה-80."
+published: 2025-04-22T09:30:19.584000+03:00
+source: https://www.linkedin.com/posts/ofershap_ai-robocop-achacpacwackabracuacsacgacracladgacpadg-activity-7320333113975296000-hkOj
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7320333113975296000/
+---
+
 # תאילנד עשתה את זה באופן רשמי: רובוקופ זה כבר לא רק סרט משנות ה-80.
 
 תאילנד עשתה את זה באופן רשמי: רובוקופ זה כבר לא רק סרט משנות ה-80.

@@ -1,3 +1,10 @@
+---
+title: "Fiverr Go lets freelancers create AI versions of their work"
+published: 2025-02-20
+lang: en
+canonical: https://ofershap.github.io/posts/fiverr-go-lets-freelancers-create-ai-versions-of-their-work/
+---
+
 # Fiverr Go lets freelancers create AI versions of their work
 
 February 20, 2025 · 1 min read

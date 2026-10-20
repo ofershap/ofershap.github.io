@@ -1,3 +1,10 @@
+---
+title: "SpiRobs copies an octopus arm with a logarithmic spiral"
+published: 2025-09-11
+lang: en
+canonical: https://ofershap.github.io/posts/spirobs-copies-an-octopus-arm-with-a-logarithmic-spiral/
+---
+
 # SpiRobs copies an octopus arm with a logarithmic spiral
 
 September 11, 2025 · 1 min read

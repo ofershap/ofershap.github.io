@@ -1,3 +1,10 @@
+---
+title: "Cursor raised $900M at a $9.9B valuation"
+published: 2025-06-07
+lang: en
+canonical: https://ofershap.github.io/posts/cursor-raised-900m-at-a-9-9b-valuation/
+---
+
 # Cursor raised $900M at a $9.9B valuation
 
 June 7, 2025 · 1 min read

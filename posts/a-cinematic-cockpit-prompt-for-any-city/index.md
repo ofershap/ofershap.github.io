@@ -1,3 +1,10 @@
+---
+title: "A cinematic cockpit prompt for any city"
+published: 2025-07-25
+lang: en
+canonical: https://ofershap.github.io/posts/a-cinematic-cockpit-prompt-for-any-city/
+---
+
 # A cinematic cockpit prompt for any city
 
 July 25, 2025 · 2 min read

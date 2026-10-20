@@ -1,3 +1,10 @@
+---
+title: "Building a Custom GPT for better business writing"
+published: 2025-02-04
+lang: en
+canonical: https://ofershap.github.io/posts/building-a-custom-gpt-for-better-business-writing/
+---
+
 # Building a Custom GPT for better business writing
 
 February 4, 2025 · 1 min read

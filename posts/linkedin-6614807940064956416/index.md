@@ -1,3 +1,11 @@
+---
+title: "OMG! My #childrenbooks Amazon Jeff's Big Discovery is featured on #businessinsider !!! "
+published: 2019-12-23T11:25:10.100000+02:00
+source: https://www.linkedin.com/posts/ofershap_a-new-childrens-book-based-on-amazon-ceo-activity-6614807940064956416-CTn7
+lang: en
+canonical: https://ofershap.github.io/posts/linkedin-6614807940064956416/
+---
+
 # OMG! My #childrenbooks Amazon Jeff's Big Discovery is featured on #businessinsider !!! 
 
 OMG! My #childrenbooks Amazon Jeff's Big Discovery is featured on #businessinsider !!! 

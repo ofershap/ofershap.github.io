@@ -1,3 +1,11 @@
+---
+title: "הסוכן מקבל גוף. ובמקרה הזה, הוא יושב על הגב של האייפון."
+published: 2026-10-08T10:56:00+03:00
+source: https://www.linkedin.com/feed/update/urn:li:share:7513869888248147968/
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7513869889288392706/
+---
+
 # הסוכן מקבל גוף. ובמקרה הזה, הוא יושב על הגב של האייפון.
 
 הסוכן מקבל גוף. ובמקרה הזה, הוא יושב על הגב של האייפון.

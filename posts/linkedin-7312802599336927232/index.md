@@ -1,3 +1,11 @@
+---
+title: "https://lnkd.in/d3M_PGwZ"
+published: 2025-04-01T14:46:44.984000+03:00
+source: https://www.linkedin.com/posts/ofershap_openais-gpt-50-makes-first-contact-with-activity-7312802599336927232-eeJv
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7312802599336927232/
+---
+
 # https://lnkd.in/d3M_PGwZ
 
 https://lnkd.in/d3M_PGwZ

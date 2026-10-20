@@ -1,3 +1,11 @@
+---
+title: "חדש: Anthropic הרחיבה את הגישה לפיצ'ר Claude Cowork שלה, שהיה פעם בלעדי למנויי Claude Max, ועכשיו גם מנויי Claude Pro יכולים ליהנו"
+published: 2026-01-25T09:09:21.899000+02:00
+source: https://www.linkedin.com/posts/ofershap_%D7%97%D7%93%D7%A9-anthropic-%D7%94%D7%A8%D7%97%D7%99%D7%91%D7%94-%D7%90%D7%AA-%D7%94%D7%92%D7%99%D7%A9%D7%94-%D7%9C%D7%A4%D7%99%D7%A6%D7%A8-claude-activity-7421086764993425408-LiYm
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7421086764993425408/
+---
+
 # חדש: Anthropic הרחיבה את הגישה לפיצ'ר Claude Cowork שלה, שהיה פעם בלעדי למנויי Claude Max, ועכשיו גם מנויי Claude Pro יכולים ליהנו
 
 חדש: Anthropic הרחיבה את הגישה לפיצ'ר Claude Cowork שלה, שהיה פעם בלעדי למנויי Claude Max, ועכשיו גם מנויי Claude Pro יכולים ליהנות ממנו ב-20 דולר לחודש.

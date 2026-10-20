@@ -1,3 +1,11 @@
+---
+title: "רעיונות מעולים לשימוש בchatgpt שווה להתעכב על הרעיונות שלו, באחריות"
+published: 2023-01-25T22:03:17.117000+02:00
+source: https://www.linkedin.com/posts/ofershap_the-not-so-boring-chat-gpt-guide-activity-7024104427716255744-w9EA
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7024104427716255744/
+---
+
 # רעיונות מעולים לשימוש בchatgpt שווה להתעכב על הרעיונות שלו, באחריות
 
 רעיונות מעולים לשימוש בchatgpt שווה להתעכב על הרעיונות שלו, באחריות

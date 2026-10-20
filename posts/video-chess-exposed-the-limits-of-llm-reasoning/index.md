@@ -1,3 +1,10 @@
+---
+title: "Video Chess exposed the limits of LLM reasoning"
+published: 2025-07-31
+lang: en
+canonical: https://ofershap.github.io/posts/video-chess-exposed-the-limits-of-llm-reasoning/
+---
+
 # Video Chess exposed the limits of LLM reasoning
 
 July 31, 2025 · 1 min read

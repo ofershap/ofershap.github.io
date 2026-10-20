@@ -1,3 +1,11 @@
+---
+title: "הפקודה שאצלי הכי הרבה בשימוש וחוסכת לי ים זמן - /back-to-master-delete-branch"
+published: 2026-08-05T08:06:21.950000+03:00
+source: https://www.linkedin.com/posts/ofershap_%D7%94%D7%A4%D7%A7%D7%95%D7%93%D7%94-%D7%A9%D7%90%D7%A6%D7%9C%D7%99-%D7%94%D7%9B%D7%99-%D7%94%D7%A8%D7%91%D7%94-%D7%91%D7%A9%D7%99%D7%9E%D7%95%D7%A9-%D7%95%D7%97%D7%95%D7%A1%D7%9B%D7%AA-%D7%9C%D7%99-%D7%99%D7%9D-activity-7490634281438945280-Bnfx
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7490634281438945280/
+---
+
 # הפקודה שאצלי הכי הרבה בשימוש וחוסכת לי ים זמן - /back-to-master-delete-branch
 
 הפקודה שאצלי הכי הרבה בשימוש וחוסכת לי ים זמן - /back-to-master-delete-branch

@@ -1,3 +1,10 @@
+---
+title: "New York restaurants are hiring remote cashiers for $3 an hour"
+published: 2025-11-17
+lang: en
+canonical: https://ofershap.github.io/posts/new-york-restaurants-are-hiring-remote-cashiers-for-3-an-hour/
+---
+
 # New York restaurants are hiring remote cashiers for $3 an hour
 
 November 17, 2025 · 1 min read

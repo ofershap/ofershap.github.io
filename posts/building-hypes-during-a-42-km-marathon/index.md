@@ -1,3 +1,10 @@
+---
+title: "Building Hypes during a 42 km marathon"
+published: 2026-03-11
+lang: en
+canonical: https://ofershap.github.io/posts/building-hypes-during-a-42-km-marathon/
+---
+
 # Building Hypes during a 42 km marathon
 
 March 11, 2026 · 1 min read

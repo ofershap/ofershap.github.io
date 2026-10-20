@@ -1,3 +1,11 @@
+---
+title: "רץ ברשת: תינוק רוכב על הכלב של הבית"
+published: 2025-11-28T16:29:03.700000+02:00
+source: https://www.linkedin.com/posts/ofershap_%D7%A8%D7%A5-%D7%91%D7%A8%D7%A9%D7%AA-%D7%AA%D7%99%D7%A0%D7%95%D7%A7-%D7%A8%D7%95%D7%9B%D7%91-%D7%A2%D7%9C-%D7%94%D7%9B%D7%9C%D7%91-%D7%A9%D7%9C-%D7%94%D7%91%D7%99%D7%AA-%D7%A0%D7%A8%D7%90%D7%94-activity-7400178922082156544-U7Kq
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7400178922082156544/
+---
+
 # רץ ברשת: תינוק רוכב על הכלב של הבית
 
 רץ ברשת: תינוק רוכב על הכלב של הבית

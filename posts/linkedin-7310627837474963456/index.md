@@ -1,3 +1,11 @@
+---
+title: "כשאני עובד על שיפור פיצ'ר מסויים או פיתוח אפליקציה חדשה עם AI (בעזרת כלים כמו Lovable, Base44 או Bolt), אני מוסיף לו משפט מעניין: "
+published: 2025-03-26T13:45:01.351000+02:00
+source: https://www.linkedin.com/posts/ofershap_ai-adaacpadgaclacn-acpadcacpadeadgacpacladg-activity-7310627837474963456-5kRv
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7310627837474963456/
+---
+
 # כשאני עובד על שיפור פיצ'ר מסויים או פיתוח אפליקציה חדשה עם AI (בעזרת כלים כמו Lovable, Base44 או Bolt), אני מוסיף לו משפט מעניין: 
 
 כשאני עובד על שיפור פיצ'ר מסויים או פיתוח אפליקציה חדשה עם AI (בעזרת כלים כמו Lovable, Base44 או Bolt), אני מוסיף לו משפט מעניין: "ותעשה את זה פי 10 יותר טוב."

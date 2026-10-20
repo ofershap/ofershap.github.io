@@ -1,3 +1,11 @@
+---
+title: "הבינה המלאכותית יוצאת משליטה 😂"
+published: 2025-04-29T10:00:12.446000+03:00
+source: https://www.linkedin.com/posts/ofershap_achacpacwackacuacsacgacracladgacpadg-activity-7322877348842823680-x3oa
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7322877348842823680/
+---
+
 # הבינה המלאכותית יוצאת משליטה 😂
 
 הבינה המלאכותית יוצאת משליטה 😂

@@ -1,3 +1,10 @@
+---
+title: "MCP is how AI talks to software"
+published: 2025-04-06
+lang: en
+canonical: https://ofershap.github.io/posts/mcp-is-how-ai-talks-to-software/
+---
+
 # MCP is how AI talks to software
 
 Date: 2025-04-06

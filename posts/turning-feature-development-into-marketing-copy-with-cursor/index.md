@@ -1,3 +1,10 @@
+---
+title: "Turning feature development into marketing copy with Cursor"
+published: 2026-07-09
+lang: en
+canonical: https://ofershap.github.io/posts/turning-feature-development-into-marketing-copy-with-cursor/
+---
+
 # Turning feature development into marketing copy with Cursor
 
 July 9, 2026 · 1 min read

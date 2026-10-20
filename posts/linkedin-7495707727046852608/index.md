@@ -1,3 +1,11 @@
+---
+title: "ניסיתם לעשות Pair Prompting? בדומה ל Pair programming, אתם לא מאמינים כמה זה משפר את היכולת של שני הצדדים. אחד כותב והשני נותן פיד"
+published: 2026-08-19T08:06:25.643000+03:00
+source: https://www.linkedin.com/posts/ofershap_%D7%A0%D7%99%D7%A1%D7%99%D7%AA%D7%9D-%D7%9C%D7%A2%D7%A9%D7%95%D7%AA-pair-prompting-%D7%91%D7%93%D7%95%D7%9E%D7%94-%D7%9C-pair-activity-7495707727046852608-PbWO
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7495707727046852608/
+---
+
 # ניסיתם לעשות Pair Prompting? בדומה ל Pair programming, אתם לא מאמינים כמה זה משפר את היכולת של שני הצדדים. אחד כותב והשני נותן פיד
 
 ניסיתם לעשות Pair Prompting? בדומה ל Pair programming, אתם לא מאמינים כמה זה משפר את היכולת של שני הצדדים. אחד כותב והשני נותן פידבקים, מציע להוסיף או למחוק מילים מסוימות. ברגע שאחד פולט את המחשבות שלו והשני מתפקיד בתוך Human as a judge להודעה, התוצאות יוצאות הרבה יותר מדוייקות, כי יש כאן שתי מוחות שמנתרים את הפרומפט ומוודאות שהוא לא Bias.

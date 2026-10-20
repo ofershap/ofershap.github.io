@@ -1,3 +1,10 @@
+---
+title: "How AI will change online shopping and product discovery"
+published: 2025-03-23
+lang: en
+canonical: https://ofershap.github.io/posts/how-ai-will-change-online-shopping-and-product-discovery/
+---
+
 # How AI will change online shopping and product discovery
 
 March 23, 2025 · 1 min read

@@ -1,3 +1,10 @@
+---
+title: "When AI decides whether your drawing is a fish"
+published: 2025-09-29
+lang: en
+canonical: https://ofershap.github.io/posts/when-ai-decides-whether-your-drawing-is-a-fish/
+---
+
 # When AI decides whether your drawing is a fish
 
 September 29, 2025 · 1 min read

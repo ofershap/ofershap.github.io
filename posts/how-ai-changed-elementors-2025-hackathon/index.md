@@ -1,3 +1,10 @@
+---
+title: "How AI changed Elementor&#x27;s 2025 hackathon"
+published: 2025-07-17
+lang: en
+canonical: https://ofershap.github.io/posts/how-ai-changed-elementors-2025-hackathon/
+---
+
 # How AI changed Elementor's 2025 hackathon
 
 July 17, 2025 · 1 min read

@@ -1,3 +1,10 @@
+---
+title: "How Elementor Hosting scales on Google Cloud"
+published: 2025-06-11
+lang: en
+canonical: https://ofershap.github.io/posts/how-elementor-hosting-scales-on-google-cloud/
+---
+
 # How Elementor Hosting scales on Google Cloud
 
 June 11, 2025 · 1 min read

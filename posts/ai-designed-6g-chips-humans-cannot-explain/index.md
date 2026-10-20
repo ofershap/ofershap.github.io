@@ -1,3 +1,10 @@
+---
+title: "AI-designed 6G chips humans cannot explain"
+published: 2025-01-22
+lang: en
+canonical: https://ofershap.github.io/posts/ai-designed-6g-chips-humans-cannot-explain/
+---
+
 # AI-designed 6G chips humans cannot explain
 
 January 22, 2025 · 1 min read

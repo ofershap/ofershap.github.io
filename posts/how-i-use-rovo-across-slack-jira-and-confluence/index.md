@@ -1,3 +1,10 @@
+---
+title: "How I use Rovo across Slack, Jira, and Confluence"
+published: 2026-06-23
+lang: en
+canonical: https://ofershap.github.io/posts/how-i-use-rovo-across-slack-jira-and-confluence/
+---
+
 # How I use Rovo across Slack, Jira, and Confluence
 
 June 23, 2026 · 1 min read

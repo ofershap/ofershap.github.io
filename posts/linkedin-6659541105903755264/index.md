@@ -1,3 +1,11 @@
+---
+title: "The hope for a brighter tomorrow"
+published: 2020-04-24T22:58:47.938000+03:00
+source: https://www.linkedin.com/posts/ofershap_the-promise-activity-6659541105903755264-F7cB
+lang: en
+canonical: https://ofershap.github.io/posts/linkedin-6659541105903755264/
+---
+
 # The hope for a brighter tomorrow
 
 The hope for a brighter tomorrow

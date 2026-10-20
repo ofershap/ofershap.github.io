@@ -1,3 +1,11 @@
+---
+title: "Laundry art"
+published: 2024-02-03T13:04:40.282000+02:00
+source: https://www.linkedin.com/posts/ofershap_laundry-art-by-dana-akerman-green-midjourney-activity-7159501942820356096-ur-w
+lang: en
+canonical: https://ofershap.github.io/posts/linkedin-7159501942820356096/
+---
+
 # Laundry art
 
 Laundry art

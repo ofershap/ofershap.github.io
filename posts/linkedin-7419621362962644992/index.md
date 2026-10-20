@@ -1,3 +1,11 @@
+---
+title: "הסינים לא נחים לרגע. "
+published: 2026-01-21T08:06:22.829000+02:00
+source: https://www.linkedin.com/posts/ofershap_%D7%94%D7%A1%D7%99%D7%A0%D7%99%D7%9D-%D7%9C%D7%90-%D7%A0%D7%97%D7%99%D7%9D-%D7%9C%D7%A8%D7%92%D7%A2-%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA-%D7%94%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94-%D7%94%D7%A8%D7%95%D7%97%D7%A0%D7%99%D7%AA-activity-7419621362962644992-cluC
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7419621362962644992/
+---
+
 # הסינים לא נחים לרגע. 
 
 הסינים לא נחים לרגע. 

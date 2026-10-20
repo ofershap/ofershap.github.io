@@ -1,3 +1,10 @@
+---
+title: "Noma Security’s account-based marketing tactic"
+published: 2025-12-07
+lang: en
+canonical: https://ofershap.github.io/posts/noma-securitys-account-based-marketing-tactic/
+---
+
 # Noma Security’s account-based marketing tactic
 
 December 7, 2025 · 1 min read

@@ -1,3 +1,11 @@
+---
+title: "איך הסטארטאפ שלו צמח כל כך מהר והתפוצץ ככה?"
+published: 2024-12-12T16:31:37.176000+02:00
+source: https://www.linkedin.com/posts/ofershap_how-did-your-startup-grow-so-fast-ive-activity-7272981424981364736-mQxN
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7272981424981364736/
+---
+
 # איך הסטארטאפ שלו צמח כל כך מהר והתפוצץ ככה?
 
 איך הסטארטאפ שלו צמח כל כך מהר והתפוצץ ככה?

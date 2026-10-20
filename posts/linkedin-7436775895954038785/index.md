@@ -1,3 +1,11 @@
+---
+title: "אז סוף סוף יש לנו אלטרנטיבה בקוד פתוח ל-ElevenLabs 🎙 "
+published: 2026-03-09T16:12:22.210000+02:00
+source: https://www.linkedin.com/posts/ofershap_%D7%90%D7%96-%D7%A1%D7%95%D7%A3-%D7%A1%D7%95%D7%A3-%D7%99%D7%A9-%D7%9C%D7%A0%D7%95-%D7%90%D7%9C%D7%98%D7%A8%D7%A0%D7%98%D7%99%D7%91%D7%94-%D7%91%D7%A7%D7%95%D7%93-%D7%A4%D7%AA%D7%95%D7%97-%D7%9C-elevenlabs-activity-7436775895954038785-jgmI
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7436775895954038785/
+---
+
 # אז סוף סוף יש לנו אלטרנטיבה בקוד פתוח ל-ElevenLabs 🎙 
 
 אז סוף סוף יש לנו אלטרנטיבה בקוד פתוח ל-ElevenLabs 🎙 

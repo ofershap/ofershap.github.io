@@ -1,3 +1,11 @@
+---
+title: "Mind-blowing innovation"
+published: 2020-06-29T10:37:54.373000+03:00
+source: https://www.linkedin.com/posts/ofershap_engineering-activity-6683272253267877888-IPfv
+lang: en
+canonical: https://ofershap.github.io/posts/linkedin-6683272253267877888/
+---
+
 # Mind-blowing innovation
 
 Mind-blowing innovation

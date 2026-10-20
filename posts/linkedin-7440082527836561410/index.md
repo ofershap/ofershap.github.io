@@ -1,3 +1,11 @@
+---
+title: "״כמה כסף אתה מבקש עבור פרסום בתוך האפליקציה שלך?״"
+published: 2026-03-18T19:11:44.685000+02:00
+source: https://www.linkedin.com/posts/ofershap_i-use-cursors-agent-mode-all-day-at-some-activity-7440082527836561410-HJlG
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7440082527836561410/
+---
+
 # ״כמה כסף אתה מבקש עבור פרסום בתוך האפליקציה שלך?״
 
 ״כמה כסף אתה מבקש עבור פרסום בתוך האפליקציה שלך?״

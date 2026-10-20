@@ -1,3 +1,11 @@
+---
+title: "וובינר קהילתי ראשון: היכרות עם אינסטינקט ב-21.10"
+published: 2026-10-12T20:04:12.215000+03:00
+source: https://www.linkedin.com/feed/update/urn:li:activity:7515457306084630528/
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7515457306084630528/
+---
+
 # וובינר קהילתי ראשון: היכרות עם אינסטינקט ב-21.10
 
 וובינר Instinct! מי בא?  🥳

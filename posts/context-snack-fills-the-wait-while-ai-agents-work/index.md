@@ -1,3 +1,10 @@
+---
+title: "Context Snack fills the wait while AI agents work"
+published: 2026-08-03
+lang: en
+canonical: https://ofershap.github.io/posts/context-snack-fills-the-wait-while-ai-agents-work/
+---
+
 # Context Snack fills the wait while AI agents work
 
 August 3, 2026 · 1 min read

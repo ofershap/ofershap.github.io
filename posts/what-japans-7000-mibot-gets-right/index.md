@@ -1,3 +1,10 @@
+---
+title: "What Japan&#x27;s $7,000 Mibot gets right"
+published: 2025-06-23
+lang: en
+canonical: https://ofershap.github.io/posts/what-japans-7000-mibot-gets-right/
+---
+
 # What Japan's $7,000 Mibot gets right
 
 June 23, 2025 · 1 min read

@@ -1,3 +1,10 @@
+---
+title: "Lessons from Alon Arvatz’s book on Israeli cyber"
+published: 2023-08-23
+lang: en
+canonical: https://ofershap.github.io/posts/lessons-from-alon-arvatzs-book-on-israeli-cyber/
+---
+
 # Lessons from Alon Arvatz’s book on Israeli cyber
 
 August 23, 2023 · 1 min read

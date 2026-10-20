@@ -1,3 +1,11 @@
+---
+title: "I hacked Siri to open Chat GPT using my voice and talk with me: "
+published: 2025-01-30T20:48:02.299000+02:00
+source: https://www.linkedin.com/posts/ofershap_i-hacked-siri-to-open-chat-gpt-using-my-voice-activity-7290802960278683648-zGfa
+lang: en
+canonical: https://ofershap.github.io/posts/linkedin-7290802960278683648/
+---
+
 # I hacked Siri to open Chat GPT using my voice and talk with me: 
 
 I hacked Siri to open Chat GPT using my voice and talk with me: 

@@ -1,3 +1,11 @@
+---
+title: "מי שהמציא את NotebookLM לוקח את זה צעד קדימה, וממיר את *האימייל* שלכם לפודקאסט."
+published: 2025-10-13T09:15:10.198000+03:00
+source: https://www.linkedin.com/posts/ofershap_former-notebooklm-devs-new-app-huxe-taps-activity-7383384788348514304-nyqb
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7383384788348514304/
+---
+
 # מי שהמציא את NotebookLM לוקח את זה צעד קדימה, וממיר את *האימייל* שלכם לפודקאסט.
 
 מי שהמציא את NotebookLM לוקח את זה צעד קדימה, וממיר את *האימייל* שלכם לפודקאסט.

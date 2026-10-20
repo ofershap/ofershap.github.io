@@ -1,3 +1,10 @@
+---
+title: "A prompt for freezing any emoji in a cinematic ice cube"
+published: 2025-08-01
+lang: en
+canonical: https://ofershap.github.io/posts/a-prompt-for-freezing-any-emoji-in-a-cinematic-ice-cube/
+---
+
 # A prompt for freezing any emoji in a cinematic ice cube
 
 August 1, 2025 · 1 min read

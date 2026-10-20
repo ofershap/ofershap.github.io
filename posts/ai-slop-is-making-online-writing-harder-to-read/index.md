@@ -1,3 +1,10 @@
+---
+title: "AI slop is making online writing harder to read"
+published: 2025-11-30
+lang: en
+canonical: https://ofershap.github.io/posts/ai-slop-is-making-online-writing-harder-to-read/
+---
+
 # AI slop is making online writing harder to read
 
 November 30, 2025 · 3 min read

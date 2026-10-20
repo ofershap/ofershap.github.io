@@ -1,3 +1,10 @@
+---
+title: "An agent that tracks dependency changes"
+published: 2026-07-07
+lang: en
+canonical: https://ofershap.github.io/posts/an-agent-that-tracks-dependency-changes/
+---
+
 # An agent that tracks dependency changes
 
 July 7, 2026 · 1 min read

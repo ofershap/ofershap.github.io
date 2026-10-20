@@ -1,3 +1,11 @@
+---
+title: "In such unstable times, the only way to overcome it is to keep moving forward.  Be strong!"
+published: 2020-05-14T19:39:23.652000+03:00
+source: https://www.linkedin.com/posts/ofershap_keepmovingforward-bestrong-staymotivated-activity-6666738681363079169-LzAr
+lang: en
+canonical: https://ofershap.github.io/posts/linkedin-6666738681363079169/
+---
+
 # In such unstable times, the only way to overcome it is to keep moving forward.  Be strong!
 
 In such unstable times, the only way to overcome it is to keep moving forward.  Be strong!

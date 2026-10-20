@@ -1,3 +1,10 @@
+---
+title: "Google&#x27;s num=100 change rewrote web distribution"
+published: 2025-11-04
+lang: en
+canonical: https://ofershap.github.io/posts/googles-num-100-change-rewrote-web-distribution/
+---
+
 # Google's num=100 change rewrote web distribution
 
 Date: 2025-11-04

@@ -1,3 +1,10 @@
+---
+title: "A pacemaker smaller than a grain of rice"
+published: 2025-04-07
+lang: en
+canonical: https://ofershap.github.io/posts/a-pacemaker-smaller-than-a-grain-of-rice/
+---
+
 # A pacemaker smaller than a grain of rice
 
 April 7, 2025 · 2 min read

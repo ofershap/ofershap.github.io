@@ -1,3 +1,10 @@
+---
+title: "How I reduced ChatGPT memory usage from 100% to 20%"
+published: 2025-01-20
+lang: en
+canonical: https://ofershap.github.io/posts/how-i-reduced-chatgpt-memory-usage-from-100-to-20/
+---
+
 # How I reduced ChatGPT memory usage from 100% to 20%
 
 January 20, 2025 · 2 min read

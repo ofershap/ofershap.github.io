@@ -1,3 +1,10 @@
+---
+title: "Blip turns text prompts into mobile games"
+published: 2025-04-14
+lang: en
+canonical: https://ofershap.github.io/posts/blip-turns-text-prompts-into-mobile-games/
+---
+
 # Blip turns text prompts into mobile games
 
 April 14, 2025 · 1 min read

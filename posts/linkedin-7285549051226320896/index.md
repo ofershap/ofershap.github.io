@@ -1,3 +1,11 @@
+---
+title: "סרט צהוב."
+published: 2025-01-16T08:50:52.768000+02:00
+source: https://www.linkedin.com/posts/ofershap_%D7%A1%D7%A8%D7%98-%D7%A6%D7%94%D7%95%D7%91-%D7%99%D7%95%D7%A1%D7%A7%D7%94-%D7%92%D7%A8%D7%95%D7%A3-%D7%A9%D7%A0%D7%A4%D7%9C-%D7%91%D7%A9%D7%91%D7%99-%D7%91-1982-%D7%95%D7%A9%D7%95%D7%97%D7%A8%D7%A8-activity-7285549051226320896-LXou
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7285549051226320896/
+---
+
 # סרט צהוב.
 
 סרט צהוב.

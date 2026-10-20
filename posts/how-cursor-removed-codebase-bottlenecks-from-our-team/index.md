@@ -1,3 +1,10 @@
+---
+title: "How Cursor removed codebase bottlenecks from our team"
+published: 2025-07-24
+lang: en
+canonical: https://ofershap.github.io/posts/how-cursor-removed-codebase-bottlenecks-from-our-team/
+---
+
 # How Cursor removed codebase bottlenecks from our team
 
 July 24, 2025 · 1 min read

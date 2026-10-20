@@ -1,3 +1,11 @@
+---
+title: "אנחנו ודרום קוריאה מככבים זה לצד זה במספר שעות העבודה שלנו"
+published: 2023-06-30T23:28:44.345000+03:00
+source: https://www.linkedin.com/posts/ofershap_data-dataviz-datavisualisation-activity-7080643340408360961-cu9w
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7080643340408360961/
+---
+
 # אנחנו ודרום קוריאה מככבים זה לצד זה במספר שעות העבודה שלנו
 
 אנחנו ודרום קוריאה מככבים זה לצד זה במספר שעות העבודה שלנו

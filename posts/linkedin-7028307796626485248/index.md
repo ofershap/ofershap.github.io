@@ -1,3 +1,11 @@
+---
+title: "מחפש עבודה? יופי תלחץ על התמונה"
+published: 2023-02-06T12:25:58.360000+02:00
+source: https://www.linkedin.com/posts/ofershap_via-activity-7028307796626485248-D06J
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7028307796626485248/
+---
+
 # מחפש עבודה? יופי תלחץ על התמונה
 
 מחפש עבודה? יופי תלחץ על התמונה

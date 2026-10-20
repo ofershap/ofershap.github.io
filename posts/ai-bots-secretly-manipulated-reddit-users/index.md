@@ -1,3 +1,10 @@
+---
+title: "AI bots secretly manipulated Reddit users"
+published: 2025-04-30
+lang: en
+canonical: https://ofershap.github.io/posts/ai-bots-secretly-manipulated-reddit-users/
+---
+
 # AI bots secretly manipulated Reddit users
 
 Date: 2025-04-30

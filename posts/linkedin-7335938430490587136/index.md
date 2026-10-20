@@ -1,3 +1,11 @@
+---
+title: "זה קרה פה בארץ, וזה נשמע כאילו נלקח ממערכון של ארץ נהדרת, אבל זה אמיתי לגמרי: 👮‍♂️ המשטרה, ChatGPT והמצאת חוקים - "
+published: 2025-06-04T11:00:16.974000+03:00
+source: https://www.linkedin.com/posts/ofershap_achacpacwackabracuacsacgacracladgacpadg-aiethics-activity-7335938430490587136-N08j
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7335938430490587136/
+---
+
 # זה קרה פה בארץ, וזה נשמע כאילו נלקח ממערכון של ארץ נהדרת, אבל זה אמיתי לגמרי: 👮‍♂️ המשטרה, ChatGPT והמצאת חוקים - 
 
 זה קרה פה בארץ, וזה נשמע כאילו נלקח ממערכון של ארץ נהדרת, אבל זה אמיתי לגמרי: 👮‍♂️ המשטרה, ChatGPT והמצאת חוקים - 

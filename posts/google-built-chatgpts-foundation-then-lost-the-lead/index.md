@@ -1,3 +1,10 @@
+---
+title: "Google built ChatGPT’s foundation, then lost the lead"
+published: 2025-02-26
+lang: en
+canonical: https://ofershap.github.io/posts/google-built-chatgpts-foundation-then-lost-the-lead/
+---
+
 # Google built ChatGPT’s foundation, then lost the lead
 
 February 26, 2025 · 2 min read

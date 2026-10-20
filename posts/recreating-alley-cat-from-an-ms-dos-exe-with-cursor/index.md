@@ -1,3 +1,10 @@
+---
+title: "Recreating Alley Cat from an MS-DOS EXE with Cursor"
+published: 2025-03-06
+lang: en
+canonical: https://ofershap.github.io/posts/recreating-alley-cat-from-an-ms-dos-exe-with-cursor/
+---
+
 # Recreating Alley Cat from an MS-DOS EXE with Cursor
 
 March 6, 2025 · 1 min read

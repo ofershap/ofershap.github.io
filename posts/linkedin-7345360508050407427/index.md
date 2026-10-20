@@ -1,3 +1,11 @@
+---
+title: "האם הבינה המלאכותית תמצא לנו את כדור הארץ הבא? 🌍 "
+published: 2025-06-30T11:00:15.318000+03:00
+source: https://www.linkedin.com/posts/ofershap_ai-space-astronomy-activity-7345360508050407427-GOfr
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7345360508050407427/
+---
+
 # האם הבינה המלאכותית תמצא לנו את כדור הארץ הבא? 🌍 
 
 האם הבינה המלאכותית תמצא לנו את כדור הארץ הבא? 🌍 

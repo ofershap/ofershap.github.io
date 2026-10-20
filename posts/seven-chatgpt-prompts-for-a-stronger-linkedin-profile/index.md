@@ -1,3 +1,10 @@
+---
+title: "Seven ChatGPT prompts for a stronger LinkedIn profile"
+published: 2025-09-16
+lang: en
+canonical: https://ofershap.github.io/posts/seven-chatgpt-prompts-for-a-stronger-linkedin-profile/
+---
+
 # Seven ChatGPT prompts for a stronger LinkedIn profile
 
 September 16, 2025 · 2 min read

@@ -1,3 +1,10 @@
+---
+title: "How internet companies describe their vision"
+published: 2020-10-31
+lang: en
+canonical: https://ofershap.github.io/posts/how-internet-companies-describe-their-vision/
+---
+
 # How internet companies describe their vision
 
 October 31, 2020 · 1 min read

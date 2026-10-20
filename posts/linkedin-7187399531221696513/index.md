@@ -1,3 +1,11 @@
+---
+title: "כדאי להכיר ולהזהר"
+published: 2024-04-20T13:39:43.669000+03:00
+source: https://www.linkedin.com/posts/ofershap_hackers-whatsapp-activity-7187399531221696513-HCoL
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7187399531221696513/
+---
+
 # כדאי להכיר ולהזהר
 
 כדאי להכיר ולהזהר

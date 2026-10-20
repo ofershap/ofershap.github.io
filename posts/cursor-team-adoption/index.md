@@ -1,3 +1,10 @@
+---
+title: "איך מטמיעים Cursor בצוות פיתוח?"
+published: 2026-10-07T19:59:48+03:00
+lang: he
+canonical: https://ofershap.github.io/posts/cursor-team-adoption/
+---
+
 ## פוסט D: איך מטמיעים Cursor בצוות פיתוח?
 **תשובה קצרה:** מתחילים מכללים משותפים ופיילוט קטן, לא מרישיונות לכולם. אחר כך מודדים שימוש ועלות.
 

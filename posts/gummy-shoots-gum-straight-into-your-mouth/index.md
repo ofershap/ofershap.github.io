@@ -1,3 +1,10 @@
+---
+title: "Gummy shoots gum straight into your mouth"
+published: 2025-04-01
+lang: en
+canonical: https://ofershap.github.io/posts/gummy-shoots-gum-straight-into-your-mouth/
+---
+
 # Gummy shoots gum straight into your mouth
 
 April 1, 2025 · 1 min read

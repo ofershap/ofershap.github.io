@@ -1,3 +1,11 @@
+---
+title: "Our heroes, now and then"
+published: 2023-12-10T09:03:55.886000+02:00
+source: https://www.linkedin.com/posts/ofershap_our-heroes-now-and-then-activity-7139510026024517632-s09J
+lang: en
+canonical: https://ofershap.github.io/posts/linkedin-7139510026024517632/
+---
+
 # Our heroes, now and then
 
 Our heroes, now and then

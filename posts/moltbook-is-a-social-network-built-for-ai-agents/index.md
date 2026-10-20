@@ -1,3 +1,10 @@
+---
+title: "Moltbook is a social network built for AI agents"
+published: 2026-01-30
+lang: en
+canonical: https://ofershap.github.io/posts/moltbook-is-a-social-network-built-for-ai-agents/
+---
+
 # Moltbook is a social network built for AI agents
 
 January 30, 2026 · 1 min read

@@ -1,3 +1,10 @@
+---
+title: "A woman in Japan married an AI character"
+published: 2025-12-02
+lang: en
+canonical: https://ofershap.github.io/posts/a-woman-in-japan-married-an-ai-character/
+---
+
 # A woman in Japan married an AI character
 
 December 2, 2025 · 1 min read

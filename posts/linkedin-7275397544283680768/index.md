@@ -1,3 +1,11 @@
+---
+title: "🎉 עצרו הכל - GitHub Copilot – עכשיו בחינם לכולם! 🚀"
+published: 2024-12-19T08:32:24.907000+02:00
+source: https://www.linkedin.com/posts/ofershap_ai-githubcopilot-adgacracwacladg-activity-7275397544283680768-eFSa
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7275397544283680768/
+---
+
 # 🎉 עצרו הכל - GitHub Copilot – עכשיו בחינם לכולם! 🚀
 
 🎉 עצרו הכל - GitHub Copilot – עכשיו בחינם לכולם! 🚀

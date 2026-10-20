@@ -1,3 +1,11 @@
+---
+title: "True story 😄"
+published: 2026-08-09T22:11:25.489000+03:00
+source: https://www.linkedin.com/posts/ofershap_true-story-activity-7492296498957828096-tCjm
+lang: en
+canonical: https://ofershap.github.io/posts/linkedin-7492296498957828096/
+---
+
 # True story 😄
 
 True story 😄

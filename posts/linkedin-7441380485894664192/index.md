@@ -1,3 +1,11 @@
+---
+title: "גוגל השיקה את Google Workspace CLI! סוף סוף אפשר לתקשר ישירות עם שירותי Google Workspace כמו Drive, Gmail, Calendar, Docs ו-Sheets"
+published: 2026-03-22T09:09:22.001000+02:00
+source: https://www.linkedin.com/posts/ofershap_%D7%92%D7%95%D7%92%D7%9C-%D7%94%D7%A9%D7%99%D7%A7%D7%94-%D7%90%D7%AA-google-workspace-cli-%D7%A1%D7%95%D7%A3-%D7%A1%D7%95%D7%A3-activity-7441380485894664192-kIM5
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7441380485894664192/
+---
+
 # גוגל השיקה את Google Workspace CLI! סוף סוף אפשר לתקשר ישירות עם שירותי Google Workspace כמו Drive, Gmail, Calendar, Docs ו-Sheets
 
 גוגל השיקה את Google Workspace CLI! סוף סוף אפשר לתקשר ישירות עם שירותי Google Workspace כמו Drive, Gmail, Calendar, Docs ו-Sheets מהטרמינל. 

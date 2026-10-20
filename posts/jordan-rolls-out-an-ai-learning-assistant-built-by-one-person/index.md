@@ -1,3 +1,10 @@
+---
+title: "Jordan rolls out an AI learning assistant built by one person"
+published: 2025-10-25
+lang: en
+canonical: https://ofershap.github.io/posts/jordan-rolls-out-an-ai-learning-assistant-built-by-one-person/
+---
+
 # Jordan rolls out an AI learning assistant built by one person
 
 October 25, 2025 · 1 min read

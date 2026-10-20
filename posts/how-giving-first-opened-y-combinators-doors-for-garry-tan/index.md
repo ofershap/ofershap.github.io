@@ -1,3 +1,10 @@
+---
+title: "How giving first opened Y Combinator&#x27;s doors for Garry Tan"
+published: 2025-03-31
+lang: en
+canonical: https://ofershap.github.io/posts/how-giving-first-opened-y-combinators-doors-for-garry-tan/
+---
+
 # How giving first opened Y Combinator's doors for Garry Tan
 
 March 31, 2025 · 2 min read

@@ -1,3 +1,11 @@
+---
+title: "גוגל פיתחו יכולת חיזוי התקף לב על ידי סריקת העינית של העין 🤯"
+published: 2023-06-19T23:20:54.796000+03:00
+source: https://www.linkedin.com/posts/ofershap_game-changer-googles-revolutionary-healthcare-activity-7076655104455585792-vt8Y
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7076655104455585792/
+---
+
 # גוגל פיתחו יכולת חיזוי התקף לב על ידי סריקת העינית של העין 🤯
 
 גוגל פיתחו יכולת חיזוי התקף לב על ידי סריקת העינית של העין 🤯

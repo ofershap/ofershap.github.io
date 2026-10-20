@@ -1,3 +1,11 @@
+---
+title: "I wrote about how a developer on our team accidentally burned $1,500 in one day on Cursor AI and what we built to prevent it from "
+published: 2026-03-08T18:12:45.257000+02:00
+source: https://www.linkedin.com/posts/ofershap_i-wrote-about-how-a-developer-on-our-team-activity-7436443803743514624-I8S3
+lang: en
+canonical: https://ofershap.github.io/posts/linkedin-7436443803743514624/
+---
+
 # I wrote about how a developer on our team accidentally burned $1,500 in one day on Cursor AI and what we built to prevent it from 
 
 I wrote about how a developer on our team accidentally burned $1,500 in one day on Cursor AI and what we built to prevent it from happening again 💡

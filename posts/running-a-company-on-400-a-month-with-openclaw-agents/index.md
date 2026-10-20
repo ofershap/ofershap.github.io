@@ -1,3 +1,10 @@
+---
+title: "Running a company on $400 a month with OpenClaw Agents"
+published: 2026-03-26
+lang: en
+canonical: https://ofershap.github.io/posts/running-a-company-on-400-a-month-with-openclaw-agents/
+---
+
 # Running a company on $400 a month with OpenClaw Agents
 
 March 26, 2026 · 1 min read

@@ -1,3 +1,10 @@
+---
+title: "o3-pro can overthink even the simplest prompts"
+published: 2025-06-15
+lang: en
+canonical: https://ofershap.github.io/posts/o3-pro-can-overthink-even-the-simplest-prompts/
+---
+
 # o3-pro can overthink even the simplest prompts
 
 June 15, 2025 · 1 min read

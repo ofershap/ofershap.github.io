@@ -1,3 +1,10 @@
+---
+title: "Coding in parallel with Cursor"
+published: 2026-02-11
+lang: en
+canonical: https://ofershap.github.io/posts/coding-in-parallel-with-cursor/
+---
+
 # Coding in parallel with Cursor
 
 February 11, 2026 · 1 min read

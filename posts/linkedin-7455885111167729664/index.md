@@ -1,3 +1,11 @@
+---
+title: "ניסיתם כבר? תנסו!"
+published: 2026-05-01T10:45:34.149000+03:00
+source: https://www.linkedin.com/posts/ofershap_sticklight-skills-buildwithai-activity-7455885111167729664-5NGz
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7455885111167729664/
+---
+
 # ניסיתם כבר? תנסו!
 
 ניסיתם כבר? תנסו!

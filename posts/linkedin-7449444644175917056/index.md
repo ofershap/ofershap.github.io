@@ -1,3 +1,11 @@
+---
+title: "חברת Perplexity משיקה תחרות נושאת פרסים ״חברת מליארד הדולר״ - Billion Dollar Build"
+published: 2026-04-13T16:13:27.160000+03:00
+source: https://www.linkedin.com/posts/ofershap_the-billion-dollar-build-activity-7449444644175917056-F6k1
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7449444644175917056/
+---
+
 # חברת Perplexity משיקה תחרות נושאת פרסים ״חברת מליארד הדולר״ - Billion Dollar Build
 
 חברת Perplexity משיקה תחרות נושאת פרסים ״חברת מליארד הדולר״ - Billion Dollar Build

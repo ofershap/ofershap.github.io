@@ -1,3 +1,10 @@
+---
+title: "Snake rendered in a browser tab title"
+published: 2025-10-22
+lang: en
+canonical: https://ofershap.github.io/posts/snake-rendered-in-a-browser-tab-title/
+---
+
 # Snake rendered in a browser tab title
 
 October 22, 2025 · 1 min read

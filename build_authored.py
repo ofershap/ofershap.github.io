@@ -29,7 +29,7 @@ def build():
   rendered=re.sub(r'https://[^\s<]+',lambda m:'<a href="'+m[0].rstrip('.,')+'">'+m[0].rstrip('.,')+'</a>'+m[0][len(m[0].rstrip('.,')):],rendered)
   page=page.replace(markdown.markdown(body),rendered)
   (p/'index.html').write_text(page);(p/'original.md').write_text(raw)
-  (p/'index.md').write_text(raw+'\n\n## מהניסיון שלי\n\n'+r.get('hook','')+'\n\n## בקצרה\n\n'+summary+'\n\n'+r.get('note','')+'\n\n## שאלות נפוצות\n\n'+''.join('### '+q+'\n\n'+a+'\n\n' for q,a in r['faq'])+'## על הכותב\n\n'+r['bio']+'\n')
+  (p/'index.md').write_text('---\ntitle: '+json.dumps(title,ensure_ascii=False)+'\n'+'published: '+r['published_at']+'\nlang: he\ncanonical: '+url+'\n---\n\n'+raw+'\n\n## מהניסיון שלי\n\n'+r.get('hook','')+'\n\n## בקצרה\n\n'+summary+'\n\n'+r.get('note','')+'\n\n## שאלות נפוצות\n\n'+''.join('### '+q+'\n\n'+a+'\n\n' for q,a in r['faq'])+'## על הכותב\n\n'+r['bio']+'\n')
   href='/posts/'+slug+'/'
   items.append('<li dir="rtl"><a class="post-title" href="'+href+'">'+E(title)+'</a><div class="post-meta">'+r['published_at'][:10]+' · עברית · שאלה ותשובה</div><p class="post-excerpt">'+E(summary)+'</p></li>')
  s=(ROOT/'index.html').read_text()

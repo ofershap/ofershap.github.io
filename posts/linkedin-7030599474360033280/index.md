@@ -1,3 +1,11 @@
+---
+title: "סומך עליכם"
+published: 2023-02-12T20:12:16.909000+02:00
+source: https://www.linkedin.com/posts/ofershap_acraclacsacgabracsacpacpadd-activity-7030599474360033280-1dZ6
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7030599474360033280/
+---
+
 # סומך עליכם
 
 סומך עליכם

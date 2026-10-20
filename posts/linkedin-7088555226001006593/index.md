@@ -1,3 +1,11 @@
+---
+title: "נהייתי עבד לנוטיפיקציות"
+published: 2023-07-22T19:27:44.866000+03:00
+source: https://www.linkedin.com/posts/ofershap_%D7%A0%D7%94%D7%99%D7%99%D7%AA%D7%99-%D7%A2%D7%91%D7%93-%D7%9C%D7%A0%D7%95%D7%98%D7%99%D7%A4%D7%99%D7%A7%D7%A6%D7%99%D7%95%D7%AA-%D7%91%D7%95%D7%95%D7%A6%D7%90%D7%A4-%D7%91%D7%A1%D7%9C%D7%90%D7%A7-%D7%91%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7-activity-7088555226001006593-nlH8
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7088555226001006593/
+---
+
 # נהייתי עבד לנוטיפיקציות
 
 נהייתי עבד לנוטיפיקציות

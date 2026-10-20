@@ -1,3 +1,10 @@
+---
+title: "World Monitor opens global intelligence to everyone"
+published: 2026-03-12
+lang: en
+canonical: https://ofershap.github.io/posts/world-monitor-opens-global-intelligence-to-everyone/
+---
+
 # World Monitor opens global intelligence to everyone
 
 March 12, 2026 · 1 min read

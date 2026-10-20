@@ -1,3 +1,11 @@
+---
+title: "🤯"
+published: 2025-02-23T18:56:05.024000+02:00
+source: https://www.linkedin.com/posts/ofershap_artificialintelligence-ai-activity-7299472094759718912-nPUD
+lang: en
+canonical: https://ofershap.github.io/posts/linkedin-7299472094759718912/
+---
+
 # 🤯
 
 🤯

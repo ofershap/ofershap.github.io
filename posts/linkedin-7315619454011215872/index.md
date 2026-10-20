@@ -1,3 +1,11 @@
+---
+title: "רוצים להתמקצע יותר ב-AI ולא יודעים מאיפה להתחיל?"
+published: 2025-04-09T09:19:55.473000+03:00
+source: https://www.linkedin.com/posts/ofershap_microsoft-ai-activity-7315619454011215872-UiEF
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7315619454011215872/
+---
+
 # רוצים להתמקצע יותר ב-AI ולא יודעים מאיפה להתחיל?
 
 רוצים להתמקצע יותר ב-AI ולא יודעים מאיפה להתחיל?

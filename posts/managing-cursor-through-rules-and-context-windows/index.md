@@ -1,3 +1,10 @@
+---
+title: "Managing Cursor through rules and context windows"
+published: 2025-08-11
+lang: en
+canonical: https://ofershap.github.io/posts/managing-cursor-through-rules-and-context-windows/
+---
+
 # Managing Cursor through rules and context windows
 
 August 11, 2025 · 2 min read

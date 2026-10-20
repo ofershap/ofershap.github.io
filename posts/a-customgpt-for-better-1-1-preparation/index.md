@@ -1,3 +1,10 @@
+---
+title: "A CustomGPT for better 1:1 preparation"
+published: 2025-06-16
+lang: en
+canonical: https://ofershap.github.io/posts/a-customgpt-for-better-1-1-preparation/
+---
+
 # A CustomGPT for better 1:1 preparation
 
 June 16, 2025 · 1 min read

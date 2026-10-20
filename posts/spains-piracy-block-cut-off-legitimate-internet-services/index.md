@@ -1,3 +1,10 @@
+---
+title: "Spain&#x27;s piracy block cut off legitimate internet services"
+published: 2025-04-18
+lang: en
+canonical: https://ofershap.github.io/posts/spains-piracy-block-cut-off-legitimate-internet-services/
+---
+
 # Spain's piracy block cut off legitimate internet services
 
 April 18, 2025 · 1 min read

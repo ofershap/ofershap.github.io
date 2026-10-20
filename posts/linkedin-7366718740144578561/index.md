@@ -1,3 +1,11 @@
+---
+title: "בעידן ה־AI אין תירוצים לבאגים בפרודקשן! 🐞 "
+published: 2025-08-28T09:30:14.666000+03:00
+source: https://www.linkedin.com/posts/ofershap_%D7%91%D7%A2%D7%99%D7%93%D7%9F-%D7%94ai-%D7%90%D7%99%D7%9F-%D7%AA%D7%99%D7%A8%D7%95%D7%A6%D7%99%D7%9D-%D7%9C%D7%91%D7%90%D7%92%D7%99%D7%9D-%D7%91%D7%A4%D7%A8%D7%95%D7%93%D7%A7%D7%A9%D7%9F-activity-7366718740144578561-5LdT
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7366718740144578561/
+---
+
 # בעידן ה־AI אין תירוצים לבאגים בפרודקשן! 🐞 
 
 בעידן ה־AI אין תירוצים לבאגים בפרודקשן! 🐞 

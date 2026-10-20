@@ -1,3 +1,10 @@
+---
+title: "The AI mirage of the 90% solution"
+published: 2025-02-10
+lang: en
+canonical: https://ofershap.github.io/posts/the-ai-mirage-of-the-90-percent-solution/
+---
+
 # The AI mirage of the 90% solution
 
 February 10, 2025 · 1 min read

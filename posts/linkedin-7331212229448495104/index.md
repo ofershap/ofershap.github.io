@@ -1,3 +1,11 @@
+---
+title: "זה נראה כמו אקווריום דיגיטלי, הדמויות מרחפות שם בתלת־ממד אמיתי 🎮"
+published: 2025-05-22T10:00:02.837000+03:00
+source: https://www.linkedin.com/posts/ofershap_acoacracwaclacsaclaciacpack-aciacpacpacuacpacwaci-activity-7331212229448495104-HY6b
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7331212229448495104/
+---
+
 # זה נראה כמו אקווריום דיגיטלי, הדמויות מרחפות שם בתלת־ממד אמיתי 🎮
 
 זה נראה כמו אקווריום דיגיטלי, הדמויות מרחפות שם בתלת־ממד אמיתי 🎮

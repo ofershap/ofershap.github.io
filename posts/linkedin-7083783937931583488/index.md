@@ -1,3 +1,11 @@
+---
+title: "יו איזה חמודים!! לנשנש את המשלוחים שלהם"
+published: 2023-07-09T15:28:21.144000+03:00
+source: https://www.linkedin.com/posts/ofershap_groceries-delivered-by-robots-clevon-activity-7083783937931583488-SFVQ
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7083783937931583488/
+---
+
 # יו איזה חמודים!! לנשנש את המשלוחים שלהם
 
 יו איזה חמודים!! לנשנש את המשלוחים שלהם

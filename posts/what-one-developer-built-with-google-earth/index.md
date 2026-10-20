@@ -1,3 +1,10 @@
+---
+title: "What one developer built with Google Earth"
+published: 2026-01-11
+lang: en
+canonical: https://ofershap.github.io/posts/what-one-developer-built-with-google-earth/
+---
+
 # What one developer built with Google Earth
 
 January 11, 2026 · 1 min read

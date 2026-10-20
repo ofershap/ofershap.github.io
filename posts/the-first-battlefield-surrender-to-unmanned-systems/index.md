@@ -1,3 +1,10 @@
+---
+title: "The first battlefield surrender to unmanned systems"
+published: 2025-08-07
+lang: en
+canonical: https://ofershap.github.io/posts/the-first-battlefield-surrender-to-unmanned-systems/
+---
+
 # The first battlefield surrender to unmanned systems
 
 August 7, 2025 · 1 min read

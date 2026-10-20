@@ -1,3 +1,10 @@
+---
+title: "Software engineering after manual coding"
+published: 2026-04-17
+lang: en
+canonical: https://ofershap.github.io/posts/software-engineering-after-manual-coding/
+---
+
 # Software engineering after manual coding
 
 Date: 2026-04-17

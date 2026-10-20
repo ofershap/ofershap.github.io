@@ -1,3 +1,10 @@
+---
+title: "Tiangong puts humanoid robots to work"
+published: 2025-05-24
+lang: en
+canonical: https://ofershap.github.io/posts/tiangong-puts-humanoid-robots-to-work/
+---
+
 # Tiangong puts humanoid robots to work
 
 May 24, 2025 · 1 min read

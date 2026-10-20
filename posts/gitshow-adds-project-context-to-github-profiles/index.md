@@ -1,3 +1,10 @@
+---
+title: "GitShow adds project context to GitHub profiles"
+published: 2026-02-25
+lang: en
+canonical: https://ofershap.github.io/posts/gitshow-adds-project-context-to-github-profiles/
+---
+
 # GitShow adds project context to GitHub profiles
 
 February 25, 2026 · 1 min read

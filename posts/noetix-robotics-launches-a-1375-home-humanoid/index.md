@@ -1,3 +1,10 @@
+---
+title: "NOETIX Robotics launches a $1,375 home humanoid"
+published: 2025-11-11
+lang: en
+canonical: https://ofershap.github.io/posts/noetix-robotics-launches-a-1375-home-humanoid/
+---
+
 # NOETIX Robotics launches a $1,375 home humanoid
 
 November 11, 2025 · 1 min read

@@ -1,3 +1,10 @@
+---
+title: "Why generative AI cannot copy an image exactly"
+published: 2025-05-03
+lang: en
+canonical: https://ofershap.github.io/posts/why-generative-ai-cannot-copy-an-image-exactly/
+---
+
 # Why generative AI cannot copy an image exactly
 
 Date: 2025-05-03

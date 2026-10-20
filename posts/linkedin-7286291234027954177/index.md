@@ -1,3 +1,11 @@
+---
+title: "האי המבודד ביותר בעולם - הוא ביתם של כ-50 איש בלבד!"
+published: 2025-01-18T10:00:02.937000+02:00
+source: https://www.linkedin.com/posts/ofershap_ackadfadeacgack-acnacpacpactacgacnadeacpact-activity-7286291234027954177-wvf9
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7286291234027954177/
+---
+
 # האי המבודד ביותר בעולם - הוא ביתם של כ-50 איש בלבד!
 
 האי המבודד ביותר בעולם - הוא ביתם של כ-50 איש בלבד!

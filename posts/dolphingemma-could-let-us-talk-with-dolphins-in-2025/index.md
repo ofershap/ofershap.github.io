@@ -1,3 +1,10 @@
+---
+title: "DolphinGemma could let us talk with dolphins in 2025"
+published: 2025-04-17
+lang: en
+canonical: https://ofershap.github.io/posts/dolphingemma-could-let-us-talk-with-dolphins-in-2025/
+---
+
 # DolphinGemma could let us talk with dolphins in 2025
 
 April 17, 2025 · 1 min read

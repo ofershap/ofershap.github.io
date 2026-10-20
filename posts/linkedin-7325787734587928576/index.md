@@ -1,3 +1,11 @@
+---
+title: "החודש יותר מ-1,000 מפתחים ויוצרים מרחבי העולם התכנסו לתחרות יוצאת דופן: Vibe Coding Game Jam"
+published: 2025-05-07T10:45:02.480000+03:00
+source: https://www.linkedin.com/posts/ofershap_%D7%94%D7%97%D7%95%D7%93%D7%A9-%D7%99%D7%95%D7%AA%D7%A8-%D7%9E-1000-%D7%9E%D7%A4%D7%AA%D7%97%D7%99%D7%9D-%D7%95%D7%99%D7%95%D7%A6%D7%A8%D7%99%D7%9D-%D7%9E%D7%A8%D7%97%D7%91%D7%99-%D7%94%D7%A2%D7%95%D7%9C%D7%9D-activity-7325787734587928576-ciJu
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7325787734587928576/
+---
+
 # החודש יותר מ-1,000 מפתחים ויוצרים מרחבי העולם התכנסו לתחרות יוצאת דופן: Vibe Coding Game Jam
 
 החודש יותר מ-1,000 מפתחים ויוצרים מרחבי העולם התכנסו לתחרות יוצאת דופן: Vibe Coding Game Jam

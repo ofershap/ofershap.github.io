@@ -1,3 +1,11 @@
+---
+title: "בלי לכתוב שורת קוד אחת!"
+published: 2023-08-04T15:54:43.766000+03:00
+source: https://www.linkedin.com/posts/ofershap_gamedev-activity-7093212660434898945-0r2I
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7093212660434898945/
+---
+
 # בלי לכתוב שורת קוד אחת!
 
 בלי לכתוב שורת קוד אחת!

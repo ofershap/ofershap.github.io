@@ -1,3 +1,10 @@
+---
+title: "Managing your life like a product roadmap"
+published: 2023-05-09
+lang: en
+canonical: https://ofershap.github.io/posts/managing-your-life-like-a-product-roadmap/
+---
+
 # Managing your life like a product roadmap
 
 May 9, 2023 · 1 min read

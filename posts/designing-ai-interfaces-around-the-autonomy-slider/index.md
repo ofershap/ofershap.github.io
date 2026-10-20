@@ -1,3 +1,10 @@
+---
+title: "Designing AI interfaces around the autonomy slider"
+published: 2025-07-10
+lang: en
+canonical: https://ofershap.github.io/posts/designing-ai-interfaces-around-the-autonomy-slider/
+---
+
 # Designing AI interfaces around the autonomy slider
 
 July 10, 2025 · 2 min read

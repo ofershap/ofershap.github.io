@@ -1,3 +1,11 @@
+---
+title: "I built the resource I wish I had when I started coding as a Hebrew speaker! 🇮🇱"
+published: 2026-02-18T08:06:22.306000+02:00
+source: https://www.linkedin.com/posts/ofershap_opensource-developers-israel-activity-7429768221005750272-hJHW
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7429768221005750272/
+---
+
 # I built the resource I wish I had when I started coding as a Hebrew speaker! 🇮🇱
 
 I built the resource I wish I had when I started coding as a Hebrew speaker! 🇮🇱

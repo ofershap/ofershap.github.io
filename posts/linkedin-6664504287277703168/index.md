@@ -1,3 +1,11 @@
+---
+title: "Do You Trust This Guy? Click PLAY and Find Out..."
+published: 2020-05-08T15:40:42.589000+03:00
+source: https://www.linkedin.com/posts/ofershap_reputationallover-activity-6664504287277703168-xiKG
+lang: en
+canonical: https://ofershap.github.io/posts/linkedin-6664504287277703168/
+---
+
 # Do You Trust This Guy? Click PLAY and Find Out...
 
 Do You Trust This Guy? Click PLAY and Find Out...

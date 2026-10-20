@@ -1,3 +1,10 @@
+---
+title: "Accenture cuts 11,000 jobs in an AI restructuring"
+published: 2025-10-20
+lang: en
+canonical: https://ofershap.github.io/posts/accenture-cuts-11000-jobs-in-an-ai-restructuring/
+---
+
 # Accenture cuts 11,000 jobs in an AI restructuring
 
 October 20, 2025 · 1 min read

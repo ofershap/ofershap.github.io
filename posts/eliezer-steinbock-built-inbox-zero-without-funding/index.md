@@ -1,3 +1,10 @@
+---
+title: "Eliezer Steinbock built Inbox Zero without funding"
+published: 2025-06-09
+lang: en
+canonical: https://ofershap.github.io/posts/eliezer-steinbock-built-inbox-zero-without-funding/
+---
+
 # Eliezer Steinbock built Inbox Zero without funding
 
 June 9, 2025 · 1 min read

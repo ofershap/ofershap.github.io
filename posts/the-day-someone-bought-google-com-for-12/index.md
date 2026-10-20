@@ -1,3 +1,10 @@
+---
+title: "The day someone bought google.com for $12"
+published: 2024-12-09
+lang: en
+canonical: https://ofershap.github.io/posts/the-day-someone-bought-google-com-for-12/
+---
+
 # The day someone bought google.com for $12
 
 December 9, 2024 · 1 min read

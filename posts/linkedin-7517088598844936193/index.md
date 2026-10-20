@@ -1,3 +1,11 @@
+---
+title: "קלוד כותב את התוכנית שמנהלת את הסוכנים: Dynamic Workflows בבטא"
+published: 2026-10-17T08:06:23.141000+03:00
+source: https://www.linkedin.com/feed/update/urn:li:share:7517088597347397632/
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7517088598844936193/
+---
+
 # קלוד כותב את התוכנית שמנהלת את הסוכנים: Dynamic Workflows בבטא
 
 קלוד יכול עכשיו לכתוב גם את התוכנית שמנהלת את העבודה של הסוכנים האחרים.

@@ -1,3 +1,11 @@
+---
+title: "קחו משחק קטן לסופש 🕹️"
+published: 2024-12-06T14:20:45.985000+02:00
+source: https://www.linkedin.com/posts/ofershap_gandalf-lakera-test-your-prompting-skills-activity-7270774167505940481-vXAn
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7270774167505940481/
+---
+
 # קחו משחק קטן לסופש 🕹️
 
 קחו משחק קטן לסופש 🕹️

@@ -1,3 +1,11 @@
+---
+title: "טוב זה מגניב (Shut up and take my mone!)"
+published: 2025-11-16T11:30:06.166000+02:00
+source: https://www.linkedin.com/posts/ofershap_%D7%98%D7%95%D7%91-%D7%96%D7%94-%D7%9E%D7%92%D7%A0%D7%99%D7%91-shut-up-and-take-my-mone-activity-7395755032224206848-WPiB
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7395755032224206848/
+---
+
 # טוב זה מגניב (Shut up and take my mone!)
 
 טוב זה מגניב (Shut up and take my mone!)

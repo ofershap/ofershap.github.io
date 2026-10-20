@@ -1,3 +1,11 @@
+---
+title: "בונים פרויקט חדש? כלי מגניב שמקצר את העבודה ש Yonatan Katz  התותח בנה 😎"
+published: 2026-03-30T19:30:01.516000+03:00
+source: https://www.linkedin.com/posts/ofershap_i-got-tired-of-wiring-up-the-same-ai-boilerplate-activity-7444420683172012032-EUgA
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7444420683172012032/
+---
+
 # בונים פרויקט חדש? כלי מגניב שמקצר את העבודה ש Yonatan Katz  התותח בנה 😎
 
 בונים פרויקט חדש? כלי מגניב שמקצר את העבודה ש Yonatan Katz  התותח בנה 😎

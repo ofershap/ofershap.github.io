@@ -1,3 +1,10 @@
+---
+title: "ryOS shows what an AI-native operating system feels like"
+published: 2025-06-01
+lang: en
+canonical: https://ofershap.github.io/posts/ryos-shows-what-an-ai-native-operating-system-feels-like/
+---
+
 # ryOS shows what an AI-native operating system feels like
 
 June 1, 2025 · 2 min read

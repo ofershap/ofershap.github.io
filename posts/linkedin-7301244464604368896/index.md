@@ -1,3 +1,11 @@
+---
+title: "הזדמנות נדלן שלא תחזור על עצמה! כל הקודם זוכה! שטח דרומית לאשקלון בסביוני עזה המתחדשת: https://lnkd.in/eCCfSgHu"
+published: 2025-02-28T16:18:50.924000+02:00
+source: https://www.linkedin.com/posts/ofershap_trump-gaza-estates-luxury-properties-activity-7301244464604368896-pC3x
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7301244464604368896/
+---
+
 # הזדמנות נדלן שלא תחזור על עצמה! כל הקודם זוכה! שטח דרומית לאשקלון בסביוני עזה המתחדשת: https://lnkd.in/eCCfSgHu
 
 הזדמנות נדלן שלא תחזור על עצמה! כל הקודם זוכה! שטח דרומית לאשקלון בסביוני עזה המתחדשת: https://lnkd.in/eCCfSgHu

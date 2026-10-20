@@ -1,3 +1,11 @@
+---
+title: "המסע שלי עם אינסטינקט:"
+published: 2026-10-15T10:56:00+03:00
+source: https://www.linkedin.com/feed/update/urn:li:share:7516406603865214977
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7516406604813017088/
+---
+
 # המסע שלי עם אינסטינקט:
 
 המסע שלי עם אינסטינקט:

@@ -1,3 +1,10 @@
+---
+title: "One prompt can now generate a complete short film"
+published: 2026-03-13
+lang: en
+canonical: https://ofershap.github.io/posts/one-prompt-can-now-generate-a-complete-short-film/
+---
+
 # One prompt can now generate a complete short film
 
 March 13, 2026 · 1 min read

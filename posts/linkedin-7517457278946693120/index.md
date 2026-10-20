@@ -1,3 +1,11 @@
+---
+title: "הקלטת הפגישות הפסיקה לשבוע: בדיקה אחרי חודש עם Grok Bot"
+published: 2026-10-18T08:31:23.142000+03:00
+source: https://www.linkedin.com/feed/update/urn:li:share:7517457277885411328/
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7517457278946693120/
+---
+
 # הקלטת הפגישות הפסיקה לשבוע: בדיקה אחרי חודש עם Grok Bot
 
 הקלטת הפגישות הפסיקה לשבוע. גיליתי את זה רק כששאלתי את הבוט מה הוא עשה עם החומר.

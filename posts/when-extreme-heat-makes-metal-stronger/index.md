@@ -1,3 +1,10 @@
+---
+title: "When extreme heat makes metal stronger"
+published: 2026-02-24
+lang: en
+canonical: https://ofershap.github.io/posts/when-extreme-heat-makes-metal-stronger/
+---
+
 # When extreme heat makes metal stronger
 
 February 24, 2026 · 1 min read

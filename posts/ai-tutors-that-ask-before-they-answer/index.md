@@ -1,3 +1,10 @@
+---
+title: "AI tutors that ask before they answer"
+published: 2025-07-15
+lang: en
+canonical: https://ofershap.github.io/posts/ai-tutors-that-ask-before-they-answer/
+---
+
 # AI tutors that ask before they answer
 
 July 15, 2025 · 2 min read

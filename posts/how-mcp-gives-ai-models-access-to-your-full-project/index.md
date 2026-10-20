@@ -1,3 +1,10 @@
+---
+title: "How MCP gives AI models access to your full project"
+published: 2025-02-15
+lang: en
+canonical: https://ofershap.github.io/posts/how-mcp-gives-ai-models-access-to-your-full-project/
+---
+
 # How MCP gives AI models access to your full project
 
 February 15, 2025 · 1 min read

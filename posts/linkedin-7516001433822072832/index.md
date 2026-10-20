@@ -1,3 +1,11 @@
+---
+title: "איזה כיף! מישהו תרם לפרויקט open source שלי! תוסף דפדפן שבשימוש כבר של יותר מ10 אלף אנשים!"
+published: 2026-10-14T08:06:00+03:00
+source: https://www.linkedin.com/feed/update/urn:li:share:7516001432945274880
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7516001433822072832/
+---
+
 # איזה כיף! מישהו תרם לפרויקט open source שלי! תוסף דפדפן שבשימוש כבר של יותר מ10 אלף אנשים!
 
 איזה כיף! מישהו תרם לפרויקט open source שלי! תוסף דפדפן שבשימוש כבר של יותר מ10 אלף אנשים!

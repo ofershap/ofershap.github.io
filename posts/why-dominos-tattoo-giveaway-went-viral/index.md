@@ -1,3 +1,10 @@
+---
+title: "Why Domino&#x27;s tattoo giveaway went viral"
+published: 2025-04-21
+lang: en
+canonical: https://ofershap.github.io/posts/why-dominos-tattoo-giveaway-went-viral/
+---
+
 # Why Domino's tattoo giveaway went viral
 
 April 21, 2025 · 2 min read

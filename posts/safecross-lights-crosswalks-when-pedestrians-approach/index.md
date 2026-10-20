@@ -1,3 +1,10 @@
+---
+title: "SafeCross lights crosswalks when pedestrians approach"
+published: 2025-03-03
+lang: en
+canonical: https://ofershap.github.io/posts/safecross-lights-crosswalks-when-pedestrians-approach/
+---
+
 # SafeCross lights crosswalks when pedestrians approach
 
 March 3, 2025 · 1 min read

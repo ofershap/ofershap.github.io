@@ -1,3 +1,11 @@
+---
+title: "Do you want to truly understand the power of #chatgpt and why it has such hype? You should read the following conversation I had w"
+published: 2022-12-14T23:44:04.463000+02:00
+source: https://www.linkedin.com/posts/ofershap_chatgpt-activity-7008909501768581120-ESPU
+lang: en
+canonical: https://ofershap.github.io/posts/linkedin-7008909501768581120/
+---
+
 # Do you want to truly understand the power of #chatgpt and why it has such hype? You should read the following conversation I had w
 
 Do you want to truly understand the power of #chatgpt and why it has such hype? You should read the following conversation I had with it. it's a bit difficult to understand that the machine is really replying, but I copied the whole conversation straight from there:

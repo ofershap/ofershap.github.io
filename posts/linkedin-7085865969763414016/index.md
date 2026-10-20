@@ -1,3 +1,11 @@
+---
+title: "\"אוף עוד פגישה\""
+published: 2023-07-15T09:21:36.215000+03:00
+source: https://www.linkedin.com/posts/ofershap_innovation-business-vision-activity-7085865969763414016-cdin
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7085865969763414016/
+---
+
 # "אוף עוד פגישה"
 
 "אוף עוד פגישה"

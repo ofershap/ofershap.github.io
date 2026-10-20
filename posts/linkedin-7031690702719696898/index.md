@@ -1,3 +1,11 @@
+---
+title: "איך עולה מחשב? ההסבר הכי מושקע בעולם 😄"
+published: 2023-02-15T20:28:26.024000+02:00
+source: https://www.linkedin.com/posts/ofershap_iamintel-activity-7031690702719696898-pYt8
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7031690702719696898/
+---
+
 # איך עולה מחשב? ההסבר הכי מושקע בעולם 😄
 
 איך עולה מחשב? ההסבר הכי מושקע בעולם 😄

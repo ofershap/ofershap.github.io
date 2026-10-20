@@ -1,3 +1,11 @@
+---
+title: "אבל מה עם המדבקה על החלון האחורי \"תודה אבא\"?"
+published: 2023-09-19T20:16:34.177000+03:00
+source: https://www.linkedin.com/posts/ofershap_mercedes-car-futuristictech-activity-7109948396492189697--AZ8
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7109948396492189697/
+---
+
 # אבל מה עם המדבקה על החלון האחורי "תודה אבא"?
 
 אבל מה עם המדבקה על החלון האחורי "תודה אבא"?

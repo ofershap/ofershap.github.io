@@ -1,3 +1,11 @@
+---
+title: "Mother caterpillar protecting her puppy"
+published: 2023-08-26T13:11:39.447000+03:00
+source: https://www.linkedin.com/posts/ofershap_beautifulnature-activity-7101144155069816832-z3ZQ
+lang: en
+canonical: https://ofershap.github.io/posts/linkedin-7101144155069816832/
+---
+
 # Mother caterpillar protecting her puppy
 
 Mother caterpillar protecting her puppy

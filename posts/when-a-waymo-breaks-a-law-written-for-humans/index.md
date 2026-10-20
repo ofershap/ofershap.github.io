@@ -1,3 +1,10 @@
+---
+title: "When a Waymo breaks a law written for humans"
+published: 2025-10-21
+lang: en
+canonical: https://ofershap.github.io/posts/when-a-waymo-breaks-a-law-written-for-humans/
+---
+
 # When a Waymo breaks a law written for humans
 
 October 21, 2025 · 2 min read

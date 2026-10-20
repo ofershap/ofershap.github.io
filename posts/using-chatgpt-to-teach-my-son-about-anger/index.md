@@ -1,3 +1,10 @@
+---
+title: "Using ChatGPT to teach my son about anger"
+published: 2025-01-23
+lang: en
+canonical: https://ofershap.github.io/posts/using-chatgpt-to-teach-my-son-about-anger/
+---
+
 # Using ChatGPT to teach my son about anger
 
 January 23, 2025 · 1 min read

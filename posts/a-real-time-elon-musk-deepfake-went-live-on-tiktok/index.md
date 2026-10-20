@@ -1,3 +1,10 @@
+---
+title: "A real-time Elon Musk deepfake went live on TikTok"
+published: 2024-08-29
+lang: en
+canonical: https://ofershap.github.io/posts/a-real-time-elon-musk-deepfake-went-live-on-tiktok/
+---
+
 # A real-time Elon Musk deepfake went live on TikTok
 
 August 29, 2024 · 1 min read

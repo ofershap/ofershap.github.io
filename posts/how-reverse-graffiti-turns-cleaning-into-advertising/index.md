@@ -1,3 +1,10 @@
+---
+title: "How reverse graffiti turns cleaning into advertising"
+published: 2025-03-18
+lang: en
+canonical: https://ofershap.github.io/posts/how-reverse-graffiti-turns-cleaning-into-advertising/
+---
+
 # How reverse graffiti turns cleaning into advertising
 
 March 18, 2025 · 1 min read

@@ -1,3 +1,10 @@
+---
+title: "Why I ship products before they feel ready"
+published: 2025-01-03
+lang: en
+canonical: https://ofershap.github.io/posts/why-i-ship-products-before-they-feel-ready/
+---
+
 # Why I ship products before they feel ready
 
 January 3, 2025 · 1 min read

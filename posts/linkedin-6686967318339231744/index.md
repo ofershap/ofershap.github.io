@@ -1,3 +1,11 @@
+---
+title: "קובץ ניהול ומעקב שליחת קו\"ח שיצר יקיר עמוסי התותח לכל מי שמחפש עבודה"
+published: 2020-07-09T15:20:46.537000+03:00
+source: https://www.linkedin.com/posts/ofershap_job-tracking-tool-by-yakir-amosi-activity-6686967318339231744-jpfP
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-6686967318339231744/
+---
+
 # קובץ ניהול ומעקב שליחת קו"ח שיצר יקיר עמוסי התותח לכל מי שמחפש עבודה
 
 קובץ ניהול ומעקב שליחת קו"ח שיצר יקיר עמוסי התותח לכל מי שמחפש עבודה

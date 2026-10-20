@@ -1,3 +1,11 @@
+---
+title: "אני מאמין שנתחיל בקרוב לראות את זה יותר סביבנו: One Man Squad"
+published: 2025-03-10T17:52:23.877000+02:00
+source: https://www.linkedin.com/posts/ofershap_%D7%9E%D7%90%D7%97%D7%95%D7%A8%D7%99-%D7%94%D7%A7%D7%9C%D7%A2%D7%99%D7%9D-%D7%90%D7%99%D7%9A-%D7%99%D7%95%D7%A6%D7%A8%D7%99%D7%9D-%D7%A4%D7%A8%D7%95%D7%98%D7%95%D7%98%D7%99%D7%99%D7%A4-%D7%A2%D7%95%D7%91%D7%93-activity-7304891885691584512-Jcqx
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7304891885691584512/
+---
+
 # אני מאמין שנתחיל בקרוב לראות את זה יותר סביבנו: One Man Squad
 
 אני מאמין שנתחיל בקרוב לראות את זה יותר סביבנו: One Man Squad

@@ -1,3 +1,11 @@
+---
+title: "\"היי, עופר.\""
+published: 2025-01-03T16:36:35.352000+02:00
+source: https://www.linkedin.com/posts/ofershap_%D7%94%D7%99%D7%99-%D7%A2%D7%95%D7%A4%D7%A8-%D7%90%D7%99%D7%9F-%D7%A1%D7%A4%D7%A7-%D7%A9-chatgpt-%D7%94%D7%95%D7%90-%D7%96%D7%94-%D7%A9%D7%94%D7%91%D7%99%D7%90-activity-7280955208665346048-5zzg
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7280955208665346048/
+---
+
 # "היי, עופר."
 
 "היי, עופר."

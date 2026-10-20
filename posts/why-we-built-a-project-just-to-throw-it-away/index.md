@@ -1,3 +1,10 @@
+---
+title: "Why we built a project just to throw it away"
+published: 2026-07-08
+lang: en
+canonical: https://ofershap.github.io/posts/why-we-built-a-project-just-to-throw-it-away/
+---
+
 # Why we built a project just to throw it away
 
 July 8, 2026 · 1 min read

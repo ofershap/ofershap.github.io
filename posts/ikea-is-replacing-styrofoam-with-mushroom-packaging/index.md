@@ -1,3 +1,10 @@
+---
+title: "IKEA is replacing Styrofoam with mushroom packaging"
+published: 2025-07-07
+lang: en
+canonical: https://ofershap.github.io/posts/ikea-is-replacing-styrofoam-with-mushroom-packaging/
+---
+
 # IKEA is replacing Styrofoam with mushroom packaging
 
 July 7, 2025 · 1 min read

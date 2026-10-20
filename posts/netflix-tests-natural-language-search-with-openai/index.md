@@ -1,3 +1,10 @@
+---
+title: "Netflix tests natural-language search with OpenAI"
+published: 2025-04-25
+lang: en
+canonical: https://ofershap.github.io/posts/netflix-tests-natural-language-search-with-openai/
+---
+
 # Netflix tests natural-language search with OpenAI
 
 April 25, 2025 · 1 min read

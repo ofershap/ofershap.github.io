@@ -1,3 +1,10 @@
+---
+title: "How a Google Calendar invite can hijack ChatGPT"
+published: 2025-10-26
+lang: en
+canonical: https://ofershap.github.io/posts/how-a-google-calendar-invite-can-hijack-chatgpt/
+---
+
 # How a Google Calendar invite can hijack ChatGPT
 
 October 26, 2025 · 1 min read

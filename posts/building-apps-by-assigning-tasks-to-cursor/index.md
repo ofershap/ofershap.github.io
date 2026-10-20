@@ -1,3 +1,10 @@
+---
+title: "Building apps by assigning tasks to Cursor"
+published: 2025-02-13
+lang: en
+canonical: https://ofershap.github.io/posts/building-apps-by-assigning-tasks-to-cursor/
+---
+
 # Building apps by assigning tasks to Cursor
 
 February 13, 2025 · 2 min read

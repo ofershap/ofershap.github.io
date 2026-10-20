@@ -1,3 +1,11 @@
+---
+title: "פרק #5 בסדרת לומדים להשתמש ב-Nano Banana Pro:"
+published: 2025-12-11T16:00:11.239000+02:00
+source: https://www.linkedin.com/posts/ofershap_%D7%A4%D7%A8%D7%A7-5-%D7%91%D7%A1%D7%93%D7%A8%D7%AA-%D7%9C%D7%95%D7%9E%D7%93%D7%99%D7%9D-%D7%9C%D7%94%D7%A9%D7%AA%D7%9E%D7%A9-%D7%91-nano-banana-activity-7404882697866809346-XHdS
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7404882697866809346/
+---
+
 # פרק #5 בסדרת לומדים להשתמש ב-Nano Banana Pro:
 
 פרק #5 בסדרת לומדים להשתמש ב-Nano Banana Pro:

@@ -1,3 +1,11 @@
+---
+title: "פרק #21 ואחרון לסדרת לומדים להשתמש ב-Nano Banana Pro:"
+published: 2025-12-26T16:01:17.496000+02:00
+source: https://www.linkedin.com/posts/ofershap_%D7%A4%D7%A8%D7%A7-21-%D7%95%D7%90%D7%97%D7%A8%D7%95%D7%9F-%D7%9C%D7%A1%D7%93%D7%A8%D7%AA-%D7%9C%D7%95%D7%9E%D7%93%D7%99%D7%9D-%D7%9C%D7%94%D7%A9%D7%AA%D7%9E%D7%A9-%D7%91-nano-activity-7410318793752838144-L2_5
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7410318793752838144/
+---
+
 # פרק #21 ואחרון לסדרת לומדים להשתמש ב-Nano Banana Pro:
 
 פרק #21 ואחרון לסדרת לומדים להשתמש ב-Nano Banana Pro:

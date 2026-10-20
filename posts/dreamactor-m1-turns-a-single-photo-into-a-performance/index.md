@@ -1,3 +1,10 @@
+---
+title: "DreamActor-M1 turns a single photo into a performance"
+published: 2025-04-04
+lang: en
+canonical: https://ofershap.github.io/posts/dreamactor-m1-turns-a-single-photo-into-a-performance/
+---
+
 # DreamActor-M1 turns a single photo into a performance
 
 April 4, 2025 · 1 min read

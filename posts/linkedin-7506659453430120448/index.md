@@ -1,3 +1,11 @@
+---
+title: "‏הודעת WhatsApp שהופכת לפגישות ביומן עם ג'מיני בזמן שהטסלה מסיעה אותי אוטונומית"
+published: 2026-09-18T13:24:40.686000+03:00
+source: https://www.linkedin.com/posts/ofershap_%D7%94%D7%95%D7%93%D7%A2%D7%AA-whatsapp-%D7%A9%D7%94%D7%95%D7%A4%D7%9B%D7%AA-%D7%9C%D7%A4%D7%92%D7%99%D7%A9%D7%95%D7%AA-%D7%91%D7%99%D7%95%D7%9E%D7%9F-%D7%A2%D7%9D-%D7%92%D7%9E%D7%99%D7%A0%D7%99-activity-7506659453430120448-_sMD
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7506659453430120448/
+---
+
 # ‏הודעת WhatsApp שהופכת לפגישות ביומן עם ג'מיני בזמן שהטסלה מסיעה אותי אוטונומית
 
 ‏הודעת WhatsApp שהופכת לפגישות ביומן עם ג'מיני בזמן שהטסלה מסיעה אותי אוטונומית

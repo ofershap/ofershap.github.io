@@ -1,3 +1,10 @@
+---
+title: "Bland&#x27;s AI voice agents sound almost human"
+published: 2025-02-12
+lang: en
+canonical: https://ofershap.github.io/posts/blands-ai-voice-agents-sound-almost-human/
+---
+
 # Bland's AI voice agents sound almost human
 
 February 12, 2025 · 1 min read

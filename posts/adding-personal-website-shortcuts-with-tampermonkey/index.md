@@ -1,3 +1,10 @@
+---
+title: "Adding personal website shortcuts with TamperMonkey"
+published: 2025-02-17
+lang: en
+canonical: https://ofershap.github.io/posts/adding-personal-website-shortcuts-with-tampermonkey/
+---
+
 # Adding personal website shortcuts with TamperMonkey
 
 February 17, 2025 · 1 min read

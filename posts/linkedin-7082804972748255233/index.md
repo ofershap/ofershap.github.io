@@ -1,3 +1,11 @@
+---
+title: "מפתחי פרונטאנד נא להתפקד!"
+published: 2023-07-06T22:38:17.656000+03:00
+source: https://www.linkedin.com/posts/ofershap_frontenddeveloper-transittechrevolution-joinvia-activity-7082804972748255233-AJqL
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7082804972748255233/
+---
+
 # מפתחי פרונטאנד נא להתפקד!
 
 מפתחי פרונטאנד נא להתפקד!

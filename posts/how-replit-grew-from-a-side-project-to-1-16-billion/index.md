@@ -1,3 +1,10 @@
+---
+title: "How Replit grew from a side project to $1.16 billion"
+published: 2025-01-10
+lang: en
+canonical: https://ofershap.github.io/posts/how-replit-grew-from-a-side-project-to-1-16-billion/
+---
+
 # How Replit grew from a side project to $1.16 billion
 
 January 10, 2025 · 2 min read

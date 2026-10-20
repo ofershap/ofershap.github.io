@@ -1,3 +1,11 @@
+---
+title: "סדר עולמי חדש, לא פחות. תעשייה שלמה באינטרנט איבדה את הערך שלה - "
+published: 2025-09-02T09:00:30.392000+03:00
+source: https://www.linkedin.com/posts/ofershap_our-new-website-is-live-but-its-more-than-activity-7368523195684896771-nLSh
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7368523195684896771/
+---
+
 # סדר עולמי חדש, לא פחות. תעשייה שלמה באינטרנט איבדה את הערך שלה - 
 
 סדר עולמי חדש, לא פחות. תעשייה שלמה באינטרנט איבדה את הערך שלה - 

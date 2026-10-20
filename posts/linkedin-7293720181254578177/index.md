@@ -1,3 +1,11 @@
+---
+title: "זהירות: האקרים פורצים ושוברים את מודלי הבינה המלאכותית: 🔓"
+published: 2025-02-07T22:00:01.979000+02:00
+source: https://www.linkedin.com/posts/ofershap_ai-cybersecurity-ethicalai-activity-7293720181254578177-jfHo
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7293720181254578177/
+---
+
 # זהירות: האקרים פורצים ושוברים את מודלי הבינה המלאכותית: 🔓
 
 זהירות: האקרים פורצים ושוברים את מודלי הבינה המלאכותית: 🔓

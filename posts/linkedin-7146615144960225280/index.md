@@ -1,3 +1,11 @@
+---
+title: "unbelievable biased GPT"
+published: 2023-12-29T23:37:08.247000+02:00
+source: https://www.linkedin.com/posts/ofershap_chatgpt-activity-7146615144960225280-x3sb
+lang: en
+canonical: https://ofershap.github.io/posts/linkedin-7146615144960225280/
+---
+
 # unbelievable biased GPT
 
 unbelievable biased GPT

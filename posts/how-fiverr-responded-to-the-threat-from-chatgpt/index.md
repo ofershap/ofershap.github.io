@@ -1,3 +1,10 @@
+---
+title: "How Fiverr responded to the threat from ChatGPT"
+published: 2023-02-01
+lang: en
+canonical: https://ofershap.github.io/posts/how-fiverr-responded-to-the-threat-from-chatgpt/
+---
+
 # How Fiverr responded to the threat from ChatGPT
 
 February 1, 2023 · 1 min read

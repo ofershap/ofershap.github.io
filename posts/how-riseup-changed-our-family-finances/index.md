@@ -1,3 +1,10 @@
+---
+title: "How RiseUp changed our family finances"
+published: 2024-02-18
+lang: en
+canonical: https://ofershap.github.io/posts/how-riseup-changed-our-family-finances/
+---
+
 # How RiseUp changed our family finances
 
 February 18, 2024 · 2 min read

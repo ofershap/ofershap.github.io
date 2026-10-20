@@ -1,3 +1,10 @@
+---
+title: "Toyota&#x27;s Kids Mobi tests the limits of autonomous parenting"
+published: 2025-11-19
+lang: en
+canonical: https://ofershap.github.io/posts/toyotas-kids-mobi-tests-the-limits-of-autonomous-parenting/
+---
+
 # Toyota's Kids Mobi tests the limits of autonomous parenting
 
 November 19, 2025 · 1 min read

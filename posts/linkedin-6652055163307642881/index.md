@@ -1,3 +1,11 @@
+---
+title: "Virtual summit for SaaS owners, who's coming? :)"
+published: 2020-04-04T07:12:20.141000+03:00
+source: https://www.linkedin.com/posts/ofershap_saastr-summit-bridging-the-gap-activity-6652055163307642881-OOPi
+lang: en
+canonical: https://ofershap.github.io/posts/linkedin-6652055163307642881/
+---
+
 # Virtual summit for SaaS owners, who's coming? :)
 
 Virtual summit for SaaS owners, who's coming? :)

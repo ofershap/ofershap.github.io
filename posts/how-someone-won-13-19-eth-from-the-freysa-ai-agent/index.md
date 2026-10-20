@@ -1,3 +1,10 @@
+---
+title: "How someone won 13.19 ETH from the Freysa AI agent"
+published: 2024-11-30
+lang: en
+canonical: https://ofershap.github.io/posts/how-someone-won-13-19-eth-from-the-freysa-ai-agent/
+---
+
 # How someone won 13.19 ETH from the Freysa AI agent
 
 Date: 2024-11-30

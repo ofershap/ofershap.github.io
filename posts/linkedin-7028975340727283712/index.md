@@ -1,3 +1,11 @@
+---
+title: "מידג'רני תארוז לי קשת בענן בשמי תל אביב"
+published: 2023-02-08T08:38:33.276000+02:00
+source: https://www.linkedin.com/posts/ofershap_addadeacjacpaco-activity-7028975340727283712-sbeu
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7028975340727283712/
+---
+
 # מידג'רני תארוז לי קשת בענן בשמי תל אביב
 
 מידג'רני תארוז לי קשת בענן בשמי תל אביב
