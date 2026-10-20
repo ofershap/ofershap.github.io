@@ -40,7 +40,13 @@ def build():
  s=s.replace('</head>',STYLE+'</head>') if '.identity-intro{' not in s else s
  def schema_patch(m):
   j=json.loads(m[1])
-  if j.get('@type')=='WebSite':j['author']=PROFILE;j['publisher']=PROFILE
+  if j.get('@type')=='WebSite':
+   j['author']=PROFILE;j['publisher']=PROFILE
+   out='<script type="application/ld+json">'+json.dumps(j,ensure_ascii=False)+'</script>'
+   if '"@type": "Blog"' not in s:
+    blog={'@context':'https://schema.org','@type':'Blog','name':'Ofer Shapira','url':BASE+'/','inLanguage':['he','en'],'author':PROFILE,'about':['AI engineering','AI agents','engineering leadership']}
+    out+='<script type="application/ld+json">'+json.dumps(blog,ensure_ascii=False)+'</script>'
+   return out
   return '<script type="application/ld+json">'+json.dumps(j,ensure_ascii=False)+'</script>'
  s=re.sub(r'<script type="application/ld\+json">(.*?)</script>',schema_patch,s,flags=re.S);p.write_text(s)
  p=R/'for-ai/index.html';s=p.read_text();s=re.sub(r'<section class="identity-links".*?</section>','',s,flags=re.S);s=s.replace('</article>','<section class="identity-links"><h2>Professional identity</h2><p>Ofer writes about practical AI engineering leadership: building AI systems, leading engineering teams and making agent workflows useful in real work.</p><p><a href="/about/">Full professional bio in Hebrew</a> · <a href="/about/en/">English professional bio and selected work</a></p></section></article>');s=re.sub(r'"mainEntity":\s*\{.*?\}\}',lambda m:'"mainEntity":'+json.dumps(PROFILE,ensure_ascii=False)+'}',s);p.write_text(s)
