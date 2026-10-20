@@ -12,7 +12,7 @@ Significant Google visibility for ofershap.github.io and presence in AI answers 
 ## Measurement battery (free, baselines 2026-10-19)
 | Tool | What it measures | Baseline | Cadence |
 |---|---|---|---|
-| ora.ai (`npx ax audit ofershap.github.io --max-age=1`) | agent readiness | 76/100 B (20.10 after frontmatter-on-all-markdown + /contact + sameAs dev.to/hashnode cluster; 73 on 19.10 after the agent-discovery cluster: real /.well-known ard.json+ai-catalog.json+MCP server card+agent-skills index+api-catalog+SKILL.md for the live recipe-library MCP, llms.txt when-to-use + section indexes; was 59 same day after the API docs cluster, 52 same morning, 48 on 2026-10-08) | 4x/day routine |
+| ora.ai (`npx ax audit ofershap.github.io --max-age=1`) | agent readiness | 76/100 B (20.10 14:33 fresh-scan confirmed after BreadcrumbList-on-post-pages + Blog-schema-on-homepage cluster; fresh scans briefly read 73 while deploys registered - fast/cached mode read 76; 73 on 19.10 after the agent-discovery cluster: real /.well-known ard.json+ai-catalog.json+MCP server card+agent-skills index+api-catalog+SKILL.md for the live recipe-library MCP, llms.txt when-to-use + section indexes; was 59 same day after the API docs cluster, 52 same morning, 48 on 2026-10-08) | 4x/day routine |
 | Ahrefs AI Visibility Checker | brand mentions in AI answers | 0 ("Ofer Shapira") | weekly |
 | Semrush free AI visibility | domain AI visibility | N/A (not visible yet) | weekly |
 | validator.schema.org | structured data validity | pass, 0 errors | after schema changes |
