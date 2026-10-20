@@ -172,6 +172,8 @@ Positioning: practical AI engineering leadership. This is Ofer’s personal prof
 - [איך בונים דיג'סט שבועי שהופך פלט של סוכן לעבודה שאפשר לראות?](https://ofershap.github.io/posts/weekly-agent-digest/)
 - [איך מנהלים פרויקט יצירתי ארוך עם סוכן AI דרך צ'אט?](https://ofershap.github.io/posts/agent-long-creative-build-feedback/)
 - [איך הופכים שנה של כתיבה אישית להרצאה בעזרת סוכן?](https://ofershap.github.io/posts/agent-talk-from-content-archive/)
+- [איך נותנים לסוכן AI לשלם בלי לאבד שליטה?](https://ofershap.github.io/posts/agent-payment-approval-limits/)
+- [מתי הוראות חוזרות לסוכן הופכות ל-Skill?](https://ofershap.github.io/posts/agent-skill-vs-rules-file/)
 
 ## Translations
 
