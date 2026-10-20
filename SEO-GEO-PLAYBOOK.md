@@ -20,7 +20,7 @@ Significant Google visibility for ofershap.github.io and presence in AI answers 
 | Google Search Console | Google indexing/impressions | property verified; coverage broken historically (2/1,150 pages on 7.10), sitemap resubmitted | daily sweep |
 | Cloudflare Web Analytics | real visits + AI referrals | ~20 visits/day, 4 AI referrals | daily sweep |
 | duck.ai direct prompt ("Who is Ofer Shapira, the AI engineering blogger?") | name presence in a live assistant answer | 19.10: NAME APPEARS - mostly-accurate profile (AI engineering lead, 15+ yrs, Cursor adoption for 50+ engineers, agents for small businesses in Israel); sources labeled hashnode.com/hashnode.dev (old crossposts), ofershap.github.io not cited | rotation in 4x/day routine |
-| HubSpot AI Search Grader | brand perception by LLM | ChatGPT 33/100, Google 50/100 (sentiment 31/40 - engines already know him a little) | quarterly |
+| HubSpot AI Search Grader | brand perception by LLM | ChatGPT 31, Google 50, Perplexity 65 (20.10; sentiment 31/40 - engines already know him a little). Form inputs for comparability: company "Ofer Shapira", geography Israel, products "AI engineering consulting, AI agents and developer tools", industry "Software and AI" | quarterly |
 | PageSpeed Insights | CWV/perf/SEO/a11y | pending free API key (GCP project under Instinct's email) | when key exists |
 
 ## The funnel (in priority order)
