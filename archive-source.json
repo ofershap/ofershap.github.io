@@ -5388,7 +5388,8 @@
   "images": "https://media.licdn.com/dms/image/v2/D4D22AQFSQuzED88q_w/feedshare-image-high-res/B4DZZpBKNiGwAw-/0/1745518635744?e=1791417600&v=beta&t=s-ijM0X42alUGDYu90cv7Vbvn4v4WqEDaFME6qXDP7I",
   "video_url": "",
   "document_url": "",
-  "sha256": "3acc431e8f03bb0e1d34005f75d2c32dfa8eb505f5307a4d2b41ae3668a04c1d"
+  "sha256": "3acc431e8f03bb0e1d34005f75d2c32dfa8eb505f5307a4d2b41ae3668a04c1d",
+  "existing": false
  },
  {
   "id": "7322152558028898305",
