@@ -20,3 +20,4 @@ User-agent: Applebot-Extended
 Allow: /
 
 Sitemap: https://ofershap.github.io/sitemap.xml
+schemamap: https://ofershap.github.io/schemamap.xml

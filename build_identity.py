@@ -86,7 +86,7 @@ def build():
  if not any(isinstance(json.loads(b),dict) and json.loads(b).get('@type')=='ProfilePage' for b in blocks):
   prof={'@context':'https://schema.org','@type':'ProfilePage','url':BASE+'/','mainEntity':{'@id':PROFILE['@id']}}
   s=s.replace('</head>','<script type="application/ld+json">'+json.dumps(prof,ensure_ascii=False)+'</script></head>')
- if not any(isinstance(json.loads(b),dict) and json.loads(b).get('@type')=='ItemList' for b in blocks):
+ def _writing_items():
   items=[]
   try:
    for r in json.loads((R/'archive-source.json').read_text()):
@@ -96,9 +96,16 @@ def build():
    for r in json.loads((R/'authored-source.json').read_text()):
     items.append((r['published_at'],r['body'].splitlines()[0].split(': ',1)[1],BASE+'/posts/'+r['slug']+'/'))
   except Exception:pass
-  items=sorted(items,reverse=True)[:10]
-  il={'@context':'https://schema.org','@type':'ItemList','name':'Writing by Ofer Shapira','itemListElement':[{'@type':'ListItem','position':i+1,'name':t,'url':u} for i,(d,t,u) in enumerate(items)]}
-  s=s.replace('</head>','<script type="application/ld+json">'+json.dumps(il,ensure_ascii=False)+'</script></head>')
+  return sorted(items,reverse=True)[:10]
+ def _writing_il(items):
+  els=[{'@type':'ListItem','position':i+1,'name':t,'url':u,'item':{'@type':'BlogPosting','headline':t,'url':u,'datePublished':d}} for i,(d,t,u) in enumerate(items)]
+  return {'@context':'https://schema.org','@type':'ItemList','name':'Writing by Ofer Shapira','itemListElement':els}
+ wil_re=re.compile(r'<script type="application/ld\+json">(\{(?:(?!</script>).)*?"name"\s*:\s*"Writing by Ofer Shapira"(?:(?!</script>).)*?\})</script>',re.S)
+ mw=wil_re.search(s)
+ if mw and '"BlogPosting"' not in mw[1]:
+  s=s[:mw.start()]+'<script type="application/ld+json">'+json.dumps(_writing_il(_writing_items()),ensure_ascii=False)+'</script>'+s[mw.end():]
+ elif not any(isinstance(json.loads(b),dict) and json.loads(b).get('@type')=='ItemList' and json.loads(b).get('name')=='Writing by Ofer Shapira' for b in blocks):
+  s=s.replace('</head>','<script type="application/ld+json">'+json.dumps(_writing_il(_writing_items()),ensure_ascii=False)+'</script></head>')
  p.write_text(s)
  p=R/'for-ai/index.html';s=p.read_text();s=re.sub(r'<section class="identity-links".*?</section>','',s,flags=re.S);s=s.replace('</article>','<section class="identity-links"><h2>Professional identity</h2><p>Ofer writes about practical AI engineering leadership: building AI systems, leading engineering teams and making agent workflows useful in real work.</p><p><a href="/about/">Full professional bio in Hebrew</a> · <a href="/about/en/">English professional bio and selected work</a></p></section></article>');s=re.sub(r'"mainEntity":\s*\{.*?\}\}',lambda m:'"mainEntity":'+json.dumps(PROFILE,ensure_ascii=False)+'}',s);p.write_text(s)
  p=R/'llms.txt';s=p.read_text();s=re.sub(r'\n## Professional identity.*?(?=\n## |\Z)','',s,flags=re.S)
