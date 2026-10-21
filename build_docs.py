@@ -143,6 +143,7 @@ def build():
             '<title>Engagement API documentation | Ofer Shapira</title>'
             '<meta name="description" content="Public engagement API of ofershap.github.io: anonymous view and like counters, OpenAPI-documented, no authentication.">'
             '<link rel="canonical" href="' + url + '"><link rel="stylesheet" href="/style.css">'
+            '<link rel="alternate" type="text/markdown" href="' + url + 'index.md"><script src="/webmcp.js" defer></script>'
             '<script type="application/ld+json">' + json.dumps(schema, ensure_ascii=False) + '</script>'
             '</head><body><header><span class="site-name"><a href="/">Ofer Shapira</a></span>'
             '<nav><a href="/">Writing</a><a href="/about/en/">About</a></nav></header>'

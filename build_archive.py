@@ -14,7 +14,7 @@ def linkify(text):
  out.append(E(text[pos:]));return ''.join(out)
 
 def build():
- records=json.loads((ROOT/'archive-source.json').read_text());seen={};created=0
+ records=json.loads((ROOT/'archive-source.json').read_text());seen={};created=0;new_pages=[]
  for r in records:
   if not re.fullmatch(r'\d{19}',r['id']):raise ValueError('Invalid source ID')
   if r['id'] in seen:raise ValueError('Duplicate source ID')
@@ -35,9 +35,9 @@ def build():
   schema_text=json.dumps([schema,breadcrumb],ensure_ascii=False).replace('<',chr(92)+'u003c')
   disable_engagement = r.get('engagement') == 'off' or ('data-engagement="off"' in (path/'index.html').read_text() if (path/'index.html').exists() else False)
   page=f'''<!doctype html>
-<html lang="{lang}" dir="{direction}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{E(title)} | Ofer Shapira</title><meta name="description" content="{E(desc,quote=True)}"><link rel="canonical" href="{url}"><link rel="stylesheet" href="/style.css"><link rel="alternate" type="application/rss+xml" href="/feed.xml"><link rel="alternate" type="text/markdown" href="{url}index.md"><meta property="og:type" content="article"><meta property="og:title" content="{E(title,quote=True)}"><meta property="og:description" content="{E(desc,quote=True)}"><meta property="og:url" content="{url}"><meta name="twitter:card" content="summary"><script type="application/ld+json">{schema_text}</script></head><body><header dir="ltr"><span class="site-name"><a href="/">Ofer Shapira</a></span><nav><a href="/">Writing</a><a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a></nav></header><main><article><h1>{E(title)}</h1><p class="byline" dir="ltr"><time datetime="{E(r['published_at'])}">{d}</time></p><p class="post-source">{'פורסם במקור ב' if he else 'Originally published on'} <a href="{E(r['source'],quote=True)}">LinkedIn</a></p>{body}{assets}</article><footer dir="ltr"><a href="/">All writing</a> · <a href="/feed.xml">RSS</a><p class="copyright">© Ofer Shapira</p></footer></main></body></html>'''
+<html lang="{lang}" dir="{direction}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{E(title)} | Ofer Shapira</title><meta name="description" content="{E(desc,quote=True)}"><link rel="canonical" href="{url}"><link rel="stylesheet" href="/style.css"><link rel="alternate" type="application/rss+xml" href="/feed.xml"><link rel="alternate" type="text/markdown" href="{url}index.md"><meta property="og:type" content="article"><meta property="og:title" content="{E(title,quote=True)}"><meta property="og:description" content="{E(desc,quote=True)}"><meta property="og:url" content="{url}"><meta name="twitter:card" content="summary"><script src="/webmcp.js" defer></script><script type="application/ld+json">{schema_text}</script></head><body><header dir="ltr"><span class="site-name"><a href="/">Ofer Shapira</a></span><nav><a href="/">Writing</a><a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a></nav></header><main><article itemscope itemtype="https://schema.org/BlogPosting"><meta itemprop="author" content="Ofer Shapira"><h1 itemprop="headline">{E(title)}</h1><p class="byline" dir="ltr"><time itemprop="datePublished" datetime="{E(r['published_at'])}">{d}</time></p><p class="post-source">{'פורסם במקור ב' if he else 'Originally published on'} <a href="{E(r['source'],quote=True)}">LinkedIn</a></p><div itemprop="articleBody">{body}</div>{assets}</article><footer dir="ltr"><a href="/">All writing</a> · <a href="/feed.xml">RSS</a><p class="copyright">© Ofer Shapira</p></footer></main></body></html>'''
   page=page.replace('<html ', '<html data-engagement="off" ',1) if disable_engagement else page
-  (path/'index.html').write_text(page);(path/'index.md').write_text('---\ntitle: '+json.dumps(title,ensure_ascii=False)+'\n'+'published: '+r['published_at']+'\nsource: '+r['source']+'\n'+'lang: '+lang+'\ncanonical: '+url+'\n---\n\n# '+title+'\n\n'+text+'\n\nOriginal source: '+r['source']+'\nPublished: '+r['published_at']+'\n');created+=1
+  new_pages.append((title,url,r['source']));(path/'index.html').write_text(page);(path/'index.md').write_text('---\ntitle: '+json.dumps(title,ensure_ascii=False)+'\n'+'published: '+r['published_at']+'\nsource: '+r['source']+'\n'+'lang: '+lang+'\ncanonical: '+url+'\n---\n\n# '+title+'\n\n'+text+'\n\nOriginal source: '+r['source']+'\nPublished: '+r['published_at']+'\n');created+=1
  # Append missing records to the homepage, sorted together with preserved existing entries.
  home=ROOT/'index.html';s=home.read_text();match=re.search(r'<ul class="post-list">(.*?)</ul>',s,re.S);items=[]
  for m in re.finditer(r'<li\b[^>]*>(.*?)</li>',match[1],re.S):
@@ -70,6 +70,14 @@ def build():
   if dt.tzinfo is None:dt=dt.replace(tzinfo=datetime.timezone.utc)
   rss.append('<item><title>'+E(re.sub('<.*?>','',title))+'</title><link>'+BASE+u+'</link><guid isPermaLink="true">'+BASE+u+'</guid><pubDate>'+format_datetime(dt)+'</pubDate></item>')
  rss.append('</channel></rss>');(ROOT/'feed.xml').write_text('\n'.join(rss))
+
+ # Every new post joins llms.txt under "Recent original-language posts" (top of section), if absent.
+ if new_pages:
+  lp=ROOT/'llms.txt';lt=lp.read_text()
+  add=''.join('\n- ['+t+']('+u+')\n  - Markdown: '+u+'index.md\n  - Original: '+src+'\n' for t,u,src in reversed(new_pages) if u not in lt)
+  if add:
+   lt=lt.replace('## Recent original-language posts\n','## Recent original-language posts\n'+add,1)
+   lp.write_text(lt)
  print('Generated',created,'original-language pages;',len(pages),'article pages;',len(items),'homepage entries')
 if __name__=='__main__':
  build()
@@ -77,6 +85,7 @@ if __name__=='__main__':
  build_authored()
  import subprocess,sys
  subprocess.run([sys.executable,str(ROOT/'build_discovery.py')],check=True)
+ subprocess.run([sys.executable,str(ROOT/'build_post_upgrade.py')],check=True)
  if (ROOT/'translations').exists():subprocess.run([sys.executable,str(ROOT/'build_translations.py')],check=True)
 
  subprocess.run([sys.executable,str(ROOT/"build_engagement.py")],check=True)
