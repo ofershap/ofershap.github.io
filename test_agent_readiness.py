@@ -55,7 +55,7 @@ print('agent readiness chart: OK')
 
 # Content Signals + ARD manifest (agenticresourcediscovery.org).
 robots=Path('robots.txt').read_text()
-assert 'Content-Signal: search=yes, ai-input=yes, ai-train=no' in robots
+assert 'Content-Signal: search=yes, ai-input=yes, ai-train=yes' in robots
 assert 'Agentmap: https://ofershap.github.io/.well-known/ard.json' in robots
 ard=json.loads(Path('.well-known/ard.json').read_text())
 for e in ard['entries']:
