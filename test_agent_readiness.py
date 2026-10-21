@@ -52,3 +52,14 @@ for ip in ('headline','datePublished','articleBody','author'):
 for page in ('index.html','about/index.html'):
     t=Path(page).read_text(); assert 'itemscope' in t and 'itemprop=' in t, page
 print('agent readiness chart: OK')
+
+# Content Signals + ARD manifest (agenticresourcediscovery.org).
+robots=Path('robots.txt').read_text()
+assert 'Content-Signal: search=yes, ai-input=yes, ai-train=yes' in robots
+assert 'Agentmap: https://ofershap.github.io/.well-known/ard.json' in robots
+ard=json.loads(Path('.well-known/ard.json').read_text())
+for e in ard['entries']:
+    for k in ('identifier','displayName','type','url','representativeQueries'):
+        assert e.get(k), (k, e.get('identifier'))
+    assert e['identifier'].startswith('urn:air:ofershap.github.io:')
+print('content signals + ard: OK')

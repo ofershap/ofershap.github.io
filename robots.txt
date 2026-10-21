@@ -1,4 +1,5 @@
 User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
 Allow: /
 
 # AI / answer-engine crawlers (retrieval + citation)
@@ -21,3 +22,4 @@ Allow: /
 
 Sitemap: https://ofershap.github.io/sitemap.xml
 schemamap: https://ofershap.github.io/schemamap.xml
+Agentmap: https://ofershap.github.io/.well-known/ard.json

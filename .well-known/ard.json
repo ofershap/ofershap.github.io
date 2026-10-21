@@ -1,42 +1,51 @@
 {
-  "specVersion": "1.0",
-  "entries": [
-    {
-      "@context": "https://agenticresourcediscovery.org/context/v1",
-      "identifier": "urn:air:ofershap.github.io:mcp:recipe-library",
-      "displayName": "Recipe library MCP server",
-      "type": "application/mcp-server-card+json",
-      "url": "https://ofershap.github.io/.well-known/mcp/recipe-library.json",
-      "capabilities": [
-        "list_recipes",
-        "get_recipe"
-      ],
-      "description": "Public read-only MCP server serving a reviewed Hebrew/English recipe library.",
-      "metadata": {
-        "mcpEndpoint": "https://recipes.gitshow.dev/mcp"
-      },
-      "representativeQueries": [
-        "find a recipe for shakshuka",
-        "list Hebrew recipes in the library",
-        "show the full recipe for one dish"
-      ]
-    },
-    {
-      "@context": "https://agenticresourcediscovery.org/context/v1",
-      "identifier": "urn:air:ofershap.github.io:api:engagement",
-      "displayName": "Blog engagement API",
-      "type": "application/openapi+json",
-      "url": "https://ofershap.github.io/openapi.json",
-      "capabilities": [
-        "getHealth",
-        "getStats",
-        "recordEngagement"
-      ],
-      "description": "Anonymous per-article view and like counters for ofershap.github.io; OpenAPI-documented, no authentication.",
-      "representativeQueries": [
-        "how many likes does this article have",
-        "record a like for this post"
-      ]
-    }
-  ]
+ "entries": [
+  {
+   "@context": "https://agenticresourcediscovery.org/context/v1",
+   "identifier": "urn:air:ofershap.github.io:mcp:recipes",
+   "displayName": "Recipe Library MCP server (ספריית המתכונים)",
+   "type": "application/mcp-server-card+json",
+   "url": "https://recipes.gitshow.dev/health",
+   "capabilities": [
+    "list_recipes",
+    "get_recipe"
+   ],
+   "description": "MCP server (POST https://recipes.gitshow.dev/mcp) exposing Ofer Shapira's family recipe library. Health/status document at the url above.",
+   "representativeQueries": [
+    "אילו מתכונים יש בספריית המתכונים של עופר שפירא",
+    "show me a shakshuka recipe from Ofer Shapira's library",
+    "get the full recipe for savta's apple cake"
+   ]
+  },
+  {
+   "@context": "https://agenticresourcediscovery.org/context/v1",
+   "identifier": "urn:air:ofershap.github.io:booking:calcom",
+   "displayName": "Book a 30-minute call with Ofer Shapira",
+   "type": "text/plain",
+   "url": "https://ofershap.github.io/llms.txt",
+   "capabilities": [
+    "CalComSlots",
+    "CalComBooking"
+   ],
+   "description": "Booking page https://cal.com/ofer-shapira/30min plus public Cal.com API v2: GET https://api.cal.com/v2/slots?eventTypeSlug=30min&username=ofer-shapira (header cal-api-version: 2024-08-13) and POST https://api.cal.com/v2/bookings, both unauthenticated. Instructions in llms.txt 'Book a meeting'.",
+   "representativeQueries": [
+    "book a 30 minute call with Ofer Shapira",
+    "when is Ofer Shapira available for a call next week",
+    "schedule a meeting with עופר שפירא"
+   ]
+  },
+  {
+   "@context": "https://agenticresourcediscovery.org/context/v1",
+   "identifier": "urn:air:ofershap.github.io:docs:llms",
+   "displayName": "Ofer Shapira blog reading list for agents",
+   "type": "text/plain",
+   "url": "https://ofershap.github.io/llms.txt",
+   "description": "Curated list of Ofer Shapira's posts, guides and agent-facing resources; every page also has a Markdown copy at <page>/index.md (link rel=alternate type=text/markdown).",
+   "representativeQueries": [
+    "what does Ofer Shapira write about",
+    "read Ofer Shapira's guides about AI agents",
+    "עופר שפירא בלוג הנדסת AI"
+   ]
+  }
+ ]
 }
