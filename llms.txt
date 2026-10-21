@@ -2309,6 +2309,7 @@ Full archive listed in the [sitemap](https://ofershap.github.io/sitemap.xml) and
 
 - [Ofer Shapira: Hebrew bio and selected work](https://ofershap.github.io/about/)
 - [Ofer Shapira: English bio and selected work](https://ofershap.github.io/about/en/)
+- [Dibbur - voice dictation in Hebrew and Arabic for Mac](https://dibbur.pages.dev) - live product by Ofer Shapira.
 
 Positioning: practical AI engineering leadership. This is Ofer’s personal professional writing home, independent of any agency service offering.
 

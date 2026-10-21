@@ -113,7 +113,7 @@ def build():
  p.write_text(s)
  p=R/'for-ai/index.html';s=p.read_text();s=re.sub(r'<section class="identity-links".*?</section>','',s,flags=re.S);s=s.replace('</article>','<section class="identity-links"><h2>Professional identity</h2><p>Ofer writes about practical AI engineering leadership: building AI systems, leading engineering teams and making agent workflows useful in real work.</p><p><a href="/about/">Full professional bio in Hebrew</a> · <a href="/about/en/">English professional bio and selected work</a></p></section></article>');s=re.sub(r'"mainEntity":\s*\{.*?\}\}',lambda m:'"mainEntity":'+json.dumps(PROFILE,ensure_ascii=False)+'}',s);p.write_text(s)
  p=R/'llms.txt';s=p.read_text();s=re.sub(r'\n## Professional identity.*?(?=\n## |\Z)','',s,flags=re.S)
- block='\n## Professional identity\n\n- [Ofer Shapira: Hebrew bio and selected work]('+BASE+'/about/)\n- [Ofer Shapira: English bio and selected work]('+BASE+'/about/en/)\n\nPositioning: practical AI engineering leadership. This is Ofer’s personal professional writing home, independent of any agency service offering.\n'
+ block='\n## Professional identity\n\n- [Ofer Shapira: Hebrew bio and selected work]('+BASE+'/about/)\n- [Ofer Shapira: English bio and selected work]('+BASE+'/about/en/)\n- [Dibbur - voice dictation in Hebrew and Arabic for Mac](https://dibbur.pages.dev) - live product by Ofer Shapira.\n\nPositioning: practical AI engineering leadership. This is Ofer’s personal professional writing home, independent of any agency service offering.\n'
  if '\n## Original service Q&A' in s:s=s.replace('\n## Original service Q&A',block+'\n## Original service Q&A')
  else:s+=block
  p.write_text(s)
