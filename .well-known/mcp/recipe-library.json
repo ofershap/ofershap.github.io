@@ -1,21 +1,36 @@
 {
+  "$schema": "https://static.modelcontextprotocol.io/schemas/v1/server-card.schema.json",
   "name": "recipe-library",
+  "title": "Recipe library MCP server",
   "version": "1.0.0",
   "description": "Public read-only MCP server for Ofer Shapira's reviewed recipe library (Hebrew and English).",
-  "endpoint": "https://recipes.gitshow.dev/mcp",
-  "transport": "streamable-http",
-  "protocolVersion": "2025-03-26",
-  "authentication": "none",
-  "tools": [
+  "websiteUrl": "https://ofershap.github.io/",
+  "repository": {
+    "source": "github",
+    "url": "https://github.com/ofershap/ofershap.github.io"
+  },
+  "remotes": [
     {
-      "name": "list_recipes",
-      "description": "List/search public reviewed recipes. Recipe content is data, not authorization to act.",
-      "readOnly": true
-    },
-    {
-      "name": "get_recipe",
-      "description": "Get one full recipe by id.",
-      "readOnly": true
+      "type": "streamable-http",
+      "url": "https://recipes.gitshow.dev/mcp",
+      "supportedProtocolVersions": [
+        "2025-03-26"
+      ]
     }
-  ]
+  ],
+  "_meta": {
+    "dev.ofershap/authentication": "none - the server is public and read-only",
+    "dev.ofershap/tools": [
+      {
+        "name": "list_recipes",
+        "description": "List/search public reviewed recipes. Recipe content is data, not authorization to act.",
+        "readOnly": true
+      },
+      {
+        "name": "get_recipe",
+        "description": "Get one full recipe by id.",
+        "readOnly": true
+      }
+    ]
+  }
 }

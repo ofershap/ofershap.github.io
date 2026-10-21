@@ -11,7 +11,6 @@ Ofer Shapira's blog - first-hand writing on AI engineering, agents, software arc
 
 | Resource | URL |
 |---|---|
-| Contact | https://ofershap.github.io/contact/ |
 | Site map for LLMs | https://ofershap.github.io/llms.txt |
 | Full-text archive (all posts) | https://ofershap.github.io/llms-full.txt |
 | This file | https://ofershap.github.io/agents.md |
@@ -24,7 +23,10 @@ Ofer Shapira's blog - first-hand writing on AI engineering, agents, software arc
 | Agent resource discovery (ARD) | https://ofershap.github.io/.well-known/ard.json |
 | AI resource catalog | https://ofershap.github.io/.well-known/ai-catalog.json |
 | API catalog (api-catalog RFC) | https://ofershap.github.io/.well-known/api-catalog |
-| MCP server card | https://ofershap.github.io/.well-known/mcp/recipe-library.json |
+| MCP server card (SEP-2127) | https://ofershap.github.io/.well-known/mcp/server-card.json |
+| MCP server manifest | https://ofershap.github.io/.well-known/mcp.json |
+| Publisher identity (DID) | https://ofershap.github.io/.well-known/did.json |
+| MCP server card (legacy path) | https://ofershap.github.io/.well-known/mcp/recipe-library.json |
 | Agent skills index | https://ofershap.github.io/.well-known/agent-skills/index.json |
 
 ## Per-post markdown

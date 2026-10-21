@@ -27,7 +27,10 @@ Ofer Shapira's blog - first-hand writing on AI engineering, agents, software arc
 | Agent resource discovery (ARD) | {S}/.well-known/ard.json |
 | AI resource catalog | {S}/.well-known/ai-catalog.json |
 | API catalog (api-catalog RFC) | {S}/.well-known/api-catalog |
-| MCP server card | {S}/.well-known/mcp/recipe-library.json |
+| MCP server card (SEP-2127) | {S}/.well-known/mcp/server-card.json |
+| MCP server manifest | {S}/.well-known/mcp.json |
+| Publisher identity (DID) | {S}/.well-known/did.json |
+| MCP server card (legacy path) | {S}/.well-known/mcp/recipe-library.json |
 | Agent skills index | {S}/.well-known/agent-skills/index.json |
 
 ## Per-post markdown

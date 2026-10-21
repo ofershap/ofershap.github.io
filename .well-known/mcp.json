@@ -1,0 +1,9 @@
+{
+  "servers": [
+    {
+      "name": "recipe-library",
+      "serverCard": "https://ofershap.github.io/.well-known/mcp/server-card.json",
+      "endpoint": "https://recipes.gitshow.dev/mcp"
+    }
+  ]
+}

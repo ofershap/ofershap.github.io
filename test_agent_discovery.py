@@ -15,11 +15,26 @@ for e in ard['entries']:
     assert e['displayName'] and e['type']
     assert ('url' in e) != ('data' in e), 'exactly one of url/data'
     assert 2 <= len(e['representativeQueries']) <= 5
-    assert 'trustManifest' not in e, 'no fabricated trust data'
+    if 'trustManifest' in e:
+        assert e['trustManifest']['identity'] == 'did:web:ofershap.github.io', 'only our honest did:web identity'
 
 card = json.loads((WK / 'mcp' / 'recipe-library.json').read_text())
-assert card['endpoint'] == 'https://recipes.gitshow.dev/mcp' and card['authentication'] == 'none'
-assert {t['name'] for t in card['tools']} == {'list_recipes', 'get_recipe'}
+assert card['$schema'] == 'https://static.modelcontextprotocol.io/schemas/v1/server-card.schema.json'
+assert card['name'] == 'recipe-library' and card['version'] and card['description']
+remote = card['remotes'][0]
+assert remote['type'] == 'streamable-http' and remote['url'] == 'https://recipes.gitshow.dev/mcp'
+assert {t['name'] for t in card['_meta']['dev.ofershap/tools']} == {'list_recipes', 'get_recipe'}
+assert json.loads((WK / 'mcp' / 'server-card.json').read_text()) == card, 'server-card.json must mirror recipe-library.json'
+mcp_manifest = json.loads((WK / 'mcp.json').read_text())
+assert mcp_manifest['servers'][0]['endpoint'] == 'https://recipes.gitshow.dev/mcp'
+did = json.loads((WK / 'did.json').read_text())
+assert did['id'] == 'did:web:ofershap.github.io'
+assert 'https://github.com/ofershap' in did['alsoKnownAs']
+assert ard['host']['identifier'] == 'did:web:ofershap.github.io'
+tm = ard['entries'][0]['trustManifest']
+assert tm['identity'] == 'did:web:ofershap.github.io'
+assert tm['provenance'][0]['sourceId'] == 'https://github.com/ofershap/ofershap.github.io'
+assert 'signature' not in tm and 'attestations' not in tm, 'no trust claims we cannot prove'
 
 idx = json.loads((WK / 'agent-skills' / 'index.json').read_text())
 assert idx['$schema'] == 'https://schemas.agentskills.io/discovery/0.2.0/schema.json'

@@ -1,0 +1,18 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "id": "did:web:ofershap.github.io",
+  "alsoKnownAs": [
+    "https://ofershap.github.io/",
+    "https://github.com/ofershap",
+    "https://www.linkedin.com/in/ofershap/"
+  ],
+  "service": [
+    {
+      "id": "did:web:ofershap.github.io#site",
+      "type": "LinkedDomains",
+      "serviceEndpoint": "https://ofershap.github.io/"
+    }
+  ]
+}

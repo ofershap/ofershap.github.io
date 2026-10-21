@@ -1,0 +1,3 @@
+# Windsurf rules
+
+Follow AGENTS.md at the repository root: Python build scripts are idempotent, all test_*.py must pass before pushing, and agent-facing files describe only real live endpoints.
