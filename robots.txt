@@ -19,6 +19,8 @@ User-agent: anthropic-ai
 Allow: /
 User-agent: Applebot-Extended
 Allow: /
+User-agent: meta-webindexer
+Allow: /
 
 Sitemap: https://ofershap.github.io/sitemap.xml
 schemamap: https://ofershap.github.io/schemamap.xml
