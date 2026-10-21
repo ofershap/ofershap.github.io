@@ -37,6 +37,17 @@ def build():
     <div class="archive-links"><a href="/about/">אודות</a><a href="/about/en/">About &amp; selected work</a><a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a><a href="/contact/">יצירת קשר</a><a href="/feed.xml">RSS</a></div>
   </section>'''
  s=re.sub(r'<section class="archive-intro"[^>]*>.*?</section>',lambda m:intro,s,count=1,flags=re.S)
+ faq_html='''<section class="home-faq" aria-labelledby="home-faq-title">
+    <h2 id="home-faq-title">Questions, briefly</h2>
+    <h3>Who writes this blog?</h3>
+    <p>Ofer Shapira, an AI Engineering Team Lead at Elementor, a developer and a former SaaS founder.</p>
+    <h3>What is it about?</h3>
+    <p>Building AI systems, leading engineering teams that work with agents, and workflows you can actually verify.</p>
+    <h3>Where should I start?</h3>
+    <p>With the Q&amp;A guides for practical answers, or the full archive below for everything he publishes.</p>
+  </section>'''
+ if 'class="home-faq"' not in s:
+  s=re.sub(r'(<section class="archive-intro"[^>]*>.*?</section>)',lambda m:m[1]+chr(10)+'  '+faq_html,s,count=1,flags=re.S)
  s=s.replace('</head>',STYLE+'</head>') if '.identity-intro{' not in s else s
  def schema_patch(m):
   j=json.loads(m[1])
@@ -53,6 +64,25 @@ def build():
  if not any(isinstance(json.loads(b),dict) and json.loads(b).get('@type')=='Person' for b in blocks):
   person=dict(PROFILE);person['@context']='https://schema.org';person['mainEntityOfPage']=BASE+'/'
   s=s.replace('</head>','<script type="application/ld+json">'+json.dumps(person,ensure_ascii=False)+'</script></head>')
+ if not any(isinstance(json.loads(b),dict) and json.loads(b).get('@type')=='FAQPage' for b in blocks):
+  fq={'@context':'https://schema.org','@type':'FAQPage','mainEntity':[
+   {'@type':'Question','name':'Who writes this blog?','acceptedAnswer':{'@type':'Answer','text':'Ofer Shapira, an AI Engineering Team Lead at Elementor, a developer and a former SaaS founder.'}},
+   {'@type':'Question','name':'What is it about?','acceptedAnswer':{'@type':'Answer','text':'Building AI systems, leading engineering teams that work with agents, and workflows you can actually verify.'}},
+   {'@type':'Question','name':'Where should I start?','acceptedAnswer':{'@type':'Answer','text':'With the Q&A guides for practical answers, or the full archive on the homepage for everything he publishes.'}}]}
+  s=s.replace('</head>','<script type="application/ld+json">'+json.dumps(fq,ensure_ascii=False)+'</script></head>')
+ # drop duplicate nav schema blocks from earlier builds, keep the first
+ nav_blocks=[m for m in re.finditer(r'<script type="application/ld\+json">(.*?)</script>',s,flags=re.S) if 'SiteNavigationElement' in m[1]]
+ for m in reversed(nav_blocks[1:]):
+  s=s[:m.start()]+s[m.end():]
+ blocks=re.findall(r'<script type="application/ld\+json">(.*?)</script>',s,flags=re.S)
+ if not any('SiteNavigationElement' in b for b in blocks):
+  nav=[a for a in re.findall(r'<nav>(.*?)</nav>',s,re.S)]
+  els=[]
+  if nav:
+   for i,(href,label) in enumerate(re.findall(r'<a href="([^"]+)"[^>]*>([^<]+)</a>',nav[0])):
+    els.append({'@type':'SiteNavigationElement','position':i+1,'name':label.strip(),'url':href if href.startswith('http') else BASE+href})
+  if els:
+   s=s.replace('</head>','<script type="application/ld+json">'+json.dumps({'@context':'https://schema.org','@type':'ItemList','itemListElement':els},ensure_ascii=False)+'</script></head>')
  if not any(isinstance(json.loads(b),dict) and json.loads(b).get('@type')=='ProfilePage' for b in blocks):
   prof={'@context':'https://schema.org','@type':'ProfilePage','url':BASE+'/','mainEntity':{'@id':PROFILE['@id']}}
   s=s.replace('</head>','<script type="application/ld+json">'+json.dumps(prof,ensure_ascii=False)+'</script></head>')
