@@ -41,3 +41,14 @@ for needle in ['עופר שפירא', 'ישראל', 'linkedin.com/in/ofershap', 
 if fails:
     print('FAILS:'); [print(' -', f) for f in fails]; sys.exit(1)
 print('test_agent_readiness: OK')
+
+# Agent-readiness chart coverage: authored guides ship Open Graph, and key pages use Microdata.
+auth=Path('posts/plan-before-coding-agent/index.html').read_text()
+for og in ('og:type','og:title','og:description','og:url'):
+    assert f'property="{og}"' in auth, og
+assert 'itemtype="https://schema.org/BlogPosting"' in auth
+for ip in ('headline','datePublished','articleBody','author'):
+    assert f'itemprop="{ip}"' in auth, ip
+for page in ('index.html','about/index.html'):
+    t=Path(page).read_text(); assert 'itemscope' in t and 'itemprop=' in t, page
+print('agent readiness chart: OK')
