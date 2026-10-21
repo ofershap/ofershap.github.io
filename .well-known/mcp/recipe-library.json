@@ -32,5 +32,14 @@
         "readOnly": true
       }
     ]
-  }
+  },
+  "icons": [
+    {
+      "src": "https://ofershap.github.io/assets/icon-256.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "256x256"
+      ]
+    }
+  ]
 }
