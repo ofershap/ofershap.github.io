@@ -18,7 +18,8 @@ def _date_for(url: str, today: str) -> str:
     path = url.replace(BASE + '/', '').strip('/')
     f = R / path / 'index.html' if path else R / 'index.html'
     if f.exists():
-        m = re.search(r'"datePublished"\s*:\s*"([^"]+)"', f.read_text())
+        txt = f.read_text()
+        m = re.search(r'"dateModified"\s*:\s*"([^"]+)"', txt) or re.search(r'"datePublished"\s*:\s*"([^"]+)"', txt)
         if m:
             return m[1][:10]
     return today
