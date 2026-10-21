@@ -44,7 +44,7 @@ def build():
    j['author']=PROFILE;j['publisher']=PROFILE
    out='<script type="application/ld+json">'+json.dumps(j,ensure_ascii=False)+'</script>'
    if '"@type": "Blog"' not in s:
-    blog={'@context':'https://schema.org','@type':'Blog','name':'Ofer Shapira','url':BASE+'/','inLanguage':['he','en'],'author':PROFILE,'about':['AI engineering','AI agents','engineering leadership']}
+    blog={'@context':'https://schema.org','@type':['Blog','CollectionPage'],'name':'Ofer Shapira','url':BASE+'/','inLanguage':['he','en'],'author':PROFILE,'about':['AI engineering','AI agents','engineering leadership']}
     out+='<script type="application/ld+json">'+json.dumps(blog,ensure_ascii=False)+'</script>'
    return out
   return '<script type="application/ld+json">'+json.dumps(j,ensure_ascii=False)+'</script>'
@@ -53,6 +53,9 @@ def build():
  if not any(isinstance(json.loads(b),dict) and json.loads(b).get('@type')=='Person' for b in blocks):
   person=dict(PROFILE);person['@context']='https://schema.org';person['mainEntityOfPage']=BASE+'/'
   s=s.replace('</head>','<script type="application/ld+json">'+json.dumps(person,ensure_ascii=False)+'</script></head>')
+ if not any(isinstance(json.loads(b),dict) and json.loads(b).get('@type')=='ProfilePage' for b in blocks):
+  prof={'@context':'https://schema.org','@type':'ProfilePage','url':BASE+'/','mainEntity':{'@id':PROFILE['@id']}}
+  s=s.replace('</head>','<script type="application/ld+json">'+json.dumps(prof,ensure_ascii=False)+'</script></head>')
  if not any(isinstance(json.loads(b),dict) and json.loads(b).get('@type')=='ItemList' for b in blocks):
   items=[]
   try:
