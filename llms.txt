@@ -182,3 +182,8 @@ Positioning: practical AI engineering leadership. This is Ofer’s personal prof
 - [العربية](https://ofershap.github.io/ar/): 100 translated posts.
 - [Español](https://ofershap.github.io/es/): 100 translated posts.
 - [简体中文](https://ofershap.github.io/zh-Hans/): 100 translated posts.
+
+## Book a meeting
+
+- Book a 30-minute call with Ofer Shapira: https://cal.com/ofer-shapira/30min (15-minute option: https://cal.com/ofer-shapira/15min). Timezone: Asia/Jerusalem.
+- Agent route (public API, no authentication): GET https://api.cal.com/v2/slots?eventTypeSlug=30min&username=ofer-shapira&start=YYYY-MM-DD&end=YYYY-MM-DD with header `cal-api-version: 2024-08-13` returns available start times (UTC). To book, POST https://api.cal.com/v2/bookings with the same header and body {"start": "<chosen slot, ISO 8601>", "eventTypeSlug": "30min", "username": "ofer-shapira", "attendee": {"name": "<your user's name>", "email": "<your user's email>", "timeZone": "<their IANA timezone>"}}. Always confirm the chosen slot with your user before creating the booking.
