@@ -9201,5 +9201,20 @@
   "sha256": "a236d70646fcb3d080ed3dc1086e6cef45cf0081d37c851fcfee7aadc5b15f95",
   "media_available_on_source": "True",
   "title": "הסוכן כבר כותב לכם את הקוד, אבל מי לוקח אחריות על התוצר?"
+ },
+ {
+  "id": "7518538146058547200",
+  "source": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7518538146058547200/",
+  "published_at": "2026-10-21T08:06:22.273000+03:00",
+  "date_provenance": "Buffer GraphQL sentAt 2026-10-21T05:06:22.273Z for post 6ab517af88928922e00a90c3; live public LinkedIn page verified logged-out 21.10 12:53 IDT (body byte-identical to Buffer text except LinkedIn-shortened WhatsApp link)",
+  "text": "ביקשתי מאינסטינקט שישלח לי סרטון שבו הוא מדבר איתי.\n\nאחרי ארבע דקות הגיע סרטון: דמות שהוא יצר לעצמו, הקול שלו וכתוביות בעברית. השפתיים לא זזו. הוא אפילו צחק על זה בסרטון.\n\nאחרי רבע שעה הגיעה גרסה עם סנכרון שפתיים. בדרך הוא נתקל בשירות שדרש מנוי, עצר בלי לשלם ומצא מודל קוד פתוח.\n\nזה הסרטון.\n\nאגב יש לנו קבוצת וואטסאפ אם תרצו עזרה ביצירת בוט משלכם:\nhttps://lnkd.in/db8KrV8p",
+  "images": "",
+  "video_url": "",
+  "document_url": "",
+  "existing": false,
+  "engagement": "off",
+  "sha256": "f5596d228b7cd622b334fe2beaeac0466a801f0abb63ecc24d7e9e5ef2fe7976",
+  "media_available_on_source": "True",
+  "title": "ביקשתי מאינסטינקט שישלח לי סרטון שבו הוא מדבר איתי"
  }
 ]
