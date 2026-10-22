@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build /community-apps - public Hebrew RTL directory of 70 community-built AI projects.
+"""Build /community-apps - public Hebrew RTL directory of 73 community-built AI projects.
 Source: community thread in the Israeli Claude Facebook group (Oct 2026), names and like
 counts intentionally stripped for privacy. Idempotent."""
 import json, html
@@ -30,6 +30,7 @@ CAT = {
  'VibeQA':'כלים לעסק','mikee (מייקי)':'כלים לעסק','1lev1':'כלים לעסק',
  'PRAXA':'כלים לעסק','Lord of the Land':'כלים לעסק','Plans 360':'כלים לעסק',
  'מאצ׳ חופש':'פיננסים','רדאר המניות':'פיננסים','Motoryk':'רכב ותחבורה','בדוק לי':'רכב ותחבורה',
+ 'Webzz':'כלים לעסק','Cassaboom':'כלים לעסק','VirtoSite':'כלים לעסק',
 }
 for a in APPS:
     a['cat'] = CAT[a['name']]
@@ -60,7 +61,7 @@ items_jsonld = ','.join(
     ',"description":' + json.dumps(a['desc'], ensure_ascii=False) +
     ',"applicationCategory":' + json.dumps(a['cat'], ensure_ascii=False) + '}' for a in APPS)
 jsonld = ('{"@context":"https://schema.org","@type":"CollectionPage",'
- '"name":"70 מיזמים שאנשים בנו עם AI","inLanguage":"he",'
+ '"name":"73 מיזמים שאנשים בנו עם AI","inLanguage":"he",'
  '"url":"' + SITE + SLUG + '",'
  '"author":{"@type":"Person","name":"עופר שפירא","url":"' + SITE + '/"},'
  '"mainEntity":{"@type":"ItemList","numberOfItems":' + str(len(APPS)) + ',"itemListElement":[' + items_jsonld + ']}}')
@@ -91,16 +92,16 @@ CSS = '''
 '''
 
 HTML = '''<!doctype html>
-<html lang="he" dir="rtl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>70 מיזמים שאנשים בנו עם AI | עופר שפירא</title><meta name="description" content="אוסף של 70 מיזמים שאנשים מהקהילה בישראל בנו עם כלי AI: משחקים, אפליקציות לימוד לילדים, כלים לעסקים, פיננסים, מוזיקה ועוד. כל מיזם עם קישור חי."><link rel="canonical" href="%%S%%%%SLUG%%"><link rel="stylesheet" href="/style.css"><link rel="alternate" type="text/markdown" href="%%S%%%%SLUG%%index.md"><meta property="og:title" content="70 מיזמים שאנשים בנו עם AI"><meta property="og:description" content="מה אנשים באמת בונים עם כלי AI: 70 מיזמים מהקהילה, מפסנתר ועד גלגל המזלות."><meta property="og:url" content="%%S%%%%SLUG%%"><meta property="og:type" content="website"><script src="/webmcp.js" defer></script><script type="application/ld+json">%%JSONLD%%</script><style>%%CSS%%</style></head><body><header dir="ltr"><span class="site-name"><a href="/">Ofer Shapira</a></span><nav><a href="/">Writing</a><a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a></nav></header><main><article>
-<h1>70 מיזמים שאנשים בנו עם AI</h1>
+<html lang="he" dir="rtl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>73 מיזמים שאנשים בנו עם AI | עופר שפירא</title><meta name="description" content="אוסף של 73 מיזמים שאנשים מהקהילה בישראל בנו עם כלי AI: משחקים, אפליקציות לימוד לילדים, כלים לעסקים, פיננסים, מוזיקה ועוד. כל מיזם עם קישור חי."><link rel="canonical" href="%%S%%%%SLUG%%"><link rel="stylesheet" href="/style.css"><link rel="alternate" type="text/markdown" href="%%S%%%%SLUG%%index.md"><meta property="og:title" content="73 מיזמים שאנשים בנו עם AI"><meta property="og:description" content="מה אנשים באמת בונים עם כלי AI: 73 מיזמים מהקהילה, מפסנתר ועד גלגל המזלות."><meta property="og:url" content="%%S%%%%SLUG%%"><meta property="og:type" content="website"><script src="/webmcp.js" defer></script><script type="application/ld+json">%%JSONLD%%</script><style>%%CSS%%</style></head><body><header dir="ltr"><span class="site-name"><a href="/">Ofer Shapira</a></span><nav><a href="/">Writing</a><a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a></nav></header><main><article>
+<h1>73 מיזמים שאנשים בנו עם AI</h1>
 <p>באוקטובר 2026 נפתח בקבוצה העברית של קלוד בפייסבוק שרשור אחד פשוט: ״תראו מה בניתם״. התשובות מספרות את הסיפור הכי טוב על דמוקרטיזציה של קוד: אנשים בלי רקע בפיתוח בונים אפליקציות אמיתיות לכל דבר. משחק לימוד עברית לכיתה א׳, אתר אקורדים עם 1,400 שירים, השוואת חניונים, קורא שבב דרכון, מערכת ERP לייבוא תרופות, משחקי חלל. כמה מהמיזמים כבר עם לקוחות משלמים.</p>
-<p>אספתי את כל מה ששותף בשרשור לדף אחד, בלי שמות הכותבים ובלי מונחי פייסבוק. רק המיזמים עצמם. 56 עם קישור חי, עוד 14 ששותפו במילים בלבד.</p>
+<p>אספתי את כל מה ששותף בשרשור לדף אחד, בלי שמות הכותבים ובלי מונחי פייסבוק. רק המיזמים עצמם. 59 עם קישור חי, עוד 14 ששותפו במילים בלבד.</p>
 <div class="controls"><input type="search" id="q" placeholder="חיפוש חופשי..." aria-label="חיפוש"><div class="chips">%%CHIPS%%</div><div class="sortrow"><label for="sort">מיון:</label><select id="sort"><option value="alpha">א-ת</option><option value="cat">קטגוריה</option></select><span class="count" id="count"></span></div></div>
 <div class="grid" id="grid">%%CARDS%%</div>
 <h2>שותפו בשרשור בלי קישור</h2>
 <ul class="nolink">%%NOLINK%%</ul>
 <p class="note">הערת כיסוי: נאספו 74 מתוך כ-88 תגובות ברמה הראשונה בשרשור (פייסבוק חוסם צפייה מלאה בלי התחברות), ותגובות משנה לא נפתחו. ייתכן שחסרים מיזמים בודדים. הקישורים אומתו מול האתרים החיים ב-22.10.2026.</p>
-<p lang="en" dir="ltr" style="font-size:.85rem;color:#777">A directory of 70 projects built by community members in Israel using AI coding tools (Claude Code, Cursor, Codex): games, kids' education, business tools, finance, music and more. Curated by Ofer Shapira from a public community thread, October 2026.</p>
+<p lang="en" dir="ltr" style="font-size:.85rem;color:#777">A directory of 73 projects built by community members in Israel using AI coding tools (Claude Code, Cursor, Codex): games, kids' education, business tools, finance, music and more. Curated by Ofer Shapira from a public community thread, October 2026.</p>
 <p class="credit">אסף וערך: <a href="/about/">עופר שפירא</a>. מקור: שרשור קהילתי בקבוצת ״קלוד - הקהילה הישראלית״ בפייסבוק, אוקטובר 2026.</p>
 </article><footer dir="ltr"><a href="/">All writing</a> · <a href="/feed.xml">RSS</a><p class="copyright">© Ofer Shapira</p></footer></main>
 <script>
@@ -138,8 +139,8 @@ htmlout = (HTML.replace('%%S%%', SITE).replace('%%SLUG%%', SLUG)
            .replace('%%CHIPS%%', chips).replace('%%CARDS%%', ''.join(cards))
            .replace('%%NOLINK%%', nolink_items))
 
-md_lines = ['---', 'title: "70 מיזמים שאנשים בנו עם AI - עופר שפירא"', 'lang: he', '---', '',
- '# 70 מיזמים שאנשים בנו עם AI', '',
+md_lines = ['---', 'title: "73 מיזמים שאנשים בנו עם AI - עופר שפירא"', 'lang: he', '---', '',
+ '# 73 מיזמים שאנשים בנו עם AI', '',
  'אוסף של עופר שפירא משרשור קהילתי בקבוצת קלוד הישראלית בפייסבוק (אוקטובר 2026). לדף המלא עם סינון ותמונות: ' + SITE + SLUG, '']
 for c in CATS:
     md_lines.append('## ' + c)
@@ -165,11 +166,11 @@ if SLUG not in s:
 llms = R / 'llms.txt'; s = llms.read_text()
 if SLUG not in s:
     s = s.replace('- [Contact](https://ofershap.github.io/contact/)\n',
-                  '- [Contact](https://ofershap.github.io/contact/)\n- [70 community-built AI projects](https://ofershap.github.io/community-apps/)\n', 1)
+                  '- [Contact](https://ofershap.github.io/contact/)\n- [73 community-built AI projects](https://ofershap.github.io/community-apps/)\n', 1)
     llms.write_text(s)
 
 ag = R / 'agents.md'; s = ag.read_text()
 if SLUG not in s:
-    s = s.replace('| Site map for LLMs |', '| 70 community-built AI projects | ' + SITE + SLUG + ' |\n| Site map for LLMs |', 1)
+    s = s.replace('| Site map for LLMs |', '| 73 community-built AI projects | ' + SITE + SLUG + ' |\n| Site map for LLMs |', 1)
     ag.write_text(s)
 print('build_community_apps links: OK')
