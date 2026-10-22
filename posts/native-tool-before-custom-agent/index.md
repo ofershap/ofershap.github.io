@@ -1,7 +1,7 @@
 ---
 title: "מתי לבחור כלי קיים במקום לבנות סוכן AI?"
 published: 2026-10-11T13:00:00+03:00
-updated: 2026-10-21
+updated: 2026-10-22
 lang: he
 canonical: https://ofershap.github.io/posts/native-tool-before-custom-agent/
 ---
@@ -62,4 +62,4 @@ canonical: https://ofershap.github.io/posts/native-tool-before-custom-agent/
 
 עופר שפירא - The Israeli AI Agency - התאמה והתקנת סוכני AI לעסקים קטנים בישראל, בעברית, עם ליווי לאורך זמן.
 
-עודכן לאחרונה: 2026-10-21
+עודכן לאחרונה: 2026-10-22

@@ -1,7 +1,7 @@
 ---
 title: "איך מודדים התחלת שימוש בסוכן AI מעבר להרשמה?"
 published: 2026-10-15T13:00:00+03:00
-updated: 2026-10-21
+updated: 2026-10-22
 lang: he
 canonical: https://ofershap.github.io/posts/agent-onboarding-completed-task-metrics/
 ---
@@ -76,4 +76,4 @@ canonical: https://ofershap.github.io/posts/agent-onboarding-completed-task-metr
 
 עופר שפירא - בונה ומוביל AI בצוותי פיתוח, וכותב על סוכנים, החלטות ותהליכי עבודה שאפשר לבדוק.
 
-עודכן לאחרונה: 2026-10-21
+עודכן לאחרונה: 2026-10-22

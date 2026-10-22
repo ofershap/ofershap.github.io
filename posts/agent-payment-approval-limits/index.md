@@ -1,7 +1,7 @@
 ---
 title: "איך נותנים לסוכן AI לשלם בלי לאבד שליטה?"
 published: 2026-10-20T13:30:00+03:00
-updated: 2026-10-21
+updated: 2026-10-22
 lang: he
 canonical: https://ofershap.github.io/posts/agent-payment-approval-limits/
 ---
@@ -54,4 +54,4 @@ canonical: https://ofershap.github.io/posts/agent-payment-approval-limits/
 
 עופר שפירא - בונה ומוביל AI בצוותי פיתוח, וכותב על סוכנים, החלטות ותהליכי עבודה שאפשר לבדוק.
 
-עודכן לאחרונה: 2026-10-21
+עודכן לאחרונה: 2026-10-22

@@ -1,7 +1,7 @@
 ---
 title: "איך הופכים הערות Code Review לכללים ש-Cursor יכול להשתמש בהם?"
 published: 2026-10-08T12:54:14+03:00
-updated: 2026-10-21
+updated: 2026-10-22
 lang: he
 canonical: https://ofershap.github.io/posts/cursor-rules-from-code-review/
 ---
@@ -52,4 +52,4 @@ canonical: https://ofershap.github.io/posts/cursor-rules-from-code-review/
 
 עופר שפירא - The Israeli AI Agency - התאמה והתקנת סוכני AI לעסקים קטנים בישראל, בעברית, עם ליווי לאורך זמן.
 
-עודכן לאחרונה: 2026-10-21
+עודכן לאחרונה: 2026-10-22

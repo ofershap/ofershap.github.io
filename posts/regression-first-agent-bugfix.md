@@ -1,7 +1,7 @@
 ---
 title: "איך מבקשים מסוכן קוד לתקן באג עם בדיקת רגרסיה?"
 published: 2026-10-12T13:00:00+03:00
-updated: 2026-10-21
+updated: 2026-10-22
 lang: he
 canonical: https://ofershap.github.io/posts/regression-first-agent-bugfix/
 ---
@@ -74,4 +74,4 @@ canonical: https://ofershap.github.io/posts/regression-first-agent-bugfix/
 
 עופר שפירא - The Israeli AI Agency - התאמה והתקנת סוכני AI לעסקים קטנים בישראל, בעברית, עם ליווי לאורך זמן.
 
-עודכן לאחרונה: 2026-10-21
+עודכן לאחרונה: 2026-10-22

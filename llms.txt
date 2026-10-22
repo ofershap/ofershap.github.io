@@ -28,10 +28,17 @@ Use this site when you need first-hand, dated writing by Ofer Shapira (עופר 
 
 ## Recent original-language posts
 
+- [שמעו קטע: אפליקציית תמלול עברית ש-Instinct בנה לי](https://ofershap.github.io/posts/linkedin-7518943315761713152/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7518943315761713152/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:share:7518943315761713152/
 
-- [גל ההכרזות ב-AI נהיה צונאמי.](https://ofershap.github.io/posts/linkedin-7322507416158330881/)
-  - Markdown: https://ofershap.github.io/posts/linkedin-7322507416158330881/index.md
-  - Original: https://www.linkedin.com/posts/ofershap_%D7%92%D7%9C-%D7%94%D7%94%D7%9B%D7%A8%D7%96%D7%95%D7%AA-%D7%91-ai-%D7%A0%D7%94%D7%99%D7%94-%D7%A6%D7%95%D7%A0%D7%90%D7%9E%D7%99-%D7%9B%D7%9C-%D7%99%D7%95%D7%9D-%D7%99%D7%95%D7%A6%D7%90-activity-7322507416158330881-S0hF
+- [אתמול העברנו את הוובינר הראשון של קהילת אינסטינקט ישראל!](https://ofershap.github.io/posts/linkedin-7518900536314851330/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7518900536314851330/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:share:7518900536314851330/
+
+- [אחרונים מוזמנים להצטרף - הוובינר מתחיל בדקות הקרובות](https://ofershap.github.io/posts/linkedin-7518687597452275712/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7518687597452275712/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:share:7518687597452275712/
 
 - [ביקשתי מאינסטינקט שישלח לי סרטון שבו הוא מדבר איתי](https://ofershap.github.io/posts/linkedin-7518538146058547200/)
   - Markdown: https://ofershap.github.io/posts/linkedin-7518538146058547200/index.md
@@ -45,21 +52,21 @@ Use this site when you need first-hand, dated writing by Ofer Shapira (עופר 
   - Markdown: https://ofershap.github.io/posts/linkedin-7517829980022804481/index.md
   - Original: https://www.linkedin.com/feed/update/urn:li:share:7517829980022804481/
 
-- [וובינר קהילתי ראשון: היכרות עם אינסטינקט ב-21.10](https://ofershap.github.io/posts/linkedin-7515457306084630528/)
-  - Markdown: https://ofershap.github.io/posts/linkedin-7515457306084630528/index.md
-  - Original: https://www.linkedin.com/feed/update/urn:li:activity:7515457306084630528/
-
 - [הקלטת הפגישות הפסיקה לשבוע: בדיקה אחרי חודש עם Grok Bot](https://ofershap.github.io/posts/linkedin-7517457278946693120/)
   - Markdown: https://ofershap.github.io/posts/linkedin-7517457278946693120/index.md
   - Original: https://www.linkedin.com/feed/update/urn:li:share:7517457277885411328/
 
-- [בניתי משחק ברובלוקס. כלומר אינסטינקט בנה. אני רק נתתי לו הוראות וגישה דרך הווצאפ שלי.](https://ofershap.github.io/posts/linkedin-7516453639490781186/)
-  - Markdown: https://ofershap.github.io/posts/linkedin-7516453639490781186/index.md
-  - Original: https://www.linkedin.com/feed/update/urn:li:ugcPost:7516453639490781186/
+- [קלוד כותב את התוכנית שמנהלת את הסוכנים: Dynamic Workflows בבטא](https://ofershap.github.io/posts/linkedin-7517088598844936193/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7517088598844936193/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:share:7517088597347397632/
 
 - [שטיח על שולחן העבודה: אפליקציית המק שמסתירה את הקבצים](https://ofershap.github.io/posts/linkedin-7516732503668400128/)
   - Markdown: https://ofershap.github.io/posts/linkedin-7516732503668400128/index.md
   - Original: https://www.linkedin.com/feed/update/urn:li:ugcPost:7516732503668400128/
+
+- [בניתי משחק ברובלוקס. כלומר אינסטינקט בנה. אני רק נתתי לו הוראות וגישה דרך הווצאפ שלי.](https://ofershap.github.io/posts/linkedin-7516453639490781186/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7516453639490781186/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:ugcPost:7516453639490781186/
 
 - [המסע שלי עם אינסטינקט:](https://ofershap.github.io/posts/linkedin-7516406604813017088/)
   - Markdown: https://ofershap.github.io/posts/linkedin-7516406604813017088/index.md
@@ -68,6 +75,22 @@ Use this site when you need first-hand, dated writing by Ofer Shapira (עופר 
 - [איזה כיף! מישהו תרם לפרויקט open source שלי! תוסף דפדפן שבשימוש כבר של יותר מ10 אלף אנשים!](https://ofershap.github.io/posts/linkedin-7516001433822072832/)
   - Markdown: https://ofershap.github.io/posts/linkedin-7516001433822072832/index.md
   - Original: https://www.linkedin.com/feed/update/urn:li:share:7516001432945274880
+
+- [מי כותב את ה-PR הבא שלכם זאת כבר לא השאלה הכי מעניינת.](https://ofershap.github.io/posts/linkedin-7515646847416246272/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7515646847416246272/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:share:7515646846195769344/
+
+- [וובינר קהילתי ראשון: היכרות עם אינסטינקט ב-21.10](https://ofershap.github.io/posts/linkedin-7515457306084630528/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7515457306084630528/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:activity:7515457306084630528/
+
+- [חברת Anthropic הטילה פצצה על הדרך שבה מציגים מידע בעבודה: דוח יכול להפוך לאנימציה, ושאלה על נתונים יכולה להפוך לדשבורד בתוך Claude.](https://ofershap.github.io/posts/linkedin-7515293265773121536/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7515293265773121536/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:share:7515293264556556289/
+
+- [התשובה הגיעה אחרי כמה שעות. אני כבר שכחתי ששאלתי.](https://ofershap.github.io/posts/linkedin-7514920562922651648/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7514920562922651648/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:share:7514920561937002497
 
 - [בניתי הרצאה שלמה מהווצאפ.](https://ofershap.github.io/posts/linkedin-7514568532546990081/)
   - Markdown: https://ofershap.github.io/posts/linkedin-7514568532546990081/index.md
@@ -81,53 +104,29 @@ Use this site when you need first-hand, dated writing by Ofer Shapira (עופר 
   - Markdown: https://ofershap.github.io/posts/linkedin-7513110130796843008/index.md
   - Original: https://www.linkedin.com/feed/update/urn:li:share:7513110129643544576/
 
-- [סטארטאפ מגניב ומרתק בתחום איביי\אמזון מחפש מפתח PHP שיצטרף לכוחותינו -](https://ofershap.github.io/posts/linkedin-6271362529465892864/)
-  - Markdown: https://ofershap.github.io/posts/linkedin-6271362529465892864/index.md
-  - Original: https://www.linkedin.com/posts/ofershap_%D7%A1%D7%98%D7%90%D7%A8%D7%98%D7%90%D7%A4-%D7%9E%D7%92%D7%A0%D7%99%D7%91-%D7%95%D7%9E%D7%A8%D7%AA%D7%A7-%D7%91%D7%AA%D7%97%D7%95%D7%9D-%D7%90%D7%99%D7%91%D7%99%D7%99%D7%90%D7%9E%D7%96%D7%95%D7%9F-%D7%9E%D7%97%D7%A4%D7%A9-activity-6271362529465892864-GqjZ
+- [מה קורה כשהבוט של Instinct יוצר לעצמו פרויקט open source?](https://ofershap.github.io/posts/linkedin-7507319211346731008/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7507319211346731008/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_github-ofershappr-rulebook-compile-your-activity-7507319211346731008-yudF
 
-- [#aws #amazon #floor28 conference](https://ofershap.github.io/posts/linkedin-6473276757737828352/)
-  - Markdown: https://ofershap.github.io/posts/linkedin-6473276757737828352/index.md
-  - Original: https://www.linkedin.com/posts/ofershap_aws-amazon-floor28-activity-6473276757737828352-CE8G
+- [זוכרים את המשחק הזה? ראיתי את הפוסט הזה בפייסבוק: https://lnkd.in/dPXWYfn9](https://ofershap.github.io/posts/linkedin-7507016125633818625/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7507016125633818625/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%96%D7%95%D7%9B%D7%A8%D7%99%D7%9D-%D7%90%D7%AA-%D7%94%D7%9E%D7%A9%D7%97%D7%A7-%D7%94%D7%96%D7%94-%D7%A8%D7%90%D7%99%D7%AA%D7%99-%D7%90%D7%AA-%D7%94%D7%A4%D7%95%D7%A1%D7%98-%D7%94%D7%96%D7%94-%D7%91%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7-activity-7507016125633818625-9hmE
 
-- [If you constantly making ssh calls to various #aws #ec2 instances, i wrote a nice short #python #script for the command line that ](https://ofershap.github.io/posts/linkedin-6473889700397531136/)
-  - Markdown: https://ofershap.github.io/posts/linkedin-6473889700397531136/index.md
-  - Original: https://www.linkedin.com/posts/ofershap_aws-ec2-python-activity-6473889700397531136-zhkT
+- [‏הודעת WhatsApp שהופכת לפגישות ביומן עם ג'מיני בזמן שהטסלה מסיעה אותי אוטונומית](https://ofershap.github.io/posts/linkedin-7506659453430120448/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7506659453430120448/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%94%D7%95%D7%93%D7%A2%D7%AA-whatsapp-%D7%A9%D7%94%D7%95%D7%A4%D7%9B%D7%AA-%D7%9C%D7%A4%D7%92%D7%99%D7%A9%D7%95%D7%AA-%D7%91%D7%99%D7%95%D7%9E%D7%9F-%D7%A2%D7%9D-%D7%92%D7%9E%D7%99%D7%A0%D7%99-activity-7506659453430120448-_sMD
 
-- [איך לבחון רעיון למיזם? האם אתה בטוח ברעיון שלך?](https://ofershap.github.io/posts/linkedin-6474217848255377408/)
-  - Markdown: https://ofershap.github.io/posts/linkedin-6474217848255377408/index.md
-  - Original: https://www.linkedin.com/posts/ofershap_%D7%90%D7%99%D7%9A-%D7%9C%D7%91%D7%97%D7%95%D7%9F-%D7%A8%D7%A2%D7%99%D7%95%D7%9F-%D7%9C%D7%9E%D7%99%D7%96%D7%9D-%D7%94%D7%A8%D7%A6%D7%90%D7%94-%D7%9E%D7%90%D7%AA-%D7%A2%D7%95%D7%A4%D7%A8-%D7%A9%D7%A4%D7%99%D7%A8%D7%90-activity-6474217848255377408-7kKx
+- [במשך כמעט שנה הייתי צריך כל פעם לכבות ולהדליק מחדש את המדפסת כדי שהיא תדפיס לי דפים! אחרי הדפסה ראשונה והמתנה של כמה דקות היא הפסיקה להגיב. וחייתי עם זה, כי מה עוד אפשר לעשות?](https://ofershap.github.io/posts/linkedin-7506259752545370114/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7506259752545370114/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%91%D7%9E%D7%A9%D7%9A-%D7%9B%D7%9E%D7%A2%D7%98-%D7%A9%D7%A0%D7%94-%D7%94%D7%99%D7%99%D7%AA%D7%99-%D7%A6%D7%A8%D7%99%D7%9A-%D7%9B%D7%9C-%D7%A4%D7%A2%D7%9D-%D7%9C%D7%9B%D7%91%D7%95%D7%AA-%D7%95%D7%9C%D7%94%D7%93%D7%9C%D7%99%D7%A7-activity-7506259752545370114-MGaz
 
-- [https://lnkd.in/egWZ26n](https://ofershap.github.io/posts/linkedin-6474280209725087744/)
-  - Markdown: https://ofershap.github.io/posts/linkedin-6474280209725087744/index.md
-  - Original: https://www.linkedin.com/posts/ofershap_10-things-you-must-know-to-dropship-from-activity-6474280209725087744-7jRr
+- [נוזף בחבר צוות](https://ofershap.github.io/posts/linkedin-7505903005477634048/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7505903005477634048/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%A0%D7%95%D7%96%D7%A3-%D7%91%D7%97%D7%91%D7%A8-%D7%A6%D7%95%D7%95%D7%AA-activity-7505903005477634048-9WdA
 
-- [Ever wondered what is dropshipping? Check out this video by DSM: https://lnkd.in/eMCNPyS](https://ofershap.github.io/posts/linkedin-6550072336828157952/)
-  - Markdown: https://ofershap.github.io/posts/linkedin-6550072336828157952/index.md
-  - Original: https://www.linkedin.com/posts/ofershap_1-drop-shipping-business-automation-ease-activity-6550072336828157952-6Hhv
-
-- [OMG! My #childrenbooks Amazon Jeff's Big Discovery is featured on #businessinsider !!! ](https://ofershap.github.io/posts/linkedin-6614807940064956416/)
-  - Markdown: https://ofershap.github.io/posts/linkedin-6614807940064956416/index.md
-  - Original: https://www.linkedin.com/posts/ofershap_a-new-childrens-book-based-on-amazon-ceo-activity-6614807940064956416-CTn7
-
-- [So what is eBay Dropshipping? And how can you make money online using DSM Tool? It's all explained here:](https://ofershap.github.io/posts/linkedin-6643567642638635009/)
-  - Markdown: https://ofershap.github.io/posts/linkedin-6643567642638635009/index.md
-  - Original: https://www.linkedin.com/posts/ofershap_a-risk-free-business-ebay-landing-page-activity-6643567642638635009-hSCo
-
-- [הקורונה תפס אותנו לא מוכנים. בעיה תקציבית לפרויקט - אבל מצאתי פתרון: עובדים בעשירית מהמחיר דרך חברה גאורגית שבראשה יש ישראלי.  אנש](https://ofershap.github.io/posts/linkedin-6646500743765389313/)
-  - Markdown: https://ofershap.github.io/posts/linkedin-6646500743765389313/index.md
-  - Original: https://www.linkedin.com/posts/ofershap_outsource-israel-coronarvirus-activity-6646500743765389313-B9D0
-
-- [Virtual summit for SaaS owners, who's coming? :)](https://ofershap.github.io/posts/linkedin-6652055163307642881/)
-  - Markdown: https://ofershap.github.io/posts/linkedin-6652055163307642881/index.md
-  - Original: https://www.linkedin.com/posts/ofershap_saastr-summit-bridging-the-gap-activity-6652055163307642881-OOPi
-
-- [The hope for a brighter tomorrow](https://ofershap.github.io/posts/linkedin-6659541105903755264/)
-  - Markdown: https://ofershap.github.io/posts/linkedin-6659541105903755264/index.md
-  - Original: https://www.linkedin.com/posts/ofershap_the-promise-activity-6659541105903755264-F7cB
-
-- [Do You Trust This Guy? Click PLAY and Find Out...](https://ofershap.github.io/posts/linkedin-6664504287277703168/)
-  - Markdown: https://ofershap.github.io/posts/linkedin-6664504287277703168/index.md
-  - Original: https://www.linkedin.com/posts/ofershap_reputationallover-activity-6664504287277703168-xiKG
+- [הרגע הכי מוזר בהקלטת שיחה למטרת תמלול הוא הרגע שבו לוחצים על ה-Record. תחושה מוזרה של אמונה עיוורת בתהליך שיביא באמת ערך במחיר של ה״חדירה לפרטיות״ הזאת שהכל מוקלט.](https://ofershap.github.io/posts/linkedin-7505854570305126401/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7505854570305126401/index.md
+  - Original: https://www.linkedin.com/posts/ofershap_%D7%94%D7%A8%D7%92%D7%A2-%D7%94%D7%9B%D7%99-%D7%9E%D7%95%D7%96%D7%A8-%D7%91%D7%94%D7%A7%D7%9C%D7%98%D7%AA-%D7%A9%D7%99%D7%97%D7%94-%D7%9C%D7%9E%D7%98%D7%A8%D7%AA-%D7%AA%D7%9E%D7%9C%D7%95%D7%9C-%D7%94%D7%95%D7%90-activity-7505854570305126401-xZ9_
 
 - [Full post index](https://ofershap.github.io/posts/llms.txt) - every published post with markdown and original-source links.
 

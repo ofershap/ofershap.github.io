@@ -9216,5 +9216,48 @@
   "sha256": "f5596d228b7cd622b334fe2beaeac0466a801f0abb63ecc24d7e9e5ef2fe7976",
   "media_available_on_source": "True",
   "title": "ביקשתי מאינסטינקט שישלח לי סרטון שבו הוא מדבר איתי"
+ },
+ {
+  "id": "7518687597452275712",
+  "source": "https://www.linkedin.com/feed/update/urn:li:share:7518687597452275712/",
+  "published_at": "2026-10-21T18:00:13.967000+03:00",
+  "date_provenance": "Buffer GraphQL sentAt 2026-10-21T15:00:13.967Z for post 6ad8e32a952b3ece0a0534bc; body from Buffer sent record, not yet verified on logged-out live LinkedIn",
+  "title": "אחרונים מוזמנים להצטרף - הוובינר מתחיל בדקות הקרובות",
+  "text": "אחרונים מוזמנים להצטרף - הוובינר מתחיל בדקות הקרובות\nhttps://lnkd.in/d-kqgNrP\n\nומי שמפספס - הקלטות וכו׳ בקבוצת הווצאפ של אינסטינקט ישראל! \nקישור להצטרפות לקבוצה: https://lnkd.in/db8KrV8p",
+  "images": "",
+  "video_url": "",
+  "document_url": "",
+  "existing": false,
+  "engagement": "off",
+  "media_available_on_source": true,
+  "sha256": "f281e4b3708cb5c3932376a0ec7bac1d0a378f3986b7e9b0dca66573696bdd41"
+ },
+ {
+  "id": "7518900536314851330",
+  "source": "https://www.linkedin.com/feed/update/urn:li:share:7518900536314851330/",
+  "published_at": "2026-10-22T08:06:22.684000+03:00",
+  "date_provenance": "Buffer GraphQL sentAt 2026-10-22T05:06:22.684Z for post 6ad8e77e5ed3ab3ae75638fc; body from Buffer sent record, not yet verified on logged-out live LinkedIn",
+  "title": "אתמול העברנו את הוובינר הראשון של קהילת אינסטינקט ישראל!",
+  "text": "אתמול העברנו את הוובינר הראשון של קהילת אינסטינקט ישראל! והיה אש!!  קישורים לצפיה בהקלטה בסוף הפוסט:\n\nשעה שלמה של דוגמאות מהיומיום שלי ושל חברי הקבוצה: איך נראית שיחה אמיתית עם אינסטינקט, איזה פרומפט עבד, איזה נכשל בפעם הראשונה, ואיך התוצאה נעשתה טובה. \nהדגמנו איך הוא יכול לקבוע פגישות, להקשיב להודעות, להשמיע קולות, ליצור תמונות וסרטים, לבנות משחקים ואפליקציות, ועוד!\n\nבדקות האחרונות נפל לי שיתוף המסך. סליחה על הבלגן, ותודה למי שנשאר עד הסוף.\n\nמי שפספס, הכל פתוח:\n\nההקלטה המלאה:\n https://youtu.be/_BTf6pGtGEM \n\nהמצגת: https://docs.google.com/presentation/d/1u4LB0nZRat57q8bLIfOGFlxYD30HN-lWn-Wlqy2zCTM/edit?usp=sharing\n\nצפיה מהנה ומוזמנים להצטרף לקבוצה ולשתף חוויות!",
+  "images": "",
+  "video_url": "",
+  "document_url": "",
+  "existing": false,
+  "engagement": "off",
+  "sha256": "14e786baac5f7d22ef3523ec0d9d4c26de2e5adc6dcac92a93ef12b22ddffb6c"
+ },
+ {
+  "id": "7518943315761713152",
+  "source": "https://www.linkedin.com/feed/update/urn:li:share:7518943315761713152/",
+  "published_at": "2026-10-22T10:56:22.086000+03:00",
+  "date_provenance": "Buffer GraphQL sentAt 2026-10-22T07:56:22.086Z for post 6ad908968a39417bfcb2c60f; body from Buffer sent record, not yet verified on logged-out live LinkedIn",
+  "title": "שמעו קטע: אפליקציית תמלול עברית ש-Instinct בנה לי",
+  "text": "שמעו קטע\nביקשתי מ-Instinct לבנות לי אפליקציה לתמלול עברית (אני מדבר וזה מקליד מה שאני אומר)\nלא ציפיתי שזה יצא ככ טוב אבל זה עובד וואו\nמתמלל עברית, משתמש במודל מקומי על המחשב, עובד פצצה (במחשב מק)\nוהוא כתב את זה כפרויקט אופן סורס\nיש פה מדריך התקנה למי שרוצה (קצת מסורבל כי האפליקציה לא ״חתומה״ אז צריך דרך ההגדרות לאשר את ההתקנה שלה)\nאבל זה שווה את זה ממש למי שרוצה מידי פעם לדבר למחשב במקום להקליד משפטים ארוכים\nhttps://dibbur.pages.dev",
+  "images": "",
+  "video_url": "",
+  "document_url": "",
+  "existing": false,
+  "engagement": "off",
+  "sha256": "ef112d52dee0394f92af375b05eecadd95b615c52f9e2a3ac586450a264176fc"
  }
 ]

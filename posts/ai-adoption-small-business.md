@@ -1,7 +1,7 @@
 ---
 title: "איך מתחילים להטמיע AI בעסק קטן בלי לפתח כלום?"
 published: 2026-10-07T19:59:48+03:00
-updated: 2026-10-21
+updated: 2026-10-22
 lang: he
 canonical: https://ofershap.github.io/posts/ai-adoption-small-business/
 ---
@@ -50,4 +50,4 @@ canonical: https://ofershap.github.io/posts/ai-adoption-small-business/
 
 עופר שפירא - The Israeli AI Agency - התאמה והתקנת סוכני AI לעסקים קטנים בישראל, בעברית, עם ליווי לאורך זמן.
 
-עודכן לאחרונה: 2026-10-21
+עודכן לאחרונה: 2026-10-22

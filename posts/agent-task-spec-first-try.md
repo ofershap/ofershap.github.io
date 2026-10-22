@@ -1,7 +1,7 @@
 ---
 title: "איך כותבים משימה לסוכן קוד שתצליח בפעם הראשונה?"
 published: 2026-10-21T07:50:00+03:00
-updated: 2026-10-21
+updated: 2026-10-22
 lang: he
 canonical: https://ofershap.github.io/posts/agent-task-spec-first-try/
 ---
@@ -58,4 +58,4 @@ canonical: https://ofershap.github.io/posts/agent-task-spec-first-try/
 
 עופר שפירא - בונה ומוביל AI בצוותי פיתוח, וכותב על סוכנים, החלטות ותהליכי עבודה שאפשר לבדוק.
 
-עודכן לאחרונה: 2026-10-21
+עודכן לאחרונה: 2026-10-22

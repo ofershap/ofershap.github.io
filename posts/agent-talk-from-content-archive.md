@@ -1,7 +1,7 @@
 ---
 title: "איך הופכים שנה של כתיבה אישית להרצאה בעזרת סוכן?"
 published: 2026-10-19T14:00:00+03:00
-updated: 2026-10-21
+updated: 2026-10-22
 lang: he
 canonical: https://ofershap.github.io/posts/agent-talk-from-content-archive/
 ---
@@ -60,4 +60,4 @@ canonical: https://ofershap.github.io/posts/agent-talk-from-content-archive/
 
 עופר שפירא - בונה ומוביל AI בצוותי פיתוח, וכותב על סוכנים, החלטות ותהליכי עבודה שאפשר לבדוק.
 
-עודכן לאחרונה: 2026-10-21
+עודכן לאחרונה: 2026-10-22
