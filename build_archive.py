@@ -71,6 +71,19 @@ def build():
   rss.append('<item><title>'+E(re.sub('<.*?>','',title))+'</title><link>'+BASE+u+'</link><guid isPermaLink="true">'+BASE+u+'</guid><pubDate>'+format_datetime(dt)+'</pubDate></item>')
  rss.append('</channel></rss>');(ROOT/'feed.xml').write_text('\n'.join(rss))
 
+ # Cap the "Recent original-language posts" section of llms.txt (ora.ai wants llms.txt slim, <30K chars); the full list lives in posts/llms.txt.
+ def trim_recent(keep=25):
+  lp=ROOT/'llms.txt';lt=lp.read_text();marker='## Recent original-language posts\n'
+  i=lt.find(marker)
+  if i<0:return
+  j=lt.find('\n## ',i+len(marker))
+  section=lt[i+len(marker): j if j>0 else len(lt)]
+  posts=[e for e in section.split('\n\n') if e.strip() and e.lstrip().startswith('- [')]
+  pointer='- [Full post index](https://ofershap.github.io/posts/llms.txt) - every published post with markdown and original-source links.'
+  if len(posts)<=keep and 'posts/llms.txt) - every published post' in section:return
+  lt=lt[:i+len(marker)]+'\n'+'\n\n'.join(posts[:keep])+'\n\n'+pointer+'\n'+lt[j if j>0 else len(lt):]
+  lp.write_text(lt)
+ trim_recent()
  # Every new post joins llms.txt under "Recent original-language posts" (top of section), if absent.
  if new_pages:
   lp=ROOT/'llms.txt';lt=lp.read_text()

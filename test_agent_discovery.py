@@ -49,6 +49,11 @@ linkset = cat['linkset'][0]
 assert linkset['service-desc'][0]['href'] == 'https://ofershap.github.io/openapi.json'
 
 llms = (R / 'llms.txt').read_text()
+assert len(llms) < 30000, f'llms.txt must stay slim for agent readers, got {len(llms)} chars'
+_recent = llms.split('## Recent original-language posts', 1)[1].split('## Existing essays', 1)[0]
+assert _recent.count('- [') <= 26, f'recent posts section capped at 25 posts + index pointer, got {_recent.count(chr(45)+chr(32)+chr(91))}'
+assert 'posts/llms.txt' in _recent  # full index pointer survives trimming
+
 assert '## When to use this site' in llms
 assert '/docs/llms.txt' in llms
 assert (R / 'docs' / 'llms.txt').read_text().startswith('# Engagement API documentation')
