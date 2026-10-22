@@ -14,6 +14,7 @@ Ofer Shapira's blog - first-hand writing on AI engineering, agents, software arc
 | Site map for LLMs | https://ofershap.github.io/llms.txt |
 | Full-text archive (all posts) | https://ofershap.github.io/llms-full.txt |
 | This file | https://ofershap.github.io/agents.md |
+| Agent authentication (none required) | https://ofershap.github.io/auth.md |
 | Homepage (markdown) | https://ofershap.github.io/index.md |
 | Writing archive index | https://ofershap.github.io/posts/llms.txt |
 | Engagement API docs index | https://ofershap.github.io/docs/llms.txt |

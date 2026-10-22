@@ -35,4 +35,17 @@ for u in re.findall(r'https://ofershap\.github\.io(/[^\s|)]+)', agents):
     if '<' in u: continue
     local = R / u.lstrip('/')
     assert local.exists() or (local / 'index.html').exists() or (local / 'index.md').exists(), u
+
+auth = (R / 'auth.md').read_text()
+assert auth.startswith('---\n') and '# Agent authentication' in auth
+for section in ('## Discover', '## Pick a method', '## Register', '## Claim', '## Use credentials', '## Errors', '## Revocation'):
+    assert section in auth, 'auth.md WorkOS stage: ' + section
+low = auth.lower()
+for honest in ('no authentication', 'no credential', 'keyless', 'no registration', 'no endpoint returns `401`'):
+    assert honest in low, 'auth.md honesty anchor: ' + honest
+# no auth theater: no invented endpoints, keys, or flows
+for theater in ('/register', '/token', '/authorize', 'sign up for a key', 'request a key'):
+    assert theater not in low, 'auth.md theater: ' + theater
+assert 'https://ofershap.github.io/auth.md' in agents, 'agents.md links auth.md'
+
 print('test_agent_docs: OK')
