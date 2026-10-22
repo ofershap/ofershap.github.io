@@ -16,6 +16,7 @@
 - [Agent resource catalog](https://ofershap.github.io/.well-known/ai-catalog.json)
 - [Agent usage guide](https://ofershap.github.io/agents.md)
 - [Contact](https://ofershap.github.io/contact/)
+- [70 community-built AI projects](https://ofershap.github.io/community-apps/)
 
 ## When to use this site
 
