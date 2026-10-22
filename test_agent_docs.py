@@ -48,4 +48,14 @@ for theater in ('/register', '/token', '/authorize', 'sign up for a key', 'reque
     assert theater not in low, 'auth.md theater: ' + theater
 assert 'https://ofershap.github.io/auth.md' in agents, 'agents.md links auth.md'
 
+
+pricing = (R / 'pricing.md').read_text()
+assert pricing.startswith('---\n') and '# Pricing' in pricing
+plow = pricing.lower()
+for honest in ('free', 'no paid tier', 'no checkout', 'no purchases'):
+    assert honest in plow, 'pricing.md honesty anchor: ' + honest
+for theater in ('/buy', '/checkout', 'subscribe now', 'per month', 'credit card'):
+    assert theater not in plow, 'pricing.md theater: ' + theater
+assert 'https://ofershap.github.io/pricing.md' in agents, 'agents.md links pricing.md'
+
 print('test_agent_docs: OK')
