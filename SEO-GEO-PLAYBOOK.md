@@ -47,3 +47,13 @@ Significant Google visibility for ofershap.github.io and presence in AI answers 
 
 ## Standing rules
 Free tactics only. No Buffer mutations from this routine. Publishing to the blog is pre-approved. Report to main only on score change, name-visibility change, real obstacle, or a paid step; each report states the current name-visibility finding.
+
+## Name-ranking investigation (23.10, evidence-corrected)
+Question: why do namesakes outrank Ofer for "ofer shapira" / "עופר שפירא", and what is the Hebrew AI Overview describing?
+- EN + HE top-30 (logged-out, gl=us and gl=il): none of Ofer's assets (blog, linkedin.com/in/ofershap) appear for the bare name. Namesakes dominate: Soteria Market CEO, MIT PhD, Shibolet lawyer, oshapira.com lawyer, LA surveyor, Ono saxophonist. Instagram @ofershap appears (identity unverified).
+- Hebrew AI Overview (from Ofer's logged-in screenshot; not reproduced logged-out) merges TWO different lawyers: education LL.B Bar-Ilan 1989 / LL.M Bar-Ilan 1999 + Shibolet litigation partner = shibolet.com/team/עופר-שפירא (verified live); firm "שפירא ושות'" founded 1999 + INSOL + insolvency = oshapira.com/team/ofer-shapira (verified: INSOL since 2015, LL.B Bar-Ilan 1992, LL.M TAU 1998) and oshapira.co.il ("נוסד בשנת 1999"). Every detail is accurate about one of them; Google merged the two.
+- Qualified queries already work: "ofer shapira"+elementor surfaces https://sessionize.com/Ofershap and ofershap.github.io; "עופר שפירא"+אלמנטור surfaces his LinkedIn.
+- site:ofershap.github.io showed 3 visible results (homepage, /readme-builder, one post); an earlier sample showed 15. site: is a deliberately small sample - true coverage is known only from GSC (coverage already tracked as broken historically in the monitoring table). Do NOT treat either sample as an index count.
+- Sitemap has 1,202 URLs = ~875 logical pages (868 posts + 7 site pages) x 4 language variants (en/ar/es/zh-Hans). UNVERIFIED: how many are substantive index targets (many posts are short archive items); 868 is a URL count, not a quality count.
+- First visible post is dated 8.10.2026, but a first dated post does NOT establish domain age. UNVERIFIED: actual domain/entity age.
+- Interpretation (not proven cause): established namesakes carry years of dated citations (Globes tag with 2017 articles, Shibolet assets from 2019, oshapira INSOL publications from 2005); Ofer's blog is new and his personal entity is not yet disambiguated from the namesakes for the bare name. The near-term win is qualified queries + authoritative mentions (Geektime byline, canonical crossposts, Sessionize), not the bare head term.
