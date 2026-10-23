@@ -13,6 +13,24 @@
       "status": "live"
     }
   ],
-  "backlog_order": ["vibe-code-project-rescue", "regression-first-agent-bugfix", "keep-agent-context-current", "human-review-ai-pull-request", "agent-wait-resume-without-duplicates"],
-  "rule": "max 1 teaser/day, published same day to both Hashnode and DEV, canonical to blog guide, verify live HTML canonical per post per platform"
+  "backlog_order": [
+    "vibe-code-project-rescue",
+    "regression-first-agent-bugfix",
+    "keep-agent-context-current",
+    "human-review-ai-pull-request",
+    "agent-wait-resume-without-duplicates"
+  ],
+  "rule": "max 1 teaser/day, published same day to both Hashnode and DEV, canonical to blog guide, verify live HTML canonical per post per platform",
+  "english_guides": {
+    "status": "21 of 29 live 2026-10-23 (commit cb4a79f2); 8 agency-era guides (7-9.10) held pending owner identity decision",
+    "base": "https://ofershap.github.io/en/posts/<slug>/",
+    "masters": "authored-en.json + authored-source.json",
+    "builder": "build_authored_en.py (runs after build_translations in build_archive.py)"
+  },
+  "routes_pending": {
+    "hackernoon": "qualified 2026-10-23: official canonical reposting (help.hackernoon.com/editing-protocal/4c); teaser must be substantive original-quality content",
+    "dailydev": "qualified 2026-10-23 as link-share only: Squad or Direct Post (docs.daily.dev/how-to-get-featured); personal blogs excluded from Sources; no canonical",
+    "dzone_towardsai": "not repost routes: original EN 800+ words, editorial weeks, canonical unknown - low priority future original article",
+    "dropped": "DigitalWhisper (security-only); GenAI Israel/Claude Israel (talks not content); Geektime permanently excluded per owner 23.10"
+  }
 }
