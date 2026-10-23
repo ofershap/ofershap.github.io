@@ -1,0 +1,74 @@
+---
+title: "How do you verify an agent's MCP connection works, through the first read?"
+published: 2026-10-15T13:00:00+03:00
+updated: 2026-10-23
+lang: en
+canonical: https://ofershap.github.io/en/posts/mcp-first-read-connection-check/
+original: https://ofershap.github.io/posts/mcp-first-read-connection-check/
+---
+
+# How do you verify an agent's MCP connection works, through the first read?
+
+Check the connection in layers: address and transport, initialization and protocol version, tool discovery, and one permitted read. Record the result and the source, and separate a working connection from permission to perform further actions.
+
+## In depth
+
+### Define what the connection should return
+
+An address saved in the settings is a start. A completion check should describe which information you can get and what should appear in the response. Pick a public item or a test datum with no private information. Write down the item's identifier, language, and expected source.
+
+Example: when connecting to an instruction library, you want to fetch a specific instruction by identifier and compare the text to the published source. That check proves one read. It does not prove the agent can execute every instruction in the library or that it has access to accounts mentioned there.
+
+### Check transport without inferring from the browser
+
+An MCP server can run over a transport that isn't an HTML page. Opening the address in a browser and seeing an empty screen is not a protocol check. Even a healthy health response only checks what the server defined for that path.
+
+Check the transport type both client and server support, the exact address, and the authentication requirements. Match the configuration to the client's documentation. A permission or Origin error is a finding to understand, not a reason to remove protections so the screen looks green.
+
+### Complete the initialization step
+
+In the MCP specification, the client starts with initialize, sends the protocol version and the capabilities it supports, and receives the server's version and capabilities. After success it sends notifications/initialized before normal activity.
+
+Record which version was agreed. If the server returns a version the client doesn't support, per the spec the client should disconnect. Over an HTTP connection, follow-up requests should include the protocol version header per the spec. Better to use an MCP client that handles the lifecycle than to assume every single HTTP request is equivalent to a healthy connection.
+
+### Discover a tool and understand its contract
+
+A tools/list request returns the tools the server exposes. Read the name, description, and input schema. Ask whether the tool only reads information or changes external state. Match the first-read check to a tool whose effect is understood and permitted.
+
+A readOnlyHint marker is a useful hint, but the spec says not to trust annotations from an untrusted source. Such a marker doesn't grant account access and doesn't replace testing the server. A new server declaring itself safe still requires verification of source and scope.
+
+### Run one read and compare to the source
+
+Pick a small input you're allowed to send. Check that the response contains the right item, not just valid JSON. If there's a public source, compare identifier, content, and language. If the result is marked stale, report that alongside the data. A cached response can be valid per the contract, but isn't necessarily current external state.
+
+Alongside the success case, check a missing-identifier or invalid-input case. The goal is to know the client shows an understandable error and doesn't invent an answer in the tool's place. The test examples here are suggestions, not a report on a specific system that was tested.
+
+### Hand over a state you can continue from
+
+A short connection report can include: client and version, address and transport, agreed version, the tool checked, non-secret input, the read result, and what hasn't been verified yet. Avoid copying tokens, authentication headers, or a full conversation into the report.
+
+That way you can say precisely "the connection returned this item". Expanding scope to more tools, writing, or private information is a separate test with separate permission. A first read is a starting point you can rely on, without turning it into a promise about every future task.
+
+## From my experience
+
+In my post about agent onboarding I also described tracking the first connection. When you connect an information source through MCP, the same question gets a technical test: did the client manage to read the right information, not just save an address in the settings? Here I propose a check sequence for such a connection, without claiming every participant connection in the program used MCP.
+
+## Frequently asked questions
+
+### Does a healthy health check prove the connection works?
+
+It only proves the health check the server implemented. An MCP connection also requires initialization, tool discovery, and a read that matches the contract.
+
+### Is a tool marked read-only always safe?
+
+It's a behavioral hint, not a permission or a proof of trustworthiness. Check source, input scope, and actual behavior.
+
+### What should you keep from the first-read report?
+
+Versions, the tool, non-secret input, result, and limitations. Don't keep tokens or a full conversation just to prove connection.
+
+## About the author
+
+Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify.
+
+Last updated: 2026-10-23

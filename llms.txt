@@ -248,3 +248,21 @@ Positioning: practical AI engineering leadership. This is Ofer’s personal prof
 - [How do you measure the start of AI agent usage beyond signup?](https://ofershap.github.io/en/posts/agent-onboarding-completed-task-metrics/)
   - Markdown: https://ofershap.github.io/en/posts/agent-onboarding-completed-task-metrics/index.md
   - Original (Hebrew): https://ofershap.github.io/posts/agent-onboarding-completed-task-metrics/
+- [How do you verify an agent's MCP connection works, through the first read?](https://ofershap.github.io/en/posts/mcp-first-read-connection-check/)
+  - Markdown: https://ofershap.github.io/en/posts/mcp-first-read-connection-check/index.md
+  - Original (Hebrew): https://ofershap.github.io/posts/mcp-first-read-connection-check/
+- [How do you test race conditions in a browser extension an AI agent is changing?](https://ofershap.github.io/en/posts/browser-extension-race-condition-tests/)
+  - Markdown: https://ofershap.github.io/en/posts/browser-extension-race-condition-tests/index.md
+  - Original (Hebrew): https://ofershap.github.io/posts/browser-extension-race-condition-tests/
+- [How do you write review comments a coding agent or contributor can turn into a verified fix?](https://ofershap.github.io/en/posts/review-feedback-to-verifiable-fix/)
+  - Markdown: https://ofershap.github.io/en/posts/review-feedback-to-verifiable-fix/index.md
+  - Original (Hebrew): https://ofershap.github.io/posts/review-feedback-to-verifiable-fix/
+- [How do you let a coding agent resolve merge conflicts without losing the change's intent?](https://ofershap.github.io/en/posts/agent-merge-conflict-intent/)
+  - Markdown: https://ofershap.github.io/en/posts/agent-merge-conflict-intent/index.md
+  - Original (Hebrew): https://ofershap.github.io/posts/agent-merge-conflict-intent/
+- [How do you write a PR description for code an AI agent wrote?](https://ofershap.github.io/en/posts/decision-first-pr-description/)
+  - Markdown: https://ofershap.github.io/en/posts/decision-first-pr-description/index.md
+  - Original (Hebrew): https://ofershap.github.io/posts/decision-first-pr-description/
+- [How do you ask a coding agent to fix a bug with a regression test?](https://ofershap.github.io/en/posts/regression-first-agent-bugfix/)
+  - Markdown: https://ofershap.github.io/en/posts/regression-first-agent-bugfix/index.md
+  - Original (Hebrew): https://ofershap.github.io/posts/regression-first-agent-bugfix/
