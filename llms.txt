@@ -266,3 +266,18 @@ Positioning: practical AI engineering leadership. This is Ofer’s personal prof
 - [How do you ask a coding agent to fix a bug with a regression test?](https://ofershap.github.io/en/posts/regression-first-agent-bugfix/)
   - Markdown: https://ofershap.github.io/en/posts/regression-first-agent-bugfix/index.md
   - Original (Hebrew): https://ofershap.github.io/posts/regression-first-agent-bugfix/
+- [How do you give an AI agent a task that waits for a reply without creating duplicates?](https://ofershap.github.io/en/posts/agent-wait-resume-without-duplicates/)
+  - Markdown: https://ofershap.github.io/en/posts/agent-wait-resume-without-duplicates/index.md
+  - Original (Hebrew): https://ofershap.github.io/posts/agent-wait-resume-without-duplicates/
+- [How do you review a PR an AI agent wrote?](https://ofershap.github.io/en/posts/human-review-ai-pull-request/)
+  - Markdown: https://ofershap.github.io/en/posts/human-review-ai-pull-request/index.md
+  - Original (Hebrew): https://ofershap.github.io/posts/human-review-ai-pull-request/
+- [When should you pick an existing tool instead of building an AI agent?](https://ofershap.github.io/en/posts/native-tool-before-custom-agent/)
+  - Markdown: https://ofershap.github.io/en/posts/native-tool-before-custom-agent/index.md
+  - Original (Hebrew): https://ofershap.github.io/posts/native-tool-before-custom-agent/
+- [How do you keep context files and Cursor rules up to date?](https://ofershap.github.io/en/posts/keep-agent-context-current/)
+  - Markdown: https://ofershap.github.io/en/posts/keep-agent-context-current/index.md
+  - Original (Hebrew): https://ofershap.github.io/posts/keep-agent-context-current/
+- [How do you define for a coding agent what counts as success?](https://ofershap.github.io/en/posts/coding-agent-success-criteria/)
+  - Markdown: https://ofershap.github.io/en/posts/coding-agent-success-criteria/index.md
+  - Original (Hebrew): https://ofershap.github.io/posts/coding-agent-success-criteria/

@@ -440,5 +440,142 @@
   "related_label": "How to review a PR an agent wrote",
   "source_note": "The recommendations are a suggested working method. The public sources and illustrations are distinct from claims about experience and actual results.",
   "bio": "Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify."
+ },
+ "agent-wait-resume-without-duplicates": {
+  "title": "How do you give an AI agent a task that waits for a reply without creating duplicates?",
+  "summary": "Define exactly what you're waiting to receive, when to stop waiting, and what needs re-checking before the action. Keep state and an identifier for the task, and verify the action is still needed when the reply arrives.",
+  "hook": "In my post about waiting in a thread I described a request to Grok Bot to wait for a reply, then handle it if a ticket was sufficient. When the reply came, it found an existing ticket and returned it instead of opening a duplicate. This guide translates that case into a decision list you can check in another process.",
+  "body": "**Short answer:** Define exactly what you're waiting to receive, when to stop waiting, and what needs re-checking before the action. Keep state and an identifier for the task, and verify the action is still needed when the reply arrives.\n\n### Turn waiting into part of the task\n\nA task like \"wait for a reply and then open a ticket\" includes two different decisions. The first is identifying a relevant reply. The second is deciding whether a ticket is still needed. Between the request and the reply, a lot can change: someone else already handled it, a constraint was added, or the reply refers to a different request.\n\nWrite what the source is, which conversation or task it belongs to, and which reply allows continuing. A reply like \"yes\" without the context isn't a sufficient condition. Also keep the boundaries of the permitted action, instead of re-interpreting the consent hours later.\n\n### Keep state you can return to\n\nA short work record can hold a task identifier, the original request, the awaited source, the continuation condition, and the last verified state. Worth separating \"waiting\", \"reply received\", \"current state checked\", and \"action completed\".\n\nExample: a request to collect a reply about a fault can stay in waiting state. After a reply that a ticket is sufficient, the agent checks whether a matching ticket exists. Only after creating or using an existing ticket and verifying the link can the task be marked completed. The example describes process design, not the outcome of a specific system.\n\nThe identifier should stay fixed even when an event is delivered twice. That way you can recognize a repeated delivery of the same reply instead of starting a new task.\n\n### Re-check before acting\n\nBefore creating or updating, go back to the system where the action happens. Check whether the result already exists, who handled it, and whether the request is still valid. Memory of the state from before the wait is no substitute for this check.\n\nIf an earlier attempt ended without a clear response from the server, look for the result first. A timeout is not proof the action failed. Retrying without checking can create a duplicate precisely when the first action succeeded.\n\n### Set an end to the wait\n\nWrite when the wait ends and what happens then: report to the task owner, close without action, or ask for a decision. A no-reply message should distinguish a source that didn't return a reply from a source that wasn't reachable.\n\nWhen implementing part of the process in GitHub Actions, you can use concurrency to prevent overlapping runs in the same group. That's an execution mechanism, not a check that the business action hasn't happened yet.\n\nIt's important to read the queue behavior: a group's default allows one active run and one pending run, and a new pending run can replace the previous one. A setting that cancels an old run sometimes fits code testing, but can be wrong when every request needs handling. Even execution order is no guarantee of the order requests arrived.\n\n### Test a duplicate event and a late reply too\n\nThe first experiment should include a reply on time, a reply after closure, the same reply twice, and a case where someone already performed the action. In each case, check the result in the system, not just the message the agent returned.\n\nSuccess is one correct action, or a correct decision not to act, with state you can understand in hindsight. Merely receiving the reply is only a step along the way.",
+  "faq": [
+   [
+    "What should you define before the agent starts waiting?",
+    "A source and identifier, a reply that allows continuing, the action boundaries, an end to the wait, and a last verified state."
+   ],
+   [
+    "Does concurrency prevent duplicate tickets?",
+    "It can prevent overlapping runs, but it doesn't prove a ticket wasn't created yet. You need to check the system before acting."
+   ],
+   [
+    "What do you do when a creation attempt ended in a timeout?",
+    "Check whether the result exists before retrying. No response is not proof the action failed."
+   ]
+  ],
+  "source_labels": [
+   "The original post about waiting and using an existing ticket",
+   "GitHub: concurrency principles",
+   "GitHub: queue behavior and canceling runs"
+  ],
+  "related_label": "How to define for an agent what counts as success",
+  "source_note": "The recommendations are a suggested working method. The public sources and illustrations are distinct from claims about experience and actual results.",
+  "bio": "Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify."
+ },
+ "human-review-ai-pull-request": {
+  "title": "How do you review a PR an AI agent wrote?",
+  "summary": "Check that the change solves the right problem, ask for test evidence, and verify the change's boundaries. Automatic review is another feedback layer, and human approval stays a decision about the product and the system.",
+  "hook": "In my post about team automations I described opening a PR, self review, and comment handling. I also gave credit to Ofir Cohen for a routine that expanded the process. That infrastructure prepares a change for review, but it doesn't replace the decision about what's right to bring into the system.",
+  "body": "**Short answer:** Check that the change solves the right problem, ask for test evidence, and verify the change's boundaries. Automatic review is another feedback layer, and human approval stays a decision about the product and the system.\n\n### Start with the problem and the decision\n\nBefore reading a single line of code, ask for a short description: what changed, why it's needed, what stayed outside the task, and how the result was checked. Compare the description to the original request and the diff. A convincing explanation is not evidence the code does what was written.\n\nExample: an agent was asked to fix handling of a missing file. If it also changed the output format, there's an extra product decision here that needs checking. The example isn't a client case, but a way to spot scope expansion.\n\n### Demand a test that can fail\n\nAsk for the commands that ran, their result, and what wasn't tested. A regression test should distinguish between the behavior before the fix and the behavior after it. A green result from tests that don't cover the fault isn't enough.\n\nAlso check error scenarios, permissions, and sensitive data when they're part of the change. A database change requires addressing migration and the way back. The level of testing should match the risk, not only the size of the diff.\n\n### Use automatic review as additional feedback\n\nGitHub's current documentation notes that Copilot code review can miss problems, and can also suggest an incorrect comment. The explicit recommendation is to verify the feedback and combine human review. So both code written by an agent and a fix suggested by a review tool need checking.\n\nYou can ask for early feedback on a draft-state PR, handle the relevant comments, and only then ask the team for review. Availability and settings depend on the plan and the account's permissions. You don't need to buy an extra tool to use this checklist.\n\n### Re-check after a change\n\nA review refers to a specific version of the code. In GitHub's documentation, Copilot doesn't necessarily check every push again unless configured to. After a significant fix, verify that the tests and the review cover the current version, and don't rely on an approval given before the change.\n\nBranch protection rules can require checks and approvals before a merge, and dismiss approvals that went stale after a code change. That's an option for protecting the process, not a claim that every repository is set up this way.\n\n### Finish with a decision you can explain\n\nBefore merging, check: does the result match the request, did the change stay within boundaries, is the evidence sufficient, and what risk remains. If information is missing, write what's missing instead of marking everything as checked.\n\nAn agent can shorten part of the preparation work. Whoever approves still needs to understand why the change should enter the system and what will happen if it fails.",
+  "faq": [
+   [
+    "Does AI review replace human review?",
+    "GitHub recommends verifying Copilot's feedback and combining human review. An automatic tool can miss problems or suggest a wrong comment."
+   ],
+   [
+    "What should you ask an agent for before review?",
+    "A change description and scope, test commands and results, a regression test, and what wasn't tested. Compare the explanation to the diff and the request."
+   ],
+   [
+    "Do you need a new review after every fix?",
+    "Verify that the tests and the review cover the current version. A significant change can require re-testing and re-approval."
+   ]
+  ],
+  "source_labels": [
+   "The original post about the automations and credit to Ofir",
+   "GitHub: how it works and repeat review",
+   "GitHub: limits of automatic review and combining a human",
+   "GitHub: check and approval requirements in branch protection"
+  ],
+  "related_label": "How to define for an agent what counts as success",
+  "source_note": "The recommendations are a suggested working method. The public sources and illustrations are distinct from claims about experience and actual results.",
+  "bio": "Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify."
+ },
+ "native-tool-before-custom-agent": {
+  "title": "When should you pick an existing tool instead of building an AI agent?",
+  "summary": "Start from the outcome and the constraints, check whether an existing tool meets them, and build an agent only for the gap that remains. Compare the whole process, including maintenance, permissions, and failure handling, not just the first demo.",
+  "hook": "In my post about the wave of AI announcements I described an MCP tool for Jira that looked impressive, and then I found the plugin I already had was more convenient for my need. Since then this is a useful question before building: what's missing in the existing process, not which new tool can be added.",
+  "body": "**Short answer:** Start from the outcome and the constraints, check whether an existing tool meets them, and build an agent only for the gap that remains. Compare the whole process, including maintenance, permissions, and failure handling, not just the first demo.\n\n### Define the outcome before picking a tool\n\nA request like \"I need a bot to organize the tasks\" already contains a solution. The outcome can be smaller: getting a clear list of open tasks with owners and dates. Sometimes a saved filter in the system that already exists is enough.\n\nWrite what needs to happen, who uses the result, where the data comes from, and which actions require approval. The distinction between reading and changing data matters even in a small process.\n\n### Check the existing way on a real example\n\nExample: a team wants an alert when a task is blocked. Before building an agent that searches conversations and updates tasks, you can check a blocking field and a built-in alert in the work management tool. If the system can't identify the reason from a conversation, that may be the gap where AI adds value.\n\nThe example is a suggested process, not a description of a client project. The check should use information you're allowed to share, and include a case with no change or no answer too.\n\n### Compare the full process\n\nAn existing tool can save new code, but it also requires adaptation and permission checks. A custom agent can work across systems and understand free text, but you need to define what it does when the source is unavailable, when the reply is unclear, or when the action was already done.\n\nAlongside the result, check human working time, errors, duplicates, ease of fixing, and ongoing cost. Don't present demo-building time as time saved in work. Also record separately the time the agent is only waiting.\n\n### Build only the missing part\n\nWhen an existing tool covers most of the way, you can keep the data and actions in it, and add an agent for one focused stage: summarizing a conversation, classifying a request, or suggesting the next step. That way you can test the addition without replacing the whole system.\n\nIn my public grok-bot-skills library, distill-need starts by identifying the need rather than sticking to the proposed solution. It's adapted from melech-distill-need by AdirD, with credit and license in the source. It's a useful framework for making a decision, not proof that every agent or every skill was tested in practice.\n\n### Choose by evidence from the experiment\n\nContinue with the option that delivers the outcome with clear boundaries and maintenance you can hold. If an existing tool is enough, that's a good engineering decision. If a clear gap remains, you can define a small agent task with a success check and a way back.",
+  "faq": [
+   [
+    "How do you know if you really need an AI agent?",
+    "Define the outcome and check an existing tool on a real example. An agent is needed when a defined gap remains that the existing way doesn't cover."
+   ],
+   [
+    "What do you compare in a small experiment?",
+    "Check the result, human working time, errors, duplicates, permissions, maintenance, and ongoing cost. Waiting time is recorded separately."
+   ],
+   [
+    "Do you need to replace the existing system?",
+    "Sometimes it's enough to add an agent for a focused stage and keep the data and actions in the existing system."
+   ]
+  ],
+  "source_labels": [
+   "The original post: real usage versus excitement about tools",
+   "distill-need with credit to the source in the public library"
+  ],
+  "related_label": "How to plan before letting an agent write code",
+  "source_note": "The recommendations are a suggested working method. The public sources and illustrations are distinct from claims about experience and actual results.",
+  "bio": "Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify."
+ },
+ "keep-agent-context-current": {
+  "title": "How do you keep context files and Cursor rules up to date?",
+  "summary": "Check claims against the current code, tie the check to a change that could age them, and distinguish a real fault from an example or a historical document. The agent reports only a gap it can explain and prove.",
+  "hook": "In my post about context files I told how a check on a project found a description of six SDK packages when there were actually ten. Later, a scan surfaced 124 references that looked dead, and only four were a real problem. Those are numbers from that one case, not an error rate you can project onto other teams.",
+  "body": "**Short answer:** Check claims against the current code, tie the check to a change that could age them, and distinguish a real fault from an example or a historical document. The agent reports only a gap it can explain and prove.\n\nA wrong rule attached to every task can mislead the agent again and again. A context file is part of the development process, so it needs maintenance too.\n\n### Start with what's actually loaded\n\nPick claims you can verify: a package location, a test command, a service name, a path, or a component count. For each claim, look for a source in the code, a config file, or current documentation. If there's not enough source, mark \"needs checking\" instead of declaring the claim wrong.\n\n### Check the rule type\n\nPer Cursor's current documentation, project rules are kept in .mdc files under .cursor/rules. Fields like description, globs, and alwaysApply determine when the rule is attached. A rule with alwaysApply: true is included in every conversation, so a stale claim inside it gets wide distribution.\n\nFor a rule that applies to only part of the code you can set matching file patterns. For a simple instruction document you can use AGENTS.md. Check that the format and location fit your tool, not just that the file exists in the repo.\n\n### Give the scan context\n\nA path that doesn't exist is the start of a check, not a conclusion. It could be an example, output generated at runtime, content excluded from git, or a plan kept for history.\n\nCheck next to every finding: what the document tries to explain, whether the file was supposed to exist now, and whether the current change broke the reference. You can keep a historical document and mark it as such instead of rewriting it as if it describes the system today.\n\n### Tie the update to the change\n\nWhen a service is added, a folder structure changes, or a test command is replaced, check the instructions describing it in the same change. A review close to the changed code gets more context than a general scan months later.\n\nThe Cursor documentation recommends pointing to canonical examples instead of copying content that already exists in the code. A reference reduces duplication, but you still need to check that it's valid and that the example itself fits.\n\n### Ask for a short report with evidence\n\nAn illustrative prompt:\n\n\"Check the context files related to this change. For every gap, show the sentence in the document and the current source that contradicts it. Distinguish an example, a historical document, and a fault. Propose a small fix only when there's evidence. If everything is fine, finish without unnecessary comments.\"\n\nSilence isn't skipping the check. It's a valid result when the agent found no gap worth the team's attention.\n\n### Check that the rule helps\n\nAfter an update, try a small task the rule should apply to. Verify the agent uses the updated path, command, or instruction. Merely saving the file doesn't prove the tool loaded it or that the instruction improved the result.\n\nStart with a few rules that recur in the work. Add a rule when a repeated mistake is found, and remove duplication already handled by code or a checking tool.",
+  "faq": [
+   [
+    "When should you check that context files are current?",
+    "When a code change affects the structure, services, or work commands described in them, and in a periodic review of rules that always apply."
+   ],
+   [
+    "Is every reference to a missing file a fault?",
+    "No. Check whether it's an example, output generated at runtime, content excluded from git, or a historical document."
+   ],
+   [
+    "What's the difference between an .mdc file and AGENTS.md?",
+    "In Cursor, .mdc files under .cursor/rules include metadata for scope control. AGENTS.md is a simple alternative in Markdown format."
+   ]
+  ],
+  "source_labels": [
+   "My original post about documentation that went stale and scan noise",
+   "Current Cursor documentation: rules, scope and AGENTS.md"
+  ],
+  "related_label": "How to turn code review comments into useful rules",
+  "bio": "Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify."
+ },
+ "coding-agent-success-criteria": {
+  "title": "How do you define for a coding agent what counts as success?",
+  "summary": "Attach to the task a result you can check, change boundaries, required tests, and who approves completion. The agent should return evidence from the run, alongside what wasn't checked.",
+  "hook": "In my post about defining success for agents I distinguished between \"do a refactor\" and a task with a preserved interface, clear boundaries, and tests. The principle stays useful even for a small fix: the result should be defined before the agent declares it's done.",
+  "body": "**Short answer:** Attach to the task a result you can check, change boundaries, required tests, and who approves completion. The agent should return evidence from the run, alongside what wasn't checked.\n\nWhen you ask to \"fix the bug\", the agent can pick a solution that looks reasonable but changes behavior nobody meant to change. A good definition narrows the choice before the code is written.\n\n### Define behavior, not just a file to edit\n\nWrite what the user or the calling code should receive. For example, as an illustration: a file-reading function should return the same data after the fix. A missing or corrupt file should keep returning an error to the caller. Returning an empty dictionary instead of an error is not a fix of the same behavior.\n\n### Give the test a chance to fail\n\nKeep a case that shows the fault before the fix. The same test should pass after it. A test that passes on the original code too is not evidence this fault was fixed.\n\nA public example from the DDD project illustrates the difference. A Python function passed tomllib.load a file opened in text mode. The experiment record documented a TypeError before the change. The fix was to open the file in binary mode, \"rb\", as the Python 3.11 documentation requires. After the fix two tests passed, and an additional test confirmed a corrupt TOML file still raises TOMLDecodeError. That's an experiment by the project's author, not mine and not a measure of time savings.\n\n### Separate success from permissions\n\nWrite what may be changed and what stays outside the task: public interface, dependencies, secrets, other files, or deployment. You can allow a fix and running tests in a trial folder without allowing a global install or publishing.\n\nAn instruction file can remind the agent of the boundary. It doesn't replace access permissions, environment separation, or approval from whoever owns the system.\n\n### Ask for a completion you can check\n\nAn illustrative template:\n\n\"Fix this fault without changing the public interface. Keep a test that fails on the original code and passes after the fix. Check the error behavior too. Edit only the permitted files, with no new dependency and no deployment. At the end show the change, the commands you ran, the actual results, and what remains untested.\"\n\nIn the completion report I want to distinguish four things: code written, a test run, an observed result, and approval for use. Those are different stages. You can complete the local fix and still wait for review or another environment check.\n\n### Decide what happens when the test fails\n\nSet upfront whether the agent may try another fix, should stop, or must return to a stable version. Also define when to turn to a human: missing information, a deviation from the permitted files, or a change touching real data.\n\nThat way the same task can move to another agent without losing its wanted result and boundaries.",
+  "faq": [
+   [
+    "What's the difference between a task and a definition of success?",
+    "The task says what to do. The success definition says which behavior should result, how to check it, and what the boundaries are."
+   ],
+   [
+    "Does a passing test prove the whole system is fine?",
+    "It attests to the case and the environment that were checked. You need to state what wasn't tested and not infer the whole system from it."
+   ],
+   [
+    "Does an instruction file give the agent permission to publish?",
+    "No. Task instructions are no substitute for access permissions or approval to deploy or take an external action."
+   ]
+  ],
+  "source_labels": [
+   "My original post about defining success for an agent",
+   "Python 3.11 documentation: binary input and exceptions in tomllib",
+   "A public DDD experiment record, by the project's author"
+  ],
+  "related_label": "What to decide before starting to build with a coding agent",
+  "bio": "Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify."
  }
 }
