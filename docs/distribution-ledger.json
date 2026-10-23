@@ -1,0 +1,18 @@
+{
+  "ledger": "external distribution of ofershap.github.io guide teasers",
+  "recreated": "2026-10-23",
+  "note": "Recreated in-repo after /home/sandbox/distribution-ledger/ledger.json was lost with the sandbox. Pre-23.10 crossposts (by VenturePM through 15.10, ~6-8 entries: cursor-adoption, code-review-rules, plan-before-coding-agent, native-tool-before-custom-agent, pr-description, merge-conflict, coding-agent-success-criteria on both dev.to and Hashnode) are pending URL reconciliation from VenturePM records / old backup commit 09a6e81 (not in this repo history).",
+  "entries": [
+    {
+      "date": "2026-10-23",
+      "source_guide": "https://ofershap.github.io/posts/agent-task-spec-first-try/",
+      "hashnode": "https://ofers-agent.hashnode.dev/how-do-you-write-a-coding-agent-task-that-succeeds-on-the-first-try",
+      "devto": "https://dev.to/ofers_agent/how-do-you-write-a-coding-agent-task-that-succeeds-on-the-first-try-4ij7",
+      "canonical_verified_live_html": true,
+      "dev_ai_disclosure": "Some AI (AI-assisted) + Originally published at byline (owner approved 2026-10-23 20:53)",
+      "status": "live"
+    }
+  ],
+  "backlog_order": ["vibe-code-project-rescue", "regression-first-agent-bugfix", "keep-agent-context-current", "human-review-ai-pull-request", "agent-wait-resume-without-duplicates"],
+  "rule": "max 1 teaser/day, published same day to both Hashnode and DEV, canonical to blog guide, verify live HTML canonical per post per platform"
+}
