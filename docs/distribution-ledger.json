@@ -28,8 +28,8 @@
     "builder": "build_authored_en.py (runs after build_translations in build_archive.py)"
   },
   "routes_pending": {
-    "hackernoon": "qualified 2026-10-23: official canonical reposting (help.hackernoon.com/editing-protocal/4c); teaser must be substantive original-quality content",
-    "dailydev": "qualified 2026-10-23 as link-share only: Squad or Direct Post (docs.daily.dev/how-to-get-featured); personal blogs excluded from Sources; no canonical",
+    "hackernoon": "EXCLUDED per playbook decision 20: AI policy \"we neither accept nor encourage the use of AI to generate text\" (verified 23.10); canonical reposting mechanics exist but policy blocks our AI-assisted teasers",
+    "dailydev": "candidate link-share only: Squad or Direct Post (docs.daily.dev/how-to-get-featured); personal blogs excluded from Sources; verify Squad/AI rules before use",
     "dzone_towardsai": "not repost routes: original EN 800+ words, editorial weeks, canonical unknown - low priority future original article",
     "dropped": "DigitalWhisper (security-only); GenAI Israel/Claude Israel (talks not content); Geektime permanently excluded per owner 23.10"
   }
