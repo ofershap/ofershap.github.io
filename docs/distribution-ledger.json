@@ -10,7 +10,9 @@
       "devto": "https://dev.to/ofers_agent/how-do-you-write-a-coding-agent-task-that-succeeds-on-the-first-try-4ij7",
       "canonical_verified_live_html": true,
       "dev_ai_disclosure": "Some AI (AI-assisted) + Originally published at byline (owner approved 2026-10-23 20:53)",
-      "status": "live"
+      "status": "live",
+      "hashnode_canonical": "https://ofershap.github.io/en/posts/agent-task-spec-first-try/",
+      "note": "23.10: DEV + Hashnode canonicals switched to EN guide; Hashnode body links: EN guide + Original (Hebrew). Hashnode update via hashnode.com UI (free GraphQL API retired 13.5.2026); verified live (canonical link tag + body anchors)."
     }
   ],
   "backlog_order": [
@@ -22,7 +24,7 @@
   ],
   "rule": "max 1 teaser/day, published same day to both Hashnode and DEV, canonical to blog guide, verify live HTML canonical per post per platform",
   "english_guides": {
-    "status": "21 of 29 live 2026-10-23 (commit cb4a79f2); 8 agency-era guides (7-9.10) held pending owner identity decision",
+    "status": "21 of 29 live 2026-10-23 (commit cb4a79f2); 8 agency-era guides approved 23.10 21:38 for faithful translation (agency content kept), awaiting translation/QA",
     "base": "https://ofershap.github.io/en/posts/<slug>/",
     "masters": "authored-en.json + authored-source.json",
     "builder": "build_authored_en.py (runs after build_translations in build_archive.py)"
