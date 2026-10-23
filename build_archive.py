@@ -24,7 +24,7 @@ def build():
   path=ROOT/'posts'/('linkedin-'+r['id']);path.mkdir(exist_ok=True);url=BASE+'/posts/'+path.name+'/'
   d=r['published_at'][:10];desc=' '.join(text.split())[:160];body='\n'.join('<p>'+linkify(p).replace('\n','<br>')+'</p>' for p in re.split(r'\n\s*\n',text) if p.strip())
   media=[u for u in r.get('images','').splitlines() if u.startswith('https://')];assets=''
-  local_media=sorted(path.glob('image-*.jpg'))
+  local_media=sorted([*path.glob('image-*.jpg'), *path.glob('image-*.png')])
   if local_media:
    assets=''.join('<figure><img src="'+f.name+'" alt="'+E(('מדיה מהפוסט המקורי: ' if he else 'Original post media: ')+title,quote=True)+'" loading="lazy"></figure>' for f in local_media)
   if (media and len(local_media)<len(media)) or r.get("media_available_on_source"):

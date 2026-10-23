@@ -31607,3 +31607,78 @@ Original source: https://www.linkedin.com/posts/ofershap_%D7%94%D7%90%D7%9D-%D7%
 I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
 
 [GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)
+
+
+---
+
+Canonical URL: https://ofershap.github.io/posts/linkedin-7519282929215361024/
+
+---
+title: "גיטהאב חסמו את החשבון של הבוט שלי ואני חושב שזאת חוצפה."
+published: 2026-10-23T09:25:52.491000+03:00
+source: https://www.linkedin.com/feed/update/urn:li:share:7519282929215361024
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7519282929215361024/
+---
+
+# גיטהאב חסמו את החשבון של הבוט שלי ואני חושב שזאת חוצפה.
+
+גיטהאב חסמו את החשבון של הבוט שלי ואני חושב שזאת חוצפה.
+
+העולם עדיין לא התעורר ולא מוכן למציאות שכבר קורית פה. הבוטים שלנו גולשים בשמנו ובמקביל אלינו כדי לעזור לנו.
+
+השבוע דיווח Axios שבנקים גדולים בארה״ב זיהו סוכני AI חיצוניים שפועלים בחשבונות לקוחות. לפי הדיווח, הם נכנסו עם פרטי ההתחברות של הלקוחות. הבנקים חוששים מפעולות שחורגות ממה שהלקוח ביקש.
+
+זה חשש מוצדק. עצם הכניסה עם הסיסמה שלי לא אומרת שהרשיתי לסוכן לעשות כל פעולה בחשבון.
+
+אז תנו לי דרך להגדיר מה מותר לו לעשות. לקרוא מידע, לרכז אותו בשבילי, להכין פעולה לאישור שלי. תנו לי להגביל את ההרשאה ולבטל אותה. תנו לי לראות מה הוא עשה.
+
+ב־Cloudflare כתבו את זה בצורה פשוטה: כשאתם חוסמים את הסוכן, אתם חוסמים את הלקוח שלכם.
+
+מכאן צריכה לבוא דרישה מהצד שלנו. צריך לנער את החברות הגדולות ולדרוש שינגישו את המערכות שלהן לסוכנים שאנחנו בוחרים לתת להם הרשאה. ואם צריך, גם בחוק.
+
+אני אשמח שהבוט שלי יגלוש בשמי בכל המערכות, כל עוד אני יכול לבטוח בו ובמערכות. אבל לחסום את הבוט שלי מלהשתמש באתרים, בלי לתת לי דרך מורשית לעבוד איתו, זה ברמת מחדל.
+
+Original source: https://www.linkedin.com/feed/update/urn:li:share:7519282929215361024
+Published: 2026-10-23T09:25:52.491000+03:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)
+
+
+---
+
+Canonical URL: https://ofershap.github.io/posts/linkedin-7519262924016656384/
+
+---
+title: "טיפ לאייפון שתמיד רציתי שיהיה ומסתבר שכבר יש: מיזוג תמונות וסרטונים כפולים."
+published: 2026-10-23T08:06:22.873000+03:00
+source: https://www.linkedin.com/feed/update/urn:li:share:7519262924016656384
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7519262924016656384/
+---
+
+# טיפ לאייפון שתמיד רציתי שיהיה ומסתבר שכבר יש: מיזוג תמונות וסרטונים כפולים.
+
+טיפ לאייפון שתמיד רציתי שיהיה ומסתבר שכבר יש: מיזוג תמונות וסרטונים כפולים.
+
+ב-Photos פותחים Collections, גוללים ל-Duplicates ולוחצים Merge.
+
+האייפון שומר את האיכות והמידע הטובים יותר מהעותקים. שווה לבדוק לפני שקונים עוד מקום.
+
+אגב יש לנו קבוצת וואטסאפ אם תרצו עזרה ביצירת בוט משלכם:
+https://chat.whatsapp.com/K4e3jxRerQs7QDAy9h8InB?mode=gi_t
+
+Original source: https://www.linkedin.com/feed/update/urn:li:share:7519262924016656384
+Published: 2026-10-23T08:06:22.873000+03:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)
