@@ -1,7 +1,7 @@
 ---
 title: "איך עושים review ל-PR שסוכן AI כתב?"
 published: 2026-10-11T13:00:00+03:00
-updated: 2026-10-22
+updated: 2026-10-23
 lang: he
 canonical: https://ofershap.github.io/posts/human-review-ai-pull-request/
 ---
@@ -64,4 +64,4 @@ GitHub ממליצה לאמת את משוב Copilot ולשלב review אנושי.
 
 עופר שפירא - The Israeli AI Agency - התאמה והתקנת סוכני AI לעסקים קטנים בישראל, בעברית, עם ליווי לאורך זמן.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-23

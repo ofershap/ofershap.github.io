@@ -1,7 +1,7 @@
 ---
 title: "איך בודקים שחיבור MCP לסוכן עובד עד הקריאה הראשונה?"
 published: 2026-10-15T13:00:00+03:00
-updated: 2026-10-22
+updated: 2026-10-23
 lang: he
 canonical: https://ofershap.github.io/posts/mcp-first-read-connection-check/
 ---
@@ -70,4 +70,4 @@ canonical: https://ofershap.github.io/posts/mcp-first-read-connection-check/
 
 עופר שפירא - בונה ומוביל AI בצוותי פיתוח, וכותב על סוכנים, החלטות ותהליכי עבודה שאפשר לבדוק.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-23

@@ -20,7 +20,12 @@ for e in ard['entries']:
 
 card = json.loads((WK / 'mcp' / 'recipe-library.json').read_text())
 assert card['$schema'] == 'https://static.modelcontextprotocol.io/schemas/v1/server-card.schema.json'
-assert card['name'] == 'recipe-library' and card['version'] and card['description']
+import re as _re
+assert card['name'] == 'dev.gitshow.recipes/recipe-library', 'server-card name must be reverse-DNS namespace/server'
+assert _re.fullmatch(r'[a-z0-9.-]+/[a-z0-9._-]+', card['name']), 'reverse-DNS shape'
+assert len(card['description']) <= 100, 'server-card schema caps description at 100 chars'
+assert 'tools' not in card, 'schema form: agents trust live tools/list, no tools[] in card'
+assert card['version'] and card['description']
 remote = card['remotes'][0]
 assert remote['type'] == 'streamable-http' and remote['url'] == 'https://recipes.gitshow.dev/mcp'
 assert {t['name'] for t in card['_meta']['dev.ofershap/tools']} == {'list_recipes', 'get_recipe'}

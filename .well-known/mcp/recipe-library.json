@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/v1/server-card.schema.json",
-  "name": "recipe-library",
+  "name": "dev.gitshow.recipes/recipe-library",
   "title": "Recipe library MCP server",
   "version": "1.0.0",
   "description": "Public read-only MCP server for Ofer Shapira's reviewed recipe library (Hebrew and English).",
@@ -32,14 +32,5 @@
         "readOnly": true
       }
     ]
-  },
-  "icons": [
-    {
-      "src": "https://ofershap.github.io/assets/icon-256.png",
-      "mimeType": "image/png",
-      "sizes": [
-        "256x256"
-      ]
-    }
-  ]
+  }
 }

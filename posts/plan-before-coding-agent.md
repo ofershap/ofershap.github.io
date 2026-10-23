@@ -1,7 +1,7 @@
 ---
 title: "מה צריך להחליט לפני שמתחילים לבנות עם סוכן קוד?"
 published: 2026-10-09T12:56:40+03:00
-updated: 2026-10-22
+updated: 2026-10-23
 lang: he
 canonical: https://ofershap.github.io/posts/plan-before-coding-agent/
 ---
@@ -59,4 +59,4 @@ canonical: https://ofershap.github.io/posts/plan-before-coding-agent/
 
 עופר שפירא - The Israeli AI Agency - התאמה והתקנת סוכני AI לעסקים קטנים בישראל, בעברית, עם ליווי לאורך זמן.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-23

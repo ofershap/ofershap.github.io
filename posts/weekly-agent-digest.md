@@ -1,7 +1,7 @@
 ---
 title: "איך בונים דיג'סט שבועי שהופך פלט של סוכן לעבודה שאפשר לראות?"
 published: 2026-10-18T13:05:00+03:00
-updated: 2026-10-22
+updated: 2026-10-23
 lang: he
 canonical: https://ofershap.github.io/posts/weekly-agent-digest/
 ---
@@ -60,4 +60,4 @@ canonical: https://ofershap.github.io/posts/weekly-agent-digest/
 
 עופר שפירא - בונה ומוביל AI בצוותי פיתוח, וכותב על סוכנים, החלטות ותהליכי עבודה שאפשר לבדוק.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-23

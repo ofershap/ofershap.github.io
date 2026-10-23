@@ -45,7 +45,7 @@ Use this skill when a user asks for a recipe, meal ideas, or what ingredients a 
 # SEP-2127 / experimental-ext-server-card shape. Auth stays honest: none.
 SERVER_CARD = {
     '$schema': 'https://static.modelcontextprotocol.io/schemas/v1/server-card.schema.json',
-    'name': 'recipe-library',
+    'name': 'dev.gitshow.recipes/recipe-library',
     'title': 'Recipe library MCP server',
     'version': '1.0.0',
     'description': "Public read-only MCP server for Ofer Shapira's reviewed recipe library (Hebrew and English).",

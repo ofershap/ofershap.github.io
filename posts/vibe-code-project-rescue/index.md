@@ -1,7 +1,7 @@
 ---
 title: "הפרויקט שנבנה ב-Cursor, Lovable או Bolt לא עובד. מה עושים?"
 published: 2026-10-07T19:59:48+03:00
-updated: 2026-10-22
+updated: 2026-10-23
 lang: he
 canonical: https://ofershap.github.io/posts/vibe-code-project-rescue/
 ---
@@ -52,4 +52,4 @@ canonical: https://ofershap.github.io/posts/vibe-code-project-rescue/
 
 עופר שפירא - The Israeli AI Agency - התאמה והתקנת סוכני AI לעסקים קטנים בישראל, בעברית, עם ליווי לאורך זמן.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-23

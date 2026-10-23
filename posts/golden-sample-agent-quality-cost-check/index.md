@@ -1,7 +1,7 @@
 ---
 title: "איך בודקים שתהליך מרובה סוכנים שווה את העלות שלו?"
 published: 2026-10-17T13:00:00+03:00
-updated: 2026-10-22
+updated: 2026-10-23
 lang: he
 canonical: https://ofershap.github.io/posts/golden-sample-agent-quality-cost-check/
 ---
@@ -58,4 +58,4 @@ canonical: https://ofershap.github.io/posts/golden-sample-agent-quality-cost-che
 
 עופר שפירא - בונה ומוביל AI בצוותי פיתוח, וכותב על סוכנים, החלטות ותהליכי עבודה שאפשר לבדוק.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-23

@@ -1,7 +1,7 @@
 ---
 title: "איך שומרים קובצי הקשר וכללי Cursor מעודכנים?"
 published: 2026-10-10T12:53:36+03:00
-updated: 2026-10-22
+updated: 2026-10-23
 lang: he
 canonical: https://ofershap.github.io/posts/keep-agent-context-current/
 ---
@@ -66,4 +66,4 @@ canonical: https://ofershap.github.io/posts/keep-agent-context-current/
 
 עופר שפירא - The Israeli AI Agency - התאמה והתקנת סוכני AI לעסקים קטנים בישראל, בעברית, עם ליווי לאורך זמן.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-23
