@@ -1,0 +1,38 @@
+[
+ {
+  "buffer_post_id": "6ab605318c95968bb02cef1a",
+  "activity_urn": "7519262924016656384",
+  "published_at": "2026-10-23T05:06:22.873Z",
+  "source": "native personal LinkedIn post via Buffer",
+  "text": "טיפ לאייפון שתמיד רציתי שיהיה ומסתבר שכבר יש: מיזוג תמונות וסרטונים כפולים.\n\nב-Photos פותחים Collections, גוללים ל-Duplicates ולוחצים Merge.\n\nהאייפון שומר את האיכות והמידע הטובים יותר מהעותקים. שווה לבדוק לפני שקונים עוד מקום.\n\nאגב יש לנו קבוצת וואטסאפ אם תרצו עזרה ביצירת בוט משלכם:\nhttps://chat.whatsapp.com/K4e3jxRerQs7QDAy9h8InB?mode=gi_t",
+  "text_sha256": "0ba926761443d920ae1e9f4bece3a743761741fa3d9ca5827149f1b41cf6e2e5",
+  "text_chars": 342,
+  "assets": [
+   {
+    "type": "image",
+    "mimeType": "image/jpeg",
+    "thumbnail": "https://buffer-media-uploads.s3.amazonaws.com/607af40e2d708ee793ba1df6/6ad484b675e750ff04877658"
+   }
+  ],
+  "media_note": "original media on LinkedIn, not mirrored; verify pixels from live post before archive page build",
+  "external_link": "https://www.linkedin.com/feed/update/urn:li:share:7519262924016656384"
+ },
+ {
+  "buffer_post_id": "6adafdda8d2197cb2a1cc991",
+  "activity_urn": "7519282929215361024",
+  "published_at": "2026-10-23T06:25:52.491Z",
+  "source": "native personal LinkedIn post via Buffer",
+  "text": "גיטהאב חסמו את החשבון של הבוט שלי ואני חושב שזאת חוצפה.\n\nהעולם עדיין לא התעורר ולא מוכן למציאות שכבר קורית פה. הבוטים שלנו גולשים בשמנו ובמקביל אלינו כדי לעזור לנו.\n\nהשבוע דיווח Axios שבנקים גדולים בארה״ב זיהו סוכני AI חיצוניים שפועלים בחשבונות לקוחות. לפי הדיווח, הם נכנסו עם פרטי ההתחברות של הלקוחות. הבנקים חוששים מפעולות שחורגות ממה שהלקוח ביקש.\n\nזה חשש מוצדק. עצם הכניסה עם הסיסמה שלי לא אומרת שהרשיתי לסוכן לעשות כל פעולה בחשבון.\n\nאז תנו לי דרך להגדיר מה מותר לו לעשות. לקרוא מידע, לרכז אותו בשבילי, להכין פעולה לאישור שלי. תנו לי להגביל את ההרשאה ולבטל אותה. תנו לי לראות מה הוא עשה.\n\nב־Cloudflare כתבו את זה בצורה פשוטה: כשאתם חוסמים את הסוכן, אתם חוסמים את הלקוח שלכם.\n\nמכאן צריכה לבוא דרישה מהצד שלנו. צריך לנער את החברות הגדולות ולדרוש שינגישו את המערכות שלהן לסוכנים שאנחנו בוחרים לתת להם הרשאה. ואם צריך, גם בחוק.\n\nאני אשמח שהבוט שלי יגלוש בשמי בכל המערכות, כל עוד אני יכול לבטוח בו ובמערכות. אבל לחסום את הבוט שלי מלהשתמש באתרים, בלי לתת לי דרך מורשית לעבוד איתו, זה ברמת מחדל.",
+  "text_sha256": "a198ee0c95a55f004117b7243d39d1bf6577587aa26cb35a8a146108aff4efeb",
+  "text_chars": 991,
+  "assets": [
+   {
+    "type": "image",
+    "mimeType": "image/jpeg",
+    "thumbnail": "https://buffer-media-uploads.s3.amazonaws.com/607af40e2d708ee793ba1df6/6adafd005a4dd9b0d7ebb468"
+   }
+  ],
+  "media_note": "original media on LinkedIn, not mirrored; verify pixels from live post before archive page build",
+  "external_link": "https://www.linkedin.com/feed/update/urn:li:share:7519282929215361024"
+ }
+]
