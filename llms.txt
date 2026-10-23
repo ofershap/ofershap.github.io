@@ -221,3 +221,30 @@ Positioning: practical AI engineering leadership. This is Ofer’s personal prof
 - [How do you write a coding-agent task that succeeds on the first try?](https://ofershap.github.io/en/posts/agent-task-spec-first-try/)
   - Markdown: https://ofershap.github.io/en/posts/agent-task-spec-first-try/index.md
   - Original (Hebrew): https://ofershap.github.io/posts/agent-task-spec-first-try/
+- [When do repeated agent instructions become a Skill?](https://ofershap.github.io/en/posts/agent-skill-vs-rules-file/)
+  - Markdown: https://ofershap.github.io/en/posts/agent-skill-vs-rules-file/index.md
+  - Original (Hebrew): https://ofershap.github.io/posts/agent-skill-vs-rules-file/
+- [How do you let an AI agent pay without losing control?](https://ofershap.github.io/en/posts/agent-payment-approval-limits/)
+  - Markdown: https://ofershap.github.io/en/posts/agent-payment-approval-limits/index.md
+  - Original (Hebrew): https://ofershap.github.io/posts/agent-payment-approval-limits/
+- [How do you turn a year of personal writing into a talk with an agent?](https://ofershap.github.io/en/posts/agent-talk-from-content-archive/)
+  - Markdown: https://ofershap.github.io/en/posts/agent-talk-from-content-archive/index.md
+  - Original (Hebrew): https://ofershap.github.io/posts/agent-talk-from-content-archive/
+- [How do you run a long creative project with an AI agent through chat?](https://ofershap.github.io/en/posts/agent-long-creative-build-feedback/)
+  - Markdown: https://ofershap.github.io/en/posts/agent-long-creative-build-feedback/index.md
+  - Original (Hebrew): https://ofershap.github.io/posts/agent-long-creative-build-feedback/
+- [How do you build a weekly digest that turns agent output into visible work?](https://ofershap.github.io/en/posts/weekly-agent-digest/)
+  - Markdown: https://ofershap.github.io/en/posts/weekly-agent-digest/index.md
+  - Original (Hebrew): https://ofershap.github.io/posts/weekly-agent-digest/
+- [How do you check after a month that the automation really works?](https://ofershap.github.io/en/posts/monthly-automation-review/)
+  - Markdown: https://ofershap.github.io/en/posts/monthly-automation-review/index.md
+  - Original (Hebrew): https://ofershap.github.io/posts/monthly-automation-review/
+- [How do you check that a multi-agent process is worth its cost?](https://ofershap.github.io/en/posts/golden-sample-agent-quality-cost-check/)
+  - Markdown: https://ofershap.github.io/en/posts/golden-sample-agent-quality-cost-check/index.md
+  - Original (Hebrew): https://ofershap.github.io/posts/golden-sample-agent-quality-cost-check/
+- [Which boundaries do you set before running dozens of AI agents in parallel?](https://ofershap.github.io/en/posts/agent-workflow-guardrails-before-scaling/)
+  - Markdown: https://ofershap.github.io/en/posts/agent-workflow-guardrails-before-scaling/index.md
+  - Original (Hebrew): https://ofershap.github.io/posts/agent-workflow-guardrails-before-scaling/
+- [How do you measure the start of AI agent usage beyond signup?](https://ofershap.github.io/en/posts/agent-onboarding-completed-task-metrics/)
+  - Markdown: https://ofershap.github.io/en/posts/agent-onboarding-completed-task-metrics/index.md
+  - Original (Hebrew): https://ofershap.github.io/posts/agent-onboarding-completed-task-metrics/

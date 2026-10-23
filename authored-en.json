@@ -25,5 +25,250 @@
   "related_label": "How to measure completed tasks, not just starts",
   "bio": "Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify.",
   "source_note": "The workflow and examples here are suggestions. The personal post is a starting point, not proof that every check or measurement described here was performed. Primary sources checked 21.10.2026."
+ },
+ "agent-skill-vs-rules-file": {
+  "title": "When do repeated agent instructions become a Skill?",
+  "summary": "A fact about the project belongs in the rules file. A process that repeats itself belongs in a Skill. The practical difference: the rules file always loads and costs in every conversation, and a Skill loads only when needed. Rule of thumb: if you've pasted the same instruction three times, it's time to give it a home.",
+  "hook": "In my post I told how my bot started its own open source project and even published its failure in the README. After weeks of working this way I noticed I was pasting the same instructions to it again and again. The Claude Code documentation on Skills has a precise answer for when those instructions should become a file, and when they should become a Skill.",
+  "body": "**Short answer:** A fact about the project belongs in the rules file. A process that repeats itself belongs in a Skill. The practical difference: the rules file always loads and costs in every conversation, and a Skill loads only when needed. Rule of thumb: if you've pasted the same instruction three times, it's time to give it a home.\n\n### A rules file is facts, a Skill is a process\n\nThe Claude Code docs draw the line explicitly: create a Skill when you keep pasting the same instructions, the same checklist, or the same multi-step process, or when part of the rules file grows into a process instead of a fact. \"We work with TypeScript strict\" is a fact. \"This is how we open a PR, step by step\" is a process.\n\nExample: a rule saying \"every PR includes a description of the decision\" stays in the rules file. A six-step process for checking a migration before merging becomes a Skill.\n\n### Why the fixed loading cost matters\n\nEverything in the rules file loads into every conversation, even when it's irrelevant. A Skill loads only when the agent detects it's needed or when it's called by name. For a team, that means you can maintain a whole library of processes without inflating every conversation. The docs put it this way: the Skill body costs almost nothing until it's used.\n\n### How to start in practice\n\nFirst step: open your conversation history and look for an instruction you pasted twice or more. Second: write it once as a SKILL.md with a short name and a description of when to use it. Third: try it on a real task and fix the wording based on what the agent actually did, not what you wanted it to do.\n\nIn my work with the agent on its open source project, I learned that the name and description are what the agent reads to decide whether the Skill is relevant. A vague description means a Skill that never opens, or opens at exactly the wrong moment.\n\n### Testing that the Skill works\n\nAfter writing it, run the process on a real case and check three things: the agent opened the Skill on time, followed the steps in order, and the output matches what you would have done manually. If one of the three fails, fix the SKILL.md, not the output. Fixing the output hides the problem for next time.",
+  "faq": [
+   [
+    "What's the difference between a Skill and a prompt saved in a file?",
+    "A Skill carries a name, a description of when to use it, and helper files, and the agent decides to load it when relevant. A saved prompt still requires you to remember to paste it."
+   ],
+   [
+    "How many Skills is normal to keep?",
+    "As many as you have real recurring processes. The risk isn't quantity but vague descriptions, which make the agent pick the wrong Skill."
+   ],
+   [
+    "And the rules file, still relevant?",
+    "Yes, for stable facts about the project: language, conventions, constraints. Anything that's a process with steps moves to a Skill."
+   ]
+  ],
+  "source_labels": [
+   "My post about the bot that created its own open source project",
+   "Claude Code: Skills documentation"
+  ],
+  "related_label": "How to turn code review comments into rules that work",
+  "source_note": "The workflow and examples here are suggestions. The personal post is a starting point, not proof that every check or measurement described here was performed. Primary sources checked 20.10.2026.",
+  "bio": "Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify."
+ },
+ "agent-payment-approval-limits": {
+  "title": "How do you let an AI agent pay without losing control?",
+  "summary": "The agent gets a dedicated payment rail with a cap, not an open card. Every unusual charge goes through human approval, and the log gets read once a week. The agent can order, compare prices, and close a purchase, but the amount it can get wrong is capped in advance.",
+  "hook": "In my post about Hark I told about a company that handed out real pizzas worth a million dollars: you write to the agent in chat, and it orders from DoorDash on your card. My agent orders and pays for real things too. The question isn't whether to let it pay, but how to stay in control of every shekel.",
+  "body": "**Short answer:** The agent gets a dedicated payment rail with a cap, not an open card. Every unusual charge goes through human approval, and the log gets read once a week. The agent can order, compare prices, and close a purchase, but the amount it can get wrong is capped in advance.\n\n### Separate approval from execution\n\nMy first rule: the agent prepares the order, a human approves the payment. It sounds cumbersome, and in practice it's ten seconds of approval in chat. What you gain is that there's no scenario where one morning you discover a charge nobody asked for.\n\nExample: the agent sends \"Found the cable for 89 shekels including shipping, approve?\". The answer \"yes\" is the approval. No \"yes\", no charge.\n\n### A monetary cap, not a feeling of safety\n\nA solution that works is a dedicated card or a separate allowance with a small monthly cap. If the agent gets it wrong, the maximum damage is the cap. On our team the same principle applies to paid dev tools: every new integration starts with a limited budget, and expands only after a month of clean usage.\n\nA number worth keeping in mind: a monthly cap of 500 shekels costs less than one hour of a team member's work, and it turns the agent's most expensive mistake into something you can sign off calmly.\n\n### A log that actually gets read\n\nEvery charge the agent makes goes into one list: what was bought, how much, when, and which request stood behind it. Once a week, five minutes of reading. Just like I found out my meeting recordings had stopped only after a whole week, small charges can pile up unnoticed. The weekly digest catches that.\n\n### What not to do\n\nDon't give the agent the business's main card. Don't rely on \"it promised to ask\". And don't connect a payment method without checking how to cancel: before the first connection, verify you can freeze the card or close the allowance in one click.",
+  "faq": [
+   [
+    "And how much time does it take a human to approve each time?",
+    "Ten seconds of approval in chat. That's the price of control, and it's cheap compared to a wrong charge you have to chase."
+   ],
+   [
+    "Can you give the agent a budget with no approval at all?",
+    "Yes, within a low cap you're willing to lose. Above the cap, human approval comes back."
+   ],
+   [
+    "What do you do if the agent already charged something wrong?",
+    "Freeze the payment method, contact the vendor for a refund, and update the rules so that case doesn't repeat. The log shows exactly which request led to the charge."
+   ]
+  ],
+  "source_labels": [
+   "My post about the Hark agent ordering real pizzas",
+   "Claude Code: the permissions and approvals model"
+  ],
+  "related_label": "Safety rails before you scale automation",
+  "source_note": "The workflow and examples here are suggestions. The personal post is a starting point, not proof that every check or measurement described here was performed. Primary sources checked 20.10.2026.",
+  "bio": "Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify."
+ },
+ "agent-talk-from-content-archive": {
+  "title": "How do you turn a year of personal writing into a talk with an agent?",
+  "summary": "Collect the raw material into one file, write a brief with audience, goal, and time, ask for an outline before slides, and check every claim against the source before approving a slide. The agent is excellent at synthesizing existing material, and the responsibility for accuracy stays with you.",
+  "hook": "In my post about the talk built from WhatsApp I told how I gave an agent a file with a year of my posts and asked for a talk on turning an entire company AI-native. I got a 15-slide deck and a prep guide, including the demo. Here is the process that worked, and what you must check before getting on stage with it.",
+  "body": "**Short answer:** Collect the raw material into one file, write a brief with audience, goal, and time, ask for an outline before slides, and check every claim against the source before approving a slide. The agent is excellent at synthesizing existing material, and the responsibility for accuracy stays with you.\n\n### Collect the material before asking for output\n\nMy agent got a file with a year of my LinkedIn posts. That's what allowed it to find a real line of thinking instead of a generic deck about AI. Without your own material, you'll get a talk anyone could give.\n\nExample: one tidy file sorted by date, with a link to every source. Thirty full posts beat 200 summary lines.\n\n### Write a brief of audience, goal, and time\n\n\"Prepare a talk for me\" returns something generic. A brief that works answers three questions: who sits in the audience, what should they do differently after the talk, and how many minutes you have. Mine was small business owners, 45 minutes, and one goal: that they go home with a first task they can give an agent.\n\n### Ask for an outline before slides\n\nThe cheapest time to fix a talk is before it's a deck. Ask for an outline first: an arc, a core message per part, and at least one demo. After the outline is approved, ask for slides and a prep guide.\n\nA prep guide is worth no less than the slides: what to say on each slide, how much time per part, and where to stop for questions.\n\n### Check every claim against the source\n\nThe agent phrases confidently even when it's half-accurate. Every number, date, or tool name on a slide needs backing: a link to the source in the raw material, or a current official document. An unsupported claim leaves the deck.\n\nExample: if a slide says \"companies adopting agents save 30% of development time\" and there's no source, replace it with data you can show, or with a sentence about your own experience only. Anthropic's long-context prompting guidelines also recommend giving concrete examples and asking for a quote from the source before synthesis, which is exactly this check.\n\n### Prepare a short emergency version\n\nHalf an hour before the conference, things break: the projector, the power, the network. Keep a ten-minute version: three points, one example, one message. If everything collapses, you still deliver value.",
+  "faq": [
+   [
+    "How long does a process like this take?",
+    "The production itself is fast. Most of the time goes to checking against sources and rehearsing, and you can't shorten those without paying in quality."
+   ],
+   [
+    "Can the agent deliver the talk too?",
+    "You can't delegate the responsibility. It's your talk, your claims, and the audience asks you."
+   ],
+   [
+    "What if my posts aren't rich enough for a talk?",
+    "Start with the question the audience keeps asking you. A small archive with real experience is worth more than a big archive of generalities."
+   ]
+  ],
+  "source_labels": [
+   "My post about the talk built from WhatsApp",
+   "Anthropic: guidelines for long-context prompting"
+  ],
+  "related_label": "What to decide before asking an agent to build something",
+  "source_note": "The workflow and examples here are suggestions. The personal post is a starting point, not proof that every check or measurement described here was performed. Primary sources checked 19.10.2026.",
+  "bio": "Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify."
+ },
+ "agent-long-creative-build-feedback": {
+  "title": "How do you run a long creative project with an AI agent through chat?",
+  "summary": "Define a clear final output, grant access gradually by stage, agree on regular reporting with screenshots, fix one comment per round, and check the output in the real system. A short loop with verification works better than one big task with no stops.",
+  "hook": "In my post about the Roblox game I told how Instinct built Royal Chair within days, through my WhatsApp: it reported, sent screenshots, and got comments and fixes from me. This guide breaks that working method into steps. It documents one case that worked, not a promise that every project ends this way.",
+  "body": "**Short answer:** Define a clear final output, grant access gradually by stage, agree on regular reporting with screenshots, fix one comment per round, and check the output in the real system. A short loop with verification works better than one big task with no stops.\n\n### Start with a brief you can check\n\nBefore the agent touches a tool, write what the final output is and how you'll know it works. In my case the brief was a simple fighting game with chairs, short rules, and a name. The more measurable the result, the fewer rounds wasted on guessing.\n\nExample: instead of \"build me a fun game\", write \"a single-player fighting game, three weapons, a win after five minutes, a victory screen with the winner's name\". Every line like that can be checked at the end.\n\n### Grant access gradually, not all at once\n\nA long project through chat means the agent works while you're not watching. Open only what the stage requires: environment installation at the start, write permission to one project, and publishing only after explicit approval. The Roblox Studio setup documentation separates installing the environment from opening a project, and that's the right working order even when an agent performs the steps.\n\nIf a stage requires a new account or a payment, that's your stop, not the agent's. Agree on this upfront, so the work doesn't get stuck on a payment screen in the middle of the night.\n\n### Agree on regular reporting\n\nThe part that worked best for me: the agent reported to WhatsApp at fixed points, attached screenshots from the build, and waited for comments. Without regular reporting, a long project becomes a black box that arrives at the end with surprises.\n\nExample: a report after every milestone, three lines - what was built, what actually came out versus the plan, and what the open question is. One screenshot is worth more than a paragraph of description.\n\n### One comment per round\n\nWhen a screenshot shows a problem, fix that alone. \"The character is stuck in the wall\" is a comment. \"Improve the gameplay, change the lighting, and add a level\" are three tasks that tangle together. Every round: a comment, a fix, a new screenshot proving the fix worked.\n\nThe wording of the comment matters too. \"The chair doesn't look good\" leaves the agent guessing. \"The chair is half sunk in the floor, raise it to sitting height\" is a comment that can be executed and checked.\n\n### Check in the real system\n\nA screenshot is evidence, not a test. At the end of every significant stage, enter the system yourself: run it, click, look for the scenarios from the brief. Only after that do you approve moving to the next stage.\n\nAnything not checked in the real system doesn't count as closed, even if the agent reports \"done\".",
+  "faq": [
+   [
+    "Can you let the agent work a whole night without reports?",
+    "You can, but every hour without a report is an hour where a wrong direction gets more expensive. A reporting point every hour or two keeps the risk small."
+   ],
+   [
+    "What do you do when the agent is stuck on the same problem?",
+    "Stop the round, ask it to phrase what it knows and what's missing, then decide: missing information, missing permission, or a wrong approach. Don't let it retry the same step again and again."
+   ],
+   [
+    "Does the method fit code too, not just games?",
+    "Yes. A checkable brief, gradual access, regular reporting, and one comment per round work the same way on a feature, a document, or a deck."
+   ]
+  ],
+  "source_labels": [
+   "My post about building Royal Chair with Instinct",
+   "Roblox Creator Docs: Studio setup and the working environment"
+  ],
+  "related_label": "How to define success in an agent task",
+  "source_note": "The workflow and examples here are suggestions. The personal post is a starting point, not proof that every check or measurement described here was performed. Primary sources checked 19.10.2026.",
+  "bio": "Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify."
+ },
+ "weekly-agent-digest": {
+  "title": "How do you build a weekly digest that turns agent output into visible work?",
+  "summary": "Set a fixed format with three questions - what came in, what turned into work, what got stuck - and run the daily output through it once a week, at a fixed time. The digest is not another report. It's the decision point where output becomes action or gets dropped.",
+  "hook": "In that same post I told how, after the recordings stopped for a week, I added a weekly digest: a fixed point where you see what came in, what turned into work, and what got stuck. Here is the full format and the rules that keep it useful.",
+  "body": "**Short answer:** Set a fixed format with three questions - what came in, what turned into work, what got stuck - and run the daily output through it once a week, at a fixed time. The digest is not another report. It's the decision point where output becomes action or gets dropped.\n\n### The problem with daily output\n\nAn agent that works every day produces a pile: summaries, reminders, suggestions, links. Nobody reads a daily pile for long. What doesn't get used gets forgotten, and what gets forgotten gets missed. One week without review, and the output becomes background noise.\n\n### The format: three questions, not a table of contents\n\nWhat came in? The list of items the agent produced this week, unedited. The goal is coverage, not readability.\n\nWhat turned into work? For every item that became an action - a task, a message sent, a decision - one line. This is the only metric that matters: output that turned into motion.\n\nWhat got stuck? Items that came back week after week with no motion. A stuck item gets an explicit decision: push it forward, drop it, or change the way it arrives.\n\nExample: one week brought fourteen items. Five turned into work: two messages sent, two drafts queued, and one document updated. Three items got stuck for a second consecutive week, and the decision was to take them off the daily list instead of dragging them along again.\n\n### Rules that keep the digest useful\n\nA fixed time. Same hour every week, regardless of load. A digest postponed twice is dead.\n\nA decision criterion for every stuck item. If an item hasn't moved in two weeks, it leaves or changes. No third option of \"we'll decide later\".\n\nA small number. If the list is too long for a ten-minute review, the problem is the daily output, not the digest. Shrink the source, not the review.\n\n### What this gives you in practice\n\nThe digest turns the agent from an output machine into a work tool. Instead of remembering to check what happened, there's a fixed point where you see what came in, what turned into work, and what got stuck. The template I work with is in my public skills library, and you can install it as is.",
+  "faq": [
+   [
+    "What's the difference between a digest and a daily summary?",
+    "A daily summary describes what happened. A weekly digest is a decision point: what turned into work, what got stuck, and what you decide about each stuck item."
+   ],
+   [
+    "How long should the weekly review take?",
+    "About ten minutes. If it needs more, the daily output is too noisy and worth shrinking at the source."
+   ],
+   [
+    "What do you do with an item stuck two weeks in a row?",
+    "Decide: push it now, drop it, or change the form it arrives in. No fourth option of quiet postponement."
+   ]
+  ],
+  "source_labels": [
+   "My post about the Grok Bot monthly check and the weekly digest",
+   "My public skills library: grok-bot-skills"
+  ],
+  "related_label": "A monthly review for automations: keep, change, or stop",
+  "source_note": "The workflow and examples here are suggestions. The personal post is a starting point, not proof that every check or measurement described here was performed. Sources checked 18.10.2026.",
+  "bio": "Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify."
+ },
+ "monthly-automation-review": {
+  "title": "How do you check after a month that the automation really works?",
+  "summary": "Don't assume it ran. Open the actual output, compare it to what the automation was supposed to produce, and decide for each component: keep, change, or stop. Without comparing to real output, an automation can stop quietly and nobody notices.",
+  "hook": "In my post I told how my meeting recordings stopped for a whole week and I found out only by chance, when I asked the bot what it did with the material. Here I turn the monthly check I ran into a work list: what to check, how to decide, and when to stop.",
+  "body": "**Short answer:** Don't assume it ran. Open the actual output, compare it to what the automation was supposed to produce, and decide for each component: keep, change, or stop. Without comparing to real output, an automation can stop quietly and nobody notices.\n\n### Why automations stop quietly\n\nMost automations don't alert when they stop. A third-party service changes a permission, a process crashed and nobody restarted it, or the output keeps being produced but never reaches its destination. From the outside everything looks fine, because nobody looks at the output itself.\n\nIn the post I published I told how my meeting recordings stopped for a whole week, and I found out only when I asked the bot what it did with the material. That's exactly the problem: the check started only when someone asked.\n\n### An end-of-month checklist\n\nFor each automation, three questions in order:\n\nWhat was it supposed to produce? A concrete output: a recording per meeting, a daily summary, an updated file. If you can't phrase the output in one sentence, the automation isn't defined well enough.\n\nWhat was actually created? Open the latest output itself. Not the log, not the settings. The artifact you were supposed to use.\n\nWhat's the decision? For each component, one of three: keep, change, or stop. An automation whose output nobody reads costs more than it gives.\n\nExample: an automation meant to summarize ten meetings a week. The review finds summaries for only six. Check the missing four: two meetings were canceled, one wasn't recorded because of a permission, and one was recorded but never sent. The decision: fix the permission and add an existence check for the output, not replace the tool.\n\n### When to change and when to stop\n\nChange when the output arrives but isn't usable: an inconvenient format, too-high frequency, noise instead of signal. Stop when usage has disappeared even though the output is fine. A review that ends without a single stop is a sign the list wasn't really made, or the check was shallow.\n\nMy full list for a review like this - what to keep, what to change, and what to stop - also went into my public skills library, so it can be run again and again without rewriting.",
+  "faq": [
+   [
+    "Why not settle for the automation's logs?",
+    "Because a log says the process ran, not that the output arrived and someone used it. The real check is opening the latest artifact itself."
+   ],
+   [
+    "How often should you check?",
+    "A full review once a month, and a short existence check of the output once a week. An automation critical to daily work needs a higher frequency."
+   ],
+   [
+    "What do you do with an automation whose output nobody reads?",
+    "Stop it. Output nobody consumes is cost without benefit, and sometimes an unnecessary privacy risk too."
+   ]
+  ],
+  "source_labels": [
+   "My post about the Grok Bot monthly check and the weekly digest",
+   "My public skills library: grok-bot-skills"
+  ],
+  "related_label": "Weekly digest: what came in, what turned into work, what got stuck",
+  "source_note": "The workflow and examples here are suggestions. The personal post is a starting point, not proof that every check or measurement described here was performed. Sources checked 18.10.2026.",
+  "bio": "Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify."
+ },
+ "golden-sample-agent-quality-cost-check": {
+  "title": "How do you check that a multi-agent process is worth its cost?",
+  "summary": "Build a small sample with known answers, run a single agent and a multi-agent process on it, and compare three metrics: how many of the right answers were found, how many errors were added, and what the cost was. Decide by the metrics, not by an impression from a demo.",
+  "hook": "In my post about Dynamic Workflows I mentioned an Anthropic demo on Latent Space: a multi-agent process that cost much more than a single agent and also found more. Before copying an approach like that to a real task, I build a sample of known answers and compare. Here is how the test is built.",
+  "body": "**Short answer:** Build a small sample with known answers, run a single agent and a multi-agent process on it, and compare three metrics: how many of the right answers were found, how many errors were added, and what the cost was. Decide by the metrics, not by an impression from a demo.\n\n### Build a sample with known answers\n\nPick 10 to 30 items from the real material. For some items the right answer is known in advance: for example a document that contains a specific commitment, or a clean document with no finding at all. Write the answers down before any run.\n\nExample: when testing 200 documents against a new policy, pick 20 documents, manually mark which commitments appear in them, and keep the list as an answer key.\n\n### Run two setups on the same sample\n\nOne run with a single agent handling all items. A second run with a multi-agent process, for example reader agents, checker agents, and a report-joining step. Same items, same instruction, same model version.\n\n### Measure three numbers\n\nAccuracy: how many of the findings from the key were found in each run. Noise: how many wrong findings were added. Cost: tokens, run time, and how many repeat passes were needed.\n\nIn the Anthropic demo on Latent Space, a stock-list scan with a review stage cost much more than a single agent and also found more details in the example. That's the illustration of the tradeoff between cost and coverage. Your sample is what tells you whether the tradeoff pays off on your task.\n\n### Decide by the result\n\nIf the multi-agent process found more correct findings at a cost you're willing to pay, expand gradually. If a single agent reached the same result, stay with it. For a small set of independent parts, even a simple script can be the answer.\n\n### What to keep from the test\n\nKeep the answer key, both reports, and the comparison table. When someone later asks why you chose one architecture over another, you have numbers from your task, not a quote from somebody else's demo.",
+  "faq": [
+   [
+    "How big should a test sample be?",
+    "10 to 30 real items with known answers are enough for a first comparison. The goal is a signal on quality and cost, not statistical proof."
+   ],
+   [
+    "What if a single agent and a multi-agent process reached the same result?",
+    "Stay with the single agent. It's simpler to run, maintain, and explain. Expand only when the sample shows a measurable gain."
+   ],
+   [
+    "How do you measure the cost of an agent run?",
+    "Record tokens, run time, and the number of repeat passes for each run on the same sample, and compare against the accuracy gain you got."
+   ]
+  ],
+  "source_labels": [
+   "My post about Dynamic Workflows in Claude Managed Agents",
+   "Anthropic: Multiagent orchestration",
+   "Latent Space: Claude Dynamic Workflows"
+  ],
+  "related_label": "Boundaries to define before running parallel agents",
+  "source_note": "The workflow and examples here are suggestions. The personal post is a starting point, not proof that every check or measurement described here was performed. Primary sources checked 17.10.2026.",
+  "bio": "Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify."
+ },
+ "agent-workflow-guardrails-before-scaling": {
+  "title": "Which boundaries do you set before running dozens of AI agents in parallel?",
+  "summary": "Four boundaries: a session budget, minimal permissions, a full coverage list, and output checked against a criterion. Write them before the first run, test on a small sample, and only then increase parallelism.",
+  "hook": "In my post about Dynamic Workflows I described Anthropic's new beta for agent orchestration inside Claude Managed Agents, and ended with four things worth defining before trying it. Here I turn those four into an ordered work list, with the reasoning from the documentation and the way I check things like this on a team.",
+  "body": "**Short answer:** Four boundaries: a session budget, minimal permissions, a full coverage list, and output checked against a criterion. Write them before the first run, test on a small sample, and only then increase parallelism.\n\n### Budget: set at session opening\n\nIn Claude Managed Agents you set the budget when creating the session. You can't add a budget to a session that's already running. When the session reaches the budget, runs are paused. Requests that already started can complete and exceed the budget. A run paused over budget resumes when you raise or remove it.\n\nExample: in a session checking 200 documents against a new policy, set a budget that covers one full pass plus a little for repeat checks. If the run stops midway, you know the initial estimate was too low.\n\n### Permissions: start read-only\n\nThe ability to split work among agents is no reason to give every agent permission to change data or send messages. Every thread inside the session has its own event stream, and tool permissions can be managed per thread.\n\nA good opening check: reader agents return findings only. Only one stage, if any, gets write permission, and it's limited to a single destination.\n\n### Coverage: a closed list of items\n\nDefine upfront the list of items the run should handle. Every item ends in one of two states: checked, or not checked with a reason. A report that looks complete without a coverage list is not evidence.\n\nThe Dynamic Workflows documentation lists system limits: up to 64 threads in parallel per run, and up to 1,000 agents over a run's lifetime. Those are technical ceilings. A useful starting point is on the order of dozens of items and a few agents.\n\n### Verification: completed is not a sign the work succeeded\n\nThe documentation states explicitly: a completed status means the plan finished. It doesn't mean all the work succeeded. Check the output itself against a criterion defined upfront: how many items were covered, how many findings verified, how many rejected and why.\n\n### A suggested working order\n\n1. Write the four boundaries into the task itself, before the run.\n2. Run on a small sample with known answers.\n3. Compare output, coverage, and cost against a single agent.\n4. Increase parallelism only after the metrics show a real gain.",
+  "faq": [
+   [
+    "Why set the budget at session opening?",
+    "Because in Claude Managed Agents you can't add a budget to an existing session. When the budget is reached, runs are paused, and requests that already started can complete and exceed it."
+   ],
+   [
+    "Is a completed status enough to trust the output?",
+    "No. Completed means the plan finished. Check the output against a criterion: coverage, verified findings, and reasons for rejections."
+   ],
+   [
+    "How many agents make sense in a first test?",
+    "A few agents over dozens of items. The documentation allows up to 64 parallel threads and up to 1,000 agents over a run, and those are ceilings, not a starting point."
+   ]
+  ],
+  "source_labels": [
+   "My post about Dynamic Workflows in Claude Managed Agents",
+   "Anthropic: Multiagent orchestration, budgets, threads and permissions"
+  ],
+  "related_label": "Quality and cost check on a known-answer sample",
+  "source_note": "The workflow and examples here are suggestions. The personal post is a starting point, not proof that every check or measurement described here was performed. Primary sources checked 17.10.2026.",
+  "bio": "Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify."
+ },
+ "agent-onboarding-completed-task-metrics": {
+  "title": "How do you measure the start of AI agent usage beyond signup?",
+  "summary": "Define separate stages for joining, connecting, task attempt, a checked result, and repeat use. Measure each stage over the same period and the same user group, and mark where progress stopped. A signup is not proof of a completed task.",
+  "hook": "My post about the onboarding program separates people who joined through a link from participants in the program. That raises a different question from technical connection: which stage has already happened, and when can you say useful usage has begun? The numbers in the post and the image are historical documentation, not a new measurement in this guide.",
+  "body": "**Short answer:** Define separate stages for joining, connecting, task attempt, a checked result, and repeat use. Measure each stage over the same period and the same user group, and mark where progress stopped. A signup is not proof of a completed task.\n\n### Start with a definition of useful usage\n\nBefore a metrics table, pick one task the user wants to complete. Write down what output will be produced and what will be checked in it. A suggested example: the user asked for a comparison, received a document with sources, and checked that every threshold condition appears in it. The act of sending the message to the agent is an earlier stage.\n\nTask completion should fit the type of work. Downloading a file doesn't prove its content is right. Connecting an account doesn't prove the agent performed a permitted action. If human approval is needed, define upfront whether \"completed\" includes the approval or stops at the draft.\n\n### Separate events from interpretation\n\nBuild a clear stage list. A synthetic illustration for an onboarding flow: joined, completed a permitted connection, chose a task, received an output, checked a result, and returned for another task. Every stage needs an entry condition you can see, not a feeling from whoever is guiding.\n\nIn the Google Analytics documentation, an event measures an interaction on a site or app, and you can define a custom event when no existing event fits. That helps plan collection, but the event name is not business proof. An event called task_completed must be sent only when the agreed definition actually holds.\n\nThis guide does not recommend installing Analytics in every system. You can also start with minimal consented manual logging, without copying the task content or the conversation.\n\n### Keep a base group and a measurement period\n\nThe total number of joiners and the number of this week's finishers are not the denominator and numerator of one measurement. The finishers may have joined earlier, or new joiners haven't had time to perform a task yet.\n\nChoose a cohort of joiners and a follow-up window. A suggested example: everyone who joined in a given week, and whether they reached a checked output within the following seven days. This is an experiment proposal, not a window that fits every product. A task of a few hours and a task dependent on an external vendor need different time frames.\n\nAlso note in the report when the data was measured. An old snapshot doesn't become a fresh data point because the post was published again or later. The data date and the publication date should stay distinct.\n\n### Look for the stopping point\n\nA funnel report can show where people move between stages and where they drop. The Google Analytics documentation distinguishes between an open funnel, which allows entry at different stages, and a closed funnel that starts at the first stage. The choice changes who gets counted.\n\nEven without an analytics tool, ask whether a person stopped because of connection, not choosing a task, an unclear output, or waiting for approval. Those are different problems. Sending everyone another reminder message doesn't automatically fix any of them.\n\nThe number of events is not the number of people. A repeated attempt can create several events for the same task. Define how you identify an attempt, how you handle duplicates, and what you count when a task is reopened.\n\n### Add a small quality check\n\nCheck a sample of outputs against the agreed criteria, with permission to use the data. You can ask the user to mark what helped and what needed fixing without sending a whole private document.\n\nExample: if ten documents were produced and sources were checked in only some of them, don't merge them into one line called \"ten successes\". You can report separately output that was returned and output that was checked. When there's no evidence of quality, write what's missing instead of completing the number to match expectation.\n\n### End with one change you can test\n\nPick the prominent blocker and suggest a small change: clearer connection instructions, a shorter first task, or a result check that's easy to understand. Compare the same success definition in the next period, and note what changed.\n\nMeasurement should help people reach a result, not collect more information about them. Keep only what the question you defined requires, with proper consent and a clear retention period. A successful onboarding flow is useful usage you can explain, not growth in a number on a card.",
+  "faq": [
+   [
+    "Does a signup count as agent usage?",
+    "It's a stage in the flow. To measure useful usage you need to define a task, an output, and a result check separately."
+   ],
+   [
+    "How do you compare weeks?",
+    "With the same base group, time window, and success definition. Document process changes so you don't attribute every difference to the tool itself."
+   ],
+   [
+    "Do you need to keep all conversations for measurement?",
+    "You can measure stages and limited feedback without keeping the content. The scope of collection and access requires consent and privacy planning."
+   ]
+  ],
+  "source_labels": [
+   "My post about joining and onboarding",
+   "Google Analytics: recommended and custom events",
+   "Google Analytics: stages and open or closed funnel"
+  ],
+  "related_label": "Defining success in an agent task",
+  "source_note": "The workflow and examples here are suggestions. The personal post is a starting point, not proof that every check or measurement described here was performed. Primary sources checked 15.10.2026.",
+  "bio": "Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify."
  }
 }
