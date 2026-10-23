@@ -100,6 +100,7 @@ if __name__=='__main__':
  subprocess.run([sys.executable,str(ROOT/'build_discovery.py')],check=True)
  subprocess.run([sys.executable,str(ROOT/'build_post_upgrade.py')],check=True)
  if (ROOT/'translations').exists():subprocess.run([sys.executable,str(ROOT/'build_translations.py')],check=True)
+ if (ROOT/'authored-en.json').exists():subprocess.run([sys.executable,str(ROOT/'build_authored_en.py')],check=True)
 
  subprocess.run([sys.executable,str(ROOT/"build_engagement.py")],check=True)
 
