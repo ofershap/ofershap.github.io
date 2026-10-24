@@ -26,6 +26,11 @@ assert _re.fullmatch(r'[a-z0-9.-]+/[a-z0-9._-]+', card['name']), 'reverse-DNS sh
 assert len(card['description']) <= 100, 'server-card schema caps description at 100 chars'
 assert 'tools' not in card, 'schema form: agents trust live tools/list, no tools[] in card'
 assert card['version'] and card['description']
+assert card['icons'][0]['src'] == 'https://ofershap.github.io/assets/icon-256.png', 'server card must carry the site icon (registry-branding)'
+assert card['icons'][0]['mimeType'] == 'image/png'
+import pathlib as _pl
+assert _pl.Path('assets/icon-256.png').exists(), 'icon asset must exist in the repo'
+assert card['icons'][0].get('sizes') == ['256x256']
 remote = card['remotes'][0]
 assert remote['type'] == 'streamable-http' and remote['url'] == 'https://recipes.gitshow.dev/mcp'
 assert {t['name'] for t in card['_meta']['dev.ofershap/tools']} == {'list_recipes', 'get_recipe'}

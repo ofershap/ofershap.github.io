@@ -5,6 +5,15 @@
   "version": "1.0.0",
   "description": "Public read-only MCP server for Ofer Shapira's reviewed recipe library (Hebrew and English).",
   "websiteUrl": "https://ofershap.github.io/",
+  "icons": [
+    {
+      "src": "https://ofershap.github.io/assets/icon-256.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "256x256"
+      ]
+    }
+  ],
   "repository": {
     "source": "github",
     "url": "https://github.com/ofershap/ofershap.github.io"
