@@ -24,10 +24,11 @@
   ],
   "rule": "max 1 teaser/day, published same day to both Hashnode and DEV, canonical to blog guide, verify live HTML canonical per post per platform",
   "english_guides": {
-    "status": "21 of 29 live 2026-10-23 (commit cb4a79f2); 8 agency-era guides approved 23.10 21:38 for faithful translation (agency content kept), awaiting translation/QA",
+    "status": "29/29 live, semantic parity verified 2026-10-24",
     "base": "https://ofershap.github.io/en/posts/<slug>/",
     "masters": "authored-en.json + authored-source.json",
-    "builder": "build_authored_en.py (runs after build_translations in build_archive.py)"
+    "builder": "build_authored_en.py (runs after build_translations in build_archive.py)",
+    "live": 29
   },
   "routes_pending": {
     "hackernoon": "EXCLUDED per playbook decision 20: AI policy \"we neither accept nor encourage the use of AI to generate text\" (verified 23.10); canonical reposting mechanics exist but policy blocks our AI-assisted teasers",
