@@ -72,25 +72,29 @@ def build():
  rss.append('</channel></rss>');(ROOT/'feed.xml').write_text('\n'.join(rss))
 
  # Cap the "Recent original-language posts" section of llms.txt (ora.ai wants llms.txt slim, <30K chars); the full list lives in posts/llms.txt.
- def trim_recent(keep=25):
+ # Rebuilt deterministically from post frontmatter, newest first, so the newest posts are always present even after mass rebuilds.
+ def trim_recent(keep=20):
   lp=ROOT/'llms.txt';lt=lp.read_text();marker='## Recent original-language posts\n'
   i=lt.find(marker)
   if i<0:return
   j=lt.find('\n## ',i+len(marker))
-  section=lt[i+len(marker): j if j>0 else len(lt)]
-  posts=[e for e in section.split('\n\n') if e.strip() and e.lstrip().startswith('- [')]
+  rows=[]
+  for md in ROOT.glob('posts/*/index.md'):
+   parts=md.read_text().split('---')
+   if len(parts)<3:continue
+   fm=parts[1]
+   def field(name):
+    m=re.search(r'^'+name+r': (.*)$',fm,re.M);return m[1].strip() if m else ''
+   t=field('title');pub=field('published');src=field('source');can=field('canonical')
+   if not t or not pub:continue
+   t=json.loads(t);can=can or BASE+'/posts/'+md.parent.name+'/';src=src or can
+   rows.append((pub,t,can,src))
+  rows.sort(reverse=True)
   pointer='- [Full post index](https://ofershap.github.io/posts/llms.txt) - every published post with markdown and original-source links.'
-  if len(posts)<=keep and 'posts/llms.txt) - every published post' in section:return
-  lt=lt[:i+len(marker)]+'\n'+'\n\n'.join(posts[:keep])+'\n\n'+pointer+'\n'+lt[j if j>0 else len(lt):]
+  body='\n'+'\n\n'.join('- ['+t+']('+u+')\n  - Markdown: '+u+'index.md\n  - Original: '+src for pub,t,u,src in rows[:keep])+'\n\n'+pointer+'\n'
+  lt=lt[:i+len(marker)]+body+lt[j if j>0 else len(lt):]
   lp.write_text(lt)
- trim_recent()
- # Every new post joins llms.txt under "Recent original-language posts" (top of section), if absent.
- if new_pages:
-  lp=ROOT/'llms.txt';lt=lp.read_text()
-  add=''.join('\n- ['+t+']('+u+')\n  - Markdown: '+u+'index.md\n  - Original: '+src+'\n' for t,u,src in reversed(new_pages) if u not in lt)
-  if add:
-   lt=lt.replace('## Recent original-language posts\n','## Recent original-language posts\n'+add,1)
-   lp.write_text(lt)
+ trim_recent(20)
  print('Generated',created,'original-language pages;',len(pages),'article pages;',len(items),'homepage entries')
 if __name__=='__main__':
  build()

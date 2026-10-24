@@ -30,6 +30,13 @@ def build():
   rendered=markdown.markdown(body)
   rendered=re.sub(r'https://[^\s<]+',lambda m:'<a href="'+m[0].rstrip('.,')+'">'+m[0].rstrip('.,')+'</a>'+m[0][len(m[0].rstrip('.,')):],rendered)
   page=page.replace(markdown.markdown(body),rendered)
+  # Keep parity with the full chain: beacon first (same position build_beacon uses), then hreflang + language nav before </head> when an English version exists - so rebuilding build_authored alone is idempotent (test_authored).
+  import build_beacon as _bb
+  page=_bb.inject(page)
+  if (ROOT/'authored-en.json').exists() and r['slug'] in json.loads((ROOT/'authored-en.json').read_text()):
+   enurl=BASE+'/en/posts/'+r['slug']+'/'
+   page=page.replace('</head>','<link rel="alternate" hreflang="he" href="'+url+'"><link rel="alternate" hreflang="en" href="'+enurl+'"><link rel="alternate" hreflang="x-default" href="'+url+'"></head>',1)
+   page=page.replace('</h1>','</h1>'+'<nav class="language-links" aria-label="Languages" dir="ltr"><a href="'+url+'">Original (עברית)</a> · <a href="'+enurl+'" lang="en" hreflang="en">English</a></nav>',1)
   (p/'index.html').write_text(page);(p/'original.md').write_text(raw)
   md_body=re.sub(r'^\s*\*\*תשובה קצרה:\*\* .*?\n\n','',body,count=1,flags=re.S)
   md='---\ntitle: '+json.dumps(title,ensure_ascii=False)+'\npublished: '+r['published_at']+'\nupdated: '+today+'\nlang: he\ncanonical: '+url+'\n---\n\n# '+title+'\n\n'+summary+'\n\n'+(r.get('note','')+'\n\n' if r.get('note') else '')+'## הרחבה\n\n'+md_body+'\n\n'+('## מהניסיון שלי\n\n'+r.get('hook','')+'\n\n' if r.get('hook') else '')+'## שאלות נפוצות\n\n'+''.join('### '+q+'\n\n'+a+'\n\n' for q,a in r['faq'])+'## על הכותב\n\n'+r['bio']+'\n\nעודכן לאחרונה: '+today+'\n'
