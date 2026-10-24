@@ -31,7 +31,7 @@ def build():
   extra='<section class="geo-summary"><h2>'+E(title)+'</h2><p>'+E(summary)+'</p></section>'
   note=g.get('source_note','The workflow and examples here are the author\'s own. Prices, when mentioned, are his service rates, not market data.')
   rel=r['related'];relurl=(BASE+'/en/posts/'+rel+'/') if rel in en else ('/posts/'+rel+'/')
-  rellabel=en[rel]['related_label'] if rel in en else g['related_label']+(' (Hebrew)' if rel not in en else '')
+  rellabel=g['related_label']+(' (Hebrew)' if rel not in en else '')  # link text is the SOURCE guide's own related_label (EN sibling of the HE anchor); en[rel]['related_label'] is the target's own outgoing label - wrong text
   sources='<section class="geo-sources"><h2>Sources and further reading</h2><p>'+E(note)+'</p><ul>'+''.join('<li><a href="'+E(u,quote=True)+'">'+E(l)+'</a></li>' for u,l in zip(r['sources'],g['source_labels']))+'</ul><p><a href="'+relurl+'">'+E(rellabel)+'</a></p></section>'
   footer='<aside class="author-card"><h2>About the author</h2><p>'+E(g['bio'])+'</p><p dir="ltr"><a href="https://github.com/ofershap">GitHub projects</a> · <a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a> · <a href="/for-ai/">About</a></p></aside>'
   render=body
