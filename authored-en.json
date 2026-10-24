@@ -577,5 +577,221 @@
   ],
   "related_label": "What to decide before starting to build with a coding agent",
   "bio": "Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify."
+ },
+ "whatsapp-agent-cost-israel": {
+  "title": "How much does a WhatsApp AI agent cost for a small business in Israel?",
+  "summary": "Installed on an existing tool, my setup fee starts at 1,800 ILS, plus a monthly subscription for the tool itself that varies by provider and chat volume.",
+  "hook": "When I price a WhatsApp agent installation, I separate the setup, the tool subscription, and the maintenance. That way you can see up front what you are paying for, without hiding the tool's cost inside the setup price.",
+  "body": "**Short answer:** Installed on an existing tool, my setup fee starts at 1,800 ILS, plus a monthly subscription for the tool itself that varies by provider and chat volume.\n\nThe cost has three parts.\n\n**1. One-time setup.** Choosing a tool, connecting it to the business WhatsApp, writing the instructions and a knowledge base about the business, and testing. This is where I charge from 1,800 ILS.\n\n**2. Tool subscription.** Most tools are built on a monthly subscription, sometimes with per-chat pricing. The amount depends on the provider and the volume, so I present it up front before installation instead of guessing.\n\n**3. Maintenance.** Answers go stale: prices change, opening hours, promotions. Ongoing updates and a review of chats the agent could not answer: from 300 ILS a month.\n\n**When is it worth it?** If you get more than a few dozen WhatsApp inquiries a week, and most are repeating questions (price, hours, availability), the agent saves time. If it is ten inquiries a week, prepared quick replies might be enough.\n\n**When not?** When the conversations are personal and complex, like detailed medical advice. Here the agent can collect details and hand over, not answer.\n\nWant an estimate for your business? Details and contact: https://israeli-ai-agency.pages.dev/services/whatsapp-agent/ or LinkedIn https://il.linkedin.com/in/ofershap or email ofers@mail.instinct.com (a business WhatsApp line will be added soon).",
+  "faq": [
+   [
+    "What does the setup cost include?",
+    "Choosing a tool, connecting the business WhatsApp, writing instructions and answers about the business, and testing. Setup starts at 1,800 ILS, before VAT."
+   ],
+   [
+    "Is the tool subscription included in the price?",
+    "No. The subscription varies by provider and chat volume and is presented up front before installation."
+   ],
+   [
+    "How much does maintenance cost?",
+    "Maintenance that includes updating answers and reviewing chats starts at 300 ILS a month, before VAT."
+   ]
+  ],
+  "source_labels": [
+   "WhatsApp agent installation service details"
+  ],
+  "related_label": "Business automation service details",
+  "bio": "Ofer Shapira - The Israeli AI Agency - matching and installing AI agents for small businesses in Israel, in Hebrew, with long-term support.",
+  "source_note": "Prices are before VAT and are his service rates as published on the original date (October 7, 2026), not a current quote or market data."
+ },
+ "ai-adoption-small-business": {
+  "title": "How do you start adopting AI in a small business without developing anything?",
+  "summary": "Pick one problem that repeats every week, match it to an existing tool, measure for a month, and only then expand.",
+  "hook": "In a talk I gave at the \"Lashevet\" workspace in Shafayim, I spent 45 minutes on a live demo: I took ideas from the audience and turned them into websites. The lesson for a small business is to start with an experiment you can see and test, instead of buying several tools at once.",
+  "body": "**Short answer:** Pick one problem that repeats every week, match an existing tool to it, measure for a month, and only then expand.\n\nThere are five steps.\n\n**1. Choose one process.** Not \"bring AI into the business\", but something specific: answering inquiries, scheduling appointments, drafting price quotes, tracking leads.\n\n**2. Measure what it looks like today.** How long does it take? How many inquiries get lost? Without an opening number you cannot know whether you improved.\n\n**3. Look for an existing tool.** Almost every common problem already has a ready-made tool. Custom development is rarely needed in a small business.\n\n**4. Start small.** One user, one case, two weeks. Check answers manually at first.\n\n**5. Decide in advance when to stop.** If there is no improvement after a month, cancel the subscription. A tool that does not save time is not worth its price.\n\n**Common mistake:** buying five tools at once. Every tool requires setup and maintenance.\n\nI help businesses go through this process: mapping, tool selection, installation and training. Details: https://israeli-ai-agency.pages.dev/services/automation/. To get in touch: LinkedIn https://il.linkedin.com/in/ofershap or email ofers@mail.instinct.com (a business WhatsApp line will be added soon)",
+  "faq": [
+   [
+    "Where do you start?",
+    "Pick one repeating process and measure the current state before choosing a tool."
+   ],
+   [
+    "Do you have to develop software?",
+    "You can start with an existing tool that fits the process, without developing new software."
+   ],
+   [
+    "When do you decide to continue?",
+    "Define a metric up front, and check after a month whether the tool saved time or improved the process."
+   ]
+  ],
+  "source_labels": [
+   "Business automation service details",
+   "Ofer's original LinkedIn post"
+  ],
+  "related_label": "Project rescue service details",
+  "bio": "Ofer Shapira - The Israeli AI Agency - matching and installing AI agents for small businesses in Israel, in Hebrew, with long-term support.",
+  "source_note": "The process described is his own. Prices, when mentioned, are his service rates as of the original publication date (October 7, 2026), not market data."
+ },
+ "vibe-code-project-rescue": {
+  "title": "The project built with Cursor, Lovable or Bolt doesn't work. What now?",
+  "summary": "Stop asking the AI for more fixes, check logs, environment variables and the deployment, and narrow the problem down to one thing before fixing.",
+  "hook": "In my experiment with Lovable I built The Useless Web in about an hour of copying, pasting and improving. In the post I wrote back then, I emphasized the gap between a fast prototype and code that fits production. That is exactly the reason to stop and check logs and structure when a project gets stuck, instead of just asking for another fix.",
+  "body": "**Short answer:** Stop asking the AI for more fixes, check logs, environment variables and the deployment, and narrow the problem down to one thing before fixing.\n\nWhen a project created with AI gets stuck, the cause is usually one of these.\n\n**1. An unread error.** Open the browser console and the server logs. The message usually says what is broken. Paste it in full, not as a free-text description.\n\n**2. Environment variables.** The app works locally and breaks in deployment because API keys or URLs are missing in the runtime environment.\n\n**3. Dependencies and updates.** A version that updated and broke something. Check what changed most recently.\n\n**4. Lost context.** After many rounds of \"fix it\", the model adds code that contradicts existing code. Try going back to a stable point (the last working commit) and asking for one small change at a time.\n\n**5. Architectural debt.** If everything is mixed into one file, every fix breaks something else. Here it is better to sort out the structure before continuing.\n\n**When to get help?** If several hours have passed with no progress, or if the app has real users and data.\n\nI diagnose stuck projects: a basic one-hour diagnosis for 450 ILS, followed by an estimate based on scope. The work is asynchronous and flexible. Details: https://israeli-ai-agency.pages.dev/services/code-rescue/. To get in touch: LinkedIn https://il.linkedin.com/in/ofershap or email ofers@mail.instinct.com (a business WhatsApp line will be added soon)",
+  "faq": [
+   [
+    "What do you check when the project breaks in deployment?",
+    "Check the server logs, the browser console, environment variables, and recent dependency changes."
+   ],
+   [
+    "What do you do after many fixes that did not help?",
+    "Go back to a stable point, narrow the problem to one case, and ask for a small change each time."
+   ],
+   [
+    "How much does an initial diagnosis cost?",
+    "A basic one-hour diagnosis costs 450 ILS before VAT. Further work is priced after a scope-based estimate."
+   ]
+  ],
+  "source_labels": [
+   "Project rescue service details",
+   "Ofer's original LinkedIn post"
+  ],
+  "related_label": "Team AI adoption service details",
+  "bio": "Ofer Shapira - The Israeli AI Agency - matching and installing AI agents for small businesses in Israel, in Hebrew, with long-term support.",
+  "source_note": "Prices are before VAT and are his service rates as published on the original date (October 7, 2026), not a current quote or market data."
+ },
+ "cursor-team-adoption": {
+  "title": "How do you roll out Cursor in a development team?",
+  "summary": "Start with shared rules and a small pilot, not licenses for everyone. Then measure usage and cost.",
+  "hook": "After we rolled out Cursor in the team, I noticed developers no longer wait for an answer to every code question. In my post I described how they ask the chat, understand, and move forward on their own. That is a change in the team's work habits, beyond buying licenses.",
+  "body": "**Short answer:** Start with shared rules and a small pilot, not licenses for everyone. Then measure usage and cost.\n\nThese are my lessons from leading the Cursor rollout at Elementor, in an engineering organization of 50+ engineers.\n\n**1. Pilot before rollout.** A small group of volunteers, four to six weeks, and real tasks.\n\n**2. Shared rules files.** Repo-level Cursor rules fix code style, conventions and common mistakes. Without them every developer gets different results.\n\n**3. An internal community.** A forum or \"guild\" where developers share prompts, tricks and failures. Peer learning is faster than top-down training.\n\n**4. Code review.** Code written by AI must go through human review. You can add an automated review that learns from the team's comments and stays updated with the rules.\n\n**5. Measure usage and cost.** Without measurement, the costs surprise you. Track usage per developer, and check whether it translates into output.\n\n**6. Security and privacy.** Define which repositories and secrets are not exposed to the tool.\n\n**Common mistake:** assuming the tool alone will improve productivity. The process around it is what matters.\n\nI accompany teams through this kind of rollout: diagnosis, rules, automated code review and measurement. Details: https://israeli-ai-agency.pages.dev/services/ai-native/. To get in touch: LinkedIn https://il.linkedin.com/in/ofershap or email ofers@mail.instinct.com (a business WhatsApp line will be added soon)",
+  "faq": [
+   [
+    "How do you start a Cursor rollout in a team?",
+    "Start with a small pilot of volunteers on real tasks, and define shared work rules."
+   ],
+   [
+    "Does AI-written code still need review?",
+    "Yes. Code written by AI needs to go through human review."
+   ],
+   [
+    "What do you measure during the rollout?",
+    "Track usage and cost per developer, and check whether they translate into output."
+   ]
+  ],
+  "source_labels": [
+   "Team AI adoption service details",
+   "Ofer's original LinkedIn post"
+  ],
+  "related_label": "WhatsApp agent installation service details",
+  "bio": "Ofer Shapira - The Israeli AI Agency - matching and installing AI agents for small businesses in Israel, in Hebrew, with long-term support.",
+  "source_note": "The process and lessons described are his own, from a rollout he led. Service mentions are as of the original publication date (October 7, 2026)."
+ },
+ "cursor-rules-from-code-review": {
+  "title": "How do you turn code review comments into rules Cursor can use?",
+  "summary": "Collect comments that repeated across several pull requests, check the team actually agrees on them, and then write short, focused rules inside the repo.",
+  "hook": "I asked my agent to build pr-rulebook from an idea that came up in conversation. In the post I published, I told both about the result and about the rule that was rejected in the experiment. The failure is what helps understand how to turn review comments into useful knowledge, without turning every comment into law.",
+  "body": "**Short answer:** Collect comments that repeated across several pull requests, check the team actually agrees on them, and then write short, focused rules inside the repo.\n\nA comment like \"we already said you need to validate the input here\" is a sign of team knowledge that never reached the place the agent reads. The goal is to move that knowledge into rules you can check and change.\n\n**1. Collect evidence, not just phrasings.** Pick human comments from merged PRs. Check what changed following the comment. Repetition across several PRs is stronger evidence than two comments in the same discussion.\n\n**2. Separate a convention from a momentary preference.** A recommendation that is right for one file may be wrong in the rest of the system. Next to each rule, keep a link to examples and to the original discussion, and someone from the team reviews it before use.\n\n**3. Write a rule you can act on.** Instead of \"write quality code\", write what to check, when, and which file has a correct example. This is a suggested phrasing, not a client rule: \"In new API routes, validate input before calling the database, following the pattern in the project's example file\".\n\n**4. Keep the rule in the right place.** Per Cursor's documentation, project rules are stored as `.mdc` files inside `.cursor/rules` and managed in Git. A rule can be applied by file type, by relevance, or manually. That way the whole team works against the same source, not against one developer's private prompt.\n\n**5. Start small and test on real code.** Cursor recommends keeping rules focused, under 500 lines, and splitting topics. That is a guiding bound for a rule, not a target to fill. A short rule that prevents a repeating mistake beats a procedures book the agent struggles to apply.\n\nIn the documented pr-rulebook experiment, 15 PRs and 45 human review comments were scanned in the Ruff project. Two candidate rules were found, and only one passed testing. A good reminder: repetition in text is the start of a check, not an automatic approval to enforce a rule.\n\n**When is this a fit?** When a team repeats the same comments over and over, and when it already uses Cursor or a coding agent. The rules help transfer context, but they do not replace tests and human review.\n\nI accompany teams in building work rules, code review and AI tool adoption. Details: https://israeli-ai-agency.pages.dev/services/ai-native/ .",
+  "faq": [
+   [
+    "Where are project rules stored in Cursor?",
+    "In the .cursor/rules folder in the repo, as .mdc files managed in Git."
+   ],
+   [
+    "Should every review comment become a rule?",
+    "No. Check repetition across several PRs, the context, and the team's agreement before using a rule."
+   ],
+   [
+    "Do rules replace code review?",
+    "No. Rules give the agent context; tests and human review are still required."
+   ]
+  ],
+  "source_labels": [
+   "Cursor's official documentation",
+   "The documented pr-rulebook experiment",
+   "Ofer's original post"
+  ],
+  "related_label": "Guide to rolling out Cursor in a team",
+  "bio": "Ofer Shapira - The Israeli AI Agency - matching and installing AI agents for small businesses in Israel, in Hebrew, with long-term support.",
+  "source_note": "The experiment numbers are as documented in the pr-rulebook project. The service mention is as of the original publication date (October 8, 2026)."
+ },
+ "practical-ai-workshop-small-business": {
+  "title": "How do you choose an AI workshop for a small business that you leave with a deliverable?",
+  "summary": "Choose a workshop built around a real business task, demand practice with a deliverable, and decide in advance who will keep using it after the workshop.",
+  "hook": "In a talk I gave at the \"Lashevet\" workspace in Shafayim, I took ideas from the audience and built websites from them in real time. People watched their own idea become something they could open and test. From that experience I start the question about an AI workshop: what will the participants be able to do themselves at the end?",
+  "body": "**Short answer:** Choose a workshop built around a real business task, demand practice with a deliverable, and decide in advance who will keep using it after the workshop.\n\nA goal like \"get to know AI\" is too broad to tell whether the workshop succeeded. A goal like \"build a draft price quote based on our services\" lets you check a result.\n\n**What do you prepare beforehand?** One process, an example that contains no sensitive information, and a person from the business who knows the work. You can work with a dummy document or data stripped of identifying details. These are practice materials, not approval to upload private information to an external tool.\n\n**What should happen during the workshop?** A short explanation, a demonstration, and then the participants do it themselves. The business owner should know how to fix the deliverable and understand what requires human review, not just watch a lecturer type.\n\n**Which deliverable counts as success?** A template for a price quote, a draft answer to repeating questions, or a small process you can repeat. A demo website is a prototype; publishing a business website requires additional checks of content, forms, accessibility and security, depending on the use.\n\n**How do you vet the instructor?** Ask for an example of an exercise and of the deliverable a participant builds. A lecture can fit exposure to ideas, and a workshop fits practice. Choose by the goal, not by the number of tools that appear in the slides.\n\nIn my Shafayim talk I split the time into 45 minutes of explanation and 45 minutes of live demo building websites from the audience's ideas. That is the format I described in the original post, not a rule every workshop must copy. My quote from there sums up the direction: \"All that's left for you is to try.\"\n\n**What do you do the week after?** Go back to the chosen task, use the deliverable, and write down what worked and what still needs fixing. If nobody opens the deliverable again, check whether the right task was chosen and whether instructions are missing.\n\nI help businesses choose an existing tool, install it, and train the team around a useful process. Details: https://israeli-ai-agency.pages.dev/services/automation/ .",
+  "faq": [
+   [
+    "How do you know an AI workshop fit the business?",
+    "The participants finish with a deliverable for a real task and know how to use it and check it again."
+   ],
+   [
+    "What do you bring to a workshop?",
+    "One task and a work example without sensitive information, together with a person who knows the process."
+   ],
+   [
+    "Lecture or workshop?",
+    "A lecture fits getting to know ideas. A workshop fits when you need to practice and build a deliverable yourselves."
+   ]
+  ],
+  "source_labels": [
+   "The post about the Shafayim talk",
+   "Implementation and training for businesses"
+  ],
+  "related_label": "How to start AI adoption in a small business",
+  "bio": "Ofer Shapira - The Israeli AI Agency - matching and installing AI agents for small businesses in Israel, in Hebrew, with long-term support.",
+  "source_note": "The talk and quote are his own, from the original post. The service mention is as of the original publication date (October 8, 2026)."
+ },
+ "plan-before-coding-agent": {
+  "title": "What should you decide before starting to build with a coding agent?",
+  "summary": "Define who will use the product, where it will run, who will maintain it, and how it reaches users. Then choose a tool and ask the agent to build a small experiment that validates the choice.",
+  "hook": "In my post about consulting agents and coding agents, I told about a friend who started building in Claude Code and only near the end discovered the tool did not fit some of the requirements. From him came my principle: first figure out what you need to build and operate, then choose what to write the code with.",
+  "body": "**Short answer:** Define who will use the product, where it will run, who will maintain it, and how it reaches users. Then choose a tool and ask the agent to build a small experiment that validates the choice.\n\nA tool that produces a pretty screen still has to fit the product's life after the demo. When I plan the work, I separate the product decision from writing the code.\n\n### Start from the user and the process\nWrite one action the user needs to complete. For example, a content editor needs to publish a page without opening a task for a developer. That is a test you can demo and check, not a general feature list.\n\n### Check the way out\nFor an app: how do you distribute a version, who manages the store account, and how do you ship an update? For a content site: who edits the content, and how do you check the page is search-accessible? For a business system: where is the data, who is allowed to access it, and how do you recover from a failure? These are check questions. The answers depend on the product and the tool you choose.\n\n### Write a short decision\nYou can use an ADR, an Architecture Decision Record. Martin Fowler describes it as a short document that records one decision, its context, and its consequences. Next to the choice, I suggest writing what the alternatives were and what would make us re-examine the decision.\n\nA starter template:\n\n- The problem the product solves and the first user.\n- The constraints: distribution, permissions, maintenance and budget.\n- Two alternatives worth checking.\n- The choice and its reason.\n- An experiment that proves the important action can be completed.\n- Who owns it after the experiment works.\n\n### Give the agent a bounded task\nAn example prompt, for illustration: \"Before writing code, present two implementation approaches that fit these constraints. For each, state what we will need to operate and what is still unknown. Then propose a small experiment to test the main risk.\"\n\nAfter deciding, ask for an implementation of the first action only. If the risk is deployment, the experiment must include deployment. If the risk is content editing, have a real editor test it. That way the choice rests on a working action, not on the impression from the first screen.",
+  "faq": [
+   [
+    "What is the difference between a planning conversation and writing code?",
+    "The planning conversation clarifies requirements, constraints and alternatives. Writing the code implements a choice you can already test."
+   ],
+   [
+    "Do you need an ADR for every small change?",
+    "The document is useful for a significant decision with alternatives and consequences. A simple local change can stay in the task description."
+   ],
+   [
+    "What should the first experiment include?",
+    "The core action and the risk that needs validating, such as deployment or content editing by a user."
+   ]
+  ],
+  "source_labels": [
+   "My original post about choosing a tool before writing code",
+   "Martin Fowler: Architecture Decision Record"
+  ],
+  "related_label": "When the project is already stuck: what to check first",
+  "bio": "Ofer Shapira - The Israeli AI Agency - matching and installing AI agents for small businesses in Israel, in Hebrew, with long-term support.",
+  "source_note": "The example prompts are illustrations, as in the original. The bio reflects the original publication date (October 9, 2026)."
+ },
+ "feature-to-marketing-with-ai": {
+  "title": "How do you translate a technical feature into an explanation for the marketing team with AI?",
+  "summary": "Give the agent the feature's changes and documents, ask for an explanation of the problem and the value to the user, and then check with the feature owner what is actually available before using the text externally.",
+  "hook": "I wrote on LinkedIn about a process we ran in the team: we connected Cloud Cursor to a Slack channel, and the content person asked it to explain a feature from the commits, the pull requests and the documents. The interesting work was translating the development material into the language of users.",
+  "body": "**Short answer:** Give the agent the feature's changes and documents, ask for an explanation of the problem and the value to the user, and then check with the feature owner what is actually available before using the text externally.\n\nA developer thinks about implementation. A content person needs to explain who the feature helps and at what moment. The agent can prepare the draft that connects the two, as long as it gets the right source material.\n\n### Prepare a source package\nPick the pull requests, the task description, the product documents and the tests related to the feature. State what is already merged and what is still open. If there is a usage limitation or a gradual rollout, attach that too. The distinction between planning and what is available right now matters especially in text that will reach customers.\n\n### Ask for user value\nAn example prompt, for illustration:\n\n\"Analyze the attached changes and documents. Explain to a non-technical user what the feature does, which problem it solves, and when it is worth using. Separate available capabilities from work that is still open. For each major claim, state which source it rests on. If information is missing, mark it instead of filling it in yourself. Do not include code or infrastructure details in the user text.\"\n\n### Check before publishing\nGo over the draft with someone who knows the feature:\n\n- Does the text describe the available version?\n- Can the user perform the described action?\n- Does the explanation leave out an important limitation?\n- Is there a promised result that has no test behind it?\n\nYou can keep the source references in the internal document, and remove them from the customer version after the check. The goal is a clear explanation with a trail you can verify.\n\n### Connect it to an existing process\nAt our place we used a dedicated Slack channel to start the work with Cursor. Per Cursor's current documentation, mentioning @cursor with a prompt can launch a Cloud Agent from inside Slack. The setup requires connecting a code provider, choosing a repository, a privacy check and billing settings. Check permissions and costs before connecting another team.\n\nYou can apply the same principle without Slack: prepare a source package, ask for a draft, check it, and hand it to the content team. The technical connection is chosen by the environment; the responsibility for correctness stays with the feature owner.",
+  "faq": [
+   [
+    "What material should you give the agent?",
+    "Code changes, the task description, product documents and tests, with a clear distinction between merged work and open work."
+   ],
+   [
+    "Who approves the text for customers?",
+    "The feature owner checks availability, limitations and claims. The content team adapts the text to the audience after the check."
+   ],
+   [
+    "Do you have to connect Cursor to Slack?",
+    "You can prepare and check a draft without Slack. The connection is a way to start the work from inside the team's process."
+   ]
+  ],
+  "source_labels": [
+   "My original post about explaining features to the content team",
+   "Cursor documentation: connecting Cloud Agents to Slack"
+  ],
+  "related_label": "How to start rolling out Cursor in a development team",
+  "bio": "Ofer Shapira - The Israeli AI Agency - matching and installing AI agents for small businesses in Israel, in Hebrew, with long-term support.",
+  "source_note": "The team process is described as it ran, per the original post. The bio reflects the original publication date (October 9, 2026)."
  }
 }

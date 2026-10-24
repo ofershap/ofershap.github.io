@@ -1,7 +1,7 @@
 ---
 title: "How do you ask a coding agent to fix a bug with a regression test?"
 published: 2026-10-12T13:00:00+03:00
-updated: 2026-10-23
+updated: 2026-10-24
 lang: en
 canonical: https://ofershap.github.io/en/posts/regression-first-agent-bugfix/
 original: https://ofershap.github.io/posts/regression-first-agent-bugfix/
@@ -75,4 +75,4 @@ It isolates a dependency and allows a focused test. The connection to the real s
 
 Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify.
 
-Last updated: 2026-10-23
+Last updated: 2026-10-24

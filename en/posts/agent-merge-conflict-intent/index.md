@@ -1,7 +1,7 @@
 ---
 title: "How do you let a coding agent resolve merge conflicts without losing the change's intent?"
 published: 2026-10-13T13:00:00+03:00
-updated: 2026-10-23
+updated: 2026-10-24
 lang: en
 canonical: https://ofershap.github.io/en/posts/agent-merge-conflict-intent/
 original: https://ofershap.github.io/posts/agent-merge-conflict-intent/
@@ -79,4 +79,4 @@ It detects conflict markers and whitespace errors. Checking the behavior require
 
 Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify.
 
-Last updated: 2026-10-23
+Last updated: 2026-10-24

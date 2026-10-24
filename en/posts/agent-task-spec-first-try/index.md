@@ -1,7 +1,7 @@
 ---
 title: "How do you write a coding-agent task that succeeds on the first try?"
 published: 2026-10-21T07:50:00+03:00
-updated: 2026-10-23
+updated: 2026-10-24
 lang: en
 canonical: https://ofershap.github.io/en/posts/agent-task-spec-first-try/
 original: https://ofershap.github.io/posts/agent-task-spec-first-try/
@@ -59,4 +59,4 @@ A one-line change in one file needs one line. The four parts come into play the 
 
 Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify.
 
-Last updated: 2026-10-23
+Last updated: 2026-10-24

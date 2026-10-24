@@ -1,7 +1,7 @@
 ---
 title: "How do you verify an agent's MCP connection works, through the first read?"
 published: 2026-10-15T13:00:00+03:00
-updated: 2026-10-23
+updated: 2026-10-24
 lang: en
 canonical: https://ofershap.github.io/en/posts/mcp-first-read-connection-check/
 original: https://ofershap.github.io/posts/mcp-first-read-connection-check/
@@ -71,4 +71,4 @@ Versions, the tool, non-secret input, result, and limitations. Don't keep tokens
 
 Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify.
 
-Last updated: 2026-10-23
+Last updated: 2026-10-24

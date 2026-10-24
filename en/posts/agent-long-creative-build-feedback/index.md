@@ -1,7 +1,7 @@
 ---
 title: "How do you run a long creative project with an AI agent through chat?"
 published: 2026-10-19T13:00:00+03:00
-updated: 2026-10-23
+updated: 2026-10-24
 lang: en
 canonical: https://ofershap.github.io/en/posts/agent-long-creative-build-feedback/
 original: https://ofershap.github.io/posts/agent-long-creative-build-feedback/
@@ -65,4 +65,4 @@ Yes. A checkable brief, gradual access, regular reporting, and one comment per r
 
 Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify.
 
-Last updated: 2026-10-23
+Last updated: 2026-10-24

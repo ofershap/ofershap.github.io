@@ -812,7 +812,7 @@ Canonical URL: https://ofershap.github.io/posts/agent-long-creative-build-feedba
 ---
 title: "איך מנהלים פרויקט יצירתי ארוך עם סוכן AI דרך צ'אט?"
 published: 2026-10-19T13:00:00+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/agent-long-creative-build-feedback/
 ---
@@ -875,7 +875,7 @@ canonical: https://ofershap.github.io/posts/agent-long-creative-build-feedback/
 
 עופר שפירא - בונה ומוביל AI בצוותי פיתוח, וכותב על סוכנים, החלטות ותהליכי עבודה שאפשר לבדוק.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -885,7 +885,7 @@ Canonical URL: https://ofershap.github.io/posts/agent-merge-conflict-intent/
 ---
 title: "איך נותנים לסוכן קוד לפתור merge conflicts בלי לאבד את כוונת השינוי?"
 published: 2026-10-13T13:00:00+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/agent-merge-conflict-intent/
 ---
@@ -962,7 +962,7 @@ Git מנסה לשחזר את המצב לפני המיזוג. כשיש עבודה
 
 עופר שפירא - בונה ומוביל AI בצוותי פיתוח, וכותב על סוכנים, החלטות ותהליכי עבודה שאפשר לבדוק.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -972,7 +972,7 @@ Canonical URL: https://ofershap.github.io/posts/agent-onboarding-completed-task-
 ---
 title: "איך מודדים התחלת שימוש בסוכן AI מעבר להרשמה?"
 published: 2026-10-15T13:00:00+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/agent-onboarding-completed-task-metrics/
 ---
@@ -1047,7 +1047,7 @@ canonical: https://ofershap.github.io/posts/agent-onboarding-completed-task-metr
 
 עופר שפירא - בונה ומוביל AI בצוותי פיתוח, וכותב על סוכנים, החלטות ותהליכי עבודה שאפשר לבדוק.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -1057,7 +1057,7 @@ Canonical URL: https://ofershap.github.io/posts/agent-payment-approval-limits/
 ---
 title: "איך נותנים לסוכן AI לשלם בלי לאבד שליטה?"
 published: 2026-10-20T13:30:00+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/agent-payment-approval-limits/
 ---
@@ -1110,7 +1110,7 @@ canonical: https://ofershap.github.io/posts/agent-payment-approval-limits/
 
 עופר שפירא - בונה ומוביל AI בצוותי פיתוח, וכותב על סוכנים, החלטות ותהליכי עבודה שאפשר לבדוק.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -1120,7 +1120,7 @@ Canonical URL: https://ofershap.github.io/posts/agent-skill-vs-rules-file/
 ---
 title: "מתי הוראות חוזרות לסוכן הופכות ל-Skill?"
 published: 2026-10-20T13:30:00+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/agent-skill-vs-rules-file/
 ---
@@ -1173,7 +1173,7 @@ Skill נושא שם, תיאור מתי להשתמש בו, וקבצי עזר, ו�
 
 עופר שפירא - בונה ומוביל AI בצוותי פיתוח, וכותב על סוכנים, החלטות ותהליכי עבודה שאפשר לבדוק.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -1183,7 +1183,7 @@ Canonical URL: https://ofershap.github.io/posts/agent-talk-from-content-archive/
 ---
 title: "איך הופכים שנה של כתיבה אישית להרצאה בעזרת סוכן?"
 published: 2026-10-19T14:00:00+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/agent-talk-from-content-archive/
 ---
@@ -1242,7 +1242,7 @@ canonical: https://ofershap.github.io/posts/agent-talk-from-content-archive/
 
 עופר שפירא - בונה ומוביל AI בצוותי פיתוח, וכותב על סוכנים, החלטות ותהליכי עבודה שאפשר לבדוק.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -1252,7 +1252,7 @@ Canonical URL: https://ofershap.github.io/posts/agent-task-spec-first-try/
 ---
 title: "איך כותבים משימה לסוכן קוד שתצליח בפעם הראשונה?"
 published: 2026-10-21T07:50:00+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/agent-task-spec-first-try/
 ---
@@ -1309,7 +1309,7 @@ canonical: https://ofershap.github.io/posts/agent-task-spec-first-try/
 
 עופר שפירא - בונה ומוביל AI בצוותי פיתוח, וכותב על סוכנים, החלטות ותהליכי עבודה שאפשר לבדוק.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -1319,7 +1319,7 @@ Canonical URL: https://ofershap.github.io/posts/agent-wait-resume-without-duplic
 ---
 title: "איך נותנים לסוכן AI משימה שמחכה לתשובה בלי ליצור כפילויות?"
 published: 2026-10-12T13:00:00+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/agent-wait-resume-without-duplicates/
 ---
@@ -1386,7 +1386,7 @@ canonical: https://ofershap.github.io/posts/agent-wait-resume-without-duplicates
 
 עופר שפירא - The Israeli AI Agency - התאמה והתקנת סוכני AI לעסקים קטנים בישראל, בעברית, עם ליווי לאורך זמן.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -1396,7 +1396,7 @@ Canonical URL: https://ofershap.github.io/posts/agent-workflow-guardrails-before
 ---
 title: "אילו גבולות מגדירים לפני שמפעילים עשרות סוכני AI במקביל?"
 published: 2026-10-17T13:00:00+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/agent-workflow-guardrails-before-scaling/
 ---
@@ -1458,7 +1458,7 @@ canonical: https://ofershap.github.io/posts/agent-workflow-guardrails-before-sca
 
 עופר שפירא - בונה ומוביל AI בצוותי פיתוח, וכותב על סוכנים, החלטות ותהליכי עבודה שאפשר לבדוק.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -1521,7 +1521,7 @@ Canonical URL: https://ofershap.github.io/posts/ai-adoption-small-business/
 ---
 title: "איך מתחילים להטמיע AI בעסק קטן בלי לפתח כלום?"
 published: 2026-10-07T19:59:48+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/ai-adoption-small-business/
 ---
@@ -1570,7 +1570,7 @@ canonical: https://ofershap.github.io/posts/ai-adoption-small-business/
 
 עופר שפירא - The Israeli AI Agency - התאמה והתקנת סוכני AI לעסקים קטנים בישראל, בעברית, עם ליווי לאורך זמן.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -2228,7 +2228,7 @@ Canonical URL: https://ofershap.github.io/posts/browser-extension-race-condition
 ---
 title: "איך בודקים race conditions בתוסף דפדפן שסוכן AI משנה?"
 published: 2026-10-14T13:00:00+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/browser-extension-race-condition-tests/
 ---
@@ -2297,7 +2297,7 @@ canonical: https://ofershap.github.io/posts/browser-extension-race-condition-tes
 
 עופר שפירא - בונה ומוביל AI בצוותי פיתוח, וכותב על סוכנים, החלטות ותהליכי עבודה שאפשר לבדוק.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -2834,7 +2834,7 @@ Canonical URL: https://ofershap.github.io/posts/coding-agent-success-criteria/
 ---
 title: "איך מגדירים לסוכן קוד מה נחשב הצלחה?"
 published: 2026-10-10T12:53:36+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/coding-agent-success-criteria/
 ---
@@ -2894,7 +2894,7 @@ canonical: https://ofershap.github.io/posts/coding-agent-success-criteria/
 
 עופר שפירא - The Israeli AI Agency - התאמה והתקנת סוכני AI לעסקים קטנים בישראל, בעברית, עם ליווי לאורך זמן.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -3005,7 +3005,7 @@ Canonical URL: https://ofershap.github.io/posts/cursor-rules-from-code-review/
 ---
 title: "איך הופכים הערות Code Review לכללים ש-Cursor יכול להשתמש בהם?"
 published: 2026-10-08T12:54:14+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/cursor-rules-from-code-review/
 ---
@@ -3056,7 +3056,7 @@ canonical: https://ofershap.github.io/posts/cursor-rules-from-code-review/
 
 עופר שפירא - The Israeli AI Agency - התאמה והתקנת סוכני AI לעסקים קטנים בישראל, בעברית, עם ליווי לאורך זמן.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -3066,7 +3066,7 @@ Canonical URL: https://ofershap.github.io/posts/cursor-team-adoption/
 ---
 title: "איך מטמיעים Cursor בצוות פיתוח?"
 published: 2026-10-07T19:59:48+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/cursor-team-adoption/
 ---
@@ -3117,7 +3117,7 @@ canonical: https://ofershap.github.io/posts/cursor-team-adoption/
 
 עופר שפירא - The Israeli AI Agency - התאמה והתקנת סוכני AI לעסקים קטנים בישראל, בעברית, עם ליווי לאורך זמן.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -3321,7 +3321,7 @@ Canonical URL: https://ofershap.github.io/posts/decision-first-pr-description/
 ---
 title: "איך כותבים PR description לקוד שסוכן AI כתב?"
 published: 2026-10-13T13:00:00+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/decision-first-pr-description/
 ---
@@ -3404,7 +3404,7 @@ canonical: https://ofershap.github.io/posts/decision-first-pr-description/
 
 עופר שפירא - בונה ומוביל AI בצוותי פיתוח, וכותב על סוכנים, החלטות ותהליכי עבודה שאפשר לבדוק.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -3678,7 +3678,7 @@ Canonical URL: https://ofershap.github.io/posts/feature-to-marketing-with-ai/
 ---
 title: "איך מתרגמים פיצ׳ר טכני להסבר לצוות השיווק בעזרת AI?"
 published: 2026-10-09T12:56:40+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/feature-to-marketing-with-ai/
 ---
@@ -3736,7 +3736,7 @@ canonical: https://ofershap.github.io/posts/feature-to-marketing-with-ai/
 
 עופר שפירא - The Israeli AI Agency - התאמה והתקנת סוכני AI לעסקים קטנים בישראל, בעברית, עם ליווי לאורך זמן.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -4045,7 +4045,7 @@ Canonical URL: https://ofershap.github.io/posts/golden-sample-agent-quality-cost
 ---
 title: "איך בודקים שתהליך מרובה סוכנים שווה את העלות שלו?"
 published: 2026-10-17T13:00:00+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/golden-sample-agent-quality-cost-check/
 ---
@@ -4102,7 +4102,7 @@ canonical: https://ofershap.github.io/posts/golden-sample-agent-quality-cost-che
 
 עופר שפירא - בונה ומוביל AI בצוותי פיתוח, וכותב על סוכנים, החלטות ותהליכי עבודה שאפשר לבדוק.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -5624,7 +5624,7 @@ Canonical URL: https://ofershap.github.io/posts/human-review-ai-pull-request/
 ---
 title: "איך עושים review ל-PR שסוכן AI כתב?"
 published: 2026-10-11T13:00:00+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/human-review-ai-pull-request/
 ---
@@ -5687,7 +5687,7 @@ GitHub ממליצה לאמת את משוב Copilot ולשלב review אנושי.
 
 עופר שפירא - The Israeli AI Agency - התאמה והתקנת סוכני AI לעסקים קטנים בישראל, בעברית, עם ליווי לאורך זמן.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -5824,7 +5824,7 @@ Canonical URL: https://ofershap.github.io/posts/keep-agent-context-current/
 ---
 title: "איך שומרים קובצי הקשר וכללי Cursor מעודכנים?"
 published: 2026-10-10T12:53:36+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/keep-agent-context-current/
 ---
@@ -5889,7 +5889,7 @@ canonical: https://ofershap.github.io/posts/keep-agent-context-current/
 
 עופר שפירא - The Israeli AI Agency - התאמה והתקנת סוכני AI לעסקים קטנים בישראל, בעברית, עם ליווי לאורך זמן.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -27394,6 +27394,81 @@ Published: 2026-10-22T10:56:22.086000+03:00
 
 ---
 
+Canonical URL: https://ofershap.github.io/posts/linkedin-7519262924016656384/
+
+---
+title: "טיפ לאייפון שתמיד רציתי שיהיה ומסתבר שכבר יש: מיזוג תמונות וסרטונים כפולים."
+published: 2026-10-23T08:06:22.873000+03:00
+source: https://www.linkedin.com/feed/update/urn:li:share:7519262924016656384
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7519262924016656384/
+---
+
+# טיפ לאייפון שתמיד רציתי שיהיה ומסתבר שכבר יש: מיזוג תמונות וסרטונים כפולים.
+
+טיפ לאייפון שתמיד רציתי שיהיה ומסתבר שכבר יש: מיזוג תמונות וסרטונים כפולים.
+
+ב-Photos פותחים Collections, גוללים ל-Duplicates ולוחצים Merge.
+
+האייפון שומר את האיכות והמידע הטובים יותר מהעותקים. שווה לבדוק לפני שקונים עוד מקום.
+
+אגב יש לנו קבוצת וואטסאפ אם תרצו עזרה ביצירת בוט משלכם:
+https://chat.whatsapp.com/K4e3jxRerQs7QDAy9h8InB?mode=gi_t
+
+Original source: https://www.linkedin.com/feed/update/urn:li:share:7519262924016656384
+Published: 2026-10-23T08:06:22.873000+03:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)
+
+
+---
+
+Canonical URL: https://ofershap.github.io/posts/linkedin-7519282929215361024/
+
+---
+title: "גיטהאב חסמו את החשבון של הבוט שלי ואני חושב שזאת חוצפה."
+published: 2026-10-23T09:25:52.491000+03:00
+source: https://www.linkedin.com/feed/update/urn:li:share:7519282929215361024
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7519282929215361024/
+---
+
+# גיטהאב חסמו את החשבון של הבוט שלי ואני חושב שזאת חוצפה.
+
+גיטהאב חסמו את החשבון של הבוט שלי ואני חושב שזאת חוצפה.
+
+העולם עדיין לא התעורר ולא מוכן למציאות שכבר קורית פה. הבוטים שלנו גולשים בשמנו ובמקביל אלינו כדי לעזור לנו.
+
+השבוע דיווח Axios שבנקים גדולים בארה״ב זיהו סוכני AI חיצוניים שפועלים בחשבונות לקוחות. לפי הדיווח, הם נכנסו עם פרטי ההתחברות של הלקוחות. הבנקים חוששים מפעולות שחורגות ממה שהלקוח ביקש.
+
+זה חשש מוצדק. עצם הכניסה עם הסיסמה שלי לא אומרת שהרשיתי לסוכן לעשות כל פעולה בחשבון.
+
+אז תנו לי דרך להגדיר מה מותר לו לעשות. לקרוא מידע, לרכז אותו בשבילי, להכין פעולה לאישור שלי. תנו לי להגביל את ההרשאה ולבטל אותה. תנו לי לראות מה הוא עשה.
+
+ב־Cloudflare כתבו את זה בצורה פשוטה: כשאתם חוסמים את הסוכן, אתם חוסמים את הלקוח שלכם.
+
+מכאן צריכה לבוא דרישה מהצד שלנו. צריך לנער את החברות הגדולות ולדרוש שינגישו את המערכות שלהן לסוכנים שאנחנו בוחרים לתת להם הרשאה. ואם צריך, גם בחוק.
+
+אני אשמח שהבוט שלי יגלוש בשמי בכל המערכות, כל עוד אני יכול לבטוח בו ובמערכות. אבל לחסום את הבוט שלי מלהשתמש באתרים, בלי לתת לי דרך מורשית לעבוד איתו, זה ברמת מחדל.
+
+Original source: https://www.linkedin.com/feed/update/urn:li:share:7519282929215361024
+Published: 2026-10-23T09:25:52.491000+03:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)
+
+
+---
+
 Canonical URL: https://ofershap.github.io/posts/lovable-built-super-tic-tac-toe-from-one-question/
 
 ---
@@ -27643,7 +27718,7 @@ Canonical URL: https://ofershap.github.io/posts/mcp-first-read-connection-check/
 ---
 title: "איך בודקים שחיבור MCP לסוכן עובד עד הקריאה הראשונה?"
 published: 2026-10-15T13:00:00+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/mcp-first-read-connection-check/
 ---
@@ -27712,7 +27787,7 @@ canonical: https://ofershap.github.io/posts/mcp-first-read-connection-check/
 
 עופר שפירא - בונה ומוביל AI בצוותי פיתוח, וכותב על סוכנים, החלטות ותהליכי עבודה שאפשר לבדוק.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -27865,7 +27940,7 @@ Canonical URL: https://ofershap.github.io/posts/monthly-automation-review/
 ---
 title: "איך בודקים אחרי חודש שהאוטומציה באמת עובדת?"
 published: 2026-10-18T13:00:00+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/monthly-automation-review/
 ---
@@ -27922,7 +27997,7 @@ canonical: https://ofershap.github.io/posts/monthly-automation-review/
 
 עופר שפירא - בונה ומוביל AI בצוותי פיתוח, וכותב על סוכנים, החלטות ותהליכי עבודה שאפשר לבדוק.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -27932,7 +28007,7 @@ Canonical URL: https://ofershap.github.io/posts/native-tool-before-custom-agent/
 ---
 title: "מתי לבחור כלי קיים במקום לבנות סוכן AI?"
 published: 2026-10-11T13:00:00+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/native-tool-before-custom-agent/
 ---
@@ -27993,7 +28068,7 @@ canonical: https://ofershap.github.io/posts/native-tool-before-custom-agent/
 
 עופר שפירא - The Israeli AI Agency - התאמה והתקנת סוכני AI לעסקים קטנים בישראל, בעברית, עם ליווי לאורך זמן.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -28244,7 +28319,7 @@ Canonical URL: https://ofershap.github.io/posts/plan-before-coding-agent/
 ---
 title: "מה צריך להחליט לפני שמתחילים לבנות עם סוכן קוד?"
 published: 2026-10-09T12:56:40+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/plan-before-coding-agent/
 ---
@@ -28302,7 +28377,7 @@ canonical: https://ofershap.github.io/posts/plan-before-coding-agent/
 
 עופר שפירא - The Israeli AI Agency - התאמה והתקנת סוכני AI לעסקים קטנים בישראל, בעברית, עם ליווי לאורך זמן.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -28398,7 +28473,7 @@ Canonical URL: https://ofershap.github.io/posts/practical-ai-workshop-small-busi
 ---
 title: "איך בוחרים סדנת AI לעסק קטן שיוצאים ממנה עם תוצר?"
 published: 2026-10-08T12:54:14+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/practical-ai-workshop-small-business/
 ---
@@ -28447,7 +28522,7 @@ canonical: https://ofershap.github.io/posts/practical-ai-workshop-small-business
 
 עופר שפירא - The Israeli AI Agency - התאמה והתקנת סוכני AI לעסקים קטנים בישראל, בעברית, עם ליווי לאורך זמן.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -28564,7 +28639,7 @@ Canonical URL: https://ofershap.github.io/posts/regression-first-agent-bugfix/
 ---
 title: "איך מבקשים מסוכן קוד לתקן באג עם בדיקת רגרסיה?"
 published: 2026-10-12T13:00:00+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/regression-first-agent-bugfix/
 ---
@@ -28637,7 +28712,7 @@ canonical: https://ofershap.github.io/posts/regression-first-agent-bugfix/
 
 עופר שפירא - The Israeli AI Agency - התאמה והתקנת סוכני AI לעסקים קטנים בישראל, בעברית, עם ליווי לאורך זמן.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -28690,7 +28765,7 @@ Canonical URL: https://ofershap.github.io/posts/review-feedback-to-verifiable-fi
 ---
 title: "איך כותבים הערות review שסוכן קוד או תורם יכולים להפוך לתיקון בדוק?"
 published: 2026-10-14T13:00:00+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/review-feedback-to-verifiable-fix/
 ---
@@ -28759,7 +28834,7 @@ GitHub תומך בתגובה, אישור ובקשת שינויים כמצבי re
 
 עופר שפירא - בונה ומוביל AI בצוותי פיתוח, וכותב על סוכנים, החלטות ותהליכי עבודה שאפשר לבדוק.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -29910,7 +29985,7 @@ Canonical URL: https://ofershap.github.io/posts/vibe-code-project-rescue/
 ---
 title: "הפרויקט שנבנה ב-Cursor, Lovable או Bolt לא עובד. מה עושים?"
 published: 2026-10-07T19:59:48+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/vibe-code-project-rescue/
 ---
@@ -29961,7 +30036,7 @@ canonical: https://ofershap.github.io/posts/vibe-code-project-rescue/
 
 עופר שפירא - The Israeli AI Agency - התאמה והתקנת סוכני AI לעסקים קטנים בישראל, בעברית, עם ליווי לאורך זמן.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -30008,7 +30083,7 @@ Canonical URL: https://ofershap.github.io/posts/weekly-agent-digest/
 ---
 title: "איך בונים דיג'סט שבועי שהופך פלט של סוכן לעבודה שאפשר לראות?"
 published: 2026-10-18T13:05:00+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/weekly-agent-digest/
 ---
@@ -30067,7 +30142,7 @@ canonical: https://ofershap.github.io/posts/weekly-agent-digest/
 
 עופר שפירא - בונה ומוביל AI בצוותי פיתוח, וכותב על סוכנים, החלטות ותהליכי עבודה שאפשר לבדוק.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -30474,7 +30549,7 @@ Canonical URL: https://ofershap.github.io/posts/whatsapp-agent-cost-israel/
 ---
 title: "כמה עולה סוכן וואטסאפ ל-AI לעסק קטן בישראל?"
 published: 2026-10-07T19:59:48+03:00
-updated: 2026-10-22
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/whatsapp-agent-cost-israel/
 ---
@@ -30523,7 +30598,7 @@ canonical: https://ofershap.github.io/posts/whatsapp-agent-cost-israel/
 
 עופר שפירא - The Israeli AI Agency - התאמה והתקנת סוכני AI לעסקים קטנים בישראל, בעברית, עם ליווי לאורך זמן.
 
-עודכן לאחרונה: 2026-10-22
+עודכן לאחרונה: 2026-10-24
 
 
 ---
@@ -31605,80 +31680,5 @@ Original source: https://www.linkedin.com/posts/ofershap_%D7%94%D7%90%D7%9D-%D7%
 ## About Ofer Shapira
 
 I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
-
-[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)
-
-
----
-
-Canonical URL: https://ofershap.github.io/posts/linkedin-7519282929215361024/
-
----
-title: "גיטהאב חסמו את החשבון של הבוט שלי ואני חושב שזאת חוצפה."
-published: 2026-10-23T09:25:52.491000+03:00
-source: https://www.linkedin.com/feed/update/urn:li:share:7519282929215361024
-lang: he
-canonical: https://ofershap.github.io/posts/linkedin-7519282929215361024/
----
-
-# גיטהאב חסמו את החשבון של הבוט שלי ואני חושב שזאת חוצפה.
-
-גיטהאב חסמו את החשבון של הבוט שלי ואני חושב שזאת חוצפה.
-
-העולם עדיין לא התעורר ולא מוכן למציאות שכבר קורית פה. הבוטים שלנו גולשים בשמנו ובמקביל אלינו כדי לעזור לנו.
-
-השבוע דיווח Axios שבנקים גדולים בארה״ב זיהו סוכני AI חיצוניים שפועלים בחשבונות לקוחות. לפי הדיווח, הם נכנסו עם פרטי ההתחברות של הלקוחות. הבנקים חוששים מפעולות שחורגות ממה שהלקוח ביקש.
-
-זה חשש מוצדק. עצם הכניסה עם הסיסמה שלי לא אומרת שהרשיתי לסוכן לעשות כל פעולה בחשבון.
-
-אז תנו לי דרך להגדיר מה מותר לו לעשות. לקרוא מידע, לרכז אותו בשבילי, להכין פעולה לאישור שלי. תנו לי להגביל את ההרשאה ולבטל אותה. תנו לי לראות מה הוא עשה.
-
-ב־Cloudflare כתבו את זה בצורה פשוטה: כשאתם חוסמים את הסוכן, אתם חוסמים את הלקוח שלכם.
-
-מכאן צריכה לבוא דרישה מהצד שלנו. צריך לנער את החברות הגדולות ולדרוש שינגישו את המערכות שלהן לסוכנים שאנחנו בוחרים לתת להם הרשאה. ואם צריך, גם בחוק.
-
-אני אשמח שהבוט שלי יגלוש בשמי בכל המערכות, כל עוד אני יכול לבטוח בו ובמערכות. אבל לחסום את הבוט שלי מלהשתמש באתרים, בלי לתת לי דרך מורשית לעבוד איתו, זה ברמת מחדל.
-
-Original source: https://www.linkedin.com/feed/update/urn:li:share:7519282929215361024
-Published: 2026-10-23T09:25:52.491000+03:00
-
-
-## על עופר שפירא
-
-אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
-
-[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)
-
-
----
-
-Canonical URL: https://ofershap.github.io/posts/linkedin-7519262924016656384/
-
----
-title: "טיפ לאייפון שתמיד רציתי שיהיה ומסתבר שכבר יש: מיזוג תמונות וסרטונים כפולים."
-published: 2026-10-23T08:06:22.873000+03:00
-source: https://www.linkedin.com/feed/update/urn:li:share:7519262924016656384
-lang: he
-canonical: https://ofershap.github.io/posts/linkedin-7519262924016656384/
----
-
-# טיפ לאייפון שתמיד רציתי שיהיה ומסתבר שכבר יש: מיזוג תמונות וסרטונים כפולים.
-
-טיפ לאייפון שתמיד רציתי שיהיה ומסתבר שכבר יש: מיזוג תמונות וסרטונים כפולים.
-
-ב-Photos פותחים Collections, גוללים ל-Duplicates ולוחצים Merge.
-
-האייפון שומר את האיכות והמידע הטובים יותר מהעותקים. שווה לבדוק לפני שקונים עוד מקום.
-
-אגב יש לנו קבוצת וואטסאפ אם תרצו עזרה ביצירת בוט משלכם:
-https://chat.whatsapp.com/K4e3jxRerQs7QDAy9h8InB?mode=gi_t
-
-Original source: https://www.linkedin.com/feed/update/urn:li:share:7519262924016656384
-Published: 2026-10-23T08:06:22.873000+03:00
-
-
-## על עופר שפירא
-
-אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
 
 [GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

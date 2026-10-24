@@ -1,7 +1,7 @@
 ---
 title: "איך נותנים לסוכן AI משימה שמחכה לתשובה בלי ליצור כפילויות?"
 published: 2026-10-12T13:00:00+03:00
-updated: 2026-10-23
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/agent-wait-resume-without-duplicates/
 ---
@@ -68,4 +68,4 @@ canonical: https://ofershap.github.io/posts/agent-wait-resume-without-duplicates
 
 עופר שפירא - The Israeli AI Agency - התאמה והתקנת סוכני AI לעסקים קטנים בישראל, בעברית, עם ליווי לאורך זמן.
 
-עודכן לאחרונה: 2026-10-23
+עודכן לאחרונה: 2026-10-24

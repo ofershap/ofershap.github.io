@@ -1,7 +1,7 @@
 ---
 title: "Which boundaries do you set before running dozens of AI agents in parallel?"
 published: 2026-10-17T13:00:00+03:00
-updated: 2026-10-23
+updated: 2026-10-24
 lang: en
 canonical: https://ofershap.github.io/en/posts/agent-workflow-guardrails-before-scaling/
 original: https://ofershap.github.io/posts/agent-workflow-guardrails-before-scaling/
@@ -64,4 +64,4 @@ A few agents over dozens of items. The documentation allows up to 64 parallel th
 
 Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify.
 
-Last updated: 2026-10-23
+Last updated: 2026-10-24

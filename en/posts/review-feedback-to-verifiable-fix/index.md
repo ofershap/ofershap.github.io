@@ -1,7 +1,7 @@
 ---
 title: "How do you write review comments a coding agent or contributor can turn into a verified fix?"
 published: 2026-10-14T13:00:00+03:00
-updated: 2026-10-23
+updated: 2026-10-24
 lang: en
 canonical: https://ofershap.github.io/en/posts/review-feedback-to-verifiable-fix/
 original: https://ofershap.github.io/posts/review-feedback-to-verifiable-fix/
@@ -71,4 +71,4 @@ When there are separate mechanisms you can test separately. When there's a depen
 
 Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify.
 
-Last updated: 2026-10-23
+Last updated: 2026-10-24

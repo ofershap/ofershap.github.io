@@ -1,7 +1,7 @@
 ---
 title: "How do you give an AI agent a task that waits for a reply without creating duplicates?"
 published: 2026-10-12T13:00:00+03:00
-updated: 2026-10-23
+updated: 2026-10-24
 lang: en
 canonical: https://ofershap.github.io/en/posts/agent-wait-resume-without-duplicates/
 original: https://ofershap.github.io/posts/agent-wait-resume-without-duplicates/
@@ -69,4 +69,4 @@ Check whether the result exists before retrying. No response is not proof the ac
 
 Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify.
 
-Last updated: 2026-10-23
+Last updated: 2026-10-24

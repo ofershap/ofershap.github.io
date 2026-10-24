@@ -1,7 +1,7 @@
 ---
 title: "When should you pick an existing tool instead of building an AI agent?"
 published: 2026-10-11T13:00:00+03:00
-updated: 2026-10-23
+updated: 2026-10-24
 lang: en
 canonical: https://ofershap.github.io/en/posts/native-tool-before-custom-agent/
 original: https://ofershap.github.io/posts/native-tool-before-custom-agent/
@@ -63,4 +63,4 @@ Sometimes it's enough to add an agent for a focused stage and keep the data and 
 
 Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify.
 
-Last updated: 2026-10-23
+Last updated: 2026-10-24

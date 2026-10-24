@@ -1,7 +1,7 @@
 ---
 title: "How do you define for a coding agent what counts as success?"
 published: 2026-10-10T12:53:36+03:00
-updated: 2026-10-23
+updated: 2026-10-24
 lang: en
 canonical: https://ofershap.github.io/en/posts/coding-agent-success-criteria/
 original: https://ofershap.github.io/posts/coding-agent-success-criteria/
@@ -67,4 +67,4 @@ No. Task instructions are no substitute for access permissions or approval to de
 
 Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify.
 
-Last updated: 2026-10-23
+Last updated: 2026-10-24

@@ -1,7 +1,7 @@
 ---
 title: "How do you let an AI agent pay without losing control?"
 published: 2026-10-20T13:30:00+03:00
-updated: 2026-10-23
+updated: 2026-10-24
 lang: en
 canonical: https://ofershap.github.io/en/posts/agent-payment-approval-limits/
 original: https://ofershap.github.io/posts/agent-payment-approval-limits/
@@ -55,4 +55,4 @@ Freeze the payment method, contact the vendor for a refund, and update the rules
 
 Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify.
 
-Last updated: 2026-10-23
+Last updated: 2026-10-24

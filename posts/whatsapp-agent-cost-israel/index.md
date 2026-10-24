@@ -1,7 +1,7 @@
 ---
 title: "כמה עולה סוכן וואטסאפ ל-AI לעסק קטן בישראל?"
 published: 2026-10-07T19:59:48+03:00
-updated: 2026-10-23
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/whatsapp-agent-cost-israel/
 ---
@@ -50,4 +50,4 @@ canonical: https://ofershap.github.io/posts/whatsapp-agent-cost-israel/
 
 עופר שפירא - The Israeli AI Agency - התאמה והתקנת סוכני AI לעסקים קטנים בישראל, בעברית, עם ליווי לאורך זמן.
 
-עודכן לאחרונה: 2026-10-23
+עודכן לאחרונה: 2026-10-24

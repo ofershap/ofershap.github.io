@@ -1,7 +1,7 @@
 ---
 title: "איך כותבים PR description לקוד שסוכן AI כתב?"
 published: 2026-10-13T13:00:00+03:00
-updated: 2026-10-23
+updated: 2026-10-24
 lang: he
 canonical: https://ofershap.github.io/posts/decision-first-pr-description/
 ---
@@ -84,4 +84,4 @@ canonical: https://ofershap.github.io/posts/decision-first-pr-description/
 
 עופר שפירא - בונה ומוביל AI בצוותי פיתוח, וכותב על סוכנים, החלטות ותהליכי עבודה שאפשר לבדוק.
 
-עודכן לאחרונה: 2026-10-23
+עודכן לאחרונה: 2026-10-24

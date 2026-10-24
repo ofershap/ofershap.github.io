@@ -1,7 +1,7 @@
 ---
 title: "How do you keep context files and Cursor rules up to date?"
 published: 2026-10-10T12:53:36+03:00
-updated: 2026-10-23
+updated: 2026-10-24
 lang: en
 canonical: https://ofershap.github.io/en/posts/keep-agent-context-current/
 original: https://ofershap.github.io/posts/keep-agent-context-current/
@@ -73,4 +73,4 @@ In Cursor, .mdc files under .cursor/rules include metadata for scope control. AG
 
 Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify.
 
-Last updated: 2026-10-23
+Last updated: 2026-10-24

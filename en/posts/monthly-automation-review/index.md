@@ -1,7 +1,7 @@
 ---
 title: "How do you check after a month that the automation really works?"
 published: 2026-10-18T13:00:00+03:00
-updated: 2026-10-23
+updated: 2026-10-24
 lang: en
 canonical: https://ofershap.github.io/en/posts/monthly-automation-review/
 original: https://ofershap.github.io/posts/monthly-automation-review/
@@ -59,4 +59,4 @@ Stop it. Output nobody consumes is cost without benefit, and sometimes an unnece
 
 Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify.
 
-Last updated: 2026-10-23
+Last updated: 2026-10-24

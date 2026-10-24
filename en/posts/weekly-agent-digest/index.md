@@ -1,7 +1,7 @@
 ---
 title: "How do you build a weekly digest that turns agent output into visible work?"
 published: 2026-10-18T13:05:00+03:00
-updated: 2026-10-23
+updated: 2026-10-24
 lang: en
 canonical: https://ofershap.github.io/en/posts/weekly-agent-digest/
 original: https://ofershap.github.io/posts/weekly-agent-digest/
@@ -61,4 +61,4 @@ Decide: push it now, drop it, or change the form it arrives in. No fourth option
 
 Ofer Shapira builds and leads AI in engineering teams, and writes about agents, decisions, and workflows you can verify.
 
-Last updated: 2026-10-23
+Last updated: 2026-10-24
