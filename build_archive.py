@@ -27,8 +27,7 @@ def build():
   local_media=sorted([*path.glob('image-*.jpg'), *path.glob('image-*.png')])
   if local_media:
    assets=''.join('<figure><img src="'+f.name+'" alt="'+E(('מדיה מהפוסט המקורי: ' if he else 'Original post media: ')+title,quote=True)+'" loading="lazy"></figure>' for f in local_media)
-  if (media and len(local_media)<len(media)) or r.get("media_available_on_source"):
-   assets+='<section class="source-media"><h2>'+('מדיה מהפוסט המקורי' if he else 'Original post media')+'</h2><p>'+('התמונות והסרטונים זמינים בפוסט המקורי בלינקדאין.' if he else 'View the original images and videos on LinkedIn.')+'</p></section>'
+  # Missing source media is tracked internally, never replaced by filler copy.
   schema={'@context':'https://schema.org','@type':'BlogPosting','headline':title,'description':desc,'datePublished':r['published_at'],'inLanguage':lang,'url':url,'mainEntityOfPage':url,'author':{'@type':'Person','name':'Ofer Shapira','url':BASE+'/'},'isBasedOn':r['source']}
   if local_media:schema['image']=[url+f.name for f in local_media]
   breadcrumb={'@context':'https://schema.org','@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'Ofer Shapira','item':BASE+'/'},{'@type':'ListItem','position':2,'name':'Writing','item':BASE+'/#archive'},{'@type':'ListItem','position':3,'name':title,'item':url}]}
