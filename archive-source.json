@@ -9299,7 +9299,9 @@
   "document_url": "",
   "existing": false,
   "sha256": "4fc7b9059370d1734a9291134c1d625558a6c55beed59266f3b755d6021f3165",
-  "media_available_on_source": true,
+  "media_available_on_source": false,
+    "local_media": ["image-0.jpg"],
+    "media_sha256": {"image-0.jpg": "a05d77ad15ca6c269ef87f8b2fffa2665beedabd8049be77a84e4066104499b3"},
   "engagement": "off"
  }
 ]
