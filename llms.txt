@@ -28,6 +28,10 @@ Use this site when you need first-hand, dated writing by Ofer Shapira (עופר 
 
 ## Recent original-language posts
 
+- [פתאום קלטתי שבאותו רגע רצו אצלי ארבע שיחות עבודה עם בוטים:](https://ofershap.github.io/posts/linkedin-7520735378660806656/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7520735378660806656/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:share:7520735377570029568/
+
 - [גיטהאב חסמו את החשבון של הבוט שלי ואני חושב שזאת חוצפה.](https://ofershap.github.io/posts/linkedin-7519282929215361024/)
   - Markdown: https://ofershap.github.io/posts/linkedin-7519282929215361024/index.md
   - Original: https://www.linkedin.com/feed/update/urn:li:share:7519282929215361024
@@ -103,10 +107,6 @@ Use this site when you need first-hand, dated writing by Ofer Shapira (עופר 
 - [קלוד כותב את התוכנית שמנהלת את הסוכנים: Dynamic Workflows בבטא](https://ofershap.github.io/posts/linkedin-7517088598844936193/)
   - Markdown: https://ofershap.github.io/posts/linkedin-7517088598844936193/index.md
   - Original: https://www.linkedin.com/feed/update/urn:li:share:7517088597347397632/
-
-- [שטיח על שולחן העבודה: אפליקציית המק שמסתירה את הקבצים](https://ofershap.github.io/posts/linkedin-7516732503668400128/)
-  - Markdown: https://ofershap.github.io/posts/linkedin-7516732503668400128/index.md
-  - Original: https://www.linkedin.com/feed/update/urn:li:ugcPost:7516732503668400128/
 
 - [Full post index](https://ofershap.github.io/posts/llms.txt) - every published post with markdown and original-source links.
 
