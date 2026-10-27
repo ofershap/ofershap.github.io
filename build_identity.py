@@ -48,10 +48,14 @@ def build():
     <h3>What is it about?</h3>
     <p>Building AI systems, leading engineering teams that work with agents, and workflows you can actually verify.</p>
     <h3>Where should I start?</h3>
-    <p>With the Q&amp;A guides for practical answers, or the full archive below for everything he publishes.</p>
+    <p>With the Q&amp;A guides for practical answers, or the full archive above for everything he publishes.</p>
   </section>'''
- if 'class="home-faq"' not in s:
-  s=re.sub(r'(<section class="archive-intro"[^>]*>.*?</section>)',lambda m:m[1]+chr(10)+'  '+faq_html,s,count=1,flags=re.S)
+ # Keep the FAQ after the posts on every rebuild, in DOM/reading order.
+ existing_faq=re.search(r'<section class="home-faq"[^>]*>.*?</section>',s,re.S)
+ if existing_faq:
+  faq_html=existing_faq[0]
+  s=s[:existing_faq.start()]+s[existing_faq.end():]
+ s=s.replace('<footer>',faq_html+'\n  <footer>',1)
  s=s.replace('</head>',STYLE+'</head>') if '.identity-intro{' not in s else s
  def schema_patch(m):
   j=json.loads(m[1])
