@@ -24,10 +24,16 @@ def build():
   path=ROOT/'posts'/('linkedin-'+r['id']);path.mkdir(exist_ok=True);url=BASE+'/posts/'+path.name+'/'
   d=r['published_at'][:10];desc=' '.join(text.split())[:160];body='\n'.join('<p>'+linkify(p).replace('\n','<br>')+'</p>' for p in re.split(r'\n\s*\n',text) if p.strip())
   media=[u for u in r.get('images','').splitlines() if u.startswith('https://')];assets=''
-  local_media=sorted([*path.glob('image-*.jpg'), *path.glob('image-*.png')])
+  local_media=sorted([f for f in path.glob('image-*') if f.suffix.lower() in {'.jpg','.jpeg','.png','.webp','.gif'}])
   if local_media:
    assets=''.join('<figure><img src="'+f.name+'" alt="'+E(('מדיה מהפוסט המקורי: ' if he else 'Original post media: ')+title,quote=True)+'" loading="lazy"></figure>' for f in local_media)
-  # Missing source media is tracked internally, never replaced by filler copy.
+  # Only preserved original source assets are embedded; never remote expiring URLs.
+  local_videos=sorted([f for f in path.glob('video-*') if f.suffix.lower() in {'.mp4','.webm','.mov'}])
+  for f in local_videos:
+   assets+='<video controls preload="metadata" style="max-width:100%"><source src="'+E(f.name,quote=True)+'"></video>'
+  for f in sorted(path.glob('document-*.pdf')):
+   assets+='<p><a href="'+E(f.name,quote=True)+'">'+('המסמך המקורי מהפוסט' if he else 'Original post document')+'</a></p>'
+  # Missing media is a failed completion gate, never replaced by public filler.
   schema={'@context':'https://schema.org','@type':'BlogPosting','headline':title,'description':desc,'datePublished':r['published_at'],'inLanguage':lang,'url':url,'mainEntityOfPage':url,'author':{'@type':'Person','name':'Ofer Shapira','url':BASE+'/'},'isBasedOn':r['source']}
   if local_media:schema['image']=[url+f.name for f in local_media]
   breadcrumb={'@context':'https://schema.org','@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':'Ofer Shapira','item':BASE+'/'},{'@type':'ListItem','position':2,'name':'Writing','item':BASE+'/#archive'},{'@type':'ListItem','position':3,'name':title,'item':url}]}
@@ -36,7 +42,7 @@ def build():
   page=f'''<!doctype html>
 <html lang="{lang}" dir="{direction}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>{E(title)} | Ofer Shapira</title><meta name="description" content="{E(desc,quote=True)}"><link rel="canonical" href="{url}"><link rel="stylesheet" href="/style.css"><link rel="alternate" type="application/rss+xml" href="/feed.xml"><link rel="alternate" type="text/markdown" href="{url}index.md"><meta property="og:type" content="article"><meta property="og:title" content="{E(title,quote=True)}"><meta property="og:description" content="{E(desc,quote=True)}"><meta property="og:url" content="{url}"><meta name="twitter:card" content="summary"><script src="/webmcp.js" defer></script><script type="application/ld+json">{schema_text}</script></head><body><header dir="ltr"><span class="site-name"><a href="/">Ofer Shapira</a></span><nav><a href="/">Writing</a><a href="https://www.linkedin.com/in/ofershap/">LinkedIn</a></nav></header><main><article itemscope itemtype="https://schema.org/BlogPosting"><meta itemprop="author" content="Ofer Shapira"><h1 itemprop="headline">{E(title)}</h1><p class="byline" dir="ltr"><time itemprop="datePublished" datetime="{E(r['published_at'])}">{d}</time></p><p class="post-source">{'פורסם במקור ב' if he else 'Originally published on'} <a href="{E(r['source'],quote=True)}">LinkedIn</a></p><div itemprop="articleBody">{body}</div>{assets}</article><footer dir="ltr"><a href="/">All writing</a> · <a href="/feed.xml">RSS</a><p class="copyright">© Ofer Shapira</p></footer></main></body></html>'''
   page=page.replace('<html ', '<html data-engagement="off" ',1) if disable_engagement else page
-  new_pages.append((title,url,r['source']));(path/'index.html').write_text(page);(path/'index.md').write_text('---\ntitle: '+json.dumps(title,ensure_ascii=False)+'\n'+'published: '+r['published_at']+'\nsource: '+r['source']+'\n'+'lang: '+lang+'\ncanonical: '+url+'\n---\n\n# '+title+'\n\n'+text+'\n\nOriginal source: '+r['source']+'\nPublished: '+r['published_at']+'\n');created+=1
+  new_pages.append((title,url,r['source']));(path/'index.html').write_text(page);(path/'index.md').write_text('---\ntitle: '+json.dumps(title,ensure_ascii=False)+'\n'+'published: '+r['published_at']+'\nsource: '+r['source']+'\n'+'lang: '+lang+'\ncanonical: '+url+'\n---\n\n# '+title+'\n\n'+text+'\n\nOriginal source: '+r['source']+'\nPublished: '+r['published_at']+'\n'+''.join('\n![Original post media]('+f.name+')\n' for f in local_media)+''.join('\n[Original post video]('+f.name+')\n' for f in local_videos)+''.join('\n[Original post document]('+f.name+')\n' for f in sorted(path.glob('document-*.pdf'))));created+=1
  # Append missing records to the homepage, sorted together with preserved existing entries.
  home=ROOT/'index.html';s=home.read_text();match=re.search(r'<ul class="post-list">(.*?)</ul>',s,re.S);items=[]
  for m in re.finditer(r'<li\b[^>]*>(.*?)</li>',match[1],re.S):
