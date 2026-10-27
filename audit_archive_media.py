@@ -8,7 +8,7 @@ import argparse,json,re,sys,hashlib,urllib.parse
 ROOT=Path(__file__).resolve().parent
 SOURCE_PATHS={}
 def sourceid(u):
- m=re.search(r'(?:activity-|urn:li:(?:share|activity):)(\d{19})',u or '')
+ m=re.search(r'(?:activity-|urn:li:(?:share|activity|ugcPost):)(\d{19})',u or '')
  return m[1] if m else None
 class SourceLinks(HTMLParser):
  def __init__(self,s):self.depth=0;self.found=[];super().__init__();self.feed(s)
