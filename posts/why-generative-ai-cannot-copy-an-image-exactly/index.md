@@ -40,3 +40,5 @@ Discussion in the cited Reddit thread warns that repeated generative copy passes
 I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build developer tools, MCP servers, TypeScript libraries and GitHub Actions. I write about AI, software development and leading engineering teams.
 
 [GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)
+
+[Original post video](video-original-0.mp4)
