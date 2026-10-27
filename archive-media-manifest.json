@@ -1917,6 +1917,66 @@
         "width": 800,
         "height": 800
       }
+    },
+    {
+      "record_id": "7280855452039417856",
+      "post_source": "https://www.linkedin.com/posts/ofershap_%D7%90%D7%9D-%D7%90%D7%AA%D7%94-%D7%9C%D7%90-%D7%9E%D7%95%D7%91%D7%9A-%D7%9E%D7%94%D7%92%D7%A8%D7%A1%D7%94-%D7%94%D7%A8%D7%90%D7%A9%D7%95%D7%A0%D7%94-%D7%A9%D7%9C-%D7%94%D7%9E%D7%95%D7%A6%D7%A8-%D7%A9%D7%9C%D7%9A-activity-7280855452039417856-AnaL",
+      "source_media": "https://media.licdn.com/dms/image/v2/D4D22AQECvLPrnJ8-QQ/feedshare-shrink_1280/B4DZQWfsLJGUAk-/0/1735544194345",
+      "source_asset_id": "D4D22AQECvLPrnJ8-QQ",
+      "local_path": "posts/why-i-ship-products-before-they-feel-ready/image-original-2.jpg",
+      "sha256": "30aa1a9076108b26f27102d9285cff521c66b52bda43759f8210604804995978",
+      "kind": "image",
+      "decoded": {
+        "format": "JPEG",
+        "width": 711,
+        "height": 1205,
+        "frames": 1
+      }
+    },
+    {
+      "record_id": "7280855452039417856",
+      "post_source": "https://www.linkedin.com/posts/ofershap_%D7%90%D7%9D-%D7%90%D7%AA%D7%94-%D7%9C%D7%90-%D7%9E%D7%95%D7%91%D7%9A-%D7%9E%D7%94%D7%92%D7%A8%D7%A1%D7%94-%D7%94%D7%A8%D7%90%D7%A9%D7%95%D7%A0%D7%94-%D7%A9%D7%9C-%D7%94%D7%9E%D7%95%D7%A6%D7%A8-%D7%A9%D7%9C%D7%9A-activity-7280855452039417856-AnaL",
+      "source_media": "https://media.licdn.com/dms/image/v2/D4D22AQEu1_IUpkG6lg/feedshare-shrink_1280/B4DZQWfsLcHMAk-/0/1735544194502",
+      "source_asset_id": "D4D22AQEu1_IUpkG6lg",
+      "local_path": "posts/why-i-ship-products-before-they-feel-ready/image-original-4.jpg",
+      "sha256": "ded2457405a90eb2013c3358c60e1b66c6eef54327d2b5fa1aeca2d7b4e5ad15",
+      "kind": "image",
+      "decoded": {
+        "format": "JPEG",
+        "width": 987,
+        "height": 1204,
+        "frames": 1
+      }
+    },
+    {
+      "record_id": "7351580995311075328",
+      "post_source": "https://www.linkedin.com/posts/ofershap_%D7%94%D7%90%D7%A7%D7%AA%D7%95%D7%9F-%D7%90%D7%9C%D7%9E%D7%A0%D7%98%D7%95%D7%A8-2025-%D7%94%D7%99%D7%94-%D7%9B%D7%99%D7%A3-24-%D7%A9%D7%A2%D7%95%D7%AA-14-activity-7351580995311075328-M9NJ",
+      "source_media": "https://media.licdn.com/dms/image/v2/D4E22AQEFKQXiZeteKw/feedshare-image-high-res/B4EZgYP0lfGcAw-/0/1752753492426",
+      "source_asset_id": "D4E22AQEFKQXiZeteKw",
+      "local_path": "posts/how-ai-changed-elementors-2025-hackathon/image-original-5.jpg",
+      "sha256": "e8707f5facc2e736480023d0386d57264fc3fdeaa0db4e4f3cef7c9807c26c8b",
+      "kind": "image",
+      "decoded": {
+        "format": "JPEG",
+        "width": 1152,
+        "height": 1536,
+        "frames": 1
+      }
+    },
+    {
+      "record_id": "7351580995311075328",
+      "post_source": "https://www.linkedin.com/posts/ofershap_%D7%94%D7%90%D7%A7%D7%AA%D7%95%D7%9F-%D7%90%D7%9C%D7%9E%D7%A0%D7%98%D7%95%D7%A8-2025-%D7%94%D7%99%D7%94-%D7%9B%D7%99%D7%A3-24-%D7%A9%D7%A2%D7%95%D7%AA-14-activity-7351580995311075328-M9NJ",
+      "source_media": "https://media.licdn.com/dms/image/v2/D4E22AQGey6gropPUHA/feedshare-image-high-res/B4EZgYP0lfHEAs-/0/1752753485498",
+      "source_asset_id": "D4E22AQGey6gropPUHA",
+      "local_path": "posts/how-ai-changed-elementors-2025-hackathon/image-original-6.jpg",
+      "sha256": "108c00f65c832971f6a6f8757a623add2372b766a43eaf43dfd24ea12ad074f4",
+      "kind": "image",
+      "decoded": {
+        "format": "JPEG",
+        "width": 1152,
+        "height": 1536,
+        "frames": 1
+      }
     }
   ],
   "validation_note": "SHA256 binds each entry to original bytes independently decoded and visually reviewed before this manifest was staged. The audit validates the digest, source identity, rendered reference and file signature; a changed file requires a fresh decode review and proof."

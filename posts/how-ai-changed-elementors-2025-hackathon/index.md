@@ -43,3 +43,7 @@ I am Ofer Shapira, an AI Engineering Team Lead and open-source builder. I build 
 ![Original post media](image-original-3.jpg)
 
 ![Original post media](image-original-4.jpg)
+
+![Original post media](image-original-5.jpg)
+
+![Original post media](image-original-6.jpg)
