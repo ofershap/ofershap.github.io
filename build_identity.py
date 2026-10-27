@@ -19,6 +19,14 @@ EN='''<p class="identity-kicker">AI engineering · Agents · Engineering leaders
 <h2>Open-source projects</h2><p>The full list of my open-source projects is on <a href="https://github.com/ofershap?tab=repositories">my GitHub profile</a>.</p>
 <h2>Start reading</h2><p>These first-hand examples are in Hebrew; the archive also includes selected translations.</p><ul class="identity-topics"><li><a href="/posts/linkedin-7497163554815381504/">Make code review easier with a PR description</a> - four parts that help explain a change before reading its code.</li><li><a href="/posts/linkedin-7495353124623278080/">Keep a team's environment variables in sync</a> - replace manual coordination with a step at application startup.</li><li><a href="/posts/linkedin-7502999614728519681/">Keep agent context files accurate</a> - distinguish a broken reference from a problem worth fixing.</li></ul>
 <h2>Contact</h2><p><a href="https://www.linkedin.com/in/ofershap/">LinkedIn - writing and professional contact</a><br><a href="https://github.com/ofershap">GitHub - projects and code</a></p>'''
+def compact_archive_tools(s):
+ tools='''<section class="archive-tools" aria-label="Browse the writing">
+    <div class="archive-search-row"><label for="archive-search">Find a post</label>
+    <input id="archive-search" type="search" placeholder="Try code review, agents, Cursor…" autocomplete="off"></div>
+    <p class="archive-summary"><span id="archive-count" role="status" aria-live="polite">Browse all essays and posts below.</span> (Also available to AI agents via WebMCP.)</p>
+  </section>'''
+ return re.sub(r'<section class="archive-tools"[^>]*>.*?</section>',lambda m:tools,s,count=1,flags=re.S)
+
 def build():
  for lang,body,path,title in [('he',HE,'about','עופר שפירא | AI Engineering והובלת צוותים'),('en',EN,'about/en','Ofer Shapira | Practical AI engineering leadership')]:
   d=R/path;d.mkdir(parents=True,exist_ok=True);url=BASE+'/'+path+'/'
@@ -30,7 +38,7 @@ def build():
   import re as _re
   _plain=_re.sub(r'<[^>]+>',' ',body);_plain=_re.sub(r'\s+',' ',_plain).strip()
   (d/'index.md').write_text('---\ntitle: '+json.dumps(title,ensure_ascii=False)+'\nlang: '+lang+'\ncanonical: '+url+'\n---\n\n# '+title+'\n\n'+_plain+'\n')
- p=R/'index.html';s=p.read_text();s=re.sub(r'<section class="identity-intro".*?</section>','',s,flags=re.S)
+ p=R/'index.html';s=compact_archive_tools(p.read_text());s=re.sub(r'<section class="identity-intro".*?</section>','',s,flags=re.S)
  # Keep one homepage introduction. Replace the old archive hero rather than
  # prepending another bio card, and remove legacy cards on every rebuild.
  intro='''<section class="archive-intro" aria-labelledby="archive-title" itemscope itemtype="https://schema.org/Person">
