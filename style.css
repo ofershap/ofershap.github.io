@@ -411,3 +411,11 @@ body:has(.archive-intro) .archive-search-row label{flex:none;margin:0}
 body:has(.archive-intro) .archive-search-row input{flex:1;min-width:0;width:auto;min-height:44px;font-size:1rem;padding:.5rem .7rem}
 body:has(.archive-intro) .archive-tools .archive-summary{margin:.4rem 0 .8rem;line-height:1.5}
 body:has(.archive-intro) .post-list h2.year{margin-bottom:.85rem}
+
+/* Phone search: one full-width field, without a competing side label. */
+@media(max-width:500px){
+ body:has(.archive-intro) .archive-search-row{display:block;position:relative}
+ body:has(.archive-intro) .archive-search-row label{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+ body:has(.archive-intro) .archive-search-row input{width:100%;padding:.65rem .8rem}
+ body:has(.archive-intro) .archive-tools .archive-summary{margin:.6rem 0 1rem}
+}

@@ -22,7 +22,7 @@ EN='''<p class="identity-kicker">AI engineering · Agents · Engineering leaders
 def compact_archive_tools(s):
  tools='''<section class="archive-tools" aria-label="Browse the writing">
     <div class="archive-search-row"><label for="archive-search">Find a post</label>
-    <input id="archive-search" type="search" placeholder="Try code review, agents, Cursor…" autocomplete="off"></div>
+    <input id="archive-search" type="search" placeholder="Find a post" autocomplete="off"></div>
     <p class="archive-summary"><span id="archive-count" role="status" aria-live="polite">Browse all essays and posts below.</span> (Also available to AI agents via WebMCP.)</p>
   </section>'''
  return re.sub(r'<section class="archive-tools"[^>]*>.*?</section>',lambda m:tools,s,count=1,flags=re.S)
