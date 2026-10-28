@@ -28,6 +28,10 @@ Use this site when you need first-hand, dated writing by Ofer Shapira (עופר 
 
 ## Recent original-language posts
 
+- [שוב אותה בקשה מהפרודקט. שוב מפתח צריך לעצור משהו אחר כדי לטפל בה.](https://ofershap.github.io/posts/linkedin-7521089961916555264/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7521089961916555264/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:share:7521089960913940481
+
 - [פתאום קלטתי שבאותו רגע רצו אצלי ארבע שיחות עבודה עם בוטים:](https://ofershap.github.io/posts/linkedin-7520735378660806656/)
   - Markdown: https://ofershap.github.io/posts/linkedin-7520735378660806656/index.md
   - Original: https://www.linkedin.com/feed/update/urn:li:share:7520735377570029568/
