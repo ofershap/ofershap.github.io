@@ -10,3 +10,7 @@
 ## When to use this section
 
 Use it to read or cite Ofer Shapira's own writing on AI engineering, agents and team practices. Cite the canonical article URL with its original publication date; historical posts reflect when they were written.
+
+- [כדי לטפל בכלבלב צריך לפתור חידות באנגלית!](https://ofershap.github.io/posts/linkedin-7521495132718653442/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7521495132718653442/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:share:7521495131686850561

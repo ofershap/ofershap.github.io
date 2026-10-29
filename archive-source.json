@@ -9322,5 +9322,23 @@
   "local_media": [
     "image-0.jpg"
   ]
+},
+{
+ "id": "7521495132718653442",
+ "source": "https://www.linkedin.com/feed/update/urn:li:share:7521495131686850561",
+ "published_at": "2026-10-29T10:56:00+02:00",
+ "date_provenance": "Buffer Sent29Oct10:56Asia/Jerusalem verifiedlive11:32; minute precision, secondsnotasserted",
+ "title": "כדי לטפל בכלבלב צריך לפתור חידות באנגלית!",
+ "text": "כדי לטפל בכלבלב צריך לפתור חידות באנגלית! בניתי השבוע משחק לילדה שלי באינסטינקט מתוך PDF ששלחו לנו בקבוצת הווצאפ של הכיתה.\nהמנגנון פשוט: כל תשובה נכונה מרוויחה נקודות, ועם הנקודות מאכילים, מקלחים ומנקים את הכלבלב. אפשר גם לתת לו שם ולקנות לו קישוטים.\nבדרך מתרגלים אותיות, מילים עם תמונות וצביעה לפי הוראה באנגלית. אפשר לשמוע את המילים בלחיצה, בלי לדעת לקרוא אותן ובלי לבחור תשובה בטעות.\nלא יאומן שאפשר לבנות כאלה דברים בלי לצאת מהווצאפ 🤯\nהמשחק פתוח לכולם ועובד מהטלפון, בלי הרשמה: https://dolev-english.pages.dev/",
+ "images": "https://media.licdn.com/dms/image/v2/D4D10AQHBWEvjhJJv-Q/image-shrink_800/B4DaGG35NKKQAg-/0/1793264161916?e=1793876400&v=beta&t=fTyRoSlwScW4TqIs0EOiF3zUcFyNODFDFz7W3hfhNgM",
+ "video_url": "",
+ "document_url": "",
+ "existing": false,
+ "engagement": "off",
+ "media_available_on_source": false,
+ "sha256": "3ea169181a232f0950ddaf65bcbc5421907f2433a5350f9ca69e36b67088d459",
+ "local_media": [
+  "image-0.jpg"
+ ]
 }
 ]
