@@ -14,3 +14,5 @@ Use it to read or cite Ofer Shapira's own writing on AI engineering, agents and 
 - [כדי לטפל בכלבלב צריך לפתור חידות באנגלית!](https://ofershap.github.io/posts/linkedin-7521495132718653442/)
   - Markdown: https://ofershap.github.io/posts/linkedin-7521495132718653442/index.md
   - Original: https://www.linkedin.com/feed/update/urn:li:share:7521495131686850561
+
+- [Let Me Instinct That For You](https://ofershap.github.io/posts/linkedin-7521814738809417728/) - Original30October2026; [Markdown](https://ofershap.github.io/posts/linkedin-7521814738809417728/index.md).
