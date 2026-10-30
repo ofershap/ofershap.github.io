@@ -51,3 +51,8 @@ Each card records: date, exact page/source, baseline timestamp, hypothesis, alte
 - Rollback:revert this isolated stylesheet replacement. No content migration.
 - Search baseline:latest historical29Oct read:Google28day1click/99impressions/4AIimpressions; sitemap still fetch-failed/blank last read/0discovered despite live valid1236URLs. Bing224indexed,13AIcitations over3months/1last7days. One web-enabled unseeded recommendation cited Ofer throughDEV, not stable ranking. These remain dated historical baseline, not a fresh30Oct dashboard read or causally attributable result.
 - Next:existing30Oct09:30–10GSC diagnosis; daily technical followups in existing slots. Review6Nov; use comparable7/28day windows when available. Do not claim ranking lift from this contrast correction.
+
+
+## Day1 outcome30Oct07:14IST
+SHIPPED and technically verified, commit d65a0479fac7bdfac60f6021f2958b3940af22d4. Required12existing suites plus new contrast regression pass in isolated full copy. Bounded builder/fixture repairs preserve prose/title/currentHTML/sitemap bytes; semantic WebMCP assertion corrected (no missing script, no script addition). Removed test-generated drift. Main inspected390x844/1280x800 candidate pixels before ship.
+GitHub Pages run https://github.com/ofershap/ofershap.github.io/actions/runs/41007052516 completed success. Actual https://ofershap.github.io/ computed nav/postmetadata112,112,112 and background253,253,251, ratio4.862:1; no horizontal overflow, title unchanged. Live screenshot inspected. This confirms accessibility endpoint only, not traffic/ranking/AIvisibility lift. Trial and6Novreview remain open.
