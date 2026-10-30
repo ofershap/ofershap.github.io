@@ -20,13 +20,15 @@ def build():
  for p in pages:
   s=p.read_text()
   if 'data-authored="qa"' in s or 'data-engagement="off"' in s:continue
-  s=re.sub(r'<!-- engagement:start -->.*?<!-- engagement:end -->','',s,flags=re.S);s=s.replace('<script defer src="/engagement-v2.js"></script>','').replace('<script defer src="/engagement.js"></script>','')
+  existing_box=re.search(r'<!-- engagement:start -->.*?<!-- engagement:end -->',s,re.S)
+  s=re.sub(r'<!-- engagement:start -->.*?<!-- engagement:end -->','__ENGAGEMENT_SLOT__' if existing_box else '',s,flags=re.S);s=s.replace('<script defer src="/engagement-v2.js"></script>','').replace('<script defer src="/engagement.js"></script>','')
   lang=re.search(r'<html[^>]*lang="([^"]+)"',s)[1];l=labels.get(lang,labels['en']);path='/'+str(p.parent.relative_to(ROOT))+'/';key=aliases.get(path,path)
   if path not in aliases:keys.append(key)
   box='<!-- engagement:start --><section class="engagement" data-key="'+html.escape(key,quote=True)+'" data-lang="'+lang+'" aria-label="'+l[1]+'"><div class="engagement-actions"><button class="engagement-like" type="button" aria-pressed="false" disabled><span aria-hidden="true">♡</span> <span class="like-label">'+l[0]+'</span> <span class="like-count">-</span></button><button class="engagement-share" type="button">'+l[1]+' ↗</button><button class="engagement-copy" type="button">'+l[2]+'</button><a class="engagement-network" data-network="linkedin" href="#" rel="noopener noreferrer" target="_blank">LinkedIn</a><a class="engagement-network" data-network="x" href="#" rel="noopener noreferrer" target="_blank">X</a></div><p class="engagement-status" aria-live="polite"></p><p class="engagement-privacy"><a href="/privacy/">'+l[4]+'</a></p></section><!-- engagement:end -->'
   # Near the end of the article, before the footer/author card, not inside prose.
   marker='<aside class="author-card"'
-  if marker in s:s=s.replace(marker,box+marker,1)
+  if '__ENGAGEMENT_SLOT__' in s:s=s.replace('__ENGAGEMENT_SLOT__',box,1)
+  elif marker in s:s=s.replace(marker,box+marker,1)
   elif '</article>' in s:s=s.replace('</article>',box+'</article>',1)
   else:s=s.replace('<footer',box+'<footer',1)
   s=s.replace('<link rel="stylesheet" href="/engagement-v1.css">','')
@@ -38,4 +40,4 @@ def build():
 if __name__=='__main__':build()
 
 # Cloudflare Web Analytics beacon - keep site-wide injection idempotent on every rebuild (build_beacon.run is a no-op when present).
-import build_beacon as _beacon; _beacon.run()
+# Do not sweep unrelated pages for analytics on import or rebuild.

@@ -59,9 +59,9 @@ def build():
     <p>With the Q&amp;A guides for practical answers, or the full archive above for everything he publishes.</p>
   </section>'''
  # Keep the FAQ after the posts on every rebuild, in DOM/reading order.
- existing_faq=re.search(r'<section class="home-faq"[^>]*>.*?</section>',s,re.S)
+ existing_faq=re.search(r'\s*<section class="home-faq"[^>]*>.*?</section>\s*',s,re.S)
  if existing_faq:
-  faq_html=existing_faq[0]
+  faq_html=existing_faq[0].strip()
   s=s[:existing_faq.start()]+s[existing_faq.end():]
  s=s.replace('<footer>',faq_html+'\n  <footer>',1)
  s=s.replace('</head>',STYLE+'</head>') if '.identity-intro{' not in s else s
@@ -138,4 +138,4 @@ def build():
 if __name__=='__main__':build()
 
 # Cloudflare Web Analytics beacon - keep site-wide injection idempotent on every rebuild (build_beacon.run is a no-op when present).
-import build_beacon as _beacon; _beacon.run()
+# No global import-time analytics mutations.

@@ -37,7 +37,7 @@ for _f in sorted(_P('.').glob('posts/*/index.html'))[:100000]:
     assert _f.parent.joinpath('index.md').exists(), (_f,'index.md missing')
     assert 'itemtype="https://schema.org/BlogPosting"' in _h, (_f,'microdata')
     assert 'itemprop="headline"' in _h and 'itemprop="datePublished"' in _h and 'itemprop="articleBody"' in _h, (_f,'microdata fields')
-    assert '<script src="/webmcp.js" defer></script>' in _h, (_f,'webmcp')
+    assert _re.search(r'<script(?=[^>]*\bsrc=[\"\']/webmcp\.js[\"\'])(?=[^>]*\bdefer(?:\s|=|>))[^>]*>\s*</script>',_h), (_f,'webmcp')
     assert 'onclick=' not in _h and 'role="button"' not in _h, (_f,'semantic markup')
     _dm=_re.search(r'"datePublished"\s*:\s*"([^"]+)"',_h)
     if _dm and _dm[1][:10]>='2026-10-21':

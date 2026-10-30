@@ -12,6 +12,9 @@ def build():
  for r in rows:
   slug=r['slug'];assert re.fullmatch('[a-z0-9-]+',slug)
   p=ROOT/'posts'/slug;p.mkdir(exist_ok=True);url=BASE+'/posts/'+slug+'/'
+  old=(p/'index.html').read_text() if (p/'index.html').exists() else ''
+  prior=re.search(r'"dateModified"\s*:\s*"([^"]+)"',old)
+  today=r.get('updated_at') or (prior[1][:10] if prior else r['published_at'][:10])
   raw=r['body'];title=raw.splitlines()[0].split(': ',1)[1];body='\n'.join(raw.splitlines()[1:])
   article={'@context':'https://schema.org','@type':'Article','headline':title,'datePublished':r['published_at'],'dateModified':today,'inLanguage':'he','url':url,'mainEntityOfPage':url,'author':{'@type':'Person','name':'עופר שפירא','url':BASE+'/for-ai/','description':r['bio']},'citation':r['sources']}
   faq={'@context':'https://schema.org','@type':'FAQPage','mainEntity':[{'@type':'Question','name':q,'acceptedAnswer':{'@type':'Answer','text':a}} for q,a in r['faq']]}
@@ -76,4 +79,4 @@ def build():
 if __name__=='__main__':build()
 
 # Cloudflare Web Analytics beacon - keep site-wide injection idempotent on every rebuild (build_beacon.run is a no-op when present).
-import build_beacon as _beacon; _beacon.run()
+# No global page mutations on import; generated pages inject their own beacon.

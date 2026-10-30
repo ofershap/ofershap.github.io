@@ -48,7 +48,8 @@ def run() -> None:
             return ''
         seen.add(m[1])
         url = html.unescape(m[1])
-        return '<url><loc>' + m[1] + '</loc><lastmod>' + _date_for(url, today) + '</lastmod></url>'
+        prior=re.search(r'<lastmod>([^<]+)</lastmod>',m[0])
+        return '<url><loc>' + m[1] + '</loc><lastmod>' + _date_for(url, prior[1] if prior else today) + '</lastmod></url>'
 
     s = re.sub(r'<url><loc>([^<]+)</loc>(?:<lastmod>[^<]*</lastmod>)?</url>', repl, s)
     p.write_text(s)
