@@ -28,24 +28,6 @@ Use this site when you need first-hand, dated writing by Ofer Shapira (עופר 
 
 ## Recent original-language posts
 
-- [זהו, חצינו את הגבול. הפעם במודלים הקוליים.](https://ofershap.github.io/posts/linkedin-7519781947653550080/)
-  - Markdown: https://ofershap.github.io/posts/linkedin-7519781947653550080/index.md
-  - Original: https://www.linkedin.com/feed/update/urn:li:ugcPost:7519781946521186304/
-
-
-- [זוכרים את תכל׳סקול? כלי שהתחבר למשוב ושלח להורים סיכום יומי: מערכת, שיעורי בית והודעות מורים.](https://ofershap.github.io/posts/linkedin-7520381799638949888/)
-  - Markdown: https://ofershap.github.io/posts/linkedin-7520381799638949888/index.md
-  - Original: https://www.linkedin.com/feed/update/urn:li:share:7520381798392999936/
-
-- [שישה חודשים של Claude Max 20x בחינם. זו ההצעה של אנתרופיק למתחזקים ותורמים בקוד פתוח.](https://ofershap.github.io/posts/linkedin-7520089299808358400/)
-  - Markdown: https://ofershap.github.io/posts/linkedin-7520089299808358400/index.md
-  - Original: https://www.linkedin.com/feed/update/urn:li:share:7520089298747154432/
-
-- [שלחתי לאינסטינקט תמונה שלי וביקשתי מדבקות לווצאפ. הוא אפיין אותי: אבא שאוהב טכנולוגיה, אופנועי שטח ובדיקות קרש, וביקש ממני תמונה שלי.](https://ofershap.github.io/posts/linkedin-7519625312586854400/)
-  - Markdown: https://ofershap.github.io/posts/linkedin-7519625312586854400/index.md
-  - Original: https://www.linkedin.com/feed/update/urn:li:share:7519625311408431104/
-
-
 - [אינסטינקט מחק לי את כל הקוד שהוא כתב!!](https://ofershap.github.io/posts/linkedin-7522545806239887360/)
   - Markdown: https://ofershap.github.io/posts/linkedin-7522545806239887360/index.md
   - Original: https://www.linkedin.com/feed/update/urn:li:share:7522545805178662912/
@@ -65,6 +47,22 @@ Use this site when you need first-hand, dated writing by Ofer Shapira (עופר 
 - [פתאום קלטתי שבאותו רגע רצו אצלי ארבע שיחות עבודה עם בוטים:](https://ofershap.github.io/posts/linkedin-7520735378660806656/)
   - Markdown: https://ofershap.github.io/posts/linkedin-7520735378660806656/index.md
   - Original: https://www.linkedin.com/feed/update/urn:li:share:7520735377570029568/
+
+- [זוכרים את תכל׳סקול? כלי שהתחבר למשוב ושלח להורים סיכום יומי: מערכת, שיעורי בית והודעות מורים.](https://ofershap.github.io/posts/linkedin-7520381799638949888/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7520381799638949888/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:share:7520381798392999936/
+
+- [שישה חודשים של Claude Max 20x בחינם. זו ההצעה של אנתרופיק למתחזקים ותורמים בקוד פתוח.](https://ofershap.github.io/posts/linkedin-7520089299808358400/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7520089299808358400/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:share:7520089298747154432/
+
+- [זהו, חצינו את הגבול. הפעם במודלים הקוליים.](https://ofershap.github.io/posts/linkedin-7519781947653550080/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7519781947653550080/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:ugcPost:7519781946521186304/
+
+- [שלחתי לאינסטינקט תמונה שלי וביקשתי מדבקות לווצאפ. הוא אפיין אותי: אבא שאוהב טכנולוגיה, אופנועי שטח ובדיקות קרש, וביקש ממני תמונה שלי.](https://ofershap.github.io/posts/linkedin-7519625312586854400/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7519625312586854400/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:share:7519625311408431104/
 
 - [גיטהאב חסמו את החשבון של הבוט שלי ואני חושב שזאת חוצפה.](https://ofershap.github.io/posts/linkedin-7519282929215361024/)
   - Markdown: https://ofershap.github.io/posts/linkedin-7519282929215361024/index.md
@@ -109,26 +107,6 @@ Use this site when you need first-hand, dated writing by Ofer Shapira (עופר 
 - [איך הופכים שנה של כתיבה אישית להרצאה בעזרת סוכן?](https://ofershap.github.io/posts/agent-talk-from-content-archive/)
   - Markdown: https://ofershap.github.io/posts/agent-talk-from-content-archive/index.md
   - Original: https://ofershap.github.io/posts/agent-talk-from-content-archive/
-
-- [איך מנהלים פרויקט יצירתי ארוך עם סוכן AI דרך צ'אט?](https://ofershap.github.io/posts/agent-long-creative-build-feedback/)
-  - Markdown: https://ofershap.github.io/posts/agent-long-creative-build-feedback/index.md
-  - Original: https://ofershap.github.io/posts/agent-long-creative-build-feedback/
-
-- [פיצות בחינם בשווי מליון דולר: סוכן Hark מזמין מ-DoorDash](https://ofershap.github.io/posts/linkedin-7517829980022804481/)
-  - Markdown: https://ofershap.github.io/posts/linkedin-7517829980022804481/index.md
-  - Original: https://www.linkedin.com/feed/update/urn:li:share:7517829980022804481/
-
-- [איך בונים דיג'סט שבועי שהופך פלט של סוכן לעבודה שאפשר לראות?](https://ofershap.github.io/posts/weekly-agent-digest/)
-  - Markdown: https://ofershap.github.io/posts/weekly-agent-digest/index.md
-  - Original: https://ofershap.github.io/posts/weekly-agent-digest/
-
-- [איך בודקים אחרי חודש שהאוטומציה באמת עובדת?](https://ofershap.github.io/posts/monthly-automation-review/)
-  - Markdown: https://ofershap.github.io/posts/monthly-automation-review/index.md
-  - Original: https://ofershap.github.io/posts/monthly-automation-review/
-
-- [הקלטת הפגישות הפסיקה לשבוע: בדיקה אחרי חודש עם Grok Bot](https://ofershap.github.io/posts/linkedin-7517457278946693120/)
-  - Markdown: https://ofershap.github.io/posts/linkedin-7517457278946693120/index.md
-  - Original: https://www.linkedin.com/feed/update/urn:li:share:7517457277885411328/
 
 - [Full post index](https://ofershap.github.io/posts/llms.txt) - every published post with markdown and original-source links.
 

@@ -4210,6 +4210,37 @@
         "frames": 5161,
         "played_frames": 66
       }
+    },
+    {
+      "record_id": "7514176151037300736",
+      "post_source": "https://www.linkedin.com/feed/update/urn:li:share:7514176150219427840/",
+      "source_media": "https://media.licdn.com/dms/image/v2/D4D10AQGTL9SoYNg1XA/image-shrink_1280/B4DaEe3UbNIYAc-/0/1791519180719?e=1794139200&v=beta&t=rnvz6skPBnRqF6eaAm6NvI4kj74fDe04V-nTgWpFQXk",
+      "source_asset_id": "D4D10AQGTL9SoYNg1XA",
+      "local_path": "posts/linkedin-7514176151037300736/image-original-0.jpg",
+      "sha256": "4678ea644935be6800465c0cf75d6dc8075819b8bcef2e24f271b2e5bee3cecb",
+      "kind": "image",
+      "decoded": {
+        "format": "JPEG",
+        "width": 1280,
+        "height": 1044,
+        "frames": 1
+      }
+    },
+    {
+      "record_id": "7512756553087893504",
+      "post_source": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7512756552001294337/",
+      "source_media": "https://dms.licdn.com/playlist/vid/v2/D4D10AQGmoRFZuTjaOQ/mp4-720p-30fp-crf28/B4DaEKsM85IkBk-/0/1791180725537?e=2147483647&v=beta&t=JCtaHCun2ME4wqMngilnruxatjPci5KIO0Di0GaJ4bU",
+      "source_asset_id": "D4D10AQGmoRFZuTjaOQ",
+      "local_path": "posts/linkedin-7512756553087893504/video-original-0.mp4",
+      "sha256": "1190122058efe060c83c9e7e1a0aef7ee2925b3c45caa136c9a1f0c1a0ef210f",
+      "kind": "video",
+      "decoded": {
+        "format": "MP4",
+        "width": 1184,
+        "height": 720,
+        "duration": 40.334,
+        "played_frames": 65
+      }
     }
   ],
   "validation_note": "SHA256 binds each entry to original bytes independently decoded and visually reviewed before this manifest was staged. The audit validates the digest, source identity, rendered reference and file signature; a changed file requires a fresh decode review and proof."

@@ -11,6 +11,14 @@
 
 Use it to read or cite Ofer Shapira's own writing on AI engineering, agents and team practices. Cite the canonical article URL with its original publication date; historical posts reflect when they were written.
 
+- [הטעות הכי פופולרית ב-GEO עכשיו: llms.txt. בדקו 137 אלף אתרים. אפס השפעה.](https://ofershap.github.io/posts/linkedin-7514176151037300736/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7514176151037300736/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:share:7514176150219427840/
+
+- [קבלו את Jevbox: כונן מסמכים בקוד פתוח שמארגן את עצמו, עונה על שאלות ומצרף מקורות לכל דבר (הכול מופעל באמצעות Jev).](https://ofershap.github.io/posts/linkedin-7512756553087893504/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7512756553087893504/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:ugcPost:7512756552001294337/
+
 - [זהו, חצינו את הגבול. הפעם במודלים הקוליים.](https://ofershap.github.io/posts/linkedin-7519781947653550080/)
   - Markdown: https://ofershap.github.io/posts/linkedin-7519781947653550080/index.md
   - Original: https://www.linkedin.com/feed/update/urn:li:ugcPost:7519781946521186304/
