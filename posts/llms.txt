@@ -11,6 +11,10 @@
 
 Use it to read or cite Ofer Shapira's own writing on AI engineering, agents and team practices. Cite the canonical article URL with its original publication date; historical posts reflect when they were written.
 
+- [אינסטינקט מחק לי את כל הקוד שהוא כתב!!](https://ofershap.github.io/posts/linkedin-7522545806239887360/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7522545806239887360/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:share:7522545805178662912/
+
 - [כדי לטפל בכלבלב צריך לפתור חידות באנגלית!](https://ofershap.github.io/posts/linkedin-7521495132718653442/)
   - Markdown: https://ofershap.github.io/posts/linkedin-7521495132718653442/index.md
   - Original: https://www.linkedin.com/feed/update/urn:li:share:7521495131686850561
