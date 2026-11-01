@@ -11,6 +11,18 @@
 
 Use it to read or cite Ofer Shapira's own writing on AI engineering, agents and team practices. Cite the canonical article URL with its original publication date; historical posts reflect when they were written.
 
+- [זוכרים את תכל׳סקול? כלי שהתחבר למשוב ושלח להורים סיכום יומי: מערכת, שיעורי בית והודעות מורים.](https://ofershap.github.io/posts/linkedin-7520381799638949888/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7520381799638949888/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:share:7520381798392999936/
+
+- [שישה חודשים של Claude Max 20x בחינם. זו ההצעה של אנתרופיק למתחזקים ותורמים בקוד פתוח.](https://ofershap.github.io/posts/linkedin-7520089299808358400/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7520089299808358400/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:share:7520089298747154432/
+
+- [שלחתי לאינסטינקט תמונה שלי וביקשתי מדבקות לווצאפ. הוא אפיין אותי: אבא שאוהב טכנולוגיה, אופנועי שטח ובדיקות קרש, וביקש ממני תמונה שלי.](https://ofershap.github.io/posts/linkedin-7519625312586854400/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7519625312586854400/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:share:7519625311408431104/
+
 - [אינסטינקט מחק לי את כל הקוד שהוא כתב!!](https://ofershap.github.io/posts/linkedin-7522545806239887360/)
   - Markdown: https://ofershap.github.io/posts/linkedin-7522545806239887360/index.md
   - Original: https://www.linkedin.com/feed/update/urn:li:share:7522545805178662912/
