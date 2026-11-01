@@ -11,6 +11,10 @@
 
 Use it to read or cite Ofer Shapira's own writing on AI engineering, agents and team practices. Cite the canonical article URL with its original publication date; historical posts reflect when they were written.
 
+- [זהו, חצינו את הגבול. הפעם במודלים הקוליים.](https://ofershap.github.io/posts/linkedin-7519781947653550080/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7519781947653550080/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:ugcPost:7519781946521186304/
+
 - [זוכרים את תכל׳סקול? כלי שהתחבר למשוב ושלח להורים סיכום יומי: מערכת, שיעורי בית והודעות מורים.](https://ofershap.github.io/posts/linkedin-7520381799638949888/)
   - Markdown: https://ofershap.github.io/posts/linkedin-7520381799638949888/index.md
   - Original: https://www.linkedin.com/feed/update/urn:li:share:7520381798392999936/

@@ -9420,5 +9420,22 @@
  "local_media": [
   "image-original-0.jpg"
  ]
+},
+{
+ "id": "7519781947653550080",
+ "text": "זהו, חצינו את הגבול. הפעם במודלים הקוליים.\n\nג׳ק דורסי, מייסד טוויטר לשעבר, הודיע על מודל בינה מלאכותית קולי חדש בשם Dessa שפיתחה החברה שלו, Block.\nהחברה מתארת את המודל כאחד ממודלי השיחה הקולית המציאותיים ביותר: הוא מאפשר לדבר עם הבינה המלאכותית באופן הדומה לשיחה עם אדם אמיתי.\n\nהמודל מבוסס על טכנולוגיית Full-Duplex שמאפשרת לו להקשיב ולדבר בו זמנית, עם יכולת להביע רגשות ולהבין את טון הדיבור, העצירות הטבעיות והקצב של שיחה אנושית.\n\nוהחשוב מכל: המודל אומן מאפס על שיחות קוליות אנושיות, בלי להסתמך על טקסטים או מודלים שאומנו מראש, ואפשר להריץ אותו מקומית על MacBook Pro עם מעבד M4 Max ומעלה.\nתקשיבו ותשפטו בעצמכם\n זה מטורףףף",
+ "published_at": "2026-10-24T18:28:47.113000+03:00",
+ "source": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7519781946521186304/",
+ "images": "",
+ "video_url": "https://dms.licdn.com/playlist/vid/v2/D4D10AQGHF8OBBz5WSg/mp4-720p-30fp-crf28/B4DaFuhwpyI8Bo-/0/1792855719596?e=2147483647&v=beta&t=CGDO5QPt2e_NyQzuSAFFgOJwGOlSoxMBJ_C5NgRNsSU",
+ "sha256": "ed56726bcc210056f5686f3eb14ed4b7ba5e9a6ff25977968687fc5fc099e94a",
+ "existing": false,
+ "date_provenance": "Exact activity snowflake timestamp converted with Asia/Jerusalem DST; native own source verified 1Nov2026",
+ "title": "זהו, חצינו את הגבול. הפעם במודלים הקוליים.",
+ "engagement": "off",
+ "media_available_on_source": false,
+ "local_media": [
+  "video-original-0.mp4"
+ ]
 }
 ]
