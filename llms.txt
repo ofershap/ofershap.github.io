@@ -284,3 +284,5 @@ Positioning: practical AI engineering leadership. This is Ofer’s personal prof
 - [How do you translate a technical feature into an explanation for the marketing team with AI?](https://ofershap.github.io/en/posts/feature-to-marketing-with-ai/)
   - Markdown: https://ofershap.github.io/en/posts/feature-to-marketing-with-ai/index.md
   - Original (Hebrew): https://ofershap.github.io/posts/feature-to-marketing-with-ai/
+
+- [הדמוקרטיזציה של הקוד: מה נשאר כשכולם יכולים לבנות תוכנה (פורסם בגיקטיים)](https://ofershap.github.io/posts/code-democratization/)
