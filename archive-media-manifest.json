@@ -4256,6 +4256,21 @@
         "height": 1350,
         "frames": 1
       }
+    },
+    {
+      "record_id": "7523106182773874691",
+      "post_source": "https://www.linkedin.com/feed/update/urn:li:share:7523106181784109057",
+      "source_media": "https://media.licdn.com/dms/image/v2/D4E10AQFuG-bOUg1X9A/image-shrink_800/B4EaGdxIsYG8Ao-/0/1793648266337?e=1794308400&v=beta&t=Ngv8tAlZmyNk8UkZxFpNzXVmee9WNQ_Ek5nC3Zs-5OM",
+      "source_asset_id": "D4E10AQFuG-bOUg1X9A",
+      "local_path": "posts/linkedin-7523106182773874691/image-original-0.jpg",
+      "sha256": "5ef1e6f6d056ae9f7b309ec97617f52aa8f3506ed99f37f7a073053076d20a58",
+      "kind": "image",
+      "decoded": {
+        "format": "JPEG",
+        "width": 599,
+        "height": 995,
+        "frames": 1
+      }
     }
   ],
   "validation_note": "SHA256 binds each entry to original bytes independently decoded and visually reviewed before this manifest was staged. The audit validates the digest, source identity, rendered reference and file signature; a changed file requires a fresh decode review and proof."

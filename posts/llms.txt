@@ -50,3 +50,7 @@ Use it to read or cite Ofer Shapira's own writing on AI engineering, agents and 
 - [Let Me Instinct That For You](https://ofershap.github.io/posts/linkedin-7521814738809417728/) - Original30October2026; [Markdown](https://ofershap.github.io/posts/linkedin-7521814738809417728/index.md).
 
 - [הדמוקרטיזציה של הקוד: מה נשאר כשכולם יכולים לבנות תוכנה (פורסם בגיקטיים)](https://ofershap.github.io/posts/code-democratization/)
+
+- [יאללה, תעזרו לי להגיע לחולצה 😄](https://ofershap.github.io/posts/linkedin-7523106182773874691/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7523106182773874691/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:share:7523106181784109057
