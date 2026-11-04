@@ -55,6 +55,7 @@ AI engineering, agents and software leadership - first-hand, dated writing in He
 - Writing archive: {S}/posts/ (recent posts listed in {S}/llms.txt)
 - Essays: {S}/essays/
 - English section: {S}/en/
+- LinkedIn writing service (Hebrew): https://solo-creative-team.pages.dev/
 - Recipe library MCP server: https://recipes.gitshow.dev/mcp
 
 Machine-readable entry points: {S}/llms.txt, {S}/agents.md, {S}/feed.xml, {S}/sitemap.xml.
