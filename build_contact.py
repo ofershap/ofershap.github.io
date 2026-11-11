@@ -5,7 +5,7 @@ from pathlib import Path
 R = Path(__file__).resolve().parent
 SITE = 'https://ofershap.github.io'
 LINKEDIN = 'https://www.linkedin.com/in/ofershap/'
-WHATSAPP = 'https://chat.whatsapp.com/K4e3jxRerQs7QDAy9h8InB?mode=gi_t'
+WHATSAPP = 'https://itzik-community-benefits.pages.dev/join'
 GITHUB = 'https://github.com/ofershap'
 
 html = '''<!doctype html>

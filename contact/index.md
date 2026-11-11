@@ -9,7 +9,7 @@ lang: he
 
 - לינקדאין (הערוץ הכי טוב): https://www.linkedin.com/in/ofershap/
 - גיטהאב: https://github.com/ofershap
-- קבוצת וואטסאפ לעזרה ביצירת בוט: https://chat.whatsapp.com/K4e3jxRerQs7QDAy9h8InB?mode=gi_t
+- קבוצת וואטסאפ לעזרה ביצירת בוט: https://itzik-community-benefits.pages.dev/join
 - כתיבה ללינקדאין למייסדים: https://solo-creative-team.pages.dev/
 - הבלוג: https://ofershap.github.io/
 
