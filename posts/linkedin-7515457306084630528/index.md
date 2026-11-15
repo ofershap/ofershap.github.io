@@ -22,11 +22,11 @@ https://luma.com/mh2trrqp
 Original source: https://www.linkedin.com/feed/update/urn:li:activity:7515457306084630528/
 Published: 2026-10-12T20:04:12.215000+03:00
 
+![Original post media](image-original-0.jpg)
+
 
 ## על עופר שפירא
 
 אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
 
 [GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)
-
-![Original post media](image-original-0.jpg)

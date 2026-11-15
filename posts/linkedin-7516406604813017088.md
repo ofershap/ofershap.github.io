@@ -20,6 +20,8 @@ https://lnkd.in/db8KrV8p
 Original source: https://www.linkedin.com/feed/update/urn:li:share:7516406603865214977
 Published: 2026-10-15T10:56:00+03:00
 
+![Original post media](image-1.jpg)
+
 
 ## על עופר שפירא
 

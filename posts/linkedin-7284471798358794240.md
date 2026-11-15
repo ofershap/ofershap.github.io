@@ -41,6 +41,8 @@ OpenAI #samaltman
 Original source: https://www.linkedin.com/posts/ofershap_samaltman-activity-7284471798358794240-Q3zj
 Published: 2025-01-13T09:30:15.670000+02:00
 
+![Original post media](image-0.jpg)
+
 
 ## על עופר שפירא
 

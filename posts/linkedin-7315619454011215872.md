@@ -24,6 +24,8 @@ canonical: https://ofershap.github.io/posts/linkedin-7315619454011215872/
 Original source: https://www.linkedin.com/posts/ofershap_microsoft-ai-activity-7315619454011215872-UiEF
 Published: 2025-04-09T09:19:55.473000+03:00
 
+![Original post media](image-0.jpg)
+
 
 ## על עופר שפירא
 

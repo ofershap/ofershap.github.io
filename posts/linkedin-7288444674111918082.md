@@ -55,6 +55,8 @@ It’s not ready for production, but for anyone looking to experiment, test idea
 Original source: https://www.linkedin.com/posts/ofershap_lovabe-lovabledev-ai-activity-7288444674111918082-AUzs
 Published: 2025-01-24T08:37:03.062000+02:00
 
+![Original post media](image-0.jpg)
+
 
 ## About Ofer Shapira
 

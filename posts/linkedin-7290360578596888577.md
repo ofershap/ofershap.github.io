@@ -32,6 +32,8 @@ https://lnkd.in/dH7RvHyb
 Original source: https://www.linkedin.com/posts/ofershap_elementor-ai-activity-7290360578596888577-edX_
 Published: 2025-01-29T15:30:10.287000+02:00
 
+![Original post media](image-0.jpg)
+
 
 ## על עופר שפירא
 

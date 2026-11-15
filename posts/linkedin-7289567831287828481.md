@@ -30,6 +30,8 @@ canonical: https://ofershap.github.io/posts/linkedin-7289567831287828481/
 Original source: https://www.linkedin.com/posts/ofershap_%D7%9E%D7%99-%D7%9E%D7%97%D7%9B%D7%94-%D7%A9%D7%A1%D7%95%D7%9B%D7%A0%D7%99-ai-%D7%91%D7%90%D7%9E%D7%AA-%D7%99%D7%AA%D7%97%D7%99%D7%9C%D7%95-%D7%9C%D7%A2%D7%91%D7%95%D7%93-%D7%91%D7%A9%D7%91%D7%99%D7%9C%D7%A0%D7%95-activity-7289567831287828481-Y00D
 Published: 2025-01-27T11:00:04.600000+02:00
 
+![Original post media](image-0.jpg)
+
 
 ## על עופר שפירא
 

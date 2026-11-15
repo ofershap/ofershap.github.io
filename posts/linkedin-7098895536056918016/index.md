@@ -17,6 +17,16 @@ Credit: Ori bejerano
 Original source: https://www.linkedin.com/posts/ofershap_midjourney-activity-7098895536056918016-axED
 Published: 2023-08-20T08:16:26.897000+03:00
 
+![Original post media](image-0.jpg)
+
+![Original post media](image-1.jpg)
+
+![Original post media](image-2.jpg)
+
+![Original post media](image-3.jpg)
+
+![Original post media](image-4.jpg)
+
 
 ## About Ofer Shapira
 

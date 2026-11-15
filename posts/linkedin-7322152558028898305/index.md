@@ -41,6 +41,8 @@ Air Canada חויבה לשלם. הם לא ערערו על פסק הדין.
 Original source: https://www.linkedin.com/posts/ofershap_%D7%9B%D7%A9%D7%A6%D7%90%D7%98%D7%91%D7%95%D7%98-%D7%A9%D7%9C-%D7%97%D7%91%D7%A8%D7%AA-%D7%AA%D7%A2%D7%95%D7%A4%D7%94-%D7%9E%D7%9E%D7%A6%D7%99%D7%90-%D7%9E%D7%93%D7%99%D7%A0%D7%99%D7%95%D7%AA-%D7%9E%D7%99-activity-7322152558028898305-FxG6
 Published: 2025-04-27T10:00:08.850000+03:00
 
+![Original post media](image-0.jpg)
+
 
 ## על עופר שפירא
 

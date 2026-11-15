@@ -1,7 +1,7 @@
 ---
 title: "The project built with Cursor, Lovable or Bolt doesn't work. What now?"
 published: 2026-10-07T19:59:48+03:00
-updated: 2026-10-24
+updated: 2026-11-15
 lang: en
 canonical: https://ofershap.github.io/en/posts/vibe-code-project-rescue/
 original: https://ofershap.github.io/posts/vibe-code-project-rescue/
@@ -51,4 +51,4 @@ A basic one-hour diagnosis costs 450 ILS before VAT. Further work is priced afte
 
 Ofer Shapira - The Israeli AI Agency - matching and installing AI agents for small businesses in Israel, in Hebrew, with long-term support.
 
-Last updated: 2026-10-24
+Last updated: 2026-11-15

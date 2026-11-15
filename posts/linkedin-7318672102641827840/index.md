@@ -15,6 +15,8 @@ I took the Vibe Coding editor "Chef" by Convex for a run to see if it can build 
 Original source: https://www.linkedin.com/posts/ofershap_are-you-talking-to-a-human-or-a-robot-https-activity-7318672102641827840-eYI3
 Published: 2025-04-17T19:30:03.622000+03:00
 
+![Original post media](image-0.jpg)
+
 
 ## About Ofer Shapira
 

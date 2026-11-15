@@ -24,6 +24,8 @@ DeepMind, חברת הבת של גוגל, הציגה לאחרונה את AlphaEar
 Original source: https://www.linkedin.com/posts/ofershap_%D7%A7%D7%95%D7%9C%D7%95%D7%9E%D7%91%D7%95%D7%A1-%D7%92%D7%99%D7%9C%D7%94-%D7%90%D7%AA-%D7%90%D7%9E%D7%A8%D7%99%D7%A7%D7%94-%D7%95%D7%9C%D7%A4%D7%99-%D7%94%D7%90%D7%92%D7%93%D7%94-%D7%92%D7%9D-%D7%90%D7%AA-activity-7365261588708110337-iS_J
 Published: 2025-08-24T09:00:02.691000+03:00
 
+![Original post media](image-0.jpg)
+
 
 ## על עופר שפירא
 

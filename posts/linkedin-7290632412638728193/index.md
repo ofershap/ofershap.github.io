@@ -56,6 +56,8 @@ DeepSeek היא לא חברה ענקית ולא גוף ממשלתי – אלא �
 Original source: https://www.linkedin.com/posts/ofershap_ai-deepseek-artificialintelligence-activity-7290632412638728193--AY0
 Published: 2025-01-30T09:30:20.573000+02:00
 
+![Original post media](image-0.jpg)
+
 
 ## על עופר שפירא
 

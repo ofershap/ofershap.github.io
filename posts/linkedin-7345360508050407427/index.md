@@ -30,6 +30,8 @@ canonical: https://ofershap.github.io/posts/linkedin-7345360508050407427/
 Original source: https://www.linkedin.com/posts/ofershap_ai-space-astronomy-activity-7345360508050407427-GOfr
 Published: 2025-06-30T11:00:15.318000+03:00
 
+![Original post media](image-0.jpg)
+
 
 ## על עופר שפירא
 

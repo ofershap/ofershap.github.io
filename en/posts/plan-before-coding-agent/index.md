@@ -1,7 +1,7 @@
 ---
 title: "What should you decide before starting to build with a coding agent?"
 published: 2026-10-09T12:56:40+03:00
-updated: 2026-10-24
+updated: 2026-11-15
 lang: en
 canonical: https://ofershap.github.io/en/posts/plan-before-coding-agent/
 original: https://ofershap.github.io/posts/plan-before-coding-agent/
@@ -60,4 +60,4 @@ The core action and the risk that needs validating, such as deployment or conten
 
 Ofer Shapira - The Israeli AI Agency - matching and installing AI agents for small businesses in Israel, in Hebrew, with long-term support.
 
-Last updated: 2026-10-24
+Last updated: 2026-11-15

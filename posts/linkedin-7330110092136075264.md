@@ -36,6 +36,8 @@ Hugging Face השיקה השבוע את SO-101 – זרוע רובוטית חכ�
 Original source: https://www.linkedin.com/posts/ofershap_%D7%9E%D7%94-%D7%94%D7%99%D7%99%D7%AA%D7%9D-%D7%A2%D7%95%D7%A9%D7%99%D7%9D-%D7%A2%D7%9D-%D7%96%D7%A8%D7%95%D7%A2-ai-%D7%A9%D7%9E%D7%97%D7%95%D7%91%D7%A8%D7%AA-%D7%9C-chat-activity-7330110092136075264-4_8B
 Published: 2025-05-19T09:00:32.825000+03:00
 
+![Original post media](image-0.jpg)
+
 
 ## על עופר שפירא
 

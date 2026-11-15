@@ -14,6 +14,8 @@ canonical: https://ofershap.github.io/posts/linkedin-6646500743765389313/
 Original source: https://www.linkedin.com/posts/ofershap_outsource-israel-coronarvirus-activity-6646500743765389313-B9D0
 Published: 2020-03-19T22:21:03.326000+02:00
 
+![Original post media](image-0.jpg)
+
 
 ## על עופר שפירא
 

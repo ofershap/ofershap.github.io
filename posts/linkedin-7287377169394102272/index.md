@@ -16,6 +16,8 @@ canonical: https://ofershap.github.io/posts/linkedin-7287377169394102272/
 Original source: https://www.linkedin.com/posts/ofershap_chatgpt-activity-7287377169394102272-MGPm
 Published: 2025-01-21T09:55:10.104000+02:00
 
+![Original post media](image-0.jpg)
+
 
 ## על עופר שפירא
 

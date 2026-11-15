@@ -14,6 +14,18 @@ ChatGPT in React.js איך להרים ב-5 דקות עבודה
 Original source: https://www.linkedin.com/posts/ofershap_react-chatgpt-activity-7024387774443065344-JaSb
 Published: 2023-01-26T16:49:12.241000+02:00
 
+![Original post media](image-0.jpg)
+
+![Original post media](image-1.jpg)
+
+![Original post media](image-2.jpg)
+
+![Original post media](image-3.jpg)
+
+![Original post media](image-4.jpg)
+
+![Original post media](image-5.jpg)
+
 
 ## על עופר שפירא
 

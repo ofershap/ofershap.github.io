@@ -17,6 +17,8 @@ That's a one crazy world ahead of us.
 Original source: https://www.linkedin.com/posts/ofershap_alon-musks-neuralink-startup-started-recruiting-activity-7111796363050270720-Br45
 Published: 2023-09-24T22:39:43.738000+03:00
 
+![Original post media](image-0.jpg)
+
 
 ## About Ofer Shapira
 

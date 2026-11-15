@@ -15,6 +15,14 @@ by Dana Akerman Green & Midjourney
 Original source: https://www.linkedin.com/posts/ofershap_laundry-art-by-dana-akerman-green-midjourney-activity-7159501942820356096-ur-w
 Published: 2024-02-03T13:04:40.282000+02:00
 
+![Original post media](image-0.jpg)
+
+![Original post media](image-1.jpg)
+
+![Original post media](image-2.jpg)
+
+![Original post media](image-3.jpg)
+
 
 ## About Ofer Shapira
 

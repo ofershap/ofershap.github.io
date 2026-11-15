@@ -1,7 +1,7 @@
 ---
 title: "How do you roll out Cursor in a development team?"
 published: 2026-10-07T19:59:48+03:00
-updated: 2026-10-24
+updated: 2026-11-15
 lang: en
 canonical: https://ofershap.github.io/en/posts/cursor-team-adoption/
 original: https://ofershap.github.io/posts/cursor-team-adoption/
@@ -53,4 +53,4 @@ Track usage and cost per developer, and check whether they translate into output
 
 Ofer Shapira - The Israeli AI Agency - matching and installing AI agents for small businesses in Israel, in Hebrew, with long-term support.
 
-Last updated: 2026-10-24
+Last updated: 2026-11-15

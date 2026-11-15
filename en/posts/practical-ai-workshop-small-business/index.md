@@ -1,7 +1,7 @@
 ---
 title: "How do you choose an AI workshop for a small business that you leave with a deliverable?"
 published: 2026-10-08T12:54:14+03:00
-updated: 2026-10-24
+updated: 2026-11-15
 lang: en
 canonical: https://ofershap.github.io/en/posts/practical-ai-workshop-small-business/
 original: https://ofershap.github.io/posts/practical-ai-workshop-small-business/
@@ -51,4 +51,4 @@ A lecture fits getting to know ideas. A workshop fits when you need to practice 
 
 Ofer Shapira - The Israeli AI Agency - matching and installing AI agents for small businesses in Israel, in Hebrew, with long-term support.
 
-Last updated: 2026-10-24
+Last updated: 2026-11-15

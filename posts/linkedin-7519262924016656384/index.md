@@ -20,6 +20,8 @@ https://itzik-community-benefits.pages.dev/join
 Original source: https://www.linkedin.com/feed/update/urn:li:share:7519262924016656384
 Published: 2026-10-23T08:06:22.873000+03:00
 
+![Original post media](image-1.png)
+
 
 ## על עופר שפירא
 

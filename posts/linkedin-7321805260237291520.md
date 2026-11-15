@@ -23,6 +23,8 @@ canonical: https://ofershap.github.io/posts/linkedin-7321805260237291520/
 Original source: https://www.linkedin.com/posts/ofershap_ackacwacjacxack-achacwacpack-activity-7321805260237291520-NJWi
 Published: 2025-04-26T11:00:06.604000+03:00
 
+![Original post media](image-0.jpg)
+
 
 ## על עופר שפירא
 

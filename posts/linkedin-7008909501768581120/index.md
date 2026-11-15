@@ -34,6 +34,8 @@ While it is true that some websites list other animals as having longer lifespan
 Original source: https://www.linkedin.com/posts/ofershap_chatgpt-activity-7008909501768581120-ESPU
 Published: 2022-12-14T23:44:04.463000+02:00
 
+![Original post media](image-0.jpg)
+
 
 ## About Ofer Shapira
 

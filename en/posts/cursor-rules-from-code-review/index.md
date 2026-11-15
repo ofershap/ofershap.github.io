@@ -1,7 +1,7 @@
 ---
 title: "How do you turn code review comments into rules Cursor can use?"
 published: 2026-10-08T12:54:14+03:00
-updated: 2026-10-24
+updated: 2026-11-15
 lang: en
 canonical: https://ofershap.github.io/en/posts/cursor-rules-from-code-review/
 original: https://ofershap.github.io/posts/cursor-rules-from-code-review/
@@ -53,4 +53,4 @@ No. Rules give the agent context; tests and human review are still required.
 
 Ofer Shapira - The Israeli AI Agency - matching and installing AI agents for small businesses in Israel, in Hebrew, with long-term support.
 
-Last updated: 2026-10-24
+Last updated: 2026-11-15

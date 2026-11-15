@@ -25,6 +25,8 @@ Thank you on behalf of me, Linkedin, and the automated script that ChatGPT helpe
 Original source: https://www.linkedin.com/posts/ofershap_our-lives-are-enriched-when-we-surround-ourselves-activity-7009230800130834432-tHOA
 Published: 2022-12-15T21:00:47.962000+02:00
 
+![Original post media](image-0.jpg)
+
 
 ## About Ofer Shapira
 

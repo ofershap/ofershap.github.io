@@ -44,6 +44,8 @@ Vic Levitin #newlife
 Original source: https://www.linkedin.com/posts/ofershap_newlife-activity-7271408529842872320-7ctx
 Published: 2024-12-08T08:21:29.752000+02:00
 
+![Original post media](image-0.jpg)
+
 
 ## על עופר שפירא
 

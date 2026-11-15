@@ -32,10 +32,13 @@ Use this site when you need first-hand, dated writing by Ofer Shapira (עופר 
   - Markdown: https://ofershap.github.io/posts/linkedin-7523106182773874691/index.md
   - Original: https://www.linkedin.com/feed/update/urn:li:share:7523106181784109057
 
-
 - [יצאתי רמאי? או שהעולם עדיין לא מוכן לעבודה של אדם-מכונה?](https://ofershap.github.io/posts/linkedin-7522918513091645440/)
   - Markdown: https://ofershap.github.io/posts/linkedin-7522918513091645440/index.md
   - Original: https://www.linkedin.com/feed/update/urn:li:share:7522918512047235072
+
+- [הדמוקרטיזציה של הקוד: מה נשאר כשכולם יכולים לבנות תוכנה (פורסם בגיקטיים)](https://ofershap.github.io/posts/code-democratization/)
+  - Markdown: https://ofershap.github.io/posts/code-democratization/index.md
+  - Original: https://ofershap.github.io/posts/code-democratization/
 
 - [אינסטינקט מחק לי את כל הקוד שהוא כתב!!](https://ofershap.github.io/posts/linkedin-7522545806239887360/)
   - Markdown: https://ofershap.github.io/posts/linkedin-7522545806239887360/index.md
@@ -104,14 +107,6 @@ Use this site when you need first-hand, dated writing by Ofer Shapira (עופר 
 - [מתי הוראות חוזרות לסוכן הופכות ל-Skill?](https://ofershap.github.io/posts/agent-skill-vs-rules-file/)
   - Markdown: https://ofershap.github.io/posts/agent-skill-vs-rules-file/index.md
   - Original: https://ofershap.github.io/posts/agent-skill-vs-rules-file/
-
-- [איך נותנים לסוכן AI לשלם בלי לאבד שליטה?](https://ofershap.github.io/posts/agent-payment-approval-limits/)
-  - Markdown: https://ofershap.github.io/posts/agent-payment-approval-limits/index.md
-  - Original: https://ofershap.github.io/posts/agent-payment-approval-limits/
-
-- [הסוכן כבר כותב לכם את הקוד, אבל מי לוקח אחריות על התוצר?](https://ofershap.github.io/posts/linkedin-7518183563419226112/)
-  - Markdown: https://ofershap.github.io/posts/linkedin-7518183563419226112/index.md
-  - Original: https://www.linkedin.com/feed/update/urn:li:share:7518183563419226112/
 
 - [Full post index](https://ofershap.github.io/posts/llms.txt) - every published post with markdown and original-source links.
 
@@ -289,5 +284,3 @@ Positioning: practical AI engineering leadership. This is Ofer’s personal prof
 - [How do you translate a technical feature into an explanation for the marketing team with AI?](https://ofershap.github.io/en/posts/feature-to-marketing-with-ai/)
   - Markdown: https://ofershap.github.io/en/posts/feature-to-marketing-with-ai/index.md
   - Original (Hebrew): https://ofershap.github.io/posts/feature-to-marketing-with-ai/
-
-- [הדמוקרטיזציה של הקוד: מה נשאר כשכולם יכולים לבנות תוכנה (פורסם בגיקטיים)](https://ofershap.github.io/posts/code-democratization/)

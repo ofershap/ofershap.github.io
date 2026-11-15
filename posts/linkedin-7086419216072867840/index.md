@@ -14,6 +14,8 @@ canonical: https://ofershap.github.io/posts/linkedin-7086419216072867840/
 Original source: https://www.linkedin.com/posts/ofershap_nowhiring-techjobs-careeropportunities-activity-7086419216072867840-u9hy
 Published: 2023-07-16T22:00:00.414000+03:00
 
+![Original post media](image-0.jpg)
+
 
 ## About Ofer Shapira
 

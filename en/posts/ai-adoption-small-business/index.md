@@ -1,7 +1,7 @@
 ---
 title: "How do you start adopting AI in a small business without developing anything?"
 published: 2026-10-07T19:59:48+03:00
-updated: 2026-10-24
+updated: 2026-11-15
 lang: en
 canonical: https://ofershap.github.io/en/posts/ai-adoption-small-business/
 original: https://ofershap.github.io/posts/ai-adoption-small-business/
@@ -51,4 +51,4 @@ Define a metric up front, and check after a month whether the tool saved time or
 
 Ofer Shapira - The Israeli AI Agency - matching and installing AI agents for small businesses in Israel, in Hebrew, with long-term support.
 
-Last updated: 2026-10-24
+Last updated: 2026-11-15

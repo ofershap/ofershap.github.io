@@ -50,3 +50,10 @@ canonical: https://ofershap.github.io/posts/code-democratization/
 אבל הטענות האלה רלוונטיות רק למערכות שנוגעות במציאות מסורבלת: שכר, חיוב, ציות, ERP. ב-80% מה-SaaS (לוחות, דשבורדים, טפסים) שטח מקרי הקצה דק, ושכתוב באמת עובד. סאקס צודק על systems of record וטועה על שכבת הביניים - וזו בדיוק ההבחנה.
 
 אם אתה לא תשתית, לא חברת על, לא system of record ולא "אינפלואנסר" של קוד - אין לך moat ובעידן החדש כבר אין לך ערך אמיתי.
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

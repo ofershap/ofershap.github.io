@@ -31,6 +31,8 @@ canonical: https://ofershap.github.io/posts/linkedin-7516001433822072832/
 Original source: https://www.linkedin.com/feed/update/urn:li:share:7516001432945274880
 Published: 2026-10-14T08:06:00+03:00
 
+![Original post media](image-1.jpg)
+
 
 ## על עופר שפירא
 

@@ -39,6 +39,8 @@ https://lnkd.in/dXuZEbAg
 Original source: https://www.linkedin.com/feed/update/urn:li:share:7515293264556556289/
 Published: 2026-10-12T09:12:00+03:00
 
+![Original post media](image-1.jpg)
+
 
 ## על עופר שפירא
 

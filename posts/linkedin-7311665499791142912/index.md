@@ -14,6 +14,22 @@ canonical: https://ofershap.github.io/posts/linkedin-7311665499791142912/
 Original source: https://www.linkedin.com/posts/ofershap_chatgpt-4o-activity-7311665499791142912-zGF8
 Published: 2025-03-29T11:28:19.326000+03:00
 
+![Original post media](image-0.jpg)
+
+![Original post media](image-1.jpg)
+
+![Original post media](image-2.jpg)
+
+![Original post media](image-3.jpg)
+
+![Original post media](image-4.jpg)
+
+![Original post media](image-5.jpg)
+
+![Original post media](image-6.jpg)
+
+![Original post media](image-7.jpg)
+
 
 ## על עופר שפירא
 

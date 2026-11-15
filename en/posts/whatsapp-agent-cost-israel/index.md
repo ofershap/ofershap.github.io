@@ -1,7 +1,7 @@
 ---
 title: "How much does a WhatsApp AI agent cost for a small business in Israel?"
 published: 2026-10-07T19:59:48+03:00
-updated: 2026-10-24
+updated: 2026-11-15
 lang: en
 canonical: https://ofershap.github.io/en/posts/whatsapp-agent-cost-israel/
 original: https://ofershap.github.io/posts/whatsapp-agent-cost-israel/
@@ -49,4 +49,4 @@ Maintenance that includes updating answers and reviewing chats starts at 300 ILS
 
 Ofer Shapira - The Israeli AI Agency - matching and installing AI agents for small businesses in Israel, in Hebrew, with long-term support.
 
-Last updated: 2026-10-24
+Last updated: 2026-11-15

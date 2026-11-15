@@ -17,6 +17,24 @@ Credit: A.I Samurai
 Original source: https://www.linkedin.com/posts/ofershap_can-you-identify-the-logo-hidden-in-each-activity-7111657069732147200-2YiI
 Published: 2023-09-24T13:26:13.623000+03:00
 
+![Original post media](image-0.jpg)
+
+![Original post media](image-1.jpg)
+
+![Original post media](image-2.jpg)
+
+![Original post media](image-3.jpg)
+
+![Original post media](image-4.jpg)
+
+![Original post media](image-5.jpg)
+
+![Original post media](image-6.jpg)
+
+![Original post media](image-7.jpg)
+
+![Original post media](image-8.jpg)
+
 
 ## About Ofer Shapira
 

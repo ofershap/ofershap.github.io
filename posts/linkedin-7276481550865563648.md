@@ -26,6 +26,8 @@ Roy Latke
 Original source: https://www.linkedin.com/posts/ofershap_%D7%91%D7%AA%D7%97%D7%99%D7%9C%D7%AA-%D7%A9%D7%A0%D7%95%D7%AA-%D7%94-90-%D7%A0%D7%99%D7%A6%D7%91%D7%94-%D7%9E%D7%99%D7%A7%D7%A8%D7%95%D7%A1%D7%95%D7%A4%D7%98-%D7%91%D7%A4%D7%A0%D7%99-%D7%90%D7%AA%D7%92%D7%A8-activity-7276481550865563648-h_xU
 Published: 2024-12-22T08:19:52.216000+02:00
 
+![Original post media](image-0.jpg)
+
 
 ## על עופר שפירא
 

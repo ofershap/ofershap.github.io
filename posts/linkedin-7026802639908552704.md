@@ -16,6 +16,8 @@ https://lnkd.in/d2tYjXff
 Original source: https://www.linkedin.com/posts/ofershap_%D7%9C%D7%90-%D7%A0%D7%AA%D7%A4%D7%A1-%D7%AA%D7%95%D7%9A-%D7%A1%D7%94%D7%9B-%D7%97%D7%95%D7%93%D7%A9%D7%99%D7%99%D7%9D-%D7%91%D7%9C%D7%91%D7%93-chatgpt-activity-7026802639908552704-FyXK
 Published: 2023-02-02T08:45:01.034000+02:00
 
+![Original post media](image-0.jpg)
+
 
 ## על עופר שפירא
 

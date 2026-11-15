@@ -35,6 +35,8 @@ canonical: https://ofershap.github.io/posts/linkedin-7289182780394033152/
 Original source: https://www.linkedin.com/posts/ofershap_ai-xcom-grok-activity-7289182780394033152-lY9O
 Published: 2025-01-26T09:30:01.313000+02:00
 
+![Original post media](image-0.jpg)
+
 
 ## על עופר שפירא
 

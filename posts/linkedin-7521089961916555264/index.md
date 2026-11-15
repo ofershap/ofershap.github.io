@@ -24,3 +24,10 @@ Original source: https://www.linkedin.com/feed/update/urn:li:share:7521089960913
 Published: 2026-10-28T06:06:22.013Z
 
 ![Original post media](image-0.jpg)
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)

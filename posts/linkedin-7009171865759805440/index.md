@@ -16,6 +16,8 @@ How do you feel knowing that the chatGPT itself wrote this paragraph on itself?
 Original source: https://www.linkedin.com/posts/ofershap_chatgpt-ai-activity-7009171865759805440-E40z
 Published: 2022-12-15T17:06:36.913000+02:00
 
+![Original post media](image-0.jpg)
+
 
 ## About Ofer Shapira
 

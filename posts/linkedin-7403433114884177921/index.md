@@ -27,6 +27,8 @@ canonical: https://ofershap.github.io/posts/linkedin-7403433114884177921/
 Original source: https://www.linkedin.com/posts/ofershap_%D7%A4%D7%A8%D7%A7-1-%D7%91%D7%A1%D7%93%D7%A8%D7%AA-%D7%9C%D7%95%D7%9E%D7%93%D7%99%D7%9D-%D7%9C%D7%94%D7%A9%D7%AA%D7%9E%D7%A9-%D7%91-nano-banana-activity-7403433114884177921-OrRU
 Published: 2025-12-07T16:00:03.724000+02:00
 
+![Original post media](image-0.jpg)
+
 
 ## על עופר שפירא
 

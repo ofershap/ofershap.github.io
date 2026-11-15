@@ -13,6 +13,8 @@ Thanks #chatgpt for calming us down. Armageddon is not here yet, I can cancel th
 Original source: https://www.linkedin.com/posts/ofershap_chatgpt-activity-7009078746225754112-91hY
 Published: 2022-12-15T10:56:35.486000+02:00
 
+![Original post media](image-0.jpg)
+
 
 ## About Ofer Shapira
 

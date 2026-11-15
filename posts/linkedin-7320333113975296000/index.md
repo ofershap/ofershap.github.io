@@ -35,6 +35,8 @@ canonical: https://ofershap.github.io/posts/linkedin-7320333113975296000/
 Original source: https://www.linkedin.com/posts/ofershap_ai-robocop-achacpacwackabracuacsacgacracladgacpadg-activity-7320333113975296000-hkOj
 Published: 2025-04-22T09:30:19.584000+03:00
 
+![Original post media](image-0.jpg)
+
 
 ## על עופר שפירא
 

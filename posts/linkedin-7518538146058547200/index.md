@@ -22,11 +22,11 @@ https://lnkd.in/db8KrV8p
 Original source: https://www.linkedin.com/feed/update/urn:li:ugcPost:7518538146058547200/
 Published: 2026-10-21T08:06:22.273000+03:00
 
+[Original post video](video-original-0.mp4)
+
 
 ## על עופר שפירא
 
 אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
 
 [GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)
-
-[Original post video](video-original-0.mp4)

@@ -33,6 +33,12 @@ Create a hyper-realistic 3D render of a [emoji] as an ultra-cute, soft plush toy
 Original source: https://www.linkedin.com/posts/ofershap_%D7%91%D7%A8%D7%95%D7%9B%D7%99%D7%9D-%D7%94%D7%91%D7%90%D7%99%D7%9D-%D7%9C%D7%A4%D7%99%D7%A0%D7%AA-%D7%94%D7%A4%D7%A8%D7%95%D7%9E%D7%A4%D7%98-%D7%A9%D7%9C-%D7%A9%D7%99%D7%A9%D7%99-%D7%91%D7%9B%D7%9C-%D7%A9%D7%99%D7%A9%D7%99-activity-7362015299941888000-_upI
 Published: 2025-08-15T10:00:27.136000+03:00
 
+![Original post media](image-0.jpg)
+
+![Original post media](image-1.jpg)
+
+![Original post media](image-2.jpg)
+
 
 ## על עופר שפירא
 

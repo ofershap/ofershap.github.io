@@ -18,6 +18,9 @@ Ofer Shapira's blog - first-hand writing on AI engineering, agents, software arc
 | Site map for LLMs | {S}/llms.txt |
 | Full-text archive (all posts) | {S}/llms-full.txt |
 | This file | {S}/agents.md |
+| Contact | {S}/contact/ |
+| Agent authentication (none required) | {S}/auth.md |
+| Pricing (everything free) | {S}/pricing.md |
 | Homepage (markdown) | {S}/index.md |
 | Writing archive index | {S}/posts/llms.txt |
 | Engagement API docs index | {S}/docs/llms.txt |

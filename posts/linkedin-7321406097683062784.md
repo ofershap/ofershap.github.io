@@ -18,6 +18,8 @@ MC P
 Original source: https://www.linkedin.com/posts/ofershap_king-of-the-chain-fillin-the-brain-thinkin-activity-7321406097683062784-TsFM
 Published: 2025-04-25T08:33:58.835000+03:00
 
+![Original post media](image-0.jpg)
+
 
 ## About Ofer Shapira
 

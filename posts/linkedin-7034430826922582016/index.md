@@ -17,6 +17,16 @@ https://lnkd.in/d-2qhG3j
 Original source: https://www.linkedin.com/posts/ofershap_acnacpadaacladfacyachaclacjack-activity-7034430826922582016-GjoY
 Published: 2023-02-23T09:56:42.543000+02:00
 
+![Original post media](image-0.jpg)
+
+![Original post media](image-1.jpg)
+
+![Original post media](image-2.jpg)
+
+![Original post media](image-3.jpg)
+
+![Original post media](image-4.jpg)
+
 
 ## על עופר שפירא
 

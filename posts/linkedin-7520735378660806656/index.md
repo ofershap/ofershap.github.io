@@ -30,11 +30,11 @@ canonical: https://ofershap.github.io/posts/linkedin-7520735378660806656/
 Original source: https://www.linkedin.com/feed/update/urn:li:share:7520735377570029568/
 Published: 2026-10-27T08:37:00+02:00
 
+![Original post media](image-0.jpg)
+
 
 ## על עופר שפירא
 
 אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
 
 [GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)
-
-![המדיה המקורית מהפוסט](image-0.jpg)

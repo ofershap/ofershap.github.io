@@ -35,6 +35,8 @@ Zach Yadegari
 Original source: https://www.linkedin.com/posts/ofershap_acpacmacuacladg-achacpacwackacuacsacgacracladgacpadg-activity-7276867782334369792-74ws
 Published: 2024-12-23T09:54:36.974000+02:00
 
+![Original post media](image-0.jpg)
+
 
 ## על עופר שפירא
 

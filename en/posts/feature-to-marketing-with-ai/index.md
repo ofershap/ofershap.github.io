@@ -1,7 +1,7 @@
 ---
 title: "How do you translate a technical feature into an explanation for the marketing team with AI?"
 published: 2026-10-09T12:56:40+03:00
-updated: 2026-10-24
+updated: 2026-11-15
 lang: en
 canonical: https://ofershap.github.io/en/posts/feature-to-marketing-with-ai/
 original: https://ofershap.github.io/posts/feature-to-marketing-with-ai/
@@ -60,4 +60,4 @@ You can prepare and check a draft without Slack. The connection is a way to star
 
 Ofer Shapira - The Israeli AI Agency - matching and installing AI agents for small businesses in Israel, in Hebrew, with long-term support.
 
-Last updated: 2026-10-24
+Last updated: 2026-11-15

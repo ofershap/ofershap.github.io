@@ -14,6 +14,12 @@ canonical: https://ofershap.github.io/posts/linkedin-7376533376293482497/
 Original source: https://www.linkedin.com/posts/ofershap_%D7%90%D7%97%D7%93-%D7%94%D7%9E%D7%95%D7%96%D7%A8%D7%99%D7%9D-%D7%A7%D7%A8%D7%95%D7%A7%D7%A1-%D7%94%D7%95%D7%A6%D7%99%D7%90%D7%95-%D7%9C%D7%99%D7%99%D7%9F-%D7%A9%D7%9C-%D7%9B%D7%99%D7%A1%D7%95%D7%99%D7%99%D7%9D-activity-7376533376293482497-KoW7
 Published: 2025-09-24T11:30:06.271000+03:00
 
+![Original post media](image-0.jpg)
+
+![Original post media](image-1.jpg)
+
+![Original post media](image-2.jpg)
+
 
 ## על עופר שפירא
 

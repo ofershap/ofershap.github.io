@@ -16,6 +16,8 @@ Share if you stand for humanity!
 Original source: https://www.linkedin.com/posts/ofershap_terrornomore-activity-7122172794225778690-crGM
 Published: 2023-10-23T13:51:57.715000+03:00
 
+![Original post media](image-0.jpg)
+
 
 ## About Ofer Shapira
 

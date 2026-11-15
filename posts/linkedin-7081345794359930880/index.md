@@ -13,6 +13,8 @@ canonical: https://ofershap.github.io/posts/linkedin-7081345794359930880/
 Original source: https://www.linkedin.com/posts/ofershap_via-jobopportunity-careergrowth-activity-7081345794359930880-N-aj
 Published: 2023-07-02T22:00:02.418000+03:00
 
+![Original post media](image-0.jpg)
+
 
 ## About Ofer Shapira
 

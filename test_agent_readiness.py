@@ -35,7 +35,7 @@ if wil:
     check('writing ItemList dates', all('datePublished' in e.get('item',{}) for e in els))
 
 contact = (R/'contact/index.html').read_text()
-for needle in ['עופר שפירא', 'ישראל', 'linkedin.com/in/ofershap', 'github.com/ofershap', 'Contact Ofer Shapira', 'chat.whatsapp.com']:
+for needle in ['עופר שפירא', 'ישראל', 'linkedin.com/in/ofershap', 'github.com/ofershap', 'Contact Ofer Shapira', 'itzik-community-benefits.pages.dev/join']:
     check('contact missing '+needle, needle in contact)
 
 if fails:
