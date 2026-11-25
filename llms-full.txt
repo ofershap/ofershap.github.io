@@ -29161,6 +29161,34 @@ Published: 2026-11-01T08:31:22.350000+02:00
 
 ---
 
+Canonical URL: https://ofershap.github.io/posts/linkedin-7522705199573176320/
+
+---
+title: "מאמר שכתבתי התפרסם בגיקטיים 😇"
+published: 2026-11-01T19:04:44.682000+02:00
+source: https://www.linkedin.com/feed/update/urn:li:activity:7522705199573176320
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7522705199573176320/
+---
+
+# מאמר שכתבתי התפרסם בגיקטיים 😇
+
+מאמר שכתבתי התפרסם בגיקטיים 😇
+https://lnkd.in/eFKqRhY2
+
+Original source: https://www.linkedin.com/feed/update/urn:li:activity:7522705199573176320
+Published: 2026-11-01T19:04:44.682000+02:00
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)
+
+
+---
+
 Canonical URL: https://ofershap.github.io/posts/linkedin-7522918513091645440/
 
 ---
@@ -29445,6 +29473,40 @@ Published: 2026-11-08T08:31:21.690000+02:00
 
 ---
 
+Canonical URL: https://ofershap.github.io/posts/linkedin-7525455229442801664/
+
+---
+title: "אני מתמלל פגישות עם Wispr Flow ומשאיר בתמלול גם הערות והוראות לבוט."
+published: 2026-11-09T09:12:22.896000+02:00
+source: https://www.linkedin.com/feed/update/urn:li:activity:7525455229442801664
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7525455229442801664/
+---
+
+# אני מתמלל פגישות עם Wispr Flow ומשאיר בתמלול גם הערות והוראות לבוט.
+
+אני מתמלל פגישות עם Wispr Flow ומשאיר בתמלול גם הערות והוראות לבוט.
+אחרי הפגישה Grok Bot מושך את התמלול וההערות לפי ההרשאות שנתתי לו. מתוך זה הוא מכין את ההמשך שביקשתי: טיקט, טיוטת הודעה או מעקב.
+טיוטה של הודעה בשמי עדיין עוברת דרכי לפני שהיא נשלחת.
+זה התהליך שהכנסתי למצגת שאני מכין לעבודה. אני ממשיך לפגישה הבאה, והוא מחזיק את העבודה שיצאה מהקודמת.
+אגב יש לנו קבוצת וואטסאפ אם תרצו עזרה ביצירת בוט משלכם:
+https://itzik-community-benefits.pages.dev/join
+
+Original source: https://www.linkedin.com/feed/update/urn:li:activity:7525455229442801664
+Published: 2026-11-09T09:12:22.896000+02:00
+
+![Original post media](image-original-0.jpg)
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)
+
+
+---
+
 Canonical URL: https://ofershap.github.io/posts/linkedin-7525463906430054400/
 
 ---
@@ -29559,6 +29621,45 @@ Published: 2026-11-11T08:06:23.188000+02:00
 
 ---
 
+Canonical URL: https://ofershap.github.io/posts/linkedin-7528701415700140032/
+
+---
+title: "עוד טיפ אייפון מהשיחה שלי עם ChatGPT, והפעם כזה שמחבר משהו קטן להרגל שכבר יש לנו."
+published: 2026-11-18T08:11:34.011000+02:00
+source: https://www.linkedin.com/feed/update/urn:li:activity:7528701415700140032
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7528701415700140032/
+---
+
+# עוד טיפ אייפון מהשיחה שלי עם ChatGPT, והפעם כזה שמחבר משהו קטן להרגל שכבר יש לנו.
+
+עוד טיפ אייפון מהשיחה שלי עם ChatGPT, והפעם כזה שמחבר משהו קטן להרגל שכבר יש לנו.
+רואים הזמנה לאירוע, מפגש או הרצאה על המסך? באייפון תומך, עם iOS 26 ומעלה ו-Apple Intelligence פעיל, אפשר לצלם מסך וללחוץ Add to Calendar. האייפון מזהה את פרטי האירוע ומציע להכניס אותם ליומן. בודקים שעה, תאריך ומקום, ורק אז מאשרים.
+ואם אתם כמוני, עובדים עם Google Calendar, לא חייבים להחליף יומן.
+מחברים את חשבון Google:
+בהגדרות נכנסים ל-Apps > Calendar > Calendar Accounts > Add Account > Google, ומוודאים שסנכרון Calendars מופעל.
+ואז בוחרים את היומן שלו כברירת המחדל:
+Settings > Apps > Calendar > Default Calendar.
+החלון הוא של אפל, אבל האירוע יכול להישמר ביומן של גוגל. בפעם הראשונה כדאי לבדוק שזה באמת היומן שנבחר.
+זה מסוג הדברים שאני אוהב ב-AI: לא עוד מקום לכתוב בו בקשה, אלא פחות העתקה בין שני מקומות שאני כבר משתמש בהם.
+אגב יש לנו קבוצת וואטסאפ אם תרצו עזרה ביצירת בוט משלכם:
+https://itzik-community-benefits.pages.dev/join
+
+Original source: https://www.linkedin.com/feed/update/urn:li:activity:7528701415700140032
+Published: 2026-11-18T08:11:34.011000+02:00
+
+![Original post media](image-original-0.jpg)
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)
+
+
+---
+
 Canonical URL: https://ofershap.github.io/posts/linkedin-7529215756551593984/
 
 ---
@@ -29584,6 +29685,40 @@ canonical: https://ofershap.github.io/posts/linkedin-7529215756551593984/
 
 Original source: https://www.linkedin.com/feed/update/urn:li:activity:7529215756551593984
 Published: 2026-11-19T18:15:22.426000+02:00
+
+![Original post media](image-original-0.jpg)
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)
+
+
+---
+
+Canonical URL: https://ofershap.github.io/posts/linkedin-7530155950385577984/
+
+---
+title: "בריף הבוקר שלי מתחיל במה שאפשר להוריד ממני."
+published: 2026-11-22T08:31:22.104000+02:00
+source: https://www.linkedin.com/feed/update/urn:li:activity:7530155950385577984
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7530155950385577984/
+---
+
+# בריף הבוקר שלי מתחיל במה שאפשר להוריד ממני.
+
+בריף הבוקר שלי מתחיל במה שאפשר להוריד ממני.
+דבר שכבר יש לו בעלים נשאר אצלו. משהו שצריך החלטה שלי עולה אליי. לפגישה שצריך להתכונן אליה מחכה הכנה.
+בכל בוקר עבודה Grok Bot קורא את המקורות שחיברתי ושולח הודעה אחת. אני יכול לענות: תכין אותי לפגישה הזאת. ומשם להמשיך.
+אני לא רוצה לקרוא מחדש את כל מה שקרה בסלאק. אני רוצה לדעת במה להתחיל. אם ההודעה רק מעבירה את הערימה לצ'אט אחר, עוד לא פתרנו את הבעיה.
+אגב יש לנו קבוצת וואטסאפ אם תרצו עזרה ביצירת בוט משלכם:
+https://itzik-community-benefits.pages.dev/join
+
+Original source: https://www.linkedin.com/feed/update/urn:li:activity:7530155950385577984
+Published: 2026-11-22T08:31:22.104000+02:00
 
 ![Original post media](image-original-0.jpg)
 
@@ -29623,6 +29758,40 @@ Original source: https://www.linkedin.com/feed/update/urn:li:activity:7530528660
 Published: 2026-11-23T09:12:23.020000+02:00
 
 ![Original post media](image-original-0.jpg)
+
+
+## על עופר שפירא
+
+אני עופר שפירא, מוביל צוות AI Engineering ובונה כלי קוד פתוח: כלי פיתוח, שרתי MCP, ספריות TypeScript ו-GitHub Actions. כאן אני כותב על AI, פיתוח וניהול צוותי הנדסה.
+
+[GitHub projects](https://github.com/ofershap) | [LinkedIn](https://www.linkedin.com/in/ofershap/)
+
+
+---
+
+Canonical URL: https://ofershap.github.io/posts/linkedin-7530882146589106176/
+
+---
+title: "זוכרים מתי \"לבנות אפליקציה\" היה פרויקט של רבעון, צוות ותקציב?"
+published: 2026-11-24T08:37:00.771000+02:00
+source: https://www.linkedin.com/feed/update/urn:li:activity:7530882146589106176
+lang: he
+canonical: https://ofershap.github.io/posts/linkedin-7530882146589106176/
+---
+
+# זוכרים מתי "לבנות אפליקציה" היה פרויקט של רבעון, צוות ותקציב?
+
+זוכרים מתי "לבנות אפליקציה" היה פרויקט של רבעון, צוות ותקציב?
+שרשור אחד בפייסבוק העלה 73 מיזמים שאנשים בנו. לא חברות. אנשים.
+יש שם מדריך עברי לבשר עם נתחים ומתכונים, אפליקציה שקוראת את השבב בדרכון הביומטרי, משחק קריאה לילדי כיתה א׳, השוואת מחירי חניונים בתל אביב עם תפוסה חיה, ומערכת ERP לייבוא תרופות מחוץ לסל.
+כולם נבנו בלי תקציב ובלי צוות, כי מישהו רצה את הדבר בשביל עצמו.
+כשיצירה עולה כמעט אפס, לא מחכים שמישהו אחר יבנה. בונים לבד.
+אספתי את הכול לדף אחד, עם קישורים חיים ובלי שמות:
+https://community-apps-il.pages.dev/
+הייתי שמח לראות את כל היצירות של כולם, אבל זה האתגר הכי גדול בעידן האינטרנט החדש: למצוא את המחט בערימת השחת של מדפסת הפרויקטים העצומה שה-AI יצר.
+
+Original source: https://www.linkedin.com/feed/update/urn:li:activity:7530882146589106176
+Published: 2026-11-24T08:37:00.771000+02:00
 
 
 ## על עופר שפירא

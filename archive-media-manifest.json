@@ -4421,6 +4421,51 @@
         "height": 1254,
         "frames": 1
       }
+    },
+    {
+      "record_id": "7525455229442801664",
+      "post_source": "https://www.linkedin.com/feed/update/urn:li:activity:7525455229442801664",
+      "source_media": "https://media.licdn.com/dms/image/v2/D4D10AQHFcM6nui-wNw/image-shrink_1280/B4DaG_JlM8H8AY-/0/1794208322944?e=1796238000&v=beta&t=R7s-ccUKoX5E_eXym-r-l61KloamhKZbeqkrBkiWWVg",
+      "source_asset_id": "D4D10AQHFcM6nui-wNw",
+      "local_path": "posts/linkedin-7525455229442801664/image-original-0.jpg",
+      "sha256": "47e7ace699778acb326ade6d76330c3e0943ccf3799e49a5efd545054d86b3a0",
+      "kind": "image",
+      "decoded": {
+        "format": "JPEG",
+        "width": 1200,
+        "height": 1200,
+        "frames": 1
+      }
+    },
+    {
+      "record_id": "7528701415700140032",
+      "post_source": "https://www.linkedin.com/feed/update/urn:li:activity:7528701415700140032",
+      "source_media": "https://media.licdn.com/dms/image/v2/D4D10AQERuBYrSgmxHQ/image-shrink_1280/B4DaHtR.ArKsAY-/0/1794982273304?e=1796238000&v=beta&t=p6bjSUuLW9AUEVaNW_U6aiNmlQOgALSwKnZJly9EaLI",
+      "source_asset_id": "D4D10AQERuBYrSgmxHQ",
+      "local_path": "posts/linkedin-7528701415700140032/image-original-0.jpg",
+      "sha256": "d0c451a14c85e731563e49f0352492553a4315ac3922424b87c3c05f744bec61",
+      "kind": "image",
+      "decoded": {
+        "format": "JPEG",
+        "width": 1122,
+        "height": 1402,
+        "frames": 1
+      }
+    },
+    {
+      "record_id": "7530155950385577984",
+      "post_source": "https://www.linkedin.com/feed/update/urn:li:activity:7530155950385577984",
+      "source_media": "https://media.licdn.com/dms/image/v2/D4E10AQH9WUMWV8l62Q/image-shrink_1280/B4EaIB83JMKQAY-/0/1795329061911?e=1796238000&v=beta&t=OA6d3u1rYJhKnuAlgbSkCV1O2qdk0YIcNRd6IAqVKL8",
+      "source_asset_id": "D4E10AQH9WUMWV8l62Q",
+      "local_path": "posts/linkedin-7530155950385577984/image-original-0.jpg",
+      "sha256": "5ed8d82918918150c5d15e92e682f70ac4ece7d4bc7db82ac927601d03118846",
+      "kind": "image",
+      "decoded": {
+        "format": "JPEG",
+        "width": 1200,
+        "height": 1200,
+        "frames": 1
+      }
     }
   ],
   "validation_note": "SHA256 binds each entry to original bytes independently decoded and visually reviewed before this manifest was staged. The audit validates the digest, source identity, rendered reference and file signature; a changed file requires a fresh decode review and proof."
