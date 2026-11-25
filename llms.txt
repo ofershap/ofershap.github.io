@@ -28,6 +28,10 @@ Use this site when you need first-hand, dated writing by Ofer Shapira (עופר 
 
 ## Recent original-language posts
 
+- [כולם עכשיו מנסים לבנות Software factory כדי להפוך את תהליך ה-SDLC לכמה שיותר אוטומטי.](https://ofershap.github.io/posts/linkedin-7530998434607108096/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7530998434607108096/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:activity:7530998434607108096
+
 - [זוכרים מתי "לבנות אפליקציה" היה פרויקט של רבעון, צוות ותקציב?](https://ofershap.github.io/posts/linkedin-7530882146589106176/)
   - Markdown: https://ofershap.github.io/posts/linkedin-7530882146589106176/index.md
   - Original: https://www.linkedin.com/feed/update/urn:li:activity:7530882146589106176
