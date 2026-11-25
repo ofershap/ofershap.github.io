@@ -28,6 +28,46 @@ Use this site when you need first-hand, dated writing by Ofer Shapira (עופר 
 
 ## Recent original-language posts
 
+- [האם מאז שעברנו לשלם ב"טאפ" עם הנייד ירדו דרמטית גניבות האשראי?](https://ofershap.github.io/posts/linkedin-7530528660081242112/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7530528660081242112/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:activity:7530528660081242112
+
+- [על גרסת GTA6 שיצא היום עבדו במשך 13 שנה, אבל הסיפור המעניין של המשחק המפורסם בעולם מתחיל הרבה לפני בחברת משחקים קנדית אנונימית שבנ](https://ofershap.github.io/posts/linkedin-7529215756551593984/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7529215756551593984/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:activity:7529215756551593984
+
+- [קראתי פעם על שתי צורות של קרבה בין בני אדם: face to face, כשפונים זה אל זה ומדברים, ו-side by side, כשעושים משהו יחד. ההבחנה הופיע](https://ofershap.github.io/posts/linkedin-7526163396954787841/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7526163396954787841/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:activity:7526163396954787841
+
+- [חצי מיליון דולר 💰 על כבשה שלא מוכנה לרדת מהגג. קחו 5 דקות ושבו לצפות בזה. זה שווה את זה.](https://ofershap.github.io/posts/linkedin-7525808807055380480/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7525808807055380480/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:activity:7525808807055380480
+
+- [מנכ"ל אנבידיה הודה ברומן עם בכירה שהמודיעין האמריקאי חושד שגויסה כדי לרגל אחריו.](https://ofershap.github.io/posts/linkedin-7525463906430054400/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7525463906430054400/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:activity:7525463906430054400
+
+- [אם קריאה באייפון בזמן נסיעה עושה לכם בחילה, יש בהגדרות משהו ששווה לנסות.](https://ofershap.github.io/posts/linkedin-7525082518530723840/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7525082518530723840/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:activity:7525082518530723840
+
+- [מאסק מציע לאמריקאים לשים את הכסף שלהם בתוך X ולקבל עליו עד 6% ריבית שנתית.](https://ofershap.github.io/posts/linkedin-7524351454476738560/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7524351454476738560/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:activity:7524351454476738560
+
+- [בניתם כלי? פתחתם עסק? בואו ניתן לקהילה ליהנות ממנו.](https://ofershap.github.io/posts/linkedin-7524031852135849985/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7524031852135849985/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:activity:7524031852135849985
+
+- [מחפשים רעיונות מה לעשות עם Muse? (שעדיין לא הגיע לארץ) קלטו את זה - הבחור השתמש בו כדי להתכונן לתבוע קנסות מספאמרים!](https://ofershap.github.io/posts/linkedin-7523626681723449344/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7523626681723449344/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:activity:7523626681723449344
+
+- [טיפ: כשאני רוצה לתת משימה ל-Cursor Cloud agent, אני מתחיל ב-Grok Bot: מה אני רוצה להשיג. אני כותב שתי שורות, והבוט מכין את התדריך ](https://ofershap.github.io/posts/linkedin-7523272091471712257/)
+  - Markdown: https://ofershap.github.io/posts/linkedin-7523272091471712257/index.md
+  - Original: https://www.linkedin.com/feed/update/urn:li:activity:7523272091471712257
+
 - [יאללה, תעזרו לי להגיע לחולצה 😄](https://ofershap.github.io/posts/linkedin-7523106182773874691/)
   - Markdown: https://ofershap.github.io/posts/linkedin-7523106182773874691/index.md
   - Original: https://www.linkedin.com/feed/update/urn:li:share:7523106181784109057

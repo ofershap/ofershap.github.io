@@ -4271,6 +4271,156 @@
         "height": 995,
         "frames": 1
       }
+    },
+    {
+      "record_id": "7523272091471712257",
+      "post_source": "https://www.linkedin.com/feed/update/urn:li:activity:7523272091471712257",
+      "source_media": "https://media.licdn.com/dms/image/v2/D4E10AQHUurdjp2lSxQ/image-shrink_1280/B4EaGgIB1.IgAc-/0/1793687822076?e=1796230800&v=beta&t=aY0dLhHf81BQkPXmqvvTKm1Dj9WF6T3vY_W3tWzhSiM",
+      "source_asset_id": "D4E10AQHUurdjp2lSxQ",
+      "local_path": "posts/linkedin-7523272091471712257/image-original-0.jpg",
+      "sha256": "003f55e067b4c697d650b155a494f3c9a4d81b7cd280a9d86a89909e7f075054",
+      "kind": "image",
+      "decoded": {
+        "format": "JPEG",
+        "width": 1200,
+        "height": 1200,
+        "frames": 1
+      }
+    },
+    {
+      "record_id": "7523626681723449344",
+      "post_source": "https://www.linkedin.com/feed/update/urn:li:activity:7523626681723449344",
+      "source_media": "https://media.licdn.com/dms/image/v2/D4E10AQE3ZmjEuE0YNg/image-shrink_1280/B4EaGlKhsqJUAc-/0/1793772362997?e=1796230800&v=beta&t=6I8-sNhnRqz8-7Aaj3UWigRGyXMGrMfughtP-KfJTP8",
+      "source_asset_id": "D4E10AQE3ZmjEuE0YNg",
+      "local_path": "posts/linkedin-7523626681723449344/image-original-0.jpg",
+      "sha256": "bdf35e30e568d92fece8466c80a61fb1bcb42361892116263a6673486e959d43",
+      "kind": "image",
+      "decoded": {
+        "format": "JPEG",
+        "width": 600,
+        "height": 296,
+        "frames": 1
+      }
+    },
+    {
+      "record_id": "7524031852135849985",
+      "post_source": "https://www.linkedin.com/feed/update/urn:li:activity:7524031852135849985",
+      "source_media": "https://media.licdn.com/dms/image/v2/D4E10AQGGa9dyL1sebw/image-shrink_1280/B4EaGq7BtXG8AY-/0/1793868962915?e=1796230800&v=beta&t=9aERQvKDlM3Ma2epJ1nGKSVzQgcsEV_mNhqytyE4bkY",
+      "source_asset_id": "D4E10AQGGa9dyL1sebw",
+      "local_path": "posts/linkedin-7524031852135849985/image-original-0.jpg",
+      "sha256": "2cee0f14bf96f3d8e4244c2d0e5c6e3a75bfcc9a4a041d2203f513755a5a2e3e",
+      "kind": "image",
+      "decoded": {
+        "format": "JPEG",
+        "width": 1200,
+        "height": 1000,
+        "frames": 1
+      }
+    },
+    {
+      "record_id": "7524351454476738560",
+      "post_source": "https://www.linkedin.com/feed/update/urn:li:activity:7524351454476738560",
+      "source_media": "https://media.licdn.com/dms/image/v2/D4E10AQG2TI9s2jv8lw/image-shrink_1280/B4EaGvdtB5G8AY-/0/1793945162072?e=1796230800&v=beta&t=zWFk7qZ-jGoW_GBLlmeClRjf0W-Y2ipWetNMPCcjn7U",
+      "source_asset_id": "D4E10AQG2TI9s2jv8lw",
+      "local_path": "posts/linkedin-7524351454476738560/image-original-0.jpg",
+      "sha256": "b1d196d178b21fba325b3fe53b70b145d54ae3bea8023ea0afcc564da030066c",
+      "kind": "image",
+      "decoded": {
+        "format": "JPEG",
+        "width": 1200,
+        "height": 630,
+        "frames": 1
+      }
+    },
+    {
+      "record_id": "7525082518530723840",
+      "post_source": "https://www.linkedin.com/feed/update/urn:li:activity:7525082518530723840",
+      "source_media": "https://media.licdn.com/dms/image/v2/D4E10AQHQOZk-Ct_KZA/image-shrink_1280/B4EaG52miOKgAY-/0/1794119461235?e=1796230800&v=beta&t=gMFmjP6dK6OhePQGEqeQJqpXXlbPvPepjfqQsztOcyo",
+      "source_asset_id": "D4E10AQHQOZk-Ct_KZA",
+      "local_path": "posts/linkedin-7525082518530723840/image-original-0.jpg",
+      "sha256": "3a75874b030188cd91d73032270cf5245f6ffab5c91cacbfeb36929b1ef094c4",
+      "kind": "image",
+      "decoded": {
+        "format": "JPEG",
+        "width": 1280,
+        "height": 1280,
+        "frames": 1
+      }
+    },
+    {
+      "record_id": "7525463906430054400",
+      "post_source": "https://www.linkedin.com/feed/update/urn:li:activity:7525463906430054400",
+      "source_media": "https://media.licdn.com/dms/image/v2/D4D10AQHdNCjDhkeJJQ/image-shrink_1280/B4DaG_ReSHK4AY-/0/1794210391560?e=1796230800&v=beta&t=yFXZ3DhLxjLpGcZ_7SeOgOhfUpI1ZW7llNUgkQJoTg4",
+      "source_asset_id": "D4D10AQHdNCjDhkeJJQ",
+      "local_path": "posts/linkedin-7525463906430054400/image-original-0.jpg",
+      "sha256": "edadb0585bfcbeda8f3032ccc77b07d4a3672b76095a74417f59865ea8cb8b8b",
+      "kind": "image",
+      "decoded": {
+        "format": "JPEG",
+        "width": 1080,
+        "height": 608,
+        "frames": 1
+      }
+    },
+    {
+      "record_id": "7525808807055380480",
+      "post_source": "https://www.linkedin.com/feed/update/urn:li:activity:7525808807055380480",
+      "source_media": "https://media.licdn.com/dms/image/v2/D4D10AQFmnn-JKPwZOg/image-shrink_1280/B4DaHELKIII4AY-/0/1794292622104?e=1796230800&v=beta&t=JuDCLdshuPFlvk5L9om42he_OMuHrNw5EEo15ckzbgY",
+      "source_asset_id": "D4D10AQFmnn-JKPwZOg",
+      "local_path": "posts/linkedin-7525808807055380480/image-original-0.jpg",
+      "sha256": "9d2079f31afa215c9538ad1c78704c9f9637dea84acceedbf7f5d3a6cfa2de7e",
+      "kind": "image",
+      "decoded": {
+        "format": "JPEG",
+        "width": 1280,
+        "height": 720,
+        "frames": 1
+      }
+    },
+    {
+      "record_id": "7526163396954787841",
+      "post_source": "https://www.linkedin.com/feed/update/urn:li:activity:7526163396954787841",
+      "source_media": "https://media.licdn.com/dms/image/v2/D4D10AQG8EWBGKD2Nww/image-shrink_1280/B4DaHJNp9DJAAc-/0/1794377163070?e=1796230800&v=beta&t=sZDPbt7lF3KpXxo6aW7adbvP5GwBwb7Izwvym0AoSbk",
+      "source_asset_id": "D4D10AQG8EWBGKD2Nww",
+      "local_path": "posts/linkedin-7526163396954787841/image-original-0.jpg",
+      "sha256": "39fd6b4b6ae7e11211f7f0983314a7925d31c869f07d0c0a91c4798f46bf3913",
+      "kind": "image",
+      "decoded": {
+        "format": "JPEG",
+        "width": 1086,
+        "height": 1448,
+        "frames": 1
+      }
+    },
+    {
+      "record_id": "7529215756551593984",
+      "post_source": "https://www.linkedin.com/feed/update/urn:li:activity:7529215756551593984",
+      "source_media": "https://media.licdn.com/dms/image/v2/D4E10AQFF9uCmsPvBlA/image-shrink_1280/B4EaH0lwloGkAY-/0/1795104902193?e=1796230800&v=beta&t=2Ts9izpInyXZDhXxEYyERZYPlzCEPS0OKiC9eCU9YU4",
+      "source_asset_id": "D4E10AQFF9uCmsPvBlA",
+      "local_path": "posts/linkedin-7529215756551593984/image-original-0.jpg",
+      "sha256": "efa851ff628f2dfac72c69986756c606e1cec0c9a223e0a9be1f009bec6f0b06",
+      "kind": "image",
+      "decoded": {
+        "format": "JPEG",
+        "width": 1280,
+        "height": 801,
+        "frames": 1
+      }
+    },
+    {
+      "record_id": "7530528660081242112",
+      "post_source": "https://www.linkedin.com/feed/update/urn:li:activity:7530528660081242112",
+      "source_media": "https://media.licdn.com/dms/image/v2/D4D10AQGqS9kvgk_a_Q/image-shrink_1280/B4DaIHP1tNJMAY-/0/1795417922808?e=1796230800&v=beta&t=OJgUTWgs5iQJz297i1ETZU4NMSoRZE80CZFmUNMDkpg",
+      "source_asset_id": "D4D10AQGqS9kvgk_a_Q",
+      "local_path": "posts/linkedin-7530528660081242112/image-original-0.jpg",
+      "sha256": "f266005694f4931ace73e5b3ef0b98a52c0db7ecb26a92042c597f17c19d2d5c",
+      "kind": "image",
+      "decoded": {
+        "format": "JPEG",
+        "width": 1254,
+        "height": 1254,
+        "frames": 1
+      }
     }
   ],
   "validation_note": "SHA256 binds each entry to original bytes independently decoded and visually reviewed before this manifest was staged. The audit validates the digest, source identity, rendered reference and file signature; a changed file requires a fresh decode review and proof."
